@@ -1,7 +1,7 @@
 import React from 'react'
 //import emergence from 'emergence.js'
 
-import Navi from 'components/Navi/nav'
+import Navi from 'components/Navi/nav0'
 import Footer from 'components/Footer/footer'
 import Logo from 'components/Logo'
 import Search from 'components/Search'
