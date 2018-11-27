@@ -1,7 +1,7 @@
 import React from 'react'
 //import emergence from 'emergence.js'
 
-import Navi from 'components/Navi/nav0'
+import Navi from 'components/Navi/nav'
 import Footer from 'components/Footer/footer'
 import Logo from 'components/Logo'
 import Search from 'components/Search'
@@ -20,13 +20,13 @@ import banner from "components/images/u23.png"
 
 
 class Layout extends React.Component {
-  // componentDidMount() {
-  //   emergence.init()
-  // }
+   componentDidMount() {
+     emergence.init()
+   }
 
-  // componentDidUpdate() {
-  //   emergence.init()
-  // }
+   componentDidUpdate() {
+     emergence.init()
+   }
 
   render() {
     const { children } = this.props
@@ -35,12 +35,6 @@ class Layout extends React.Component {
         <Logo />
         <Search />
         <Navi title={siteMetadata.title} {...this.props} />
-
-        {location.pathname === '/' ? 
-        <div class="banner mb-3"><img src={banner} class="img-fluid" alt="" /></div>
-        :
-        ''
-        }
         {children}
         <Footer title={siteMetadata.title} author={siteMetadata.author} />
       </div>
