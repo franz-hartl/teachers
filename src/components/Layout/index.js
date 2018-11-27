@@ -1,5 +1,5 @@
 import React from 'react'
-//import emergence from 'emergence.js'
+import emergence from 'emergence.js'
 
 import Navi from 'components/Navi/nav0'
 import Footer from 'components/Footer/footer'
@@ -35,6 +35,9 @@ class Layout extends React.Component {
         <Logo />
         <Search />
         <Navi title={siteMetadata.title} {...this.props} />
+
+        <div class="banner mb-3"><img src={banner} class="img-fluid" alt="" /></div>
+
         {children}
         <Footer title={siteMetadata.title} author={siteMetadata.author} />
       </div>
