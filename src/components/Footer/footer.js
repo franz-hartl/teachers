@@ -12,13 +12,13 @@ const Footer = () => (
               <Link to="curriculum">Curricular Resources</Link>
             </div>
             <div class="ft-menu-list">
+              <Link to="/">Timeline</Link>
+            </div>
+            <div class="ft-menu-list">
+              <Link to="brochures">Reports and Evaluation</Link>
+            </div>
+            <div class="ft-menu-list">
               <Link to="/">About the Institute</Link>
-            </div>
-            <div class="ft-menu-list">
-              <Link to="brochures">Brochures and Reports</Link>
-            </div>
-            <div class="ft-menu-list">
-              <Link to="/">Centers</Link>
             </div>
             <div class="ft-menu-list">
               <Link to="/">Publications</Link>
@@ -38,10 +38,9 @@ const Footer = () => (
               <Link to="/">Guestbook</Link>
             </div>
             <div class="ft-menu-list">
-              <Link to="/">Participate</Link>
-            </div>
-            <div class="ft-menu-list">
-              <Link to="/">Feedback Survey</Link>
+              <Link to="brochures/A1/2019-YNHTI-Annual-Brochure.pdf">
+                Participate
+              </Link>
             </div>
             <div class="ft-menu-list">
               <Link to="/">Contact Us</Link>

@@ -53,7 +53,7 @@ const HomePage = () => (
                   Since 1978 teachers have prepared hundreds of units for
                   teaching topics in English, history and social studies,
                   languages, the arts, mathematics, and science in elementary
-                  and secondary schools.{' '}
+                  and secondary schools.
                 </p>
                 <Link
                   className="btn btn-primary"

@@ -43,14 +43,24 @@ class Navi extends React.Component {
           >
             <ul className="navbar-nav ynhti-nav">
               <li className="nav-item dropdown">
-                <Link class="nav-link" to="curriculum">
+                <Link className="nav-link" to="curriculum">
                   Curricular Resources
                 </Link>
-                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-                  <Link class="dropdown-item" to="curriculum/reference">
+                <div className="dropdown-menu" aria-labelledby="navbarDropdown">
+                  <div className="dropdown-divider" />
+                  <Link className="dropdown-item" to="curriculum/indexes">
+                    View index of topics
+                  </Link>
+                  <div className="dropdown-divider" />
+                  <Link className="dropdown-item" to="curriculum/units">
+                    View resources by volume
+                  </Link>
+                  <Link
+                    className="dropdown-item"
+                    to="curriculum/referencelists"
+                  >
                     Reference lists
                   </Link>
-                  <div class="dropdown-divider" />
                 </div>
               </li>
               <li className="nav-item dropdown">
@@ -63,41 +73,133 @@ class Navi extends React.Component {
                   aria-haspopup="true"
                   aria-expanded="false"
                 >
-                  Brochures and Reports
+                  Reports and Evaluation
+                </Link>
+                <div className="dropdown-menu" aria-labelledby="navbarDropdown">
+                  <Link className="dropdown-item" to="brochures/studies">
+                    Studies
+                  </Link>
+                  <div className="dropdown-divider" />
+                  <Link
+                    className="dropdown-item"
+                    to="brochures/newhavenprogram#"
+                  >
+                    New Haven Program
+                  </Link>
+                  <div className="dropdown-divider" />
+                  <Link
+                    className="dropdown-item"
+                    to="brochures/nationdemonstrationpj"
+                  >
+                    National Demonstration Project
+                  </Link>
+                </div>
+              </li>
+              <li className="nav-item dropdown">
+                <Link
+                  className="nav-link dropdown-toggle"
+                  to="brochures"
+                  id="navbarDropdown"
+                  role="button"
+                  data-toggle="dropdown"
+                  aria-haspopup="true"
+                  aria-expanded="false"
+                >
+                  Publications
                 </Link>
                 <div className="dropdown-menu" aria-labelledby="navbarDropdown">
                   <Link className="dropdown-item" to="#">
-                    Item 1
+                    Periodical
                   </Link>
                   <div className="dropdown-divider" />
                   <Link className="dropdown-item" to="#">
-                    Item 2
+                    Books
+                  </Link>
+                  <div className="dropdown-divider" />
+                  <Link
+                    className="dropdown-item"
+                    to="brochures/CenterManual/index"
+                  >
+                    Institute Centers
+                  </Link>
+                </div>
+              </li>
+              <li className="nav-item dropdown">
+                <Link
+                  className="nav-link dropdown-toggle"
+                  to="brochures"
+                  id="navbarDropdown"
+                  role="button"
+                  data-toggle="dropdown"
+                  aria-haspopup="true"
+                  aria-expanded="false"
+                >
+                  Event Proceedings
+                </Link>
+                <div className="dropdown-menu" aria-labelledby="navbarDropdown">
+                  <Link className="dropdown-item" to="#">
+                    Conferences
                   </Link>
                   <div className="dropdown-divider" />
                   <Link className="dropdown-item" to="#">
-                    Item 3
+                    Endowment
+                  </Link>
+                  <div className="dropdown-divider" />
+                  <Link className="dropdown-item" to="#">
+                    News Conferences
+                  </Link>
+                  <div className="dropdown-divider" />
+                  <Link className="dropdown-item" to="brochures/25th.html ">
+                    25th Anniversary
+                  </Link>
+                  <div className="dropdown-divider" />
+                  <Link className="dropdown-item" to="#">
+                    Congressional Hearings
                   </Link>
                 </div>
               </li>
               <li className="nav-item">
                 <Link className="nav-link" to="#">
-                  Publications
+                  Timeline
                 </Link>
               </li>
-              <li className="nav-item">
-                <Link className="nav-link" to="#">
-                  Event Proceedings
-                </Link>
-              </li>
-              <li className="nav-item">
-                <Link className="nav-link" to="#">
-                  Centers
-                </Link>
-              </li>
-              <li className="nav-item">
-                <Link className="nav-link" to="#">
+              <li className="nav-item dropdown">
+                <Link
+                  className="nav-link dropdown-toggle"
+                  to="brochures"
+                  id="navbarDropdown"
+                  role="button"
+                  data-toggle="dropdown"
+                  aria-haspopup="true"
+                  aria-expanded="false"
+                >
                   About the Institute
                 </Link>
+                <div className="dropdown-menu" aria-labelledby="navbarDropdown">
+                  <Link className="dropdown-item" to="#">
+                    Annual Brochure
+                  </Link>
+                  <div className="dropdown-divider" />
+                  <Link className="dropdown-item" to="#">
+                    Policies, Structure, and Procedures
+                  </Link>
+                  <div className="dropdown-divider" />
+                  <Link className="dropdown-item" to="#">
+                    Awards and Recognition
+                  </Link>
+                  <div className="dropdown-divider" />
+                  <Link className="dropdown-item" to="#">
+                    Video Programs
+                  </Link>
+                  <div className="dropdown-divider" />
+                  <Link className="dropdown-item" to="#">
+                    Published Essays
+                  </Link>
+                  <div className="dropdown-divider" />
+                  <Link className="dropdown-item" to="#">
+                    Contact Us
+                  </Link>
+                </div>
               </li>
             </ul>
           </div>
