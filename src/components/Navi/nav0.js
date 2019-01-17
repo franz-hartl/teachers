@@ -176,15 +176,18 @@ class Navi extends React.Component {
                   About the Institute
                 </Link>
                 <div className="dropdown-menu" aria-labelledby="navbarDropdown">
-                  <Link className="dropdown-item" to="#">
+                  <Link
+                    className="dropdown-item"
+                    to="brochures/A1/2019-YNHTI-Annual-Brochure.pdf"
+                  >
                     Annual Brochure
                   </Link>
                   <div className="dropdown-divider" />
-                  <Link className="dropdown-item" to="#">
+                  <Link className="dropdown-item" to="brochures/A6">
                     Policies, Structure, and Procedures
                   </Link>
                   <div className="dropdown-divider" />
-                  <Link className="dropdown-item" to="#">
+                  <Link className="dropdown-item" to="brochures/A9">
                     Awards and Recognition
                   </Link>
                   <div className="dropdown-divider" />
