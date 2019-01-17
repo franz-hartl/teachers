@@ -46,7 +46,7 @@ export default UnitTemplate
 
 
 export const PageQuery = graphql`
-  query UnittestPage($path: String, $navPath: String, $volPath: String) {
+  query UnitPage($path: String, $navPath: String, $volPath: String) {
     unitPage: markdownRemark(frontmatter: { path: { eq: $path } }) {
       html
       fileAbsolutePath
