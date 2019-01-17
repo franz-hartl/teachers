@@ -2,6 +2,7 @@ const each = require('lodash/each')
 const Promise = require('bluebird')
 const path = require('path')
 const PostTemplate = path.resolve('./src/templates/index.js')
+const UnitTemplate = path.resolve('./src/templates/Units/index.js')
 
 exports.createPages = ({ graphql, actions }) => {
   const { createPage } = actions
@@ -19,6 +20,7 @@ exports.createPages = ({ graphql, actions }) => {
                   path: absolutePath
                   remark: childMarkdownRemark {
                     id
+                    html
                     frontmatter {
                       layout
                       path
@@ -35,8 +37,26 @@ exports.createPages = ({ graphql, actions }) => {
           reject(errors)
         }
 
-        // Create blog posts & pages.
         const items = data.allFile.edges
+
+        // Create unit pages.
+        const units = items.filter(({ node }) => /units/.test(node.name))
+        each(units, ({ node }) => {
+          if (!node.remark) return
+          const { path } = node.remark.frontmatter
+          createPage({
+            path,
+            component: UnitTemplate,
+            context: { 
+              pageIndex: 4,
+              navPath: `/curriculum/units/1998/1/98.01.01.x.html`,   //`${String(unitNavItems[1].path)}`,  
+              pagePath: `/curriculum/units/1998/1/98.01.01.x.html`,  //`${String(node.frontmatter.path)}`,
+              volPath: `/curriculum/units/1998/1/98.01.preface.x.html`
+            }
+          })
+        })
+
+        // Create blog posts.
         const posts = items.filter(({ node }) => /posts/.test(node.name))
         each(posts, ({ node }) => {
           if (!node.remark) return
@@ -47,6 +67,7 @@ exports.createPages = ({ graphql, actions }) => {
           })
         })
 
+        // Create pages.
         const pages = items.filter(({ node }) => /page/.test(node.name))
         each(pages, ({ node }) => {
           if (!node.remark) return

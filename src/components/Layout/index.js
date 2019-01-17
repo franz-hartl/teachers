@@ -29,14 +29,15 @@ class Layout extends React.Component {
   render() {
     const { children } = this.props
     return (
-      <div class="container">
+      <div className="container">
         <header>
           <Logo />
           <Search />
-          <Navi title={siteMetadata.title} {...this.props} />
+          {/* <Navi title={siteMetadata.title} {...this.props} /> */}
+          <Navi />
         </header>
         {children}
-        <Footer title={siteMetadata.title} author={siteMetadata.author} />
+        <Footer />
       </div>
     )
   }

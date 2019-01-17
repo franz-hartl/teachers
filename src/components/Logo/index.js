@@ -3,9 +3,9 @@ import { Link } from 'gatsby'
 import logo from 'components/images/NHTI-logo.png'
 
 const Logo = () => (
-  <div class="site-branding mb-3">
+  <div className="site-branding mb-3">
     <Link to="/#">
-      <h1 class="offscreen">The Yale-New Haven Teachers Institute</h1>
+      <h1 className="offscreen">The Yale-New Haven Teachers Institute</h1>
       <img src={logo} />
     </Link>
   </div>
