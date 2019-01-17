@@ -68,7 +68,7 @@ const HomePage = () => (
                 <p>
                   For more information about the Institute's work nationally,
                   visit the{' '}
-                  <a href="#">
+                  <a target="_blank" href="#">
                     Yale National Initiative to strengthen teaching in public
                     schools websites.
                   </a>

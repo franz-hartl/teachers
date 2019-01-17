@@ -82,7 +82,7 @@ class Navi extends React.Component {
                   <div className="dropdown-divider" />
                   <Link
                     className="dropdown-item"
-                    to="brochures/newhavenprogram#"
+                    to="brochures/NewHavenProgram"
                   >
                     New Haven Program
                   </Link>
@@ -98,7 +98,7 @@ class Navi extends React.Component {
               <li className="nav-item dropdown">
                 <Link
                   className="nav-link dropdown-toggle"
-                  to="brochures"
+                  to="pubs"
                   id="navbarDropdown"
                   role="button"
                   data-toggle="dropdown"
@@ -108,11 +108,11 @@ class Navi extends React.Component {
                   Publications
                 </Link>
                 <div className="dropdown-menu" aria-labelledby="navbarDropdown">
-                  <Link className="dropdown-item" to="#">
+                  <Link className="dropdown-item" to="pubs/periodical">
                     Periodical
                   </Link>
                   <div className="dropdown-divider" />
-                  <Link className="dropdown-item" to="#">
+                  <Link className="dropdown-item" to="pubs/books">
                     Books
                   </Link>
                   <div className="dropdown-divider" />

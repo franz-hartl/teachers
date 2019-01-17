@@ -121,7 +121,9 @@ const HomePage = () => (
                 constituted only two percent of teachers in l982.
                 <sup>
                   <a id="text_1" name="text_1" />
-                  <a href="#note_1">1</a>
+                  <a target="_blank" href="#note_1">
+                    1
+                  </a>
                 </sup>{' '}
                 In short, the secondary education of a generation of the
                 nation's young people will be mainly in the hands of individuals
@@ -592,7 +594,9 @@ const HomePage = () => (
                 development.
                 <sup>
                   <a id="text_2" name="text_2" />
-                  <a href="#note_2">2</a>
+                  <a target="_blank" href="#note_2">
+                    2
+                  </a>
                 </sup>{' '}
                 Classroom teachers, who best know their students' needs, work
                 with Yale faculty members, who are leading scholars in their
@@ -902,7 +906,7 @@ const HomePage = () => (
               <p>
                 Portions of this essay are based on material in{' '}
                 <i>
-                  <a href="../pubs/A4">
+                  <a target="_blank" href="../pubs/A4">
                     Teaching in America: The Common Ground
                   </a>
                 </i>
@@ -914,23 +918,29 @@ const HomePage = () => (
                   <sup />
                 </p>
               </a>
-              <a href="#text_1">1</a>For a discussion of state and regional
-              differences, see C. Emily Feistritzer, The Condition of Teaching,
-              A State by State Analysis (Princeton, New Jersey: The Carnegie
-              Foundation for the Advancement of Teaching, l983). For further
-              information on national trends, see especially Status of the
-              American Public School Teacher l980-8l (National Education
-              Association Research, l982); and the following publications of the
-              National Center for Education Statistics: Projections of Education
-              Statistics to l990-9l; The Condition of Education, l983 Edition;
-              The Condition of Education, l984.
+              <a target="_blank" href="#text_1">
+                1
+              </a>
+              For a discussion of state and regional differences, see C. Emily
+              Feistritzer, The Condition of Teaching, A State by State Analysis
+              (Princeton, New Jersey: The Carnegie Foundation for the
+              Advancement of Teaching, l983). For further information on
+              national trends, see especially Status of the American Public
+              School Teacher l980-8l (National Education Association Research,
+              l982); and the following publications of the National Center for
+              Education Statistics: Projections of Education Statistics to
+              l990-9l; The Condition of Education, l983 Edition; The Condition
+              of Education, l984.
               <p />
               <a id="note_2" name="note_2">
                 <p>
                   <sup />
                 </p>
               </a>
-              <a href="#text_2">2</a>See especially Seymour B. Sarason,{' '}
+              <a target="_blank" href="#text_2">
+                2
+              </a>
+              See especially Seymour B. Sarason,{' '}
               <i>The Culture of the School and the Problem of Change</i>{' '}
               (Boston: l97l), chapter 4, who discusses the contrary manner in
               which "new math" was developed and introduced in the classroom.
@@ -939,6 +949,7 @@ const HomePage = () => (
                 <a
                   aria-pressed="true"
                   className="btn px-4 btn-primary backtotop btn-sm ml-2"
+                  target="_blank"
                   href="#"
                   id="backtotop"
                   role="button"

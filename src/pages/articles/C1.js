@@ -14,31 +14,49 @@ const HomePage = () => (
             <div className="article_table_contents">
               <p className="article_table_contents_header">Contents:</p>
               <p>
-                <a href="#a">Preface</a>
+                <a target="_blank" href="#a">
+                  Preface
+                </a>
               </p>
               <p>
-                <a href="#b">The State of Teacher Preparation</a>
+                <a target="_blank" href="#b">
+                  The State of Teacher Preparation
+                </a>
               </p>
               <p>
-                <a href="#c">A Microcosm of Urban Education</a>
+                <a target="_blank" href="#c">
+                  A Microcosm of Urban Education
+                </a>
               </p>
               <p>
-                <a href="#d">A Vested Interest</a>
+                <a target="_blank" href="#d">
+                  A Vested Interest
+                </a>
               </p>
               <p>
-                <a href="#e">Governing Principles</a>
+                <a target="_blank" href="#e">
+                  Governing Principles
+                </a>
               </p>
               <p>
-                <a href="#f">Finance</a>
+                <a target="_blank" href="#f">
+                  Finance
+                </a>
               </p>
               <p>
-                <a href="#g">Evaluation</a>
+                <a target="_blank" href="#g">
+                  Evaluation
+                </a>
               </p>
               <p>
-                <a href="#h">Recommendations</a>
+                <a target="_blank" href="#h">
+                  Recommendations
+                </a>
               </p>
               <p>
-                <a href="#i">References</a>
+                <a target="_blank" href="#i">
+                  References
+                </a>
               </p>
             </div>
             <div className="article-row">
@@ -62,6 +80,7 @@ const HomePage = () => (
               </p>
               <p>
                 <a
+                  target="_blank"
                   href="#"
                   id="backtotop"
                   className="btn px-4 btn-primary backtotop btn-sm ml-2"
@@ -128,6 +147,7 @@ const HomePage = () => (
               </p>
               <p>
                 <a
+                  target="_blank"
                   href="#"
                   id="backtotop"
                   className="btn px-4 btn-primary backtotop btn-sm ml-2"
@@ -176,6 +196,7 @@ const HomePage = () => (
               </p>
               <p>
                 <a
+                  target="_blank"
                   href="#"
                   id="backtotop"
                   className="btn px-4 btn-primary backtotop btn-sm ml-2"
@@ -249,6 +270,7 @@ const HomePage = () => (
               </p>
               <p>
                 <a
+                  target="_blank"
                   href="#"
                   id="backtotop"
                   className="btn px-4 btn-primary backtotop btn-sm ml-2"
@@ -433,6 +455,7 @@ const HomePage = () => (
               </p>
               <p>
                 <a
+                  target="_blank"
                   href="#"
                   id="backtotop"
                   className="btn px-4 btn-primary backtotop btn-sm ml-2"
@@ -474,6 +497,7 @@ const HomePage = () => (
               </p>
               <p>
                 <a
+                  target="_blank"
                   href="#"
                   id="backtotop"
                   className="btn px-4 btn-primary backtotop btn-sm ml-2"
@@ -677,6 +701,7 @@ const HomePage = () => (
               </p>
               <p>
                 <a
+                  target="_blank"
                   href="#"
                   id="backtotop"
                   className="btn px-4 btn-primary backtotop btn-sm ml-2"
@@ -756,6 +781,7 @@ const HomePage = () => (
             </div>
             <p>
               <a
+                target="_blank"
                 href="#"
                 id="backtotop"
                 className="btn px-4 btn-primary backtotop btn-sm ml-2"
