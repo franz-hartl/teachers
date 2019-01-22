@@ -33,7 +33,8 @@
 	color: #2B50A3;
 	font-size: 18px;
 	background-color: #f2f2f2;
-	text-align: center;
+	text-align: left;
+	white-space: normal;
 }
 .dropdown-item:hover{
 	background-color: #2B50A3;

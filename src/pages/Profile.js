@@ -29,6 +29,7 @@ class Profile extends React.Component {
               <div>
                 <a
                   ref="twButton"
+                  target="_blank"
                   href="https://twitter.com/jaxx2104"
                   className="twitter-follow-button"
                   data-show-count="false"
@@ -132,7 +133,9 @@ class Profile extends React.Component {
                   <h2 className="section-heading">Repositories</h2>
                   <p>
                     リポジトリは
-                    <a href="https://github.com/jaxx2104/">こちら</a>
+                    <a target="_blank" href="https://github.com/jaxx2104/">
+                      こちら
+                    </a>
                   </p>
                 </div>
               </div>
@@ -146,7 +149,11 @@ class Profile extends React.Component {
                   <h2 className="section-heading">Degree Works</h2>
                   <p>
                     過去の制作は
-                    <a className="text-white" href="https://old.jaxx2104.info/">
+                    <a
+                      className="text-white"
+                      target="_blank"
+                      href="https://old.jaxx2104.info/"
+                    >
                       こちら
                     </a>
                   </p>

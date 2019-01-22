@@ -49,7 +49,10 @@ const Footer = () => (
         </div>
       </div>
       <p class="copyright">
-        <a href="https:/usability.yale.edu/web-accessibility/accessibility-yale">
+        <a
+          target="_blank"
+          href="https:/usability.yale.edu/web-accessibility/accessibility-yale"
+        >
           {' '}
           Accessibility at Yale
         </a>{' '}

@@ -2,101 +2,46 @@ import React from 'react'
 import Layout from 'components/Layout/index'
 import { Link } from 'gatsby'
 
-const HomePage = () => (
+const NationalDePage = () => (
   <Layout>
     <main>
       <div className="container px-5 region-content">
-        <h1 className="page-title">New Haven Program</h1>
+        <h1 className="page-title">National Demonstration Project</h1>
         <p>
-          From its inception, the Institute prepared Annual Reports that
-          describe the program’s operation in New Haven by drawing heavily on
-          the evaluations written by Fellows and seminar leaders at the
-          conclusion of their participation. Many also contain material on
-          program evaluation, national dissemination, and financial and program
-          development. The reports for 1996-2009 are presently available.{' '}
+          After exploring during 1997 the feasibility and desirability of
+          establishing new Teachers Institutes at other locations, the Teachers
+          Institute undertook a National Demonstration Project to demonstrate
+          the feasibility of adapting at other sites the approach to teachers’
+          professional development that had been followed for more than two
+          decades by the Yale-New Haven Teachers Institute.
         </p>
         <div className="row mt-4">
-          <div className="col-sm-6 left-panel">
+          <div className="col-sm-8 left-panel">
             <ul>
               <li>
-                <a
-                  target="_blank"
-                  href="http://teachers.yale.edu/pdfs/ar/ar2009-full.pdf"
-                >
-                  2009 Annual Reports
-                </a>
+                <strong>A National Demonstration Project, 1999</strong>
+                <p>
+                  The report describes the establishment and purposes of a
+                  National Demonstration Project including the site visits that
+                  resulted in a proposal for a 4-year project that would
+                  constitute a major step toward the nationwide establishment of
+                  Teachers Institutes following the approach developed
+                  originally in New Haven.{' '}
+                </p>
               </li>
               <li>
-                <a
-                  target="_blank"
-                  href="http://teachers.yale.edu/pdfs/ar/ar2008-full.pdf"
-                >
-                  2008 Annual Reports
-                </a>
-              </li>
-              <li>
-                <a
-                  target="_blank"
-                  href="http://teachers.yale.edu/pdfs/ar/ar2007-full.pdf "
-                >
-                  2007 Annual Reports
-                </a>
-              </li>
-              <li>
-                <Link target="_blank" to="brochures/A3/2006/">
-                  2006 Annual Reports
-                </Link>
-              </li>
-              <li>
-                <a
-                  target="_blank"
-                  href="http://teachers.yale.edu/pdfs/ar/ar2004-full.pdf"
-                >
-                  2004 Annual Reports
-                </a>
-              </li>
-              <li>
-                <Link target="_blank" to="brochures/A3/2003/">
-                  2003 Annual Reports
-                </Link>
-              </li>
-              <li>
-                <Link target="_blank" to="brochures/A3/2002/">
-                  2002 Annual Reports
-                </Link>
-              </li>
-              <li>
-                <Link target="_blank" to="brochures/A3/2001/">
-                  2001 Annual Reports
-                </Link>
-              </li>
-              <li>
-                <Link target="_blank" to="brochures/A3/2000/">
-                  2000 Annual Reports
-                </Link>
-              </li>
-              <li>
-                <Link target="_blank" to="brochures/A3/1999/">
-                  1999 Annual Reports
-                </Link>
-              </li>
-              <li>
-                <Link target="_blank" to="brochures/A3/1998/">
-                  1998 Annual Reports
-                </Link>
-              </li>
-              <li>
-                <a
-                  target="_blank"
-                  href="http://teachers.yale.edu/pdfs/ar/ar1997.pdf"
-                >
-                  1997 Annual Reports
-                </a>
-              </li>
-              <li>
-                <Link target="_blank" to="brochures/A3/1996/">
-                  1996 Annual Reports
-                </Link>
+                <strong>
+                  A National Demonstration Project: Aims and Current
+                  Accomplishments, 2000{' '}
+                </strong>
+                <p>
+                  The report describes the establishment of four new Teachers
+                  Institutes serving urban school systems that enroll students
+                  who are mainly from low-income and minority communities. It
+                  sets forth the basic principles that had been developed by the
+                  Yale-New Haven Teachers Institute that became the guiding
+                  principle for each of the new Teachers Institutes.{' '}
+                </p>
               </li>
             </ul>
           </div>
@@ -106,4 +51,4 @@ const HomePage = () => (
     </main>
   </Layout>
 )
-export default HomePage
+export default NationalDePage

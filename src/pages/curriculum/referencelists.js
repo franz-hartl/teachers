@@ -68,6 +68,7 @@ const HomePage = () => (
             <div className="p-3 mt-4 block-block">
               <p>
                 <a
+                  target="_blank"
                   href="http://teachers.yale.edu/curriculum/sort/index.php?page=sort_by_seminar_leader&skin=h"
                   targets="_blank"
                 >
@@ -77,7 +78,10 @@ const HomePage = () => (
                 Yale faculty member.
               </p>
               <p>
-                <a href="http://teachers.yale.edu/curriculum/index.php?skin=h">
+                <a
+                  target="_blank"
+                  href="http://teachers.yale.edu/curriculum/index.php?skin=h"
+                >
                   View
                 </a>{' '}
                 curriculum units prepared in national seminars at Yale by

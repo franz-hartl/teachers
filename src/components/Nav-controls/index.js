@@ -27,6 +27,7 @@ class NavControls extends React.Component {
           <i className="fas fa fa-arrow-right" />
         </Link>
         <a
+          target="_blank"
           href="#"
           id="backtotop"
           className="btn px-4 btn-primary backtotop btn-sm ml-2"

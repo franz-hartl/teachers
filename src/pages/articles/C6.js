@@ -339,6 +339,7 @@ const HomePage = () => (
               </p>
               <p>
                 <a
+                  target="_blank"
                   href="#"
                   id="backtotop"
                   className="btn px-4 btn-primary backtotop btn-sm ml-2"
