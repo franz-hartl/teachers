@@ -2,9 +2,9 @@ module.exports = {
   siteMetadata: {
     title: 'Teacher\'s Institute',
     description: 'Yale Teacher\'s Intitute Site',
-    siteUrl: 'https://gatstrap.netlify.com',
-    author: 'jaxx2104',
-    twitter: 'jaxx2104',
+    siteUrl: 'https://teachersinstitute.yale.edu',
+    author: '',
+    twitter: '',
     adsense: '',
   },
   pathPrefix: '/',

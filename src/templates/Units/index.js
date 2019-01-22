@@ -1,4 +1,5 @@
 import React from 'react'
+import {graphql} from 'gatsby'
 import Breadcrumb from 'components/Breadcrumb/breadcrumb'
 import Table_content from 'components/Table-contents'
 import Layout from 'components/Layout/index'
@@ -17,7 +18,7 @@ class UnitTemplate extends React.Component {
         <main>
           <div className="container region-content">
             <Breadcrumb unitPath={navData[pageIndex].path}/>
-            <h1 className="volume-title">{unitVol.frontmatter.unitTitle}</h1>
+            <h1 className="volume-title">Placeholder for Volume Title</h1>  {/* {unitVol.frontmatter.unitTitle} */}
             <aside>
               <div className="row">
                 <div className="col-sm-4 mt-3 tc_aside">
@@ -30,7 +31,7 @@ class UnitTemplate extends React.Component {
                     <Pdf_icons />
                     <h2 className="guide-title">{pageHtml.title}</h2>
                     <div dangerouslySetInnerHTML={{__html: pageHtml.html}} />
-                    <NavControls />
+                    <NavControls navData={navData} pageIndex={pageIndex} />
                   </div>
                 </div>
               </div>
@@ -46,8 +47,8 @@ export default UnitTemplate
 
 
 export const PageQuery = graphql`
-  query UnitPageQuery($path: String, $navPath: String, $volPath: String) {
-    unitPage: markdownRemark(frontmatter: { path: { eq: $path } }) {
+  query UnitPageQuery($pagePath: String, $navPath: String, $volPath: String) {
+    unitPage: markdownRemark(frontmatter: { path: { eq: $pagePath } }) {
       html
       fileAbsolutePath
       frontmatter {
@@ -67,7 +68,7 @@ export const PageQuery = graphql`
     unitVol: markdownRemark(frontmatter: { path: { eq: $volPath } }) {
       fileAbsolutePath
       frontmatter {
-        unitTitle
+        volumeTitle
       }
     }
   }
@@ -78,6 +79,9 @@ export const PageQuery = graphql`
 const getUnitNavItems = (path, html) => {
   // eg paths: /curriculum/units/1998/1/98.01.01.x.html/2
   //          /curriculum/guides/1998/1/98.01.01.x.html
+  if (!path) {
+    console.log("****************** getUnitNavItems path undefined *****************")
+  }
   var pathArray = path.split("/")
   // if path has a page then remove it (eg. 98.01.01.x.html/2)
   if (pathArray[pathArray.length - 1].length < 3) {
@@ -111,7 +115,7 @@ const getUnitNavItems = (path, html) => {
   unitNavItems.push({ path: unitGuidesPath, title: "Unit Guide" })
   unitNavItems.push({ path: unitPath, title: pageItems[0] })
   for (let i = 2; i <= pageItems.length; i++) {
-    unitNavItems.push({ path: unitPath + "/" + i, title: pageItems[i - 1] })
+    unitNavItems.push({ path: unitPath.split(".x.html")[0] + "/" + i, title: pageItems[i - 1] })
   }
   return unitNavItems
 }
@@ -123,9 +127,12 @@ const getPageHtml = (pageIndex, pagePath, html) => {
   var page = {}
 
   // unit page if index is > 0 
-  if (pageIndex > 0) {
+  if (pagePath.split("/")[2] == "units") {
     if (year < 2015) {
       let pages = html.split("<hr/>")
+      if (pages.length < 2) {
+        return { title: null, html: html.trim() }
+      }
       // unit page < 2015
       let p = pages[pageIndex + 1].split("</h3>")
       if (p.length > 1) {
@@ -149,7 +156,7 @@ const getPageHtml = (pageIndex, pagePath, html) => {
       console.log(page)
     }
   } else { // otherwise it is a guide page
-    let unitName = path.basename(pagePath, ".x.html")
+    let unitName = pagePath.slice(pagePath.lastIndexOf("/") + 1, -7)
     let title = "Guide Entry to " + unitName
     console.log(title)
     if (year < 2015) {

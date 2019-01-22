@@ -18,13 +18,13 @@ import 'scss/gatstrap.scss'
 import './newStyle.css'
 
 class Layout extends React.Component {
-  componentDidMount() {
-    emergence.init()
-  }
+  // componentDidMount() {
+  //   emergence.init()
+  // }
 
-  componentDidUpdate() {
-    emergence.init()
-  }
+  // componentDidUpdate() {
+  //   emergence.init()
+  // }
 
   render() {
     const { children } = this.props
