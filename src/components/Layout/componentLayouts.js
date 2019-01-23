@@ -9,11 +9,15 @@ import { siteMetadata } from '../../../gatsby-config'
 import 'prismjs/themes/prism.css'
 import 'scss/gatstrap.scss'
 import './newStyle.css'
-import NavControls from 'components/Nav-controls/index'
+// import NavControls from 'components/Nav-controls/index'
 import Pdf_icons from 'components/Pdf-icons'
 import Table_content from 'components/Table-contents/Table-content'
+<<<<<<< HEAD
 import Table_content_author from 'components/Table-contents/Table-content-author'
 import Breadcrumb from 'components/Breadcrumb/breadcrumb'
+=======
+// import Breadcrumb from 'components/Breadcrumb/breadcrumb'
+>>>>>>> cfe0f5717098c2f1bb20aefde966a432dd2a6d3e
 import 'font-awesome/css/font-awesome.css'
 
 class Layout extends React.Component {
@@ -32,10 +36,10 @@ class Layout extends React.Component {
         <Logo />
         <Search />
         <Navi title={siteMetadata.title} {...this.props} />
-        <Breadcrumb />
+        {/* <Breadcrumb /> */}
         <br />
         <h2>Nav Controls</h2>
-        <NavControls />
+        {/* <NavControls /> */}
         <h2>Pdf Icons</h2>
         <Pdf_icons />
         <h2>Table of Contents</h2>

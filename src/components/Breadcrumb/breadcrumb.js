@@ -5,9 +5,7 @@ const path = require('path')
 
 class Breadcrumb extends React.Component {
   render() {
-    const unitPath = this.props.unitPath
     const unitPaths = getUnitPaths(this.props.unitPath)
-      //"/curriculum/units/1998/1/98.01.01.x.html/4")
 
     return (
       <div className="tr_breadcrumb mt-2">
@@ -16,13 +14,13 @@ class Breadcrumb extends React.Component {
         </span>{' '}
         >
         <span>
-          <Link to=""> {unitPaths.year} Volume {unitPaths.volume}</Link>
+          <Link to={`/curriculum/units/${String(unitPaths.year)}/${String(unitPaths.volume)}`}> {unitPaths.year} Volume {unitPaths.volume}</Link>
         </span>{' '}
         >
         <span>
-          <Link to=""> Unit {unitPaths.unitNum} ({unitPaths.unitName})</Link>
+          <Link to={`${String(unitPaths.unitGuidePath)}`}> Unit {unitPaths.unitNum} ({unitPaths.unitName})</Link>
         </span>{' '}
-        ><span> Section {unitPaths.pageNum}</span>
+        ><span> {`Section ${unitPaths.pageNum ? unitPaths.pageNum : "Unit Guide"}`}</span>
       </div>
     )
   }
@@ -32,31 +30,36 @@ export default Breadcrumb
 
 
 function getUnitPaths( unitPath ) {
-  var p = path.basename(unitPath)
-  var pathSplit = unitPath.split("/")
+  var dirname = path.dirname(unitPath)
+  var basename = path.basename(unitPath)
   var pageNum = 0
-  var unitName
+  var unitGuidePath
+  var pathSplit
 
-  if (p.match(/^[0-9]+$/) != null) {
-    pageNum = parseInt(p)
-    p = unitPath.substring(0, unitPath.lastIndexOf("/"))
-    unitName = path.basename(p, ".x.html")
+  // unitPath = /curriculum/units/1998/1/98.01.01/3/
+  if (basename.match(/^[0-9]+$/) != null) {
+    pageNum = parseInt(basename)
+    basename = path.basename(dirname) + ".x.html"
+    dirname = path.dirname(dirname)
+    pathSplit = (dirname + "/" + basename).split("/")
   } else {
-    if (pathSplit[2] != "guides") {
+    // unitPath = /curriculum/guides/1998/1/98.01.01.x.html
+    // unitPath = /curriculum/units/1998/1/98.01.01.x.html
+    pathSplit = (dirname + "/" + basename).split("/")
+    if (pathSplit[2] == "units") {
       pageNum = 1
-    }  
+    }
   }
 
+  pathSplit[2] = "guides"
+  unitGuidePath = pathSplit.join("/")
+  
   return {
     pageNum: pageNum,
     year: pathSplit[3],
     volume: pathSplit[4],
-    unitNum: parseInt(unitName.split(".")[2]),
-    unitName: unitName
+    unitNum: parseInt(basename.split(".")[2]),
+    unitName: basename.split(".x.html")[0],
+    unitGuidePath: unitGuidePath
   }
-  // return {
-  //   unitName: path.basename(unitPath, ".x.html"),
-  //   year: paths[3],
-  //   volume: paths[4],
-  // }
 }
