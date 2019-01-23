@@ -12,6 +12,7 @@ import './newStyle.css'
 import NavControls from 'components/Nav-controls/index'
 import Pdf_icons from 'components/Pdf-icons'
 import Table_content from 'components/Table-contents/Table-content'
+import Table_content_author from 'components/Table-contents/Table-content-author'
 import Breadcrumb from 'components/Breadcrumb/breadcrumb'
 import 'font-awesome/css/font-awesome.css'
 
@@ -39,6 +40,8 @@ class Layout extends React.Component {
         <Pdf_icons />
         <h2>Table of Contents</h2>
         <Table_content />
+        <h2>Author table of Contents</h2>
+        <Table_content_author />
         {children}
         <Footer title={siteMetadata.title} author={siteMetadata.author} />
       </div>

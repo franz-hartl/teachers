@@ -20,9 +20,9 @@ class Navi extends React.Component {
     const { location, title } = this.props
     return (
       <navbar-collapse isOpen={!this.state.collapsed} navbar>
-        <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <nav className="navbar navbar-expand-lg navbar-light bg-light">
           <button
-            class="navbar-toggler"
+            className="navbar-toggler"
             type="button"
             onClick={this.toggleNavbar}
             data-toggle="collapsed"
@@ -31,10 +31,10 @@ class Navi extends React.Component {
             aria-expanded="false"
             aria-label="Toggle navigation"
           >
-            <span class="navbar-toggler-icon" />
+            <span className="navbar-toggler-icon" />
           </button>
           <div
-            class={
+            className={
               this.state.collapsed
                 ? 'collapse navbar-collapse'
                 : ' navbar-collapse'
@@ -43,7 +43,14 @@ class Navi extends React.Component {
           >
             <ul className="navbar-nav ynhti-nav">
               <li className="nav-item dropdown">
-                <Link className="nav-link" to="curriculum">
+                <Link
+                  className="nav-link dropdown-toggle"
+                  id="navbarDropdownMenuLink"
+                  data-toggle="dropdown"
+                  aria-expanded="false"
+                  aria-haspopup="true"
+                  to="curriculum"
+                >
                   Curricular Resources
                 </Link>
                 <div className="dropdown-menu" aria-labelledby="navbarDropdown">

@@ -1,5 +1,6 @@
 import React from 'react'
 import Layout from 'components/Layout/index'
+import Table_content_author from 'components/Table-contents/Table-content-author'
 
 const HomePage = () => (
   <Layout>

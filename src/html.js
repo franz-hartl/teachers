@@ -21,6 +21,7 @@ export default class HTML extends React.Component {
             rel="apple-touch-icon"
             sizes="180x180"
           />
+
           <link href="/img/favicon.ico" rel="icon" type="image/x-icon" />
         </head>
         <body>

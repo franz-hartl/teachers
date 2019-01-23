@@ -56,9 +56,13 @@ main a:hover, footer a:hover{
 	font-weight: bold;
 }
 
-.footer-region, .region-content{
+.footer-region{
 	padding:0 3%;
 }
+.region-content{
+	padding-left:3%;
+}
+
 footer a{
 	color:#2B50A3;
 }
@@ -357,6 +361,15 @@ p.author, p.author_loc, p.author_pdate{
 .table_units{
 	margin-left: -2em;
 }
+p.tc_author{
+	color:#2b50a3;
+	font-family:"YaleNew"
+}
+
+ p.tc_author:hover{
+	font-weight:bold;
+	color:#504d49;
+	}
 .guide-title{
 	font-family: "YaleNew";
 	font-size: 18px;
@@ -398,12 +411,13 @@ p.author, p.author_loc, p.author_pdate{
 .tc_lists_guide a:hover{
 	text-decoration:underline;
 	font-weight:normal;
+	color:#00853e;
 }
 
 .tc_active{
 position:relative;
 }
-.tc_active:after{
+.tc_active a:after{
  content: "";
  width: 0; 
  height: 0; 
@@ -506,6 +520,19 @@ clear:both;
 }
 .gsc-resultsbox-visible{
 	text-align:left!important;
+}
+/* Gatsby Bootstrap overwrite */
+.navbar{
+padding:0;
+margin:0.2rem 0;
+}
+	
+a{
+color:#2b50a3;
+}
+a:hover{
+color:#2b50a3;
+text-decoration:underline;
 }
 
 /* Mobile Designs and Nav */

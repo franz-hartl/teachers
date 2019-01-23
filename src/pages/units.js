@@ -22,7 +22,7 @@ class unitTemplate extends React.Component {
                 <div className="col-sm-4 mt-3 tc_aside">
                   <Table_content />
                 </div>
-                <div className="col-sm-7 mt-3 main_content pt-2">
+                <div className="col-sm-8 mt-3 main_content pt-2">
                   <div className="unit-row">
                     <h2 className="unit-title">
                       Economic and Other Inequalitites in Ameria: The Shrinking
