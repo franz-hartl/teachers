@@ -4,7 +4,7 @@ import Breadcrumb from 'components/Breadcrumb/breadcrumb'
 import Table_content from 'components/Table-contents'
 import Layout from 'components/Layout/index'
 import Pdf_icons from 'components/Pdf-icons'
-import feedback from 'components/Feedback'
+import feedback from 'components/Feedback/feedback'
 import NavControls from 'components/Nav-controls'
 
 class UnitTemplate extends React.Component {
