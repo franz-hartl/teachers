@@ -416,6 +416,8 @@ p.tc_author{
 
 .tc_active{
 position:relative;
+color:#504d49;
+font-weight: bold;
 }
 .tc_active a:after{
  content: "";
