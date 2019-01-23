@@ -8,7 +8,7 @@ class Table_content extends React.Component {
 
     return (
       <div>
-          <h1>{navData[0].title}</h1>
+          {/* <h1>{navData[0].}</h1> */}
         <div className="volumes-links">
             <Link to="/curriculum/units/" className="btn btn-primary btn-sm" role="button" aria-pressed="true">Navigate Volumes</Link>
             <Link to="/curriculum/indexes/" className="btn btn-primary btn-sm" role="button" aria-pressed="true">Browse Index</Link>
