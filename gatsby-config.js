@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: 'Teacher\'s Institute',
-    description: 'Yale Teacher\'s Intitute Site',
+    title: "Teacher's Institute",
+    description: "Yale Teacher's Intitute Site",
     siteUrl: 'https://teachersinstitute.yale.edu',
     author: '',
     twitter: '',
