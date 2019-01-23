@@ -1,7 +1,7 @@
 const each = require('lodash/each')
 const Promise = require('bluebird')
 const path = require('path')
-const PostTemplate = path.resolve('./src/templates/index.js')
+const VolumeTemplate = path.resolve('./src/templates/Volume/index.js')
 const UnitTemplate = path.resolve('./src/templates/Units/index.js')
 
 exports.createPages = ({ graphql, actions }) => {
@@ -101,19 +101,34 @@ exports.createPages = ({ graphql, actions }) => {
             } else {
               pagePath = node.frontmatter.path
             }
-console.log(pagePath)
-console.log(typeof pagePath)
             createPage({
-              path: path.resolve(pagePath, (i < 2) ? "":i.toString()),
+              path: path.resolve(pagePath, (i < 2) ? "" : i.toString()),
               component: UnitTemplate,
               context: { 
                 pageIndex: i,
-                navPath: navPath, //`/curriculum/units/1998/1/98.01.01.x.html`,   //`${String(unitNavItems[1].path)}`,  
+                navPath: navPath,
                 pagePath: path.resolve(`${String(node.frontmatter.path)}`),
-                volPath: volPath  //`/curriculum/units/1998/1/98.01.preface.x.html`
+                volPath: volPath
               }
             })
           }  
+        })
+
+
+        // Create Volume pages.
+        const volumeItems = nonUnitItems.filter(({ node }) => /volume/.test(node.frontmatter.layout))
+        each(volumeItems, ({ node }) => {
+          // if (!node.remark) return
+          const pagePath = node.frontmatter.path
+          const navPath = path.dirname(pagePath) + "/"
+          console.log(navPath)
+          createPage({
+            path: pagePath,     //.resolve(`${String(node.frontmatter.path)}`),
+            component: VolumeTemplate,
+            context: {
+              navPath: navPath  //`/curriculum/units/1998/1/98.01.preface.x.html`,
+            }
+          })
         })
 
 
