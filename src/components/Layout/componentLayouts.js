@@ -14,7 +14,6 @@ import Pdf_icons from 'components/Pdf-icons'
 import Table_content from 'components/Table-contents/Table-content'
 import Table_content_author from 'components/Table-contents/Table-content-author'
 import Breadcrumb from 'components/Breadcrumb/breadcrumb'
-// import Breadcrumb from 'components/Breadcrumb/breadcrumb'
 import 'font-awesome/css/font-awesome.css'
 
 class Layout extends React.Component {

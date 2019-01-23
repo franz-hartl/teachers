@@ -142,14 +142,12 @@ const getPageHtml = (pageIndex, pagePath, html) => {
       let p = pages[pageIndex + 1].split('</h3>')
       if (p.length > 1) {
         page = { title: p[0].split('<h3>')[1].trim(), html: p[1].trim() }
-        //               console.log(page)
       } else {
         let title = pages[1]
           .split('<li>')
           [pageIndex].split('</li>')[0]
           .trim()
         page = { title: title, html: p[0].trim() }
-        console.log(page)
       }
     } else {
       // unit page >= 2015
@@ -161,7 +159,6 @@ const getPageHtml = (pageIndex, pagePath, html) => {
         title = title.slice(i + 8, title.indexOf('</strong>'))
       }
       page = { title: title, html: pages[pageIndex].split('</h1>')[1].trim() }
-      console.log(page)
     }
   } else {
     // otherwise it is a guide page

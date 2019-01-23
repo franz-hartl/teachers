@@ -5,22 +5,21 @@ const path = require('path')
 class Table_content extends React.Component {
   render() {
     const { navData, pageIndex } = this.props
-    const unitName = path.basename(navData[1].path, '.x.html')
-    const volumeLink = path.dirname(navData[1].path)
 
     return (
       <div>
+        {/* <h1>{navData[0].}</h1> */}
         <div className="volumes-links">
           <Link
-            to={volumeLink}
+            to="/curriculum/units/"
             className="btn btn-primary btn-sm"
             role="button"
             aria-pressed="true"
           >
-            View This Volume
+            Navigate Volumes
           </Link>
           <Link
-            to="/curriculum/indexes"
+            to="/curriculum/indexes/"
             className="btn btn-primary btn-sm"
             role="button"
             aria-pressed="true"
@@ -28,7 +27,7 @@ class Table_content extends React.Component {
             Browse Index
           </Link>
         </div>
-        <h2 className="tc">CONTENTS OF CURRICULUM UNIT {unitName}</h2>
+        <h2 className="tc">CONTENTS OF VOLUME</h2>
         <div className="inner-table-content">
           <NavLinks navData={navData} activeIndex={pageIndex} />
         </div>
@@ -41,7 +40,7 @@ export default Table_content
 
 const NavLinks = ({ navData, activeIndex }) => {
   const listItems = navData.map(function(item, i) {
-    if (i == 0) {
+    if (i < 2) {
       return (
         <h3
           key={i.toString()}
