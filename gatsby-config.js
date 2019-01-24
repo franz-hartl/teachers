@@ -10,6 +10,15 @@ module.exports = {
   pathPrefix: '/',
   plugins: [
     {
+      resolve: `gatsby-plugin-bugherd`,
+      options: {
+        key: `j6cceeknwiplgovqcodexg`,
+  
+        // whether to include the snippet in production. Defaults to false
+        showInProduction: true 
+      },
+    },
+    {
       resolve: 'gatsby-source-filesystem',
       options: {
         path: `${__dirname}/content/curriculum/`,

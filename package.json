@@ -8,6 +8,7 @@
     "gatsby-cli": "^2.4.8",
     "gatsby-image": "2.0.20",
     "gatsby-link": "2.0.6",
+    "gatsby-plugin-bugherd": "^1.0.2",
     "gatsby-plugin-catch-links": "2.0.8",
     "gatsby-plugin-feed": "2.0.9",
     "gatsby-plugin-google-analytics": "2.0.7",
