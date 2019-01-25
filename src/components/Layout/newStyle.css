@@ -232,6 +232,7 @@ h1.volume-title{
 .main_content h2.unit-title, h2.guide-title{
 	border-top: 1px solid #504D49;
 	padding-top:12px;
+	margin-top:1em;
 }
 
 /* Aside blocks style*/
@@ -261,6 +262,30 @@ footer label{
 	font-family: "YaleNew";
 	font-size:28px;
 }
+
+/* Feedback legend on Units */
+
+.feedback{
+border:4px solid #00853e;
+}
+a{
+transition: color 0.2s ease-in-out, background-color 0.2s ease-in-out, border-bottom 0.2s ease-in-out, text-shadow 0.2s ease-in-out;
+}
+a.givefeedback{
+background-color:#00853e;
+color:#fff;
+text-decoration:none;
+padding:8px 10px;
+margin-bottom:1.5em;
+font-weight:bold;
+border:1px solid #00853e;
+}
+
+a.givefeedback:hover{
+background-color:#fff;
+color:#00853e;
+}
+
 /* Breadcrumb */
 .tr_breadcrumb a{
 	text-decoration:none;
@@ -405,18 +430,19 @@ p.tc_author{
 }
 .tc_lists_guide a{
 	text-decoration:none;
-	color:#504d49;
+	color:#1f1406;
 	font-family:"YaleNew";
 }
 .tc_lists_guide a:hover{
 	text-decoration:underline;
 	font-weight:normal;
 	color:#00853e;
+	font-weight: bold;
 }
 
-.tc_active{
+.tc_active a{
 position:relative;
-color:#504d49;
+color:#00853e;
 font-weight: bold;
 }
 .tc_active a:after{
