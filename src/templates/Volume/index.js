@@ -19,7 +19,7 @@ class VolumeTemplate extends React.Component {
         <main>
           <div className="container region-content">
             <Breadcrumb unitPath={navData[pageIndex].path} />
-            <h1 className="volume-title">{page.frontmatter.volumeTitle}</h1>
+            <h1 className="volume-title">{page.frontmatter.unitVolume}</h1>
             <aside>
               <div className="row">
                 <div className="col-sm-4 mt-3 tc_aside">
@@ -51,7 +51,7 @@ export const VolumeQuery = graphql`
       html
       frontmatter {
         path
-        volumeTitle
+        unitVolume
         unitTitle
         unitAuthor
       }

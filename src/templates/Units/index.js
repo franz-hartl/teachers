@@ -23,7 +23,7 @@ class UnitTemplate extends React.Component {
         <main>
           <div className="region-content">
             <Breadcrumb unitPath={navData[pageIndex].path} />
-            <h1 className="volume-title">{unitVol.frontmatter.unitTitle}</h1>
+            <h1 className="volume-title">{unitVol.frontmatter.unitVolume}</h1>
             <aside>
               <div className="row">
                 <div className="col-sm-4 mt-3 tc_aside">
@@ -77,11 +77,12 @@ export const PageQuery = graphql`
     unitVol: markdownRemark(frontmatter: { path: { eq: $volPath } }) {
       fileAbsolutePath
       frontmatter {
-        volumeTitle
+        unitVolume
       }
     }
   }
 `
+
 
 const getUnitNavItems = (path, html) => {
   // eg paths: /curriculum/units/1998/1/98.01.01.x.html/2
@@ -112,8 +113,11 @@ const getUnitNavItems = (path, html) => {
   } else {
     let s = html.substring(html.indexOf('<main>'))
     let items = s.split('<h1>')
+    items.shift()
     for (let item of items) {
-      pageItems.push(item.split('</h1>')[0].trim())
+      item = item.split('</h1>')[0]
+      item = item.replace(/\s*<[/]?strong>\s*/ig, '')
+      pageItems.push(item.trim())
     }
   }
   unitNavItems.push({ path: unitGuidesPath, title: 'Unit Guide' })
@@ -126,6 +130,8 @@ const getUnitNavItems = (path, html) => {
   }
   return unitNavItems
 }
+
+
 
 const getPageHtml = (pageIndex, pagePath, html) => {
   let year = parseInt(pagePath.split('/')[3])
@@ -154,11 +160,8 @@ const getPageHtml = (pageIndex, pagePath, html) => {
       let pages = html.split('<h1>')
       let title = pages[pageIndex].split('</h1>')[0].trim()
       // if the title is wrapped in a <strong> tag then remove it
-      let i = title.indexOf('<strong>')
-      if (i >= 0) {
-        title = title.slice(i + 8, title.indexOf('</strong>'))
-      }
-      page = { title: title, html: pages[pageIndex].split('</h1>')[1].trim() }
+      title = title.replace(/\s*<[/]?strong>\s*/ig, '')
+      page = { title: title.trim(), html: pages[pageIndex].split('</h1>')[1].trim() }
     }
   } else {
     // otherwise it is a guide page
