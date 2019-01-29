@@ -7,7 +7,7 @@ import Layout from 'components/Layout/index'
 const HomePage = () => (
   <Layout>
     <main>
-      <div className="banner mb-3">
+      <div className="banner mb-3 container">
         <img src={banner} class="img-fluid" alt="" />
       </div>
       <div className="container region-content">
