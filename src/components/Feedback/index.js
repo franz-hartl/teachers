@@ -1,9 +1,9 @@
 import React from 'react'
 
-class feedback extends React.Component {
+class Survey_feedback extends React.Component {
   render() {
     return (
-      <div className="p-3">
+      <div className="p-3 feedback">
         <p>
           When you are finished viewing curriculum units on this Web site,
           please take a few minutes to provide feedback and help us understand
@@ -22,4 +22,4 @@ class feedback extends React.Component {
   }
 }
 
-export default feedback
+export default Survey_feedback

@@ -4,7 +4,7 @@ import Breadcrumb from 'components/Breadcrumb/breadcrumb'
 import Table_content from 'components/Table-contents'
 import Layout from 'components/Layout/index'
 import Pdf_icons from 'components/Pdf-icons'
-import feedback from 'components/Feedback/feedback'
+import Survey_feedback from 'components/Feedback'
 import NavControls from 'components/Nav-controls'
 
 class UnitTemplate extends React.Component {
@@ -38,7 +38,7 @@ class UnitTemplate extends React.Component {
                       {unitPage.frontmatter.unitAuthor}
                     </p>
                     <Pdf_icons />
-                    <feedback />
+                    <Survey_feedback />
                     <h2 className="guide-title">{pageHtml.title}</h2>
                     <div dangerouslySetInnerHTML={{ __html: pageHtml.html }} />
                     <NavControls navData={navData} pageIndex={pageIndex} />
