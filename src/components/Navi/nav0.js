@@ -179,13 +179,16 @@ class Navi extends React.Component {
                       25th Anniversary
                     </Link>
                     <div className="dropdown-divider" />
-                    <Link className="dropdown-item" to="#">
+                    <Link
+                      className="dropdown-item"
+                      to="event-proceedings/congressional-hearings"
+                    >
                       Congressional Hearings
                     </Link>
                   </div>
                 </li>
                 <li className="nav-item">
-                  <Link className="nav-link" to="#">
+                  <Link className="nav-link" to="timeline/">
                     Timeline
                   </Link>
                 </li>

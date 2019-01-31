@@ -1,5 +1,5 @@
 import React from 'react'
-import './style.scss'
+import Layout from 'src/components'
 
 const Page = ({ data }) => (
   <div dangerouslySetInnerHTML={{ __html: data.post.html }} />
