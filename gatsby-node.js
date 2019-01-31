@@ -3,9 +3,10 @@ const Promise = require('bluebird')
 const path = require('path')
 const VolumeTemplate = path.resolve('./src/templates/Volume/index.js')
 const UnitTemplate = path.resolve('./src/templates/Units/index.js')
+const PageTemplate = path.resolve('./src/templates/Page/index.js')
 
 exports.createPages = ({ graphql, actions }) => {
-  const { createPage } = actions
+  const { createPage, createRedirect } = actions
 
   return new Promise((resolve, reject) => {
     resolve(
@@ -33,7 +34,9 @@ exports.createPages = ({ graphql, actions }) => {
               edges {
                 node {
                   fileAbsolutePath
+                  html
                   frontmatter {
+                    title
                     path
                     layout
                   }
@@ -72,15 +75,17 @@ exports.createPages = ({ graphql, actions }) => {
         const unitItems = data.unitPages.edges
         const nonUnitItems = data.nonUnitPages.edges
 
+        //=======================
         // Create unit pages.
+        //=======================
         //        const units = unitItems.filter(({ node }) => /units/.test(node.name))
         each(unitItems, ({ node }) => {
           //          if (!node.remark) return
-          console.log('-----units----- ' + node.frontmatter.layout)
           // get path  eg: /curriculum/units/1998/1/98.01.01.x.html
           //          const { path } = node.frontmatter
           var pathSplit = node.frontmatter.path.split('/')
           var basename = pathSplit.pop()
+          console.log('basename: ' + basename)
 
           if (pathSplit[2] == 'guides') {
             isGuidesPage = true
@@ -126,7 +131,9 @@ exports.createPages = ({ graphql, actions }) => {
           }
         })
 
+        //=======================
         // Create Volume pages.
+        //=======================
         const volumeItems = nonUnitItems.filter(({ node }) =>
           /volume/.test(node.frontmatter.layout)
         )
@@ -142,19 +149,29 @@ exports.createPages = ({ graphql, actions }) => {
               navPath: navPath, //`/curriculum/units/1998/1/98.01.preface.x.html`,
             },
           })
+          if (/preface.x.html$/.test(pagePath)) {
+            createRedirect({ fromPath: navPath, toPath: pagePath })
+          }
         })
 
-        // Create pages.
-        // const pages = nonUnitItems.filter(({ node }) => /page/.test(node.name))
-        // each(nonUnitItems, ({ node }) => {
-        //   // if (!node.remark) return
-        //   const { name } = path.parse(node.frontmatter.path)
-        //   const PageTemplate = path.resolve(node.frontmatter.path)
-        //   createPage({
-        //     path: name,
-        //     component: PageTemplate,
-        //   })
-        // })
+        //=======================
+        // Create default pages.
+        //=======================
+        const pages = nonUnitItems.filter(({ node }) =>
+          /page/.test(node.frontmatter.layout)
+        )
+        each(pages, ({ node }) => {
+          // if (!node.remark) return
+          const pagePath = path.resolve(node.frontmatter.path)
+          // const PageTemplate = path.resolve(node.frontmatter.path)
+          createPage({
+            path: pagePath,
+            component: PageTemplate,
+            context: {
+              node: node,
+            },
+          })
+        })
       })
     )
   })
@@ -189,11 +206,21 @@ const getPageCount = (pagePath, html) => {
     } else {
       // unit page >= 2015
       let s = html.substring(html.indexOf('<main>'))
-      let items = s.split('<h1>')
-      if (items.length < 2) {
-        return 1
+      // check if page has a narrative/intro section at the top of the page with no <h1> title
+      var narrativePage = 0
+      if (html.indexOf('<h1>') > html.indexOf('<', 5)) {
+        console.log(
+          '*** Page has narrative/intro with no <h1> title tag ***  -  ' +
+            pagePath
+        )
+        narrativePage = 1
       }
-      return items.length
+      let items = s.split('<h1>')
+      let pageCount = 0
+      if (items.length < 2) {
+        return 1 + narrativePage
+      }
+      return items.length - 1 + narrativePage
     }
   }
   return 1

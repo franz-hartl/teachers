@@ -1,7 +1,17 @@
 import React from 'react'
-import Layout from 'src/components'
+import Layout from 'components/Layout'
 
-const Page = ({ data }) => (
-  <div dangerouslySetInnerHTML={{ __html: data.post.html }} />
-)
-export default Page
+class PageTemplate extends React.Component {
+  render() {
+    const { html } = this.props.pageContext.node
+    const { title } = this.props.pageContext.node.frontmatter
+    return (
+      <Layout>
+        <h1>{title}</h1>
+        <div dangerouslySetInnerHTML={{ __html: html }} />
+      </Layout>
+    )
+  }
+}
+
+export default PageTemplate
