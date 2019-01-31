@@ -14,8 +14,6 @@ class VolumeTemplate extends React.Component {
     const pageIndex = page.frontmatter.unitTitle == 'Preface' ? 0 : 1
     const x = navData[1].path
     return (
-
-    <div className="container">  
       <Layout>
         <main>
           <div className="container region-content">
@@ -40,7 +38,6 @@ class VolumeTemplate extends React.Component {
           </div>
         </main>
       </Layout>
-    </div>  
     )
   }
 }

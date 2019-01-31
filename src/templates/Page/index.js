@@ -6,12 +6,12 @@ class PageTemplate extends React.Component {
   render() {
     const { html } = this.props.pageContext.node
     const { title } = this.props.pageContext.node.frontmatter
-  return (
-    <div className="container">
+    return (
       <Layout>
-        <div dangerouslySetInnerHTML={{ __html: html }} />
+        <div className="container">
+          <div dangerouslySetInnerHTML={{ __html: html }} />
+        </div>
       </Layout>
-    </div>
     )
   }
 }

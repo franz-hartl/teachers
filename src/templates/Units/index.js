@@ -19,10 +19,8 @@ class UnitTemplate extends React.Component {
     const navData = getUnitNavItems(unitNav.frontmatter.path, unitNav.html)
 
     return (
-    
-    <div className="container">
       <Layout>
-        <main>
+        <main className="container">
           <div className="region-content">
             <Breadcrumb unitPath={navData[pageIndex].path} />
             <h1 className="volume-title">{unitVol.frontmatter.unitVolume}</h1>
@@ -51,7 +49,6 @@ class UnitTemplate extends React.Component {
           </div>
         </main>
       </Layout>
-    </div>  
     )
   }
 }

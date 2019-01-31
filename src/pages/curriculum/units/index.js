@@ -6,10 +6,10 @@ const VolumeIndexPage = () => (
   <Layout>
         <main>
             <div className="container px-5 region-content">
-                <h1 className="page-title">Curriculum Units by Fellows of the Yale-New Haven Teachers Institute</h1>
+                <center><h1 className="page-title">Curriculum Units by Fellows of the Yale-New Haven Teachers Institute</h1></center>
                 <div className="row mt-4">
                     <div className="col-sm-11 left-panel">
-                        <h2>1978-2018</h2>
+                        <center><h2>1978-2018</h2></center>
                         <hr />
 
                         <table width="100%" border="0">
