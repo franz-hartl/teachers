@@ -19,6 +19,8 @@ class UnitTemplate extends React.Component {
     const navData = getUnitNavItems(unitNav.frontmatter.path, unitNav.html)
 
     return (
+    
+    <div className="container">
       <Layout>
         <main>
           <div className="region-content">
@@ -49,6 +51,7 @@ class UnitTemplate extends React.Component {
           </div>
         </main>
       </Layout>
+    </div>  
     )
   }
 }
