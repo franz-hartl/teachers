@@ -12,33 +12,38 @@ class VolumeTemplate extends React.Component {
     const nav = this.props.data.nav.edges
     const navData = getVolNavData(nav)
     const pageIndex = page.frontmatter.unitTitle == 'Preface' ? 0 : 1
-    const x = navData[1].path // nav[1].node.frontmatter.path
-
+    const x = navData[1].path
     return (
-      <Layout>
-        <main>
-          <div className="container region-content">
-            <Breadcrumb unitPath={navData[pageIndex].path} />
-            <h1 className="volume-title">{page.frontmatter.unitVolume}</h1>
-            <aside>
-              <div className="row">
-                <div className="col-sm-4 mt-3 tc_aside">
-                  <Table_content navData={navData} pageIndex={pageIndex} />
-                </div>
-                <div className="col-sm-7 mt-3 main_content pt-2">
-                  <div className="unit-row">
-                    <h2 className="unit-title">{page.frontmatter.unitTitle}</h2>
-                    <p className="unit-author">{page.frontmatter.unitAuthor}</p>
-                    <Pdf_icons />
-                    <div dangerouslySetInnerHTML={{ __html: page.html }} />
-                    <NavControls navData={navData} pageIndex={pageIndex} />
+      <div className="container">
+        <Layout>
+          <main>
+            <div className="container region-content">
+              <Breadcrumb unitPath={navData[pageIndex].path} />
+              <h1 className="volume-title">{page.frontmatter.unitVolume}</h1>
+              <aside>
+                <div className="row">
+                  <div className="col-sm-4 mt-3 tc_aside">
+                    <Table_content navData={navData} pageIndex={pageIndex} />
+                  </div>
+                  <div className="col-sm-7 mt-3 main_content pt-2">
+                    <div className="unit-row">
+                      <h2 className="unit-title">
+                        {page.frontmatter.unitTitle}
+                      </h2>
+                      <p className="unit-author">
+                        {page.frontmatter.unitAuthor}
+                      </p>
+                      <Pdf_icons />
+                      <div dangerouslySetInnerHTML={{ __html: page.html }} />
+                      <NavControls navData={navData} pageIndex={pageIndex} />
+                    </div>
                   </div>
                 </div>
-              </div>
-            </aside>
-          </div>
-        </main>
-      </Layout>
+              </aside>
+            </div>
+          </main>
+        </Layout>
+      </div>
     )
   }
 }

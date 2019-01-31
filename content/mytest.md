@@ -1,7 +1,7 @@
 ---
 layout: page
 title: this is a test page TITLE
-path: /mytest
+path: /mytest.html
 ---
 
 #this is a test h1

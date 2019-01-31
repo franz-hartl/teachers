@@ -19,36 +19,40 @@ class UnitTemplate extends React.Component {
     const navData = getUnitNavItems(unitNav.frontmatter.path, unitNav.html)
 
     return (
-      <Layout>
-        <main>
-          <div className="region-content">
-            <Breadcrumb unitPath={navData[pageIndex].path} />
-            <h1 className="volume-title">{unitVol.frontmatter.unitVolume}</h1>
-            <aside>
-              <div className="row">
-                <div className="col-sm-4 mt-3 tc_aside">
-                  <Table_content navData={navData} pageIndex={pageIndex} />
-                </div>
-                <div className="col-sm-8 mt-3 main_content pl-2">
-                  <div className="unit-row">
-                    <h2 className="unit-title">
-                      {unitPage.frontmatter.unitTitle}
-                    </h2>
-                    <p className="unit-author">
-                      {unitPage.frontmatter.unitAuthor}
-                    </p>
-                    <Pdf_icons />
-                    <Survey_feedback />
-                    <h2 className="guide-title">{pageHtml.title}</h2>
-                    <div dangerouslySetInnerHTML={{ __html: pageHtml.html }} />
-                    <NavControls navData={navData} pageIndex={pageIndex} />
+      <div className="container">
+        <Layout>
+          <main>
+            <div className="region-content">
+              <Breadcrumb unitPath={navData[pageIndex].path} />
+              <h1 className="volume-title">{unitVol.frontmatter.unitVolume}</h1>
+              <aside>
+                <div className="row">
+                  <div className="col-sm-4 mt-3 tc_aside">
+                    <Table_content navData={navData} pageIndex={pageIndex} />
+                  </div>
+                  <div className="col-sm-8 mt-3 main_content pl-2">
+                    <div className="unit-row">
+                      <h2 className="unit-title">
+                        {unitPage.frontmatter.unitTitle}
+                      </h2>
+                      <p className="unit-author">
+                        {unitPage.frontmatter.unitAuthor}
+                      </p>
+                      <Pdf_icons />
+                      <Survey_feedback />
+                      <h2 className="guide-title">{pageHtml.title}</h2>
+                      <div
+                        dangerouslySetInnerHTML={{ __html: pageHtml.html }}
+                      />
+                      <NavControls navData={navData} pageIndex={pageIndex} />
+                    </div>
                   </div>
                 </div>
-              </div>
-            </aside>
-          </div>
-        </main>
-      </Layout>
+              </aside>
+            </div>
+          </main>
+        </Layout>
+      </div>
     )
   }
 }
