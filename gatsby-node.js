@@ -131,7 +131,6 @@ exports.createPages = ({ graphql, actions }) => {
           }
         })
 
-
         //=======================
         // Create Volume pages.
         //=======================
@@ -155,11 +154,12 @@ exports.createPages = ({ graphql, actions }) => {
           }
         })
 
-
         //=======================
         // Create default pages.
         //=======================
-        const pages = nonUnitItems.filter(({ node }) => /page/.test(node.frontmatter.layout))
+        const pages = nonUnitItems.filter(({ node }) =>
+          /page/.test(node.frontmatter.layout)
+        )
         each(pages, ({ node }) => {
           // if (!node.remark) return
           const pagePath = path.resolve(node.frontmatter.path)
@@ -168,8 +168,8 @@ exports.createPages = ({ graphql, actions }) => {
             path: pagePath,
             component: PageTemplate,
             context: {
-              node: node
-            }
+              node: node,
+            },
           })
         })
       })
@@ -209,7 +209,10 @@ const getPageCount = (pagePath, html) => {
       // check if page has a narrative/intro section at the top of the page with no <h1> title
       var narrativePage = 0
       if (html.indexOf('<h1>') > html.indexOf('<', 5)) {
-        console.log("*** Page has narrative/intro with no <h1> title tag ***  -  " + pagePath)
+        console.log(
+          '*** Page has narrative/intro with no <h1> title tag ***  -  ' +
+            pagePath
+        )
         narrativePage = 1
       }
       let items = s.split('<h1>')
@@ -219,7 +222,6 @@ const getPageCount = (pagePath, html) => {
       }
       return items.length - 1 + narrativePage
     }
-
   }
   return 1
 }

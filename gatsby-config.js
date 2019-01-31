@@ -102,6 +102,6 @@ module.exports = {
     'gatsby-plugin-sitemap',
     'gatsby-plugin-twitter',
     'gatsby-transformer-sharp',
-    `gatsby-plugin-meta-redirect`
+    `gatsby-plugin-meta-redirect`,
   ],
 }

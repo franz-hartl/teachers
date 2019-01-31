@@ -83,7 +83,6 @@ export const PageQuery = graphql`
   }
 `
 
-
 const getUnitNavItems = (path, html) => {
   // eg paths: /curriculum/units/1998/1/98.01.01.x.html/2
   //          /curriculum/guides/1998/1/98.01.01.x.html
@@ -110,21 +109,24 @@ const getUnitNavItems = (path, html) => {
     for (let item of items) {
       pageItems.push(item.split('</li>')[0].trim())
     }
-  } else {  // year >= 2015
+  } else {
+    // year >= 2015
     let s = html.substring(html.indexOf('<main>'))
     let items = s.split('<h1>')
 
     // check if page has a narrative/intro section at the top of the page with no <h1> title
     // if so, then add a Narrative page heading to the nav
     if (html.indexOf('<h1>') > html.indexOf('<', 5)) {
-      console.log("*** Page has narrative/intro with no <h1> title tag ***  -  ")
-      pageItems.push("Narrative")
+      console.log(
+        '*** Page has narrative/intro with no <h1> title tag ***  -  '
+      )
+      pageItems.push('Narrative')
     }
-    
+
     items.shift()
     for (let item of items) {
       item = item.split('</h1>')[0]
-      item = item.replace(/\s*<[/]?strong>\s*/ig, '')
+      item = item.replace(/\s*<[/]?strong>\s*/gi, '')
       pageItems.push(item.trim())
     }
   }
@@ -138,8 +140,6 @@ const getUnitNavItems = (path, html) => {
   }
   return unitNavItems
 }
-
-
 
 const getPageHtml = (pageIndex, pagePath, html) => {
   let year = parseInt(pagePath.split('/')[3])
@@ -166,7 +166,7 @@ const getPageHtml = (pageIndex, pagePath, html) => {
     } else {
       // unit page >= 2015
       let pages = html.split('<h1>')
-      
+
       var title = ''
       // check if there is no <h1> title tag
 
@@ -175,24 +175,26 @@ const getPageHtml = (pageIndex, pagePath, html) => {
       // console.log("page: " + pages[pageIndex].slice(0, 100))
 
       if (html.indexOf('<h1>') > html.indexOf('<', 5)) {
-        console.log("*** Page has narrative/intro with no <h1> title tag *** ")
+        console.log('*** Page has narrative/intro with no <h1> title tag *** ')
         pageIndex = pageIndex - 1
-      }  
+      }
       if (pageIndex == 0) {
-          page = { title: "Narrative", html: pages[0].trim() }
+        page = { title: 'Narrative', html: pages[0].trim() }
       } else {
         try {
           title = pages[pageIndex].split('</h1>')[0].trim()
           // if the title is wrapped in a <strong> tag then remove it
-          title = title.replace(/\s*<[/]?strong>\s*/ig, '')
-        }
-        catch(err) {
+          title = title.replace(/\s*<[/]?strong>\s*/gi, '')
+        } catch (err) {
           console.log('***ERROR*** finding title on page: ' + err)
         }
-        page = { title: title.trim(), html: pages[pageIndex].split('</h1>')[1].trim() }
+        page = {
+          title: title.trim(),
+          html: pages[pageIndex].split('</h1>')[1].trim(),
+        }
         // console.log(page)
       }
-    }  
+    }
   } else {
     // otherwise it is a guide page
     let unitName = pagePath.slice(pagePath.lastIndexOf('/') + 1, -7)
