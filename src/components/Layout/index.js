@@ -36,7 +36,9 @@ class Layout extends React.Component {
           {/* <Navi title={siteMetadata.title} {...this.props} /> */}
           <Navi />
         </header>
-        {children}
+        <div className="container">
+          {children}
+        </div>
         <Footer />
       </div>
     )

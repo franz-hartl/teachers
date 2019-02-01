@@ -7,9 +7,7 @@ class PageTemplate extends React.Component {
     const { title } = this.props.pageContext.node.frontmatter
     return (
       <Layout>
-        <div className="container">
           <div dangerouslySetInnerHTML={{ __html: html }} />
-        </div>
       </Layout>
     )
   }

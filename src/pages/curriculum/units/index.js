@@ -5,7 +5,7 @@ import { Link } from 'gatsby'
 const VolumeIndexPage = () => (
   <Layout>
     <main>
-      <div className="container px-5 region-content">
+      <div className="px-5 region-content">
         <h1 className="page-title">
           Curriculum Units by Fellows of the Yale-New Haven Teachers Institute
         </h1>

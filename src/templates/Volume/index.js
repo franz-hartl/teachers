@@ -16,7 +16,7 @@ class VolumeTemplate extends React.Component {
     return (
       <Layout>
         <main>
-          <div className="container region-content">
+          <div className="region-content">
             <Breadcrumb unitPath={navData[pageIndex].path} />
             <h1 className="volume-title">{page.frontmatter.unitVolume}</h1>
             <aside>
