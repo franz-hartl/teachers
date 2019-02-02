@@ -67,7 +67,7 @@ exports.createPages = ({ graphql, actions }) => {
         `
       ).then(({ errors, data }) => {
         if (errors) {
-          console.log(errors)
+          // console.log(errors)
           reject(errors)
         }
 
@@ -85,7 +85,7 @@ exports.createPages = ({ graphql, actions }) => {
           //          const { path } = node.frontmatter
           var pathSplit = node.frontmatter.path.split('/')
           var basename = pathSplit.pop()
-          console.log('basename: ' + basename)
+          // console.log('basename: ' + basename)
 
           if (pathSplit[2] == 'guides') {
             isGuidesPage = true
@@ -141,7 +141,7 @@ exports.createPages = ({ graphql, actions }) => {
           // if (!node.remark) return
           const pagePath = node.frontmatter.path
           const navPath = path.dirname(pagePath) + '/'
-          console.log(navPath)
+          // console.log(navPath)
           createPage({
             path: pagePath, //.resolve(`${String(node.frontmatter.path)}`),
             component: VolumeTemplate,
@@ -209,10 +209,10 @@ const getPageCount = (pagePath, html) => {
       // check if page has a narrative/intro section at the top of the page with no <h1> title
       var narrativePage = 0
       if (html.indexOf('<h1>') > html.indexOf('<', 5)) {
-        console.log(
-          '*** Page has narrative/intro with no <h1> title tag ***  -  ' +
-            pagePath
-        )
+        // console.log(
+        //   '*** Page has narrative/intro with no <h1> title tag ***  -  ' +
+        //     pagePath
+        // )
         narrativePage = 1
       }
       let items = s.split('<h1>')

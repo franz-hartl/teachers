@@ -117,9 +117,9 @@ const getUnitNavItems = (path, html) => {
     // check if page has a narrative/intro section at the top of the page with no <h1> title
     // if so, then add a Narrative page heading to the nav
     if (html.indexOf('<h1>') > html.indexOf('<', 5)) {
-      console.log(
-        '*** Page has narrative/intro with no <h1> title tag ***  -  '
-      )
+      // console.log(
+      //   '*** Page has narrative/intro with no <h1> title tag ***  -  '
+      // )
       pageItems.push('Narrative')
     }
 
@@ -175,7 +175,7 @@ const getPageHtml = (pageIndex, pagePath, html) => {
       // console.log("page: " + pages[pageIndex].slice(0, 100))
 
       if (html.indexOf('<h1>') > html.indexOf('<', 5)) {
-        console.log('*** Page has narrative/intro with no <h1> title tag *** ')
+        // console.log('*** Page has narrative/intro with no <h1> title tag *** ')
         pageIndex = pageIndex - 1
       }
       if (pageIndex == 0) {
@@ -186,7 +186,7 @@ const getPageHtml = (pageIndex, pagePath, html) => {
           // if the title is wrapped in a <strong> tag then remove it
           title = title.replace(/\s*<[/]?strong>\s*/gi, '')
         } catch (err) {
-          console.log('***ERROR*** finding title on page: ' + err)
+          // console.log('***ERROR*** finding title on page: ' + err)
         }
         page = {
           title: title.trim(),
@@ -199,7 +199,7 @@ const getPageHtml = (pageIndex, pagePath, html) => {
     // otherwise it is a guide page
     let unitName = pagePath.slice(pagePath.lastIndexOf('/') + 1, -7)
     let title = 'Guide Entry to ' + unitName
-    console.log(title)
+    // console.log(title)
     if (year < 2015) {
       page = { title: title, html: html.split('</h4>')[1].trim() }
     } else {
