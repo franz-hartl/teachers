@@ -175,14 +175,14 @@ class Navi extends React.Component {
                       News Conferences
                     </Link>
                     <div className="dropdown-divider" />
-                    <Link className="dropdown-item" to="brochures/25th.html ">
+                    <Link
+                      className="dropdown-item"
+                      to="brochures/25thTranscript.html "
+                    >
                       25th Anniversary
                     </Link>
                     <div className="dropdown-divider" />
-                    <Link
-                      className="dropdown-item"
-                      to="event-proceedings/congressional-hearings"
-                    >
+                    <Link className="dropdown-item" to="congressional.html">
                       Congressional Hearings
                     </Link>
                   </div>
@@ -195,7 +195,7 @@ class Navi extends React.Component {
                 <li className="nav-item dropdown">
                   <Link
                     className="nav-link dropdown-toggle"
-                    to="brochures"
+                    to="/brochures/annual-brochure.html"
                     id="navbarDropdown"
                     role="button"
                     data-toggle="dropdown"
@@ -210,28 +210,31 @@ class Navi extends React.Component {
                   >
                     <Link
                       className="dropdown-item"
-                      to="brochures/A1/2019-YNHTI-Annual-Brochure.pdf"
+                      to="/brochures/annual-brochure.html"
                     >
                       Annual Brochure
                     </Link>
                     <div className="dropdown-divider" />
-                    <Link className="dropdown-item" to="brochures/A6">
+                    <Link className="dropdown-item" to="brochures/A6.html">
                       Policies, Structure, and Procedures
                     </Link>
                     <div className="dropdown-divider" />
-                    <Link className="dropdown-item" to="brochures/A9">
+                    <Link className="dropdown-item" to="brochures/A9.html">
                       Awards and Recognition
                     </Link>
                     <div className="dropdown-divider" />
-                    <Link className="dropdown-item" to="#">
+                    <Link
+                      className="dropdown-item"
+                      to="brochures/video-programs.html"
+                    >
                       Video Programs
                     </Link>
                     <div className="dropdown-divider" />
-                    <Link className="dropdown-item" to="#">
+                    <Link className="dropdown-item" to="articles/index.html">
                       Published Essays
                     </Link>
                     <div className="dropdown-divider" />
-                    <Link className="dropdown-item" to="#">
+                    <Link className="dropdown-item" to="/comments.html">
                       Contact Us
                     </Link>
                   </div>
