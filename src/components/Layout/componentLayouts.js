@@ -10,7 +10,6 @@ import 'prismjs/themes/prism.css'
 import 'scss/gatstrap.scss'
 import './newStyle.css'
 // import NavControls from 'components/Nav-controls/index'
-import Pdf_icons from 'components/Pdf-icons'
 import Table_content from 'components/Table-contents/Table-content'
 import Table_content_author from 'components/Table-contents/Table-content-author'
 import Breadcrumb from 'components/Breadcrumb/breadcrumb'
@@ -37,7 +36,6 @@ class Layout extends React.Component {
         <h2>Nav Controls</h2>
         {/* <NavControls /> */}
         <h2>Pdf Icons</h2>
-        <Pdf_icons />
         <h2>Table of Contents</h2>
         <Table_content />
         <h2>Author table of Contents</h2>

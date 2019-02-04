@@ -4,6 +4,7 @@
   "version": "2.0.0",
   "author": "Futoshi Iwashita <jaxx2104@gmail.com>",
   "dependencies": {
+    "components": "^0.1.0",
     "gatsby": "2.0.45",
     "gatsby-cli": "^2.4.8",
     "gatsby-image": "2.0.20",

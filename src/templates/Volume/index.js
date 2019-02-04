@@ -3,7 +3,7 @@ import { graphql } from 'gatsby'
 import Breadcrumb from 'components/Breadcrumb/breadcrumb'
 import Table_content from 'components/Table-contents/volumeNav'
 import Layout from 'components/Layout/index'
-import Pdf_icons from 'components/Pdf-icons'
+import React_icons from 'components/react-icons'
 import NavControls from 'components/Nav-controls'
 
 class VolumeTemplate extends React.Component {
@@ -28,7 +28,7 @@ class VolumeTemplate extends React.Component {
                   <div className="unit-row">
                     <h2 className="unit-title">{page.frontmatter.unitTitle}</h2>
                     <p className="unit-author">{page.frontmatter.unitAuthor}</p>
-                    <Pdf_icons />
+                    <React_icons />
                     <div dangerouslySetInnerHTML={{ __html: page.html }} />
                     <NavControls navData={navData} pageIndex={pageIndex} />
                   </div>
