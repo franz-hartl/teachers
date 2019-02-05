@@ -4,7 +4,6 @@ import { IconContext } from 'react-icons'
 import {
   FaArrowRight,
   FaArrowLeft,
-  FaDrupal,
   FaAngleLeft,
   FaAngleRight,
   FaDownload,

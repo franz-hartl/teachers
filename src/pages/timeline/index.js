@@ -29,7 +29,7 @@ const timePage = () => (
         webkitallowfullscreen
         mozallowfullscreen
         allowfullscreen
-        // frameborder="0"
+        frameBorder="0"
       />
       {/* </div> */}
       {/* <div className="row" /> */}
