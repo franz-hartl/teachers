@@ -53,7 +53,7 @@ main a{
 	text-decoration: underline;
 }
 main a:hover, footer a:hover{
-	font-weight: bold;
+	font-weight: 600;
 }
 
 .footer-region{
@@ -623,4 +623,9 @@ margin-top: 1.5em;
 div.fbwrap, a.givefeedback{
 	display: block;
 }
+}
+@media screen and (max-width:640px){
+	.resources-menu .ft-menu-list{
+		display: block;
+	}
 }

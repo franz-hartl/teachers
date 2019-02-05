@@ -23,7 +23,7 @@ const periodicalPage = () => (
               Foundation for the Advancement of Teaching, and Robert Kellogg,
               Dean of the College at the University of Virginia.{' '}
             </p>
-            <p className="px-5">
+            <p>
               <i className="fas fa fa-arrow-right" />{' '}
               <Link className="" to="pubs/A4/">
                 Teaching In America: The Common Ground
@@ -39,7 +39,7 @@ const periodicalPage = () => (
               development in which the Fellows of the Institute have been
               engaged.”
             </p>
-            <p className="px-5">
+            <p>
               <i className="fas fa fa-arrow-right" />{' '}
               <Link className="" to="pubs/A5/">
                 Teaching in New Haven: The Common Challenge

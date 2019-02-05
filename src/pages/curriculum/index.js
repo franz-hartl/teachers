@@ -7,7 +7,7 @@ const HomePage = () => (
     <main>
       <div className="container region-content">
         <div className="row">
-          <div className="col-sm-8 mt-3">
+          <div className="col-sm-8">
             <div className="cr_row my-3 pr-3">
               <h2>Curricular Resources</h2>
               <p>
