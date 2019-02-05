@@ -10,25 +10,27 @@ const Footer = () => (
             <label>Resources</label>
             <div className="footer-menu resources-menu">
               <div className="ft-menu-list">
-                <Link to="curriculum">Curricular Resources</Link>
+                <Link to="/curriculum">Curricular Resources</Link>
               </div>
               <div className="ft-menu-list">
-                <Link to="/">Timeline</Link>
+                <Link to="/timeline">Timeline</Link>
               </div>
               <div className="ft-menu-list">
-                <Link to="brochures">Reports and Evaluation</Link>
+                <Link to="/brochures">Reports and Evaluation</Link>
               </div>
               <div className="ft-menu-list">
-                <Link to="/">About the Institute</Link>
+                <Link to="/brochures/annual-brochure.html">
+                  About the Institute
+                </Link>
               </div>
               <div className="ft-menu-list">
-                <Link to="/">Publications</Link>
+                <Link to="/pubs">Publications</Link>
               </div>
               <div className="ft-menu-list">
                 <Link to="/">Site Map</Link>
               </div>
               <div className="ft-menu-list">
-                <Link to="/">Event Proceedings</Link>
+                <Link to="/event-proceedings">Event Proceedings</Link>
               </div>
             </div>
           </div>
@@ -36,15 +38,13 @@ const Footer = () => (
             <label>Feedback</label>
             <div className="footer-menu">
               <div className="ft-menu-list">
-                <Link to="/">Guestbook</Link>
+                <Link to="/guestbook.html">Guestbook</Link>
               </div>
               <div className="ft-menu-list">
-                <Link to="brochures/A1/2019-YNHTI-Annual-Brochure.pdf">
-                  Participate
-                </Link>
+                <Link to="/brochures/annual-brochure.html">Participate</Link>
               </div>
               <div className="ft-menu-list">
-                <Link to="/">Contact Us</Link>
+                <Link to="/comments.html">Contact Us</Link>
               </div>
             </div>
           </div>

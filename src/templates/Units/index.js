@@ -3,7 +3,7 @@ import { graphql } from 'gatsby'
 import Breadcrumb from 'components/Breadcrumb/breadcrumb'
 import Table_content from 'components/Table-contents'
 import Layout from 'components/Layout/index'
-import Pdf_icons from 'components/Pdf-icons'
+import React_icons from 'components/react-icons'
 import Survey_feedback from 'components/Feedback'
 import NavControls from 'components/Nav-controls'
 
@@ -37,7 +37,7 @@ class UnitTemplate extends React.Component {
                     <p className="unit-author">
                       {unitPage.frontmatter.unitAuthor}
                     </p>
-                    <Pdf_icons />
+                    <React_icons />
                     <Survey_feedback />
                     <h2 className="guide-title">{pageHtml.title}</h2>
                     <div dangerouslySetInnerHTML={{ __html: pageHtml.html }} />
