@@ -1,5 +1,6 @@
 import React from 'react'
 import Layout from 'components/Layout/index'
+import { Link } from 'gatsby'
 
 const HomePage = () => (
   <Layout>
@@ -10,7 +11,9 @@ const HomePage = () => (
           <div className="col-sm-6 left-panel">
             <div className="br-cell py-2">
               <h2 className="br-title">
-                Annual brochure <i className="fas fa fa-arrow-circle-right" />
+                <Link to="brochures/A1/2019-YNHTI-Annual-Brochure.pdf">
+                  Annual brochure <i className="fas fa fa-arrow-circle-right" />
+                </Link>
               </h2>
               <p>
                 The Institute's current annual brochure describes its local
@@ -23,7 +26,9 @@ const HomePage = () => (
             </div>
             <div className="br-cell py-2">
               <h2 className="br-title">
-                Annual reports <i className="fas fa fa-arrow-circle-right" />
+                <Link to="brochures/NewHavenProgram">
+                  Annual Reports <i className="fas fa fa-arrow-circle-right" />
+                </Link>
               </h2>
               <p>
                 The Annual Reports describe the Institute's operation in New
@@ -37,9 +42,11 @@ const HomePage = () => (
             </div>
             <div className="br-cell py-2">
               <h2 className="br-title">
-                School-college Collaboration: Preparing Teachers and Curricula
-                for public Schools{' '}
-                <i className="fas fa fa-arrow-circle-right" />
+                <Link to="brochures/A7">
+                  School-college Collaboration: Preparing Teachers and Curricula
+                  for public Schools{' '}
+                  <i className="fas fa fa-arrow-circle-right" />
+                </Link>
               </h2>
               <p>
                 "School-College Collaboration: Preparing Teachers and Curricula
@@ -52,8 +59,10 @@ const HomePage = () => (
             </div>
             <div className="br-cell py-2">
               <h2 className="br-title">
-                ...and for New Haven{' '}
-                <i className="fas fa fa-arrow-circle-right" />
+                <Link to="brochures/A2">
+                  ...and for New Haven{' '}
+                  <i className="fas fa fa-arrow-circle-right" />
+                </Link>
               </h2>
               <p>
                 In the preface to "A Progress Report on Surveys Administered to
@@ -69,8 +78,10 @@ const HomePage = () => (
             </div>
             <div className="br-cell py-2">
               <h2 className="br-title">
-                Manual for teachers{' '}
-                <i className="fas fa fa-arrow-circle-right" />
+                <Link to="brochures/CenterManual/">
+                  Manual for teachers{' '}
+                  <i className="fas fa fa-arrow-circle-right" />
+                </Link>
               </h2>
               <p>
                 "Celebrating Teachers," the program for the Institute's 25th
@@ -83,8 +94,10 @@ const HomePage = () => (
           <div className="col-sm-6 right-panel">
             <div className="br-cell py-2">
               <h2 className="br-title">
-                National initiative aims to demonstrate{' '}
-                <i className="fas fa fa-arrow-circle-right" />
+                <Link to="ndp/ndp1999.html">
+                  National initiative aims to demonstrate{' '}
+                  <i className="fas fa fa-arrow-circle-right" />
+                </Link>
               </h2>
               <p>
                 The Institute's national initiative aims to demonstrate that the
@@ -98,8 +111,10 @@ const HomePage = () => (
             </div>
             <div className="br-cell py-2">
               <h2 className="br-title">
-                Policies, Structure, and Procedures{' '}
-                <i className="fas fa fa-arrow-circle-right" />
+                <Link to="brochures/A6.html">
+                  Policies, Structure, and Procedures{' '}
+                  <i className="fas fa fa-arrow-circle-right" />
+                </Link>
               </h2>
               <p>
                 "The Policies, Structure, and Procedures" of the Institute,
@@ -109,8 +124,10 @@ const HomePage = () => (
             </div>
             <div className="br-cell py-2">
               <h2 className="br-title">
-                A Progress Report on Surveys Administered to New Haven Teachers{' '}
-                <i className="fas fa fa-arrow-circle-right" />
+                <Link to="brochures/D6/index.html">
+                  A Progress Report on Surveys Administered to New Haven
+                  Teachers <i className="fas fa fa-arrow-circle-right" />
+                </Link>
               </h2>
               <p>
                 In the preface to "A Progress Report on Surveys Administered to
@@ -126,8 +143,10 @@ const HomePage = () => (
             </div>
             <div className="br-cell py-2">
               <h2 className="br-title">
-                Celebrating Teachers{' '}
-                <i className="fas fa fa-arrow-circle-right" />
+                <Link to="brochures/25th.html">
+                  Celebrating Teachers{' '}
+                  <i className="fas fa fa-arrow-circle-right" />
+                </Link>
               </h2>
               <p>
                 "Celebrating Teachers," the program for the Institute's 25th

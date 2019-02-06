@@ -58,11 +58,9 @@ class Navi extends React.Component {
                     className="dropdown-menu"
                     aria-labelledby="navbarDropdown"
                   >
-                    <div className="dropdown-divider" />
                     <Link className="dropdown-item" to="curriculum/indexes">
                       View index of topics
                     </Link>
-                    <div className="dropdown-divider" />
                     <Link className="dropdown-item" to="curriculum/units">
                       View resources by volume
                     </Link>
@@ -93,14 +91,12 @@ class Navi extends React.Component {
                     <Link className="dropdown-item" to="brochures/studies">
                       Studies
                     </Link>
-                    <div className="dropdown-divider" />
                     <Link
                       className="dropdown-item"
                       to="brochures/NewHavenProgram"
                     >
                       New Haven Program
                     </Link>
-                    <div className="dropdown-divider" />
                     <Link
                       className="dropdown-item"
                       to="brochures/nationdemonstrationpj"
@@ -128,11 +124,9 @@ class Navi extends React.Component {
                     <Link className="dropdown-item" to="pubs/periodical">
                       Periodical
                     </Link>
-                    <div className="dropdown-divider" />
                     <Link className="dropdown-item" to="pubs/books">
                       Books
                     </Link>
-                    <div className="dropdown-divider" />
                     <Link
                       className="dropdown-item"
                       to="brochures/CenterManual/index"
@@ -160,28 +154,24 @@ class Navi extends React.Component {
                     <Link className="dropdown-item" to="event-proceedings">
                       Conferences
                     </Link>
-                    <div className="dropdown-divider" />
                     <Link
                       className="dropdown-item"
                       to="event-proceedings/endowment"
                     >
                       Endowment
                     </Link>
-                    <div className="dropdown-divider" />
                     <Link
                       className="dropdown-item"
                       to="event-proceedings/news-conferences"
                     >
                       News Conferences
                     </Link>
-                    <div className="dropdown-divider" />
                     <Link
                       className="dropdown-item"
                       to="brochures/25thTranscript.html "
                     >
                       25th Anniversary
                     </Link>
-                    <div className="dropdown-divider" />
                     <Link className="dropdown-item" to="congressional.html">
                       Congressional Hearings
                     </Link>
@@ -214,26 +204,21 @@ class Navi extends React.Component {
                     >
                       Annual Brochure
                     </Link>
-                    <div className="dropdown-divider" />
                     <Link className="dropdown-item" to="brochures/A6.html">
                       Policies, Structure, and Procedures
                     </Link>
-                    <div className="dropdown-divider" />
                     <Link className="dropdown-item" to="brochures/A9.html">
                       Awards and Recognition
                     </Link>
-                    <div className="dropdown-divider" />
                     <Link
                       className="dropdown-item"
                       to="brochures/video-programs.html"
                     >
                       Video Programs
                     </Link>
-                    <div className="dropdown-divider" />
                     <Link className="dropdown-item" to="articles/index.html">
                       Published Essays
                     </Link>
-                    <div className="dropdown-divider" />
                     <Link className="dropdown-item" to="/comments.html">
                       Contact Us
                     </Link>

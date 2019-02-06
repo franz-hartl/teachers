@@ -1,5 +1,18 @@
 import React from 'react'
 import { Link } from 'gatsby'
+import { IconContext } from 'react-icons'
+import {
+  FaArrowRight,
+  FaArrowLeft,
+  FaArrowUp,
+  FaDrupal,
+  FaAngleLeft,
+  FaAngleRight,
+  FaDownload,
+  FaFilePdf,
+  FaPrint,
+  FaEnvelope,
+} from 'react-icons/fa'
 
 class NavControls extends React.Component {
   render() {
@@ -18,7 +31,7 @@ class NavControls extends React.Component {
           role="button"
           aria-disabled="true"
         >
-          <i className="fas fa fa-arrow-left" /> Previous
+          <FaArrowLeft /> Previous{' '}
         </Link>
         <Link
           to={`${nextPath ? nextPath : '/'}`}
@@ -28,8 +41,7 @@ class NavControls extends React.Component {
           role="button"
           aria-pressed="true"
         >
-          Next
-          <i className="fas fa fa-arrow-right" />
+          Next <FaArrowRight />
         </Link>
         <a
           href="#"
@@ -38,8 +50,7 @@ class NavControls extends React.Component {
           role="button"
           aria-pressed="true"
         >
-          Back to Top
-          <i className="fas fa fa-arrow-up" />
+          Back to Top <FaArrowUp />
         </a>
       </div>
     )
