@@ -39,7 +39,10 @@ class UnitTemplate extends React.Component {
                     </p>
                     <React_icons />
                     <Survey_feedback />
-                    <h2 className="guide-title">{pageHtml.title}</h2>
+                    <h2
+                      className="guide-title"
+                      dangerouslySetInnerHTML={{ __html: pageHtml.title }}
+                    />
                     <div dangerouslySetInnerHTML={{ __html: pageHtml.html }} />
                     <NavControls navData={navData} pageIndex={pageIndex} />
                   </div>
@@ -155,7 +158,10 @@ const getPageHtml = (pageIndex, pagePath, html) => {
       // unit page < 2015
       let p = pages[pageIndex + 1].split('</h3>')
       if (p.length > 1) {
-        page = { title: p[0].split('<h3>')[1].trim(), html: p[1].trim() }
+        var title = p[0].split('<h3>')[1].trim()
+        // remove all html tags in the title, except <sup>
+        //title = title.replace(/<\/?(?!(?:sup)\b)[a-z](?:[^>'"])*>/g, '')
+        page = { title: title, html: p[1].trim() }
       } else {
         let title = pages[1]
           .split('<li>')

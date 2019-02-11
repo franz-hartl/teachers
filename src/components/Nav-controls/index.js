@@ -5,7 +5,6 @@ import {
   FaArrowRight,
   FaArrowLeft,
   FaArrowUp,
-  FaDrupal,
   FaAngleLeft,
   FaAngleRight,
   FaDownload,
