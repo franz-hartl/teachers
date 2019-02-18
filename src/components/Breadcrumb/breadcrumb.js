@@ -11,36 +11,52 @@ class Breadcrumb extends React.Component {
       <div className="tr_breadcrumb mt-2">
         <span>
           <Link to="/curriculum/index.html">Curricular</Link>
-        </span>{' '}
-        >
+        </span>
+        {' > '}
         <span>
           <Link
             to={`/curriculum/units/${String(unitPaths.year)}/${String(
               unitPaths.volume
             )}`}
           >
-            {' '}
             {unitPaths.year} Volume {unitPaths.volume}
           </Link>
-        </span>{' '}
-        >
-        <span>
-          <Link to={`${String(unitPaths.unitGuidePath)}`}>
-            {' '}
-            Unit {unitPaths.unitNum} ({unitPaths.unitName})
-          </Link>
-        </span>{' '}
-        >
-        <span>
-          {' '}
-          {`Section ${unitPaths.pageNum ? unitPaths.pageNum : 'Unit Guide'}`}
         </span>
+        {' > '}
+        <VolumeUnitBreadcrumbs unitPaths={unitPaths} />
       </div>
     )
   }
 }
 
 export default Breadcrumb
+
+const VolumeUnitBreadcrumbs = ({ unitPaths }) => {
+  // return(
+  //   <h1>here {unitPaths.unitName}</h1>
+  // )
+  if (/(preface|intro)/.test(unitPaths.unitName)) {
+    return (
+      <span>
+        {`${/(preface)/.test(unitPaths.unitName) ? 'Preface' : 'Intro'}`}
+      </span>
+    )
+  } else {
+    return (
+      <span>
+        <span>
+          <Link to={`${String(unitPaths.unitGuidePath)}`}>
+            Unit {unitPaths.unitNum} ({unitPaths.unitName})
+          </Link>
+        </span>
+        {' > '}
+        <span>
+          {`Section ${unitPaths.pageNum ? unitPaths.pageNum : 'Unit Guide'}`}
+        </span>
+      </span>
+    )
+  }
+}
 
 function getUnitPaths(unitPath) {
   var dirname = path.dirname(unitPath)

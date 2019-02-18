@@ -76,18 +76,21 @@ export const VolumeQuery = graphql`
 const getVolNavData = nav => {
   const itemsCount = nav.length
   var volNavItems = []
+  // add preface link
   volNavItems.push({
     path: nav[itemsCount - 1].node.frontmatter.path,
     title: nav[itemsCount - 1].node.frontmatter.unitTitle,
     author: nav[itemsCount - 1].node.frontmatter.unitAuthor,
   })
+  // add intro link
   volNavItems.push({
     path: nav[itemsCount - 2].node.frontmatter.path,
     title: nav[itemsCount - 2].node.frontmatter.unitTitle,
     author: nav[itemsCount - 2].node.frontmatter.unitAuthor,
   })
 
-  for (let i = 0; i <= nav.length - 2; i++) {
+  // add links to units in volume
+  for (let i = 0; i < nav.length - 2; i++) {
     volNavItems.push({
       path: nav[i].node.frontmatter.path,
       title: nav[i].node.frontmatter.unitTitle,
