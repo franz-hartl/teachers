@@ -26,7 +26,7 @@ class Navi extends React.Component {
               className="navbar-toggler"
               type="button"
               onClick={this.toggleNavbar}
-              data-toggle="collapsed"
+              data-toggle="collapse"
               data-target="#navbarNav"
               aria-controls="navbarNav"
               aria-expanded="false"
@@ -46,11 +46,12 @@ class Navi extends React.Component {
                 <li className="nav-item dropdown">
                   <Link
                     className="nav-link dropdown-toggle"
-                    id="navbarDropdownMenuLink"
+                    id="navbarDropdown"
                     data-toggle="dropdown"
                     aria-expanded="false"
                     aria-haspopup="true"
                     to="curriculum"
+                    role="button"
                   >
                     Curricular Resources
                   </Link>

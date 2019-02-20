@@ -52,9 +52,8 @@ const Footer = () => (
         <p className="copyright">
           <a
             target="_blank"
-            href="https:/usability.yale.edu/web-accessibility/accessibility-yale"
+            href="https://usability.yale.edu/web-accessibility/accessibility-yale"
           >
-            {' '}
             Accessibility at Yale
           </a>{' '}
           &middot; <Link to="terms">Terms of Use</Link> &copy;{' '}

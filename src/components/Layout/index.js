@@ -7,14 +7,8 @@ import Logo from 'components/Logo'
 import Search from 'components/Search'
 import { siteMetadata } from '../../../gatsby-config'
 
-//import 'modern-normalize/modern-normalize.css'
 import 'prismjs/themes/prism.css'
 import 'scss/gatstrap.scss'
-//import 'animate.css/animate.css'
-
-//import '../fonts/YaleNew/'
-//import '../fonts/TheSans/'
-//import './yale-fonts.css'
 import './newStyle.css'
 
 class Layout extends React.Component {

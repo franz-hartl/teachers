@@ -19,7 +19,11 @@ const NationalDePage = () => (
           <div className="col-sm-8 left-panel">
             <ul>
               <li>
-                <strong>A National Demonstration Project, 1999</strong>
+                <strong>
+                  <Link to="/ndp/ndp1999.html">
+                    A National Demonstration Project, 1999
+                  </Link>
+                </strong>
                 <p>
                   The report describes the establishment and purposes of a
                   National Demonstration Project including the site visits that
@@ -31,8 +35,10 @@ const NationalDePage = () => (
               </li>
               <li>
                 <strong>
-                  A National Demonstration Project: Aims and Current
-                  Accomplishments, 2000{' '}
+                  <Link to="/ndp/NDP.html">
+                    A National Demonstration Project: Aims and Current
+                    Accomplishments, 2000{' '}
+                  </Link>
                 </strong>
                 <p>
                   The report describes the establishment of four new Teachers

@@ -11,12 +11,12 @@ const periodicalPage = () => (
           <i>On Common Ground </i> is published in print and online. It is
           concerned with the development of teachers and of their curricula
           through school-university partnerships. Its title, which derives from
-          that of the first book on the Institute's work, Teaching in America:
-          The Common Ground, is intended to suggest that university faculty and
-          school teachers have a strong mutual interest in the improvement of
-          teaching and learning in schools. Since 2005 the periodical has
-          focused on the work of the Yale National Initiative to strengthen
-          teaching in public schools.
+          that of the first book on the Institute's work,{' '}
+          <i>Teaching in America: The Common Ground</i>, is intended to suggest
+          that university faculty and school teachers have a strong mutual
+          interest in the improvement of teaching and learning in schools. Since
+          2005 the periodical has focused on the work of the Yale National
+          Initiative to strengthen teaching in public schools.
         </p>
         <div className="row mt-4">
           <div className="col-sm-11 left-panel">
