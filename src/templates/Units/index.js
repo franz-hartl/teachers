@@ -17,6 +17,7 @@ class UnitTemplate extends React.Component {
       unitPage.html
     )
     const navData = getUnitNavItems(unitNav.frontmatter.path, unitNav.html)
+    const isGuide = unitPage.frontmatter.path.split('/')[2] == 'guides'
 
     return (
       <Layout>
@@ -38,7 +39,7 @@ class UnitTemplate extends React.Component {
                       {unitPage.frontmatter.unitAuthor}
                     </p>
                     <React_icons />
-                    <Survey_feedback />
+                    {!isGuide && <Survey_feedback />}
                     <h2
                       className="guide-title"
                       dangerouslySetInnerHTML={{ __html: pageHtml.title }}
@@ -191,6 +192,7 @@ const getPageHtml = (pageIndex, pagePath, html) => {
           title = pages[pageIndex].split('</h1>')[0].trim()
           // if the title is wrapped in a <strong> tag then remove it
           title = title.replace(/\s*<[/]?strong>\s*/gi, '')
+          title = title.replace(/\s*<[/]?span>\s*/gi, '')
         } catch (err) {
           // console.log('***ERROR*** finding title on page: ' + err)
         }

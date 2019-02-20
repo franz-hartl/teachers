@@ -10,7 +10,7 @@ class Breadcrumb extends React.Component {
     return (
       <div className="tr_breadcrumb mt-2">
         <span>
-          <Link to="/curriculum/index.html">Curricular</Link>
+          <Link to="/curriculum/units/">Curricular</Link>
         </span>
         {' > '}
         <span>

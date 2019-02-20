@@ -28,7 +28,7 @@ class VolumeTemplate extends React.Component {
                   <div className="unit-row">
                     <h2 className="unit-title">{page.frontmatter.unitTitle}</h2>
                     <p className="unit-author">{page.frontmatter.unitAuthor}</p>
-                    <React_icons />
+                    {/* <React_icons /> */}
                     <div dangerouslySetInnerHTML={{ __html: page.html }} />
                     <NavControls navData={navData} pageIndex={pageIndex} />
                   </div>
