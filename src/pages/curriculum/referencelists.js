@@ -65,31 +65,6 @@ const HomePage = () => (
           </div>
           <div className="col-sm-4">
             <aside className="mb-2" />
-            <div className="p-3 mt-4 block-block">
-              <p>
-                <a
-                  target="_blank"
-                  href="http://teachers.yale.edu/curriculum/sort/index.php?page=sort_by_seminar_leader&skin=h"
-                  targets="_blank"
-                >
-                  Find
-                </a>{' '}
-                curriculum units written in seminars led by each participating
-                Yale faculty member.
-              </p>
-              <p>
-                <a
-                  target="_blank"
-                  href="http://teachers.yale.edu/curriculum/index.php?skin=h"
-                >
-                  View
-                </a>{' '}
-                curriculum units prepared in national seminars at Yale by
-                teachers from existing Teachers Institutes and school districts
-                that are planning or considering the establishment of a Teachers
-                Institute.
-              </p>
-            </div>
           </div>
         </div>
       </div>

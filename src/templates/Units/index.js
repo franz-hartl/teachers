@@ -38,7 +38,6 @@ class UnitTemplate extends React.Component {
                       {unitPage.frontmatter.unitAuthor}
                     </p>
                     <React_icons />
-                    <Survey_feedback />
                     <h2
                       className="guide-title"
                       dangerouslySetInnerHTML={{ __html: pageHtml.title }}

@@ -11,7 +11,7 @@ Please send your inquiry or comment to the appropriate address below.
 > <ynhti@yale.edu>\
 > For inquiries about the Institute\'s work in New Haven.
 
-<teachers@yale.edu>
+> <teachers@yale.edu>
 
 For inquiries about the Yale National Initiative to strengthen teaching
 in public schools®.

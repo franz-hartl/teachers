@@ -177,7 +177,7 @@ body, p, span, div{
 }
 
 a:focus{
-	outline:2px solid #000;
+	outline:auto;
 }
 
 h1{

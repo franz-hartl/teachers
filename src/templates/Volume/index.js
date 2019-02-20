@@ -5,6 +5,7 @@ import Table_content from 'components/Table-contents/volumeNav'
 import Layout from 'components/Layout/index'
 import React_icons from 'components/react-icons'
 import NavControls from 'components/Nav-controls'
+import Survey_feedback from 'components/Feedback'
 
 class VolumeTemplate extends React.Component {
   render() {
@@ -29,6 +30,7 @@ class VolumeTemplate extends React.Component {
                     <h2 className="unit-title">{page.frontmatter.unitTitle}</h2>
                     <p className="unit-author">{page.frontmatter.unitAuthor}</p>
                     <React_icons />
+                    <Survey_feedback />
                     <div dangerouslySetInnerHTML={{ __html: page.html }} />
                     <NavControls navData={navData} pageIndex={pageIndex} />
                   </div>
