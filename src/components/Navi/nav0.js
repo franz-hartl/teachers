@@ -152,7 +152,10 @@ class Navi extends React.Component {
                     className="dropdown-menu"
                     aria-labelledby="navbarDropdown"
                   >
-                    <Link className="dropdown-item" to="event-proceedings">
+                    <Link
+                      className="dropdown-item"
+                      to="event-proceedings/conferences"
+                    >
                       Conferences
                     </Link>
                     <Link
@@ -186,7 +189,7 @@ class Navi extends React.Component {
                 <li className="nav-item dropdown">
                   <Link
                     className="nav-link dropdown-toggle"
-                    to="/brochures/annual-brochure.html"
+                    to="/about"
                     id="navbarDropdown"
                     role="button"
                     data-toggle="dropdown"

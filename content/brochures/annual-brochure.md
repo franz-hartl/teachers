@@ -3,6 +3,7 @@ layout: page
 title: Annual Brochure
 path: /brochures/annual-brochure.html
 ---
+
 > ##Annual Brochure
 >
 > The Institute's annual brochure describes its local program and
@@ -10,4 +11,4 @@ path: /brochures/annual-brochure.html
 > Institute's leadership, and provides participating teachers, named
 > Institute Fellows, Guidelines for development of curriculum units.
 
--   [annual brochure](http://teachersinstitute.yale.edu/brochures/A1/2018-YNHTI-Annual-Brochure.pdf)
+> [annual brochure](http://teachersinstitute.yale.edu/brochures/A1/2019-YNHTI-Annual-Brochure.pdf)

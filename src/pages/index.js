@@ -1,6 +1,6 @@
 import React from 'react'
 import { Link } from 'gatsby'
-import banner from 'components/images/u23.png'
+import banner from 'components/images/nhgreen.jpg'
 
 import Layout from 'components/Layout/index'
 
