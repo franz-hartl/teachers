@@ -198,11 +198,11 @@ const HomePage = () => (
         </p>
         <h2>10. Feedback</h2>
         <p>
-          By submitting your <a href="guestbook">Feedback</a>, you hereby grant
-          Yale an irrevocable license to use, disclose, reproduce, distribute,
-          prepare derivative works of, publicly perform and/or publicly display
-          such feedback or comments for educational, research, promotional,
-          and/or other purposes that support Yale’s mission.
+          By submitting your <Link to="guestbook">Feedback</Link>, you hereby
+          grant Yale an irrevocable license to use, disclose, reproduce,
+          distribute, prepare derivative works of, publicly perform and/or
+          publicly display such feedback or comments for educational, research,
+          promotional, and/or other purposes that support Yale’s mission.
         </p>
         <h2>Governing Law</h2>
         <p>

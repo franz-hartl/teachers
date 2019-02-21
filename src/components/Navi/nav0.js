@@ -130,7 +130,7 @@ class Navi extends React.Component {
                     </Link>
                     <Link
                       className="dropdown-item"
-                      to="brochures/CenterManual/index"
+                      to="brochures/CenterManual/index.html"
                     >
                       Institute Centers
                     </Link>
