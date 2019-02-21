@@ -157,9 +157,10 @@ const getPageHtml = (pageIndex, pagePath, html) => {
         return { title: null, html: html.trim() }
       }
       // unit page < 2015
-      let p = pages[pageIndex + 1].split('</h3>')
+      // change header tag split on h3 to h2
+      let p = pages[pageIndex + 1].split('</h2>')
       if (p.length > 1) {
-        var title = p[0].split('<h3>')[1].trim()
+        var title = p[0].split('<h2>')[1].trim()
         // remove all html tags in the title, except <sup>
         //title = title.replace(/<\/?(?!(?:sup)\b)[a-z](?:[^>'"])*>/g, '')
         page = { title: title, html: p[1].trim() }
