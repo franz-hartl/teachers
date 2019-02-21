@@ -1,6 +1,6 @@
 import React from 'react'
 import { Link } from 'gatsby'
-import logo from 'components/images/YNHTI-Logo-334x130.png'
+import logo from 'components/images/NHTI-logo.png'
 
 const Logo = () => (
   <div className="site-branding mb-3 container">
