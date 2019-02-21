@@ -175,7 +175,9 @@ body, p, span, div{
 	line-height: 24px;
 	color: #504D49;
 }
-
+.site-branding img{
+	max-width: 334px;
+}
 a:focus{
 	outline:auto;
 }
