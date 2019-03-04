@@ -6,10 +6,10 @@
   "dependencies": {
     "components": "^0.1.0",
     "gatsby": "2.0.45",
-    "gatsby-cli": "^2.4.11",
+    "gatsby-cli": "^2.4.12",
     "gatsby-image": "2.0.20",
     "gatsby-link": "2.0.6",
-    "gatsby-plugin-catch-links": "2.0.8",
+    "gatsby-plugin-catch-links": "^2.0.8",
     "gatsby-plugin-feed": "2.0.9",
     "gatsby-plugin-google-analytics": "2.0.7",
     "gatsby-plugin-manifest": "2.0.8",
@@ -86,14 +86,17 @@
   },
   "main": "n/a",
   "scripts": {
-    "build": "gatsby build",
+    "build": "node --max_old_space_size=4096 ./node_modules/.bin/gatsby build",
     "deploy": "gatsby build --prefix-paths && gh-pages -d public",
     "develop": "gatsby develop",
     "format": "prettier --write \"**/*.+(js|json|md)\"",
     "lint": "eslint --ext .js,.jsx --ignore-pattern public .",
     "lint:text": "textlint src/pages/**/index.md",
     "lint:textfix": "textlint --fix src/pages/**/index.md",
-    "test": "prettier --write \"**/*.+(js|jsx|json|css|scss)\""
+    "test": "prettier --write \"**/*.+(js|jsx|json|css|scss)\"",
+    "docbuild": "node build/copyDocs.js && node --max_old_space_size=4096 ./node_modules/.bin/gatsby build",
+    "pr-build": "node build/copyDocs.js && node --max_old_space_size=4096 ./node_modules/.bin/gatsby build --prefix-paths"
+    
   },
   "husky": {
     "hooks": {

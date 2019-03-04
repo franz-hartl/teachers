@@ -41,6 +41,7 @@ export default Table_content
 
 const NavLinks = ({ navData, activeIndex }) => {
   const listItems = navData.map(function(item, i) {
+    item.title
     if (i == 0) {
       return (
         <h3

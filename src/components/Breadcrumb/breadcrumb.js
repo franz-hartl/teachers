@@ -35,10 +35,11 @@ const VolumeUnitBreadcrumbs = ({ unitPaths }) => {
   // return(
   //   <h1>here {unitPaths.unitName}</h1>
   // )
-  if (/(preface|intro)/.test(unitPaths.unitName)) {
+  var pattern = /\d\d\.x\.html/g
+  if (!pattern.test(unitPaths.unitName)) {
     return (
       <span>
-        {`${/(preface)/.test(unitPaths.unitName) ? 'Preface' : 'Intro'}`}
+        {`${/(intro)/.test(unitPaths.unitName) ? 'Intro' : 'Preface'}`}
       </span>
     )
   } else {

@@ -3,16 +3,14 @@ import { graphql } from 'gatsby'
 import Breadcrumb from 'components/Breadcrumb/breadcrumb'
 import Table_content from 'components/Table-contents/volumeNav'
 import Layout from 'components/Layout/index'
-import React_icons from 'components/react-icons'
 import NavControls from 'components/Nav-controls'
-import Survey_feedback from 'components/Feedback'
 
 class VolumeTemplate extends React.Component {
   render() {
-    const { page } = this.props.data
     const nav = this.props.data.nav.edges
     const navData = getVolNavData(nav)
-    const pageIndex = page.frontmatter.unitTitle == 'Preface' ? 0 : 1
+    const page = this.props.pageContext.pageNode
+    const pageIndex = page.frontmatter.unitTitle == 'Introduction' ? 1 : 0
     const x = navData[1].path
     return (
       <Layout>
@@ -28,7 +26,9 @@ class VolumeTemplate extends React.Component {
                 <div className="col-sm-7 mt-3 main_content pt-2">
                   <div className="unit-row">
                     <h2 className="unit-title">{page.frontmatter.unitTitle}</h2>
-                    <p className="unit-author">{page.frontmatter.unitAuthor}</p>
+                    <p className="unit-author">
+                      {pageIndex == 0 ? '' : page.frontmatter.unitAuthor}
+                    </p>
                     {/* <React_icons /> */}
                     <div dangerouslySetInnerHTML={{ __html: page.html }} />
                     <NavControls navData={navData} pageIndex={pageIndex} />
@@ -46,16 +46,7 @@ class VolumeTemplate extends React.Component {
 export default VolumeTemplate
 
 export const VolumeQuery = graphql`
-  query UnitVolumeQuery($path: String, $navPath: String) {
-    page: markdownRemark(frontmatter: { path: { eq: $path } }) {
-      html
-      frontmatter {
-        path
-        unitVolume
-        unitTitle
-        unitAuthor
-      }
-    }
+  query UnitVolumeQuery($navPath: String) {
     nav: allMarkdownRemark(
       filter: { frontmatter: { path: { regex: $navPath } } }
       sort: { fields: [frontmatter___path], order: ASC }
@@ -79,19 +70,19 @@ const getVolNavData = nav => {
   var volNavItems = []
   // add preface link
   volNavItems.push({
+    path: nav[0].node.frontmatter.path,
+    title: nav[0].node.frontmatter.unitTitle,
+    author: nav[0].node.frontmatter.unitAuthor,
+  })
+  // add intro link
+  volNavItems.push({
     path: nav[itemsCount - 1].node.frontmatter.path,
     title: nav[itemsCount - 1].node.frontmatter.unitTitle,
     author: nav[itemsCount - 1].node.frontmatter.unitAuthor,
   })
-  // add intro link
-  volNavItems.push({
-    path: nav[itemsCount - 2].node.frontmatter.path,
-    title: nav[itemsCount - 2].node.frontmatter.unitTitle,
-    author: nav[itemsCount - 2].node.frontmatter.unitAuthor,
-  })
 
   // add links to units in volume
-  for (let i = 0; i < nav.length - 2; i++) {
+  for (let i = 1; i < nav.length - 1; i++) {
     volNavItems.push({
       path: nav[i].node.frontmatter.path,
       title: nav[i].node.frontmatter.unitTitle,
