@@ -9,7 +9,7 @@ const HomePage = () => (
         <div className="row">
           <div className="col-sm-8 mt-3">
             <div className="cr_row my-3 pr-3">
-              <h2>Reference lists of curriculum units, 1994 and 2004</h2>
+              <h2>Reference lists of curriculum units, 1999 and 2004</h2>
               <p>
                 These annotated lists were compiled by New Haven teachers, for
                 New Haven teachers. They correlate Institute-developed

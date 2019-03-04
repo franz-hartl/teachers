@@ -42,13 +42,15 @@ const HomePage = () => (
             <p>
               You can view the curriculum resources in the{' '}
               <Link to="/curriculum/indexes">index of topics</Link> or organized
-              by their containings <Link to="curriculum/units">volumes.</Link>
+              by their year and <Link to="curriculum/units">volumes.</Link>
             </p>
           </div>
           <div className="col-sm-4">
             <aside className="mb-2">
               <div className="p-3 mt-4 block-block">
-                <h2 className="block-title">Index of Curriculum Units</h2>
+                <h2 className="block-title">
+                  Topical Index of Curriculum Units
+                </h2>
                 <p>
                   Since 1978 teachers have prepared hundreds of units for
                   teaching topics in English, history and social studies,
@@ -64,13 +66,13 @@ const HomePage = () => (
                 </Link>
               </div>
               <div className="p-3 mt-4 accent block-block">
-                <h2 className="block-title">National Initiative</h2>
+                <h2 className="block-title">National Program</h2>
                 <p>
                   For more information about the Institute's work nationally,
-                  visit the{' '}
+                  visit the website of the{' '}
                   <a href="http://teachers.yale.edu/">
                     Yale National Initiative to strengthen teaching in public
-                    schools websites.
+                    schools&reg;
                   </a>
                   , a long-term effort to influence public policy on teacher
                   professional development

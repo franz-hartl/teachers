@@ -11,7 +11,6 @@ const VolumeIndexPage = () => (
         </h1>
         <div className="row mt-4">
           <div className="col-sm-11 left-panel">
-            <h2>1978-2018</h2>
             <hr />
 
             <table width="100%" border="0">

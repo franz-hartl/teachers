@@ -8,7 +8,7 @@ import Layout from 'components/Layout'
 import Page from 'templates/Page'
 
 const Template = ({ data, location }) => (
-  <div>
+  <div class="container px-5 region-content">
     <Layout location={location}>
       <Meta
         title={get(data, 'post.frontmatter.title')}

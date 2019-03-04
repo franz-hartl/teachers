@@ -30,9 +30,9 @@ const periodicalPage = () => (
               </Link>
             </p>
             <hr />
-            <h2>Teaching In New Haven: The Common Challenge, 1991</h2>
+            <h2>Teaching in New Haven: The Common Challenge, 1991</h2>
             <p>
-              <i>Teaching in New Haven: The Common Challenge (1991)</i> is a
+              <i>Teaching in New Haven: The Common Challenge </i>(1991) is a
               collection of exemplary curriculum units produced in the
               Institute. According to editor Thomas R. Whitaker, “They stand as
               examples of the distinctive process of individual curriculum

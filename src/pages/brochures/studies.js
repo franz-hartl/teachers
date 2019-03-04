@@ -31,7 +31,7 @@ const HomePage = () => (
                 showed a notable consistency over time in the experiences of
                 program participants and the outcomes they report. It concludes
                 that teacher leaders ensure that the program meets teachers’
-                needs; collegiality has consistently enriched teachers
+                needs; collegiality has consistently enriched teachers’
                 experiences; and curriculum units written in Institute seminars
                 ensure that teachers’ learning reaches their students.
               </p>

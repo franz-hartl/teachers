@@ -57,7 +57,12 @@ const Footer = () => (
             Accessibility at Yale
           </a>{' '}
           &middot; <Link to="terms">Terms of Use</Link> &copy;{' '}
-          {new Date().getFullYear()} by the Yale-New Haven Teachers Institute
+          {new Date().getFullYear()}, Yale-New Haven Teachers Institute, Yale
+          University, All Rights Reserved
+          <br />
+          Yale-New Haven Teachers Institute&reg;, Yale National Initiative&reg;,
+          On Common Ground&reg;, and League of Teachers Institutes&reg; are
+          registered trademarks of Yale University.
         </p>
       </div>
     </div>

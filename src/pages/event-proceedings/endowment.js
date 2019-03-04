@@ -39,7 +39,7 @@ const conPage = () => (
                   National Endowment for the Humanities. A{' '}
                   <Link to="transcripts/f16">transcript</Link> and{' '}
                   <a href="https://www.youtube.com/watch?v=Bjvu_HAW1HY">
-                    Video
+                    video
                   </a>{' '}
                   are available of the remarks made by the President of Yale
                   University, President of The DeWitt Wallace-Reader’s Digest

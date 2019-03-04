@@ -24,7 +24,7 @@ const NewHavenPage = () => (
                   target="_blank"
                   href="http://teachers.yale.edu/pdfs/ar/ar2009-full.pdf"
                 >
-                  2009 Annual Reports
+                  2009 Annual Report
                 </a>
               </li>
               <li>
@@ -33,7 +33,7 @@ const NewHavenPage = () => (
                   target="_blank"
                   href="http://teachers.yale.edu/pdfs/ar/ar2008-full.pdf"
                 >
-                  2008 Annual Reports
+                  2008 Annual Report
                 </a>
               </li>
               <li>
@@ -42,12 +42,12 @@ const NewHavenPage = () => (
                   target="_blank"
                   href="http://teachers.yale.edu/pdfs/ar/ar2007-full.pdf "
                 >
-                  2007 Annual Reports
+                  2007 Annual Report
                 </a>
               </li>
               <li>
                 <Link target="_blank" to="brochures/A3/2006/">
-                  2006 Annual Reports
+                  2006 Annual Report
                 </Link>
               </li>
               <li>
@@ -56,37 +56,37 @@ const NewHavenPage = () => (
                   target="_blank"
                   href="http://teachers.yale.edu/pdfs/ar/ar2004-full.pdf"
                 >
-                  2004 Annual Reports
+                  2004 Annual Report
                 </a>
               </li>
               <li>
                 <Link target="_blank" to="brochures/A3/2003/">
-                  2003 Annual Reports
+                  2003 Annual Report
                 </Link>
               </li>
               <li>
                 <Link target="_blank" to="brochures/A3/2002/">
-                  2002 Annual Reports
+                  2002 Annual Report
                 </Link>
               </li>
               <li>
                 <Link target="_blank" to="brochures/A3/2001/">
-                  2001 Annual Reports
+                  2001 Annual Report
                 </Link>
               </li>
               <li>
                 <Link target="_blank" to="brochures/A3/2000/">
-                  2000 Annual Reports
+                  2000 Annual Report
                 </Link>
               </li>
               <li>
                 <Link target="_blank" to="brochures/A3/1999/">
-                  1999 Annual Reports
+                  1999 Annual Report
                 </Link>
               </li>
               <li>
                 <Link target="_blank" to="brochures/A3/1998/">
-                  1998 Annual Reports
+                  1998 Annual Report
                 </Link>
               </li>
               <li>
@@ -95,12 +95,12 @@ const NewHavenPage = () => (
                   target="_blank"
                   href="http://teachers.yale.edu/pdfs/ar/ar1997.pdf"
                 >
-                  1997 Annual Reports
+                  1997 Annual Report
                 </a>
               </li>
               <li>
                 <Link target="_blank" to="brochures/A3/1996/">
-                  1996 Annual Reports
+                  1996 Annual Report
                 </Link>
               </li>
             </ul>

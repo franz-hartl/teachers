@@ -54,9 +54,8 @@ const pubsPage = () => (
           <div className="col-sm-6 right-panel">
             <div className="br-cell py-2">
               <h2 className="br-title">
-                <Link to="brochures/nationdemonstrationpj">
-                  Teaching in America: The Common Ground, 1984{' '}
-                  <i className="fas fa fa-arrow-circle-right" />
+                <Link to="pubs/books">
+                  Books <i className="fas fa fa-arrow-circle-right" />
                 </Link>
               </h2>
               <p>

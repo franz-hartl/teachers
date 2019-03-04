@@ -13,7 +13,7 @@ const HomePage = () => (
               <p>
                 Each curriculum unit is the product of the Fellow’s seminar
                 experience and designed to teach their own students about the
-                seminar subject. Each contains content objectives. – a clear
+                seminar subject. Each contains: content objectives – a clear
                 statement of the subject matter the unit seeks to cover;
                 teaching strategies – a unified, coherent teaching plan for
                 those objectives; classroom activities; resources for teachers
@@ -22,7 +22,7 @@ const HomePage = () => (
               </p>
             </div>
             <div className="cr_row my-3 pr-3">
-              <h2>View index of topics</h2>
+              <h2>View topical index of curriculum units</h2>
               <p>
                 Hundreds of curriculum units written since 1978 are a treasure
                 trove of ideas and procedures for teaching subjects in the
@@ -40,8 +40,12 @@ const HomePage = () => (
             <div className="cr_row my-3 pr-3">
               <h2>View resources by volume</h2>
               <p>
-                A topical index of all the units written since 1978 lists them
-                according to the three or four main topics each unit addresses.
+                The curriculum units Fellows write are their own. They are
+                compiled in a volume for each seminar. The volume contains a
+                preface that describes the organization of the seminar and an
+                introduction by the Yale faculty member who led the seminar that
+                describes what the Fellows studied in general and sometimes
+                comments on the units they wrote in particular.
               </p>{' '}
               <Link to="curriculum/units" className="btn-def">
                 View Volumes

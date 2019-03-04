@@ -188,8 +188,8 @@ const periodicalPage = () => (
                 <p>
                   Number 4 was devoted to “Partnerships in Science and
                   Technology,” Until his death in 1995, Fred M. Hechinger,
-                  former Education Editor for The New York Times, contributed a
-                  regular column “On Partnership.”{' '}
+                  former Education Editor for <i>The New York Times</i>,
+                  contributed a regular column “On Partnership.”{' '}
                 </p>
               </li>
               <li>

@@ -3,7 +3,7 @@ import Layout from 'components/Layout/index'
 
 const timePage = () => (
   <Layout>
-    <div>
+    <div class="container px-5 region-content">
       {/* <div className="container px-5 region-content"> */}
       <h1 className="page-title">
         Timeline of the Yale-New Haven Teachers Institute® and Yale National

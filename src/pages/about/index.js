@@ -25,19 +25,11 @@ const aboutPage = () => (
             </div>
             <div className="br-cell py-2">
               <h2 className="br-title">
-                <Link to="event-proceedings/news-conferences">
+                <Link to="brochures/video-programs.html">
                   Video Programs <i className="fas fa fa-arrow-circle-right" />
                 </Link>
               </h2>
-              <p>
-                This program depicts the results of the structured, intensive,
-                long-term collaboration among Yale university faculty members
-                and New Haven Public School teachers that has occurred since
-                1978 through the Yale-New Haven Teachers Institute. The
-                Institute is an educational partnership between Yale and the
-                Public Schools designed to strengthen teaching and learning in
-                the schools and, by example, in schools across the country.{' '}
-              </p>
+              <p />
             </div>
             <div className="br-cell py-2">
               <h2 className="br-title">
@@ -71,19 +63,6 @@ const aboutPage = () => (
                 <Link to="brochures/25thTranscript.html">
                   Published Essays{' '}
                   <i className="fas fa fa-arrow-circle-right" />
-                </Link>
-              </h2>
-              <p>
-                Articles written by Founding Director James R. Vivian describe
-                the Teachers Institute approach to teacher professional
-                development, the history of the Institute’s program in New
-                Haven, and its significance to Yale University.
-              </p>
-            </div>
-            <div className="br-cell py-2">
-              <h2 className="br-title">
-                <Link to="comments.html">
-                  Contact Us <i className="fas fa fa-arrow-circle-right" />
                 </Link>
               </h2>
               <p>

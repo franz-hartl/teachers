@@ -60,7 +60,7 @@ class Navi extends React.Component {
                     aria-labelledby="navbarDropdown"
                   >
                     <Link className="dropdown-item" to="curriculum/indexes">
-                      View index of topics
+                      View topical index of units
                     </Link>
                     <Link className="dropdown-item" to="curriculum/units">
                       View resources by volume
