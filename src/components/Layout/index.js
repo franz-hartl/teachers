@@ -26,8 +26,7 @@ class Layout extends React.Component {
       <div>
         <header>
           <Logo />
-          <Search />
-          {/* <Navi title={siteMetadata.title} {...this.props} /> */}
+          {/* <Search /> */}
           <Navi />
         </header>
         <div className="container py-3">{children}</div>
