@@ -5,7 +5,7 @@
   "author": "Futoshi Iwashita <jaxx2104@gmail.com>",
   "dependencies": {
     "components": "^0.1.0",
-    "gatsby": "2.0.45",
+    "gatsby": "next",
     "gatsby-cli": "^2.4.12",
     "gatsby-image": "2.0.20",
     "gatsby-link": "2.0.6",
@@ -37,7 +37,8 @@
     "react-router": "^4.3.1",
     "react-router-dom": "^4.3.1",
     "to": "^0.2.9",
-    "update": "^0.7.4"
+    "update": "^0.7.4",
+    "update-node": "^0.1.0"
   },
   "devDependencies": {
     "@fortawesome/fontawesome-svg-core": "1.2.8",
@@ -96,7 +97,6 @@
     "test": "prettier --write \"**/*.+(js|jsx|json|css|scss)\"",
     "docbuild": "node build/copyDocs.js && node --max_old_space_size=4096 ./node_modules/.bin/gatsby build",
     "pr-build": "node build/copyDocs.js && node --max_old_space_size=4096 ./node_modules/.bin/gatsby build --prefix-paths"
-    
   },
   "husky": {
     "hooks": {
