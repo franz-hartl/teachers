@@ -1,8 +1,10 @@
 import React from 'react'
-import 'scss/gatstrap.scss'
+// import 'scss/gatstrap.scss'
 import 'animate.css/animate.css'
 import 'prismjs/themes/prism-okaidia.css'
 import 'font-awesome/css/font-awesome.css'
+import 'bootstrap/dist/css/bootstrap.css'
+
 
 export default class HTML extends React.Component {
   render() {
@@ -33,6 +35,24 @@ export default class HTML extends React.Component {
   })(document, 'script');`,
             }}
           />
+          <script src="https://unpkg.com/react/umd/react.production.js" crossOrigin="true" />
+
+<script
+  src="https://unpkg.com/react-dom/umd/react-dom.production.js"
+  crossOrigin="true"
+/>
+
+<script
+  src="https://unpkg.com/react-bootstrap@next/dist/react-bootstrap.min.js"
+  crossOrigin="true"
+/>
+
+<link
+  rel="stylesheet"
+  href="https://maxcdn.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css"
+  integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS"
+  crossOrigin="anonymous"
+/>
         </head>
         <body>
           <div

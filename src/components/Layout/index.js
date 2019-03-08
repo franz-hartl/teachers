@@ -1,5 +1,5 @@
 import React from 'react'
-import emergence from 'emergence.js'
+// import emergence from 'emergence.js'
 
 import Navi from 'components/Navi/nav0'
 import Footer from 'components/Footer/footer'
@@ -8,7 +8,7 @@ import Search from 'components/Search'
 import { siteMetadata } from '../../../gatsby-config'
 
 import 'prismjs/themes/prism.css'
-import 'scss/gatstrap.scss'
+// import 'scss/gatstrap.scss'
 import './newStyle.css'
 
 class Layout extends React.Component {
