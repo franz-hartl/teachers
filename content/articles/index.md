@@ -4,12 +4,12 @@ title: Published Essays
 path: /articles/index.html
 ---
 
-> ##Published Essays
->
-> Articles written by Founding Director James R. Vivian describe the
-> Teachers Institute approach to teacher professional development, the
-> history of the Institute's program in New Haven, and its significance
-> to Yale University.
+#Published Essays
+
+Articles written by Founding Director James R. Vivian describe the
+Teachers Institute approach to teacher professional development, the
+history of the Institute's program in New Haven, and its significance
+to Yale University.
 
 - <h3><a href="C1.html">Empowering Teachers as Colleagues, 1985</a></h3>
 
