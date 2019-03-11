@@ -127,7 +127,7 @@ navbar-collapse{
 	color: #fff;
 }
 
-.navbar-expand-lg .navbar-nav a.dropdown-item:last-child{
+.navbar-expand-lg .navbar-nav a.dropdown-item:last-child, .dropdown-menu button.dropdown-item:last-child{
 	margin:0;
 }
 
