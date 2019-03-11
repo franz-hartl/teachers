@@ -42,7 +42,7 @@ const HomePage = () => (
             <p>
               You can view the curriculum resources in the{' '}
               <Link to="/curriculum/indexes">index of topics</Link> or organized
-              by their year and <Link to="curriculum/units">volumes.</Link>
+              by their year and <Link to="curriculum/units">volume.</Link>
             </p>
           </div>
           <div className="col-sm-4">
@@ -75,7 +75,7 @@ const HomePage = () => (
                     schools&reg;
                   </a>
                   , a long-term effort to influence public policy on teacher
-                  professional development
+                  professional development.
                 </p>
               </div>
             </aside>

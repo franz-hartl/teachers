@@ -45,7 +45,7 @@ const conPage = () => (
                   developing model of school-university cooperation into
                   something with a bright future, something that we at the
                   Endowment very much hope will become permanent.” A{' '}
-                  <Link to="transcripts/F3.html">transcripts</Link> and{' '}
+                  <Link to="transcripts/F3.html">transcript</Link> and{' '}
                   <a href="https://www.youtube.com/watch?v=91r2zBfXY9M">
                     video
                   </a>{' '}
