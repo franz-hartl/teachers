@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import React from 'react';
 import {
   Collapse,
@@ -15,6 +16,31 @@ import {
 export default class  extends React.Component {
   constructor(props) {
     super(props);
+=======
+import React from 'react'
+import { Link } from 'gatsby'
+import { Nav, Navbar, NavDropdown, NavItem } from 'react-bootstrap'
+
+const Navi = () => (
+ <Navbar bg="light" expand="lg">
+  <Navbar.Brand href="#home">React-Bootstrap</Navbar.Brand>
+  <Navbar.Toggle aria-controls="basic-navbar-nav" />
+  <Navbar.Collapse id="basic-navbar-nav">
+    <Nav variant="tabs" className="mr-auto">
+      <Nav.Link href="#home">Home</Nav.Link>
+      <Nav.Link href="#link">Link</Nav.Link>
+      <NavDropdown as={NavItem} href="https://www.google.com" title="Dropdown" id="basic-nav-dropdown">
+        <NavDropdown.Item href="#action/3.1">Action</NavDropdown.Item>
+        <NavDropdown.Item href="#action/3.2">Another action</NavDropdown.Item>
+        <NavDropdown.Item href="#action/3.3">Something</NavDropdown.Item>
+        <NavDropdown.Divider />
+        <NavDropdown.Item href="#action/3.4">Separated link</NavDropdown.Item>
+      </NavDropdown>
+    </Nav>
+  </Navbar.Collapse>
+</Navbar>
+)
+>>>>>>> b13fc87c64441aaf597710a86539027a793d52d0
 
     this.toggle = this.toggle.bind(this);
     this.state = {

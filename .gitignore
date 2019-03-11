@@ -6,4 +6,4 @@ public
 .cache/
 .vscode/
 .env
-*.bkup_js
+*.bkup*
