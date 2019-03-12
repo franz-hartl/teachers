@@ -212,18 +212,19 @@ exports.createPages = ({ graphql, actions }) => {
             },
           })
 
+          // Redirect preface page: 
           // if it is a preface page (not intro page) create a redirect from preface.x.html page to volume root (preface) page
-          if (!isIntro) {
-            p = pagePath.split('/')
-            if (p[4].length < 2) {
-              v = '0' + p[4]
-            } else {
-              v = p[4]
-            }
-            prefacePath =
-              pagePath + p[3].substring(2, 4) + '.' + v + '.preface.x.html'
-            createRedirect({ fromPath: prefacePath, toPath: pagePath })
-          }
+          // if (!isIntro) {
+          //   p = pagePath.split('/')
+          //   if (p[4].length < 2) {
+          //     v = '0' + p[4]
+          //   } else {
+          //     v = p[4]
+          //   }
+          //   prefacePath =
+          //     pagePath + p[3].substring(2, 4) + '.' + v + '.preface.x.html'
+          //   createRedirect({ fromPath: prefacePath, toPath: pagePath })
+          // }
         })
 
         //=======================
