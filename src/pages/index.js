@@ -1,14 +1,13 @@
 import React from 'react'
 import { Link } from 'gatsby'
 import banner from 'components/images/nhgreen.jpg'
-
 import Layout from 'components/Layout/index'
 
 const HomePage = () => (
   <Layout>
     <main>
       <div className="banner mb-3 container">
-        <img src={banner} class="img-fluid" alt="" />
+        <img src={banner} class="img-fluid" alt="Image of New Haven Green" title="New Haven Green"/>
       </div>
       <div className="container region-content">
         <div className="row">

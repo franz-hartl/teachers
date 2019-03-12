@@ -30,6 +30,8 @@ const timePage = () => (
         mozallowfullscreen
         allowfullscreen
         frameBorder="0"
+        title="Timeline of the Yale-New Haven Teachers Institute® and Yale National Initiative"
+        alt="Timeline of the Yale-New Haven Teachers Institute® and Yale National Initiative"
       />
       {/* </div> */}
       {/* <div className="row" /> */}

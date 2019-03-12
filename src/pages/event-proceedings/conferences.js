@@ -8,7 +8,7 @@ const conPage = () => (
       <div className="container px-5 region-content">
         <h1 className="page-title">Conferences</h1>
         <p>
-          ASince 1983 Yale has held series of meetings to disseminate the
+          Since 1983 Yale has held series of meetings to disseminate the
           Teachers Institute approach and to collaborate with school and
           university colleagues from around the United States
         </p>
