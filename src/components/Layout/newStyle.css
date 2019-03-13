@@ -184,7 +184,7 @@ body, p, span, div{
 .site-branding img{
 	width: 334px;
 }
-a:focus{
+a::focus{
 	outline:auto;
 	outline-style: solid;
 	outline-color: inherit;
