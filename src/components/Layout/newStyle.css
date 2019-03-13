@@ -57,8 +57,7 @@ main a{
 	text-decoration: underline;
 }
 main a:hover, footer a:hover{
-	text-shadow:1px 0 0 currentColor;
-	color:#2b50a3;
+	color:#00356b;
 }
 h2.br-title a{
 	text-decoration:none;

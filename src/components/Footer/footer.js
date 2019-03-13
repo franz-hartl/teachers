@@ -41,7 +41,7 @@ const Footer = () => (
                 <Link to="/guestbook.html">Guestbook</Link>
               </div>
               <div className="ft-menu-list">
-                <Link to="/brochures/annual-brochure.html">Participate</Link>
+                <Link to="participate">Participate</Link>
               </div>
               <div className="ft-menu-list">
                 <Link to="/comments.html">Contact Us</Link>

@@ -4,7 +4,7 @@ title: Contact Us
 path: /comments.html
 ---
 
-<h2>Contact Us </h2>
+<h1 className="page-title">Contact Us </h1>
 
 Please send your inquiry or comment to the appropriate address below.
 

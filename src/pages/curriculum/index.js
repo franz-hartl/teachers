@@ -9,7 +9,7 @@ const HomePage = () => (
         <div className="row">
           <div className="col-sm-8">
             <div className="cr_row my-3 pr-3">
-              <h2>Curricular Resources</h2>
+              <h1 className="page-title">Curricular Resources</h1>
               <p>
                 Each curriculum unit is the product of the Fellow’s seminar
                 experience and designed to teach their own students about the
