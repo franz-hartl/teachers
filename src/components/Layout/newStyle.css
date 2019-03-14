@@ -183,11 +183,15 @@ body, p, span, div{
 .site-branding img{
 	width: 334px;
 }
-a::focus{
+.logolink{
+	display: block;
+}
+a:focus{
 	outline:auto;
 	outline-style: solid;
 	outline-color: inherit;
 }
+
 a.dropdown-item:focus{
 	outline:auto;
 	outline-style: dotted;

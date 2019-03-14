@@ -27,7 +27,7 @@ const Footer = () => (
                 <Link to="/pubs">Publications</Link>
               </div>
               <div className="ft-menu-list">
-                <Link to="/">Site Map</Link>
+                <Link to="/map.x.html">Site Map</Link>
               </div>
               <div className="ft-menu-list">
                 <Link to="/event-proceedings">Event Proceedings</Link>
