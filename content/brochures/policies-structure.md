@@ -10,4 +10,4 @@ path: /brochures/A6.html
 by the Yale Corporation in September 1994, describe the Institute as a
 permanent unit of the University.
 
-- [Policies, Structure, and Procedures](http://teachersinstitute.yale.edu/brochures/A6.html)
+[Policies, Structure, and Procedures](http://teachersinstitute.yale.edu/brochures/A6.html)

@@ -57,8 +57,7 @@ main a{
 	text-decoration: underline;
 }
 main a:hover, footer a:hover{
-	text-shadow:1px 0 0 currentColor;
-	color:#2b50a3;
+	color:#00356b;
 }
 h2.br-title a{
 	text-decoration:none;
@@ -184,11 +183,20 @@ body, p, span, div{
 .site-branding img{
 	width: 334px;
 }
-a::focus{
+
+li.sitemap_list{
+	list-style:none;
+}
+
+.logolink{
+	display: block;
+}
+a:focus{
 	outline:auto;
 	outline-style: solid;
 	outline-color: inherit;
 }
+
 a.dropdown-item:focus{
 	outline:auto;
 	outline-style: dotted;

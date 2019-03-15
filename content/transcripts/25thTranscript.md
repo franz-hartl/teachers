@@ -4,8 +4,8 @@ title: 25th Anniversary of the Yale-New Haven Teachers Institute
 path: /brochures/25thTranscript.html
 ---
 
-<H2><A NAME="top"></A>“Celebrating Teachers” 
-<BR>25<SUP>th</SUP> Anniversary of the Yale-New Haven Teachers Institute</H2>
+<h1 className="page-title"><A NAME="top"></A>“Celebrating Teachers” 
+<BR>25<SUP>th</SUP> Anniversary of the Yale-New Haven Teachers Institute</h1>
 
 <H3>Omni Hotel
 <BR>New Haven, Connecticut

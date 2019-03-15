@@ -27,7 +27,7 @@ const Footer = () => (
                 <Link to="/pubs">Publications</Link>
               </div>
               <div className="ft-menu-list">
-                <Link to="/">Site Map</Link>
+                <Link to="/map.x.html">Site Map</Link>
               </div>
               <div className="ft-menu-list">
                 <Link to="/event-proceedings">Event Proceedings</Link>
@@ -41,7 +41,7 @@ const Footer = () => (
                 <Link to="/guestbook.html">Guestbook</Link>
               </div>
               <div className="ft-menu-list">
-                <Link to="/brochures/annual-brochure.html">Participate</Link>
+                <Link to="participate">Participate</Link>
               </div>
               <div className="ft-menu-list">
                 <Link to="/comments.html">Contact Us</Link>

@@ -7,9 +7,8 @@ const HomePage = () => (
     <main>
       <div className="container region-content">
         <div className="row">
-          <div className="col-sm-8 mt-3">
-            <div className="cr_row my-3 pr-3">
-              <h2>Reference lists of curriculum units, 1999 and 2004</h2>
+            <div className="cr_row pr-3">
+              <h1 className="page-title">Reference lists of curriculum units, 1999 and 2004</h1>
               <p>
                 These annotated lists were compiled by New Haven teachers, for
                 New Haven teachers. They correlate Institute-developed
@@ -66,7 +65,6 @@ const HomePage = () => (
           <div className="col-sm-4">
             <aside className="mb-2" />
           </div>
-        </div>
       </div>
     </main>
   </Layout>
