@@ -1,5 +1,4 @@
 import React from 'react'
-// import emergence from 'emergence.js'
 
 import Navi from 'components/Navi/nav'
 import Footer from 'components/Footer/footer'
@@ -8,11 +7,10 @@ import Search from 'components/Search'
 import { siteMetadata } from '../../../gatsby-config'
 
 import 'prismjs/themes/prism.css'
-// import 'scss/gatstrap.scss'
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './newStyle.css'
 import { Link } from 'gatsby'
-// import { Link } from 'node_modules/gatsby/index';
+import Index from 'components/react-icons/backtoTop.js'
 
 class Layout extends React.Component {
   // componentDidMount() {
@@ -35,6 +33,7 @@ class Layout extends React.Component {
         </header>
         <div className="container py-3" id="content">{children}</div>
         <Footer />
+        <Index />
       </div>
     )
   }

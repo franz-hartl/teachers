@@ -7,7 +7,7 @@ const Meta = ({ site, title }) => {
   title = title ? `${title} | ${siteTitle}` : siteTitle
   return (
     <Helmet
-      title={title}
+      title={"Yale New Haven Teachers Institute"}
       meta={[
         { name: 'twitter:card', content: 'summary' },
         {

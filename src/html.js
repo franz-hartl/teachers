@@ -12,6 +12,7 @@ export default class HTML extends React.Component {
       <html lang="en">
         <head>
           <meta charSet="utf-8" />
+          <title>Yale-New Haven Teachers Institute</title>
           <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
           <meta
             name="viewport"
@@ -36,7 +37,6 @@ export default class HTML extends React.Component {
             }}
           />
         </head>
-        <title>Yale-New Haven Teachers Institute</title>
         <body>
           <div
             id="___gatsby"
