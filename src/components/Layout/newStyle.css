@@ -283,7 +283,9 @@ h1.volume-title{
 	padding-top:12px;
 	margin-top:1em;
 }
-
+p{
+	margin-top:1rem;
+}
 /* Aside blocks style*/
 .block-block{
 	border:1px solid #504d49;

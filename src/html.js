@@ -36,6 +36,7 @@ export default class HTML extends React.Component {
             }}
           />
         </head>
+        <title>Yale-New Haven Teachers Institute</title>
         <body>
           <div
             id="___gatsby"

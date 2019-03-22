@@ -60,6 +60,14 @@ module.exports = {
     {
       resolve: 'gatsby-transformer-remark',
       options: {
+          // CommonMark mode (default: true)
+          commonmark: false,
+          // Footnotes mode (default: true)
+          footnotes: false,
+          // Pedantic mode (default: true)
+          pedantic: false,
+          // GitHub Flavored Markdown mode (default: true)
+          gfm: false,
         plugins: [
           {
             resolve: 'gatsby-remark-images',
