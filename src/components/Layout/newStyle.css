@@ -169,13 +169,9 @@ navbar-collapse{
 .ScrollUpButton__Container{
 	background-color: #ddd !important;
 	fill: #504d49 !important;
-	right: 100px !important;
-	opacity: 0.8 !important;
+	right: 100px !important;	
 }
 
-.ScrollUpButton__Container:hover{
-	opacity: 1 !important;
-}
 
 /* Search */
 .form-inline {

@@ -13,7 +13,7 @@ export default class Index extends React.Component {
        ContainerClassName='ScrollUpButton__Container'
        TransitionClassName='ScrollUpButton__Toggled'
        style={{}}
-       alt="Back to Top Button"
+       alt="Back to Top"
        ToggledStyle={{}}/>
       </div>
     );
