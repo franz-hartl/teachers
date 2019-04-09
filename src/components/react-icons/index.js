@@ -1,7 +1,9 @@
 import React from 'react'
 import { IconContext } from 'react-icons'
 import { Link } from 'gatsby'
+import { withPrefix } from 'gatsby'
 const path = require('path')
+// import { Document, Page } from 'react-pdf'
 
 import {
   FaArrowRight,
@@ -35,24 +37,32 @@ class React_icons extends React.Component {
         <IconContext.Provider value={{ color: '#2B50A3', size: '3em' }}>
           <p class="my-2 mb-3">
             <div>
-              <button
+              <a href="#"
                 className="share_btn"
                 alt="share email link"
                 title="share email link"
                 onClick={this.handleClick}
               >
                 <FaEnvelope />
-              </button>
-              <a href={'/curriculum/units/files/18.02.06.pdf'}
+              </a>
+              <a href={'/curriculum/' + dlUnitPaths.printUnit + '/files/' + dlUnitPaths.pdfDownload + '.pdf'}
                 download
-                className="dl_pdf share_btn"
+                className="dl_pdf middle-icon share_btn"
                 alt="download entire guide pdf"
                 title="download pdf"
                 id="download-pdf"
                 >
               <FaDownload />
               </a>
+              <a href={'/curriculum/' + dlUnitPaths.printUnit + '/files/' + dlUnitPaths.pdfDownload + '.pdf'}
+               className="share_btn print_pdf"
+               alt="print pdf version"
+               title="print pdf version"
+               id="print-pdf"
+               taret="_blank"
+               >
               <FaPrint />
+              </a>
             </div>
           </p>
         </IconContext.Provider>
@@ -73,13 +83,16 @@ function getdlUnitPaths(dlUnitPath){
 
   var str = pathSplit[4];
   var pdfDownload = str.replace(reg,'');  // Remove .x.html
-  var pdfdownloadlink ='/curriculum/units/files/' + pdfDownload + '.pdf';
-
-  //alert(pdfDownload);
+  
+  if (pathSplit[1] == "units"){
+    var printUnit ='units';
+  }
+  else{
+    var printUnit = 'guides';
+  }
 
   return{
-    pdfdownloadlink : pdfdownloadlink,
     pdfDownload : pdfDownload,
-    str : str
+    printUnit : printUnit
   }
 }

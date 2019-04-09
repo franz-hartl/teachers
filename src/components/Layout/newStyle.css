@@ -283,6 +283,9 @@ h1.volume-title{
 	font-size:33px;
 	margin:0.5rem 0;
 }
+h1.page-not-found{
+	color: #222222;
+}
 .main_content h2.unit-title, h2.guide-title{
 	border-top: 1px solid #504D49;
 	padding-top:12px;
@@ -371,7 +374,11 @@ text-shadow: none;
 }
 .share_btn{
 	border: 0;
+	font-size: 12px;
     background-color:#fff;
+}
+.middle-icon{
+	margin: 0 8px;
 }
 
 .btn-def{
