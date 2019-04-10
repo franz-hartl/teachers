@@ -27,7 +27,7 @@ const HomePage = () => (
                 Hundreds of curriculum units written since 1978 are a treasure
                 trove of ideas and procedures for teaching subjects in the
                 humanities and in STEM fields in grades K-12. Each teaching unit
-                is designated by three two-digit numbers. The Index does not
+                is designated by three two-digit numbers(e.g. 99.01.01). The Index does not
                 indicate whether the units are primarily for elementary or
                 secondary school grades because a great many of the units,
                 whatever their original audience, are readily adaptable for use
@@ -38,7 +38,7 @@ const HomePage = () => (
               </Link>
             </div>
             <div className="cr_row my-3 pr-3">
-              <h2>View resources by volume</h2>
+              <h2>View list of volumes by year</h2>
               <p>
                 The curriculum units Fellows write are their own. They are
                 compiled in a volume for each seminar. The volume contains a

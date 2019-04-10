@@ -8,13 +8,26 @@ const conPage = () => (
       <div className="container px-5 region-content">
         <h1 className="page-title">Conferences</h1>
         <p>
-          Since 1983 Yale has held series of meetings to disseminate the
+          Since 1983 Yale has held a series of meetings to disseminate the
           Teachers Institute approach and to collaborate with school and
-          university colleagues from around the United States
+          university colleagues from around the United States.
         </p>
         <div className="row mt-4">
           <div className="col-sm-11 left-panel">
             <ul>
+              <li>
+                <strong>
+                  <Link to="transcripts/C16">
+                    Exploring Art and Culture in the Yale-New Haven Teachers
+                    Institute, 1992{' '}
+                  </Link>
+                </strong>
+                <p>
+                  A paper given by Jules D. Prown, Paul Mellon Professor of History of Art on teacher
+                  programs in art museums at the National Gallery of Art,
+                  Washington, D.C., on October 22-23, 1992.
+                </p>
+              </li>
               <li>
                 <strong>
                   <Link to="transcripts/F14a">
@@ -25,44 +38,13 @@ const conPage = () => (
                 <p>
                   In 1991 teams of teachers and administrators from educational
                   partnerships across the United States attended a conference
-                  focused on the content process and products of their
+                  focused on the content process, and products of their
                   collaborative efforts. A <Link to="">report</Link> on and{' '}
                   <Link to="transcripts/F14a.html">transcript</Link> of the
                   conference are available.
                 </p>
               </li>
-              <li>
-                <strong>
-                  <Link to="transcripts/C16">
-                    Exploring Art and Culture in the Yale-New Haven Teachers
-                    Institute, 1992{' '}
-                  </Link>
-                </strong>
-                <p>
-                  A paper given by Jules D. Prown at a conference on teacher
-                  programs in art museums at the National Gallery of Art,
-                  Washington, D.C., on October 22-23, 1992.
-                </p>
-              </li>
-              <li>
-                <strong>
-                  <Link to="transcripts/F14a">
-                    A panel discussion of the Institute's publication,{' '}
-                    <i>Teaching in New Haven</i>{' '}
-                  </Link>
-                </strong>
-                <p>
-                  The panel at the 1991 Conference consisted of: Thomas R.
-                  Whitaker, Professor of English, Professor of Theater Studies,
-                  Yale University; Peter P. Wegener, Professor Emeritus of
-                  Engineering and Applied Science, Yale University; William J.
-                  Derry, Drama Teacher, Comprehensive Arts Program, New Haven;
-                  Lois Van Wagner, Science Teacher, East Rock School, New Haven;
-                  Hermine E. Smikle, Mathematics Teacher, Roberto Clemente
-                  Middle School, New Haven; and Sylia D. Ducach, Foreign
-                  Language Teacher, Betsy Ross Arts Magnet School, New Haven.
-                </p>
-              </li>
+              <ul>
               <li>
                 <strong>
                   <Link to="transcripts/F14a">
@@ -75,6 +57,26 @@ const conPage = () => (
                   conference organized by the Institute and held at Yale.{' '}
                 </p>
               </li>
+              <li>
+                <strong>
+                  <Link to="transcripts/F14a">
+                    Panel discussion of the Institute's publication,{' '}
+                    <i>Teaching in New Haven, 1991</i>{' '}
+                  </Link>
+                </strong>
+                <p>
+                  A panel at the 1991 Conference consisted of: Thomas R.
+                  Whitaker, Professor of English, Professor of Theater Studies,
+                  Yale University; Peter P. Wegener, Professor Emeritus of
+                  Engineering and Applied Science, Yale University; William J.
+                  Derry, Drama Teacher, Comprehensive Arts Program, New Haven;
+                  Lois Van Wagner, Science Teacher, East Rock School, New Haven;
+                  Hermine E. Smikle, Mathematics Teacher, Roberto Clemente
+                  Middle School, New Haven; and Sylia D. Ducach, Foreign
+                  Language Teacher, Betsy Ross Arts Magnet School, New Haven.
+                </p>
+              </li>
+              </ul>
               <li>
                 <strong>
                   <Link to="transcripts/F13">
@@ -133,23 +135,15 @@ const conPage = () => (
                   Officers and College and University Presidents on “Excellence
                   in Teaching: A Common Goal.” By coming to New Haven from 38
                   states the participants made this an unprecedented national
-                  meeting of elementary and secondary and higher education. A
-                  video and <Link to="transcripts/F4.html">transcript</Link> of
-                  the video recording are available.
+                  meeting of elementary and secondary and higher education. 
                 </p>
-                <iframe
-                  width="560"
-                  height="315"
-                  src="https://www.youtube.com/embed/OlWOeScEWs8"
-                  frameborder="0"
-                  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-                  allowfullscreen
-                />
+               
                 <ul>
                   <li>
+                    <strong>
                     <Link to="transcripts/F6.html">
                       A Panel of Chiefs and Presidents
-                    </Link>
+                    </Link></strong>
                     <p>
                       Robert MacNeil, Executive Editor of the MacNeil-Lehrer
                       Report, interviewed a panel and moderated questions at the
@@ -160,10 +154,24 @@ const conPage = () => (
                       Bartlett Giamatti, President, Yale University; Craig
                       Phillips, State Superintendent of Public Instruction,
                       State of North Carolina.{' '}
+                      </p>
+                      <p>
+                      A video and <Link to="transcripts/F4.html">transcript</Link> of
+                      the video recording are available.
                     </p>
+
+                    <iframe
+                  width="560"
+                  height="315"
+                  src="https://www.youtube.com/embed/OlWOeScEWs8?"
+                  frameborder="0"
+                  allow="autoplay; encrypted-media; gyroscope; picture-in-picture"
+                  allowfullscreen
+                />
                   </li>
                   <li>
-                    <Link to="transcripts/F5.html">A Case Study</Link>
+                    <strong>
+                    <Link to="transcripts/F5.html">Case Study</Link></strong>
                     <p>
                       Transcript of a panel at the National Conference, where
                       the Yale-New Haven Teachers Institute was presented as a

@@ -7,8 +7,11 @@ const periodicalPage = () => (
     <main>
       <div className="container px-5 region-content">
         <h1 className="page-title">Books</h1>
-        <div className="row mt-4">
+        <div className="row">
           <div className="col-sm-11 left-panel">
+            <p>A first book on the Institute was published in 1984 by the College Board. A second book 
+              published in 1991 contained a collection of exemplary curriculum units produced in the Institute.
+            </p>
             <h2>Teaching in America: The Common Ground, 1984</h2>
             <p>
               The first book on the Institute,{' '}
@@ -23,12 +26,13 @@ const periodicalPage = () => (
               Foundation for the Advancement of Teaching, and Robert Kellogg,
               Dean of the College at the University of Virginia.{' '}
             </p>
-            <p>
-              <i className="fas fa fa-arrow-right" />{' '}
+            <ul>
+            <li>
               <Link className="" to="pubs/A4/">
-                Teaching In America: The Common Ground
+                Teaching in America: The Common Ground
               </Link>
-            </p>
+            </li>
+            </ul>
             <hr />
             <h2>Teaching in New Haven: The Common Challenge, 1991</h2>
             <p>
@@ -39,12 +43,13 @@ const periodicalPage = () => (
               development in which the Fellows of the Institute have been
               engaged.”
             </p>
-            <p>
-              <i className="fas fa fa-arrow-right" />{' '}
+            <ul>
+            <li>
               <Link className="" to="pubs/A5/">
                 Teaching in New Haven: The Common Challenge
               </Link>
-            </p>
+            </li>
+            </ul>
           </div>
           <div className="row" />
         </div>

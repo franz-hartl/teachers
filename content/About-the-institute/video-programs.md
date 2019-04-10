@@ -4,7 +4,11 @@ title: Video Programs
 path: /brochures/video-programs.html
 ---
 
-#Video Programs
+# Video Programs
+
+Video programs depict the annual seminar process and results of the Yale-New Haven Teachers Institute.
+
+## Teaching on Common Ground, 1995
 
 This program depicts the results of the structured, intensive,
 long-term collaboration among Yale university faculty members and New
@@ -16,7 +20,7 @@ across the country.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/z4BSGTfXAPA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-##Excellence in Teaching: Agenda for Partnership, 1997
+## Excellence in Teaching: Agenda for Partnership, 1997
 
 This program, which complements the video entitled "Teaching On
 Common Ground," provides a narrative account of the annual seminar

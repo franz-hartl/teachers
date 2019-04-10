@@ -19,7 +19,7 @@ const Footer = () => (
                 <Link to="/brochures">Reports and Evaluation</Link>
               </div>
               <div className="ft-menu-list">
-                <Link to="/brochures/annual-brochure.html">
+                <Link to="/about">
                   About the Institute
                 </Link>
               </div>

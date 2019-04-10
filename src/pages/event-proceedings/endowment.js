@@ -8,7 +8,7 @@ const conPage = () => (
       <div className="container px-5 region-content">
         <h1 className="page-title">Endowment</h1>
         <p>
-          At the completion of endowment challenge grants awarded in l990 by the
+          At the completion of endowment challenge grants awarded in 1990 by the
           DeWitt Wallace-Reader's Digest Fund and in 1991 by the National
           Endowment for the Humanities, the Yale-New Haven Teachers Institute
           became the first permanently endowed program of its type.
@@ -46,6 +46,9 @@ const conPage = () => (
                   Fund, Chairman of the National Endowment for the Humanities,
                   Superintendent of the New Haven Public Schools, and Mayor of
                   the City of New Haven.
+                </p>
+                <p>
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/Bjvu_HAW1HY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 </p>
               </li>
               <li>

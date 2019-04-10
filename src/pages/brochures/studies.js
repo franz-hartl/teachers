@@ -10,7 +10,7 @@ const HomePage = () => (
         <p>
           Results of evaluations of the Teachers Institute demonstrate that such
           collaborative programs can assist schools in specific ways. Studies
-          have shown that the Institute participation has increased teachers’
+          have shown that Institute participation has increased teachers’
           preparation in their disciplines, raised their morale, heightened
           their expectations for their students, encouraged them to remain in
           teaching in New Haven, and has, in turn, enhanced student performance.
@@ -82,7 +82,7 @@ const HomePage = () => (
                 are clearly written, accurate, and usable by another teacher.
                 “In New Haven, nearly all teachers who responded to an online
                 survey were satisfied with the units they had used…Most teachers
-                reported that compared with commercial curriculum units they
+                reported that, compared with commercial curriculum units they
                 have used, Institute units elicit the same or greater student
                 attention, interest, and motivation and lead to the same or
                 higher mastery.”

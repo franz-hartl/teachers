@@ -16,7 +16,7 @@ const pubsPage = () => (
                 </Link>
               </h2>
               <p>
-                <i>On Common Ground </i> is published in print and online. It is
+                <i>On Common Ground&reg;</i> is published in print and online. It is
                 concerned with the development of teachers and of their
                 curricula through school-university partnerships. Its title,
                 which derives from that of the first book on the Institute's
@@ -25,13 +25,13 @@ const pubsPage = () => (
                 strong mutual interest in the improvement of teaching and
                 learning in schools. Since 2005 the periodical has focused on
                 the work of the Yale National Initiative to strengthen teaching
-                in public schools.
+                in public schools&reg;.
               </p>
             </div>
             <div className="br-cell py-2">
               <h2 className="br-title">
                 <Link to="brochures/CenterManual">
-                  Centers for Curriculum and Professional Development, 2004{' '}
+                  Manual for Teachers Institute Centers for Curriculum and Professional Development, 2004{' '}
                   <i className="fas fa fa-arrow-circle-right" />
                 </Link>
               </h2>
@@ -59,18 +59,8 @@ const pubsPage = () => (
                 </Link>
               </h2>
               <p>
-                The first book on the Institute,{' '}
-                <i>Teaching In America: The Common Ground,</i> was prepared for
-                distribution initially to the Chief State School Officers,
-                college and university presidents and chancellors, and
-                government and foundation officials who attended the
-                unprecedented 1983 Conference at Yale on the role higher
-                education can and must play in strengthening teaching in
-                American schools. An expanded edition published in 1984 by the
-                College Board includes early evaluations of the Institute by
-                Ernest L. Boyer, President of the Carnegie Foundation for the
-                Advancement of Teaching, and Robert Kellogg, Dean of the College
-                at the University of Virginia.{' '}
+                A first book on the Institute was published in 1984 by the College Board. A second book published in 1991 contained a 
+                collection of exemplary curriculum units produced in the Institute.
               </p>
             </div>
           </div>

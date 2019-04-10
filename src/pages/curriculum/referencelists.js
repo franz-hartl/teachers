@@ -8,7 +8,7 @@ const HomePage = () => (
       <div className="container region-content">
         <div className="row">
             <div className="cr_row pr-3">
-              <h1 className="page-title">Reference lists of curriculum units, 1999 and 2004</h1>
+              <h1 className="page-title">Reference lists of curriculum units, 2001 and 2004</h1>
               <p>
                 These annotated lists were compiled by New Haven teachers, for
                 New Haven teachers. They correlate Institute-developed
@@ -19,7 +19,7 @@ const HomePage = () => (
                 <li>
                   <strong>
                     <Link to="curriculum/referencelists/elementary">
-                      Teaching in the Elementary School Classroom
+                      Teaching in the Elementary School Classroom, 2001
                     </Link>
                   </strong>
                   <p>
@@ -34,7 +34,7 @@ const HomePage = () => (
                   <strong>
                     <Link to="curriculum/referencelists/high">
                       Teaching Connecticut Academic Performance Test Skills in
-                      High School
+                      High School, 2001
                     </Link>
                   </strong>
                   <p>
@@ -48,7 +48,7 @@ const HomePage = () => (
                 <li>
                   <strong>
                     <Link to="curriculum/referencelists/diversity">
-                      Teaching about Diversity and Community
+                      Teaching about Diversity and Community, 2004
                     </Link>
                   </strong>
                   <p>

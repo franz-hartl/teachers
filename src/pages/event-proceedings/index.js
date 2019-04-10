@@ -16,9 +16,9 @@ const conPage = () => (
                 </Link>
               </h2>
               <p>
-                Since 1983 Yale has held series of meetings to disseminate the
+                Since 1983 Yale has held a series of meetings to disseminate the
                 Teachers Institute approach and to collaborate with school and
-                university colleagues from around the United States
+                university colleagues from around the United States.
               </p>
             </div>
             <div className="br-cell py-2">
@@ -44,10 +44,10 @@ const conPage = () => (
               <p>
                 In 1986, Institute Director James R. Vivian testified before the
                 United States Senate Subcommittee on Education, Arts and
-                Humanities at the invitation of Sen. Dale Bumpers (R-AK) in
+                Humanities at the invitation of Senator. Dale Bumpers (R-AK) in
                 support of “A Bill to Provide a National Program for Improving
                 the Quality of Instruction in the Humanities in Public and
-                Private Elementary Schools” introduced by Sen. Bumpers. He
+                Private Elementary Schools” introduced by Senator Bumpers. Vivian
                 offered testimony at hearings also in 1985, 1990, 1991, and
                 1992.{' '}
               </p>
@@ -57,11 +57,11 @@ const conPage = () => (
             <div className="br-cell py-2">
               <h2 className="br-title">
                 <Link to="event-proceedings/endowment">
-                  Endowment <i className="fas fa fa-arrow-circle-right" />
+                  Endowment Announcement<i className="fas fa fa-arrow-circle-right" />
                 </Link>
               </h2>
               <p>
-                At the completion of endowment challenge grants awarded in l990
+                At the completion of endowment challenge grants awarded in 1990
                 by the DeWitt Wallace-Reader's Digest Fund and in 1991 by the
                 National Endowment for the Humanities, the Yale-New Haven
                 Teachers Institute became the first permanently endowed program
@@ -76,7 +76,7 @@ const conPage = () => (
                 </Link>
               </h2>
               <p>
-                A <Link to="brochures/25th.html">program</Link> for{' '}
+                A <Link to="brochures/25th.html">program</Link> for and{' '}
                 <Link to="transcripts/25thTranscript.html">transcript</Link> of
                 the Institute’s 25th Anniversary Gala on November 13, 2002,
                 “Celebrating Teachers,” describe the Institute’s mission and

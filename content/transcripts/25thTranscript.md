@@ -46,14 +46,6 @@ path: /brochures/25thTranscript.html
 <BR>Former President of Yale University
 </P>
 
-<P><A HREF="#h">Michele Pierce</A>
-<BR>Principal
-<BR>Harriet Tubman Charter School
-</P>
-
-<P><A HREF="#i">Bill Cosby</A>
-</P>
-
 <HR>
 
 <H4><I><A NAME=a></A>Calvin Trillin</I></H4>
@@ -258,9 +250,6 @@ path: /brochures/25thTranscript.html
 
 <P>Meanwhile, may I thank you for honoring me.  And I wish each and everyone of you success in furthering the education of the youth of New Haven.  Thank you.
 </P>
-
-<DIV ALIGN=RIGHT><A HREF="#g">to the top of Howard R. Lamar's remarks</A> 
-| <A HREF="#top">to the top of Celebrating Teachers 25th Anniversary of the Yale-New Haven Teachers Institute</A></DIV>
 
 <H4><I>Calvin Trillin</I></H4>
 <P>I just want to say a word about my friend Howard Lamar as a teacher.  Among other things, I had the pleasure a few years ago of meeting Patricia Limerick, who is certainly one the most distinguished professors of Western History in America now — and who sort of again, sort of reformed the field at the University of Colorado.  I said to her, “How did you happen to get into Western History?”  And she said, “I came to Yale Graduate School to be a medievalist,” and — either she had to take a course at some time of day, or the only course open, or there was some sort of requirement, she ended up — the only course available was Howard Lamar’s seminar in Western History.  And that was the end of medievalism for Patricia Limerick.  

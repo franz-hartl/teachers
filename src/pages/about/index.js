@@ -6,7 +6,7 @@ const aboutPage = () => (
   <Layout>
     <main>
       <div className="container px-5 region-content">
-        <h1 className="page-title">About the Institute</h1>
+        <h1 className="page-title">About the Teachers Institute</h1>
         <div className="row mt-4">
           <div className="col-sm-6 left-panel">
             <div className="br-cell py-2">
@@ -17,8 +17,8 @@ const aboutPage = () => (
               </h2>
               <p>
                 The Institute’s annual brochure describes its local program and
-                schedule, contains lists of school teachers and faculty members
-                in the Institute’s leadership, and provides participating
+                schedule; contains lists of school teachers and faculty members
+                in the Institute’s leadership; and provides participating
                 teachers, named Institute Fellows, Guidelines for development of
                 curriculum units.{' '}
               </p>
@@ -29,6 +29,7 @@ const aboutPage = () => (
                   Video Programs <i className="fas fa fa-arrow-circle-right" />
                 </Link>
               </h2>
+              <p>Video programs depict the annual seminar process and results of the Yale-New Haven Teachers Institute.</p>
               <p />
             </div>
             <div className="br-cell py-2">

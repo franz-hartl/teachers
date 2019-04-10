@@ -8,7 +8,7 @@ const periodicalPage = () => (
       <div className="container px-5 region-content">
         <h1 className="page-title">Periodical</h1>
         <p>
-          <i>On Common Ground </i> is published in print and online. It is
+          <i>On Common Ground&reg;</i> is published in print and online. It is
           concerned with the development of teachers and of their curricula
           through school-university partnerships. Its title, which derives from
           that of the first book on the Institute's work,{' '}
@@ -16,7 +16,7 @@ const periodicalPage = () => (
           that university faculty and school teachers have a strong mutual
           interest in the improvement of teaching and learning in schools. Since
           2005 the periodical has focused on the work of the Yale National
-          Initiative to strengthen teaching in public schools.
+          Initiative to strengthen teaching in public schools&reg;.
         </p>
         <div className="row mt-4">
           <div className="col-sm-11 left-panel">
@@ -31,13 +31,13 @@ const periodicalPage = () => (
                   </a>
                 </strong>
                 <p>
-                  Number 16 contains a cover article, “Strengthening a Nation
+                  Number 16 contained a cover article, “Strengthening a Nation
                   through Strengthening Teaching: The Promise of America’s
-                  Teachers Institutes,” by Rogers M. Smith, which concludes that
+                  Teachers Institutes,” by Rogers M. Smith, which concluded that
                   “the Teachers Institute approach to improving teacher quality
                   [is] more essential for America today than ever before, and
                   especially for its most high need students.” The issue also
-                  includes articles by Ellen E. Kisker entitled “Updating the
+                  included articles by Ellen E. Kisker entitled “Updating the
                   Theory of Change” and “Study of Teachers Institute Curriculum
                   Units,” as well as articles by seminar leaders and National
                   Fellows on teaching curriculum units.{' '}

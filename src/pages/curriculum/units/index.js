@@ -7,7 +7,7 @@ const VolumeIndexPage = () => (
     <main>
       <div className="px-5 region-content">
         <h1 className="page-title">
-          Curriculum Units by Fellows of the Yale-New Haven Teachers Institute
+          Curriculum Units by Fellows of the <br/>Yale-New Haven Teachers Institute
         </h1>
         <div className="row mt-4">
           <div className="col-sm-11 left-panel">

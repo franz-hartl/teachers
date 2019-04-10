@@ -40,10 +40,10 @@ export default class  extends React.Component {
                 </DropdownToggle>
                 <DropdownMenu left>
                   <DropdownItem href="/curriculum/indexes">
-                    View Topical Index Of Units
+                    View Topical Index of Units
                   </DropdownItem>
                   <DropdownItem href="/curriculum/units">
-                    View Resources By Volume
+                    View List of Volumes by Year
                   </DropdownItem>
                   <DropdownItem href="/curriculum/referencelists">
                     Reference Lists
@@ -59,7 +59,7 @@ export default class  extends React.Component {
                     Studies
                   </DropdownItem>
                   <DropdownItem href="/brochures/NewHavenProgram">
-                    New Haven Program
+                    Annual New Haven Program
                   </DropdownItem>
                   <DropdownItem href="/brochures/nationdemonstrationpj">
                     National Demonstration Project
@@ -78,7 +78,7 @@ export default class  extends React.Component {
                     Books
                   </DropdownItem>
                   <DropdownItem href="/brochures/CenterManual/index.html">
-                    Institute Centers
+                    Institute Center Manual
                   </DropdownItem>
                 </DropdownMenu>
               </UncontrolledDropdown>
@@ -91,7 +91,7 @@ export default class  extends React.Component {
                     Conferences
                   </DropdownItem>
                   <DropdownItem href="/event-proceedings/endowment">
-                    Endowment
+                    Endowment Announcement
                   </DropdownItem>
                   <DropdownItem href="/event-proceedings/news-conferences">
                     News Conferences
@@ -100,7 +100,7 @@ export default class  extends React.Component {
                     25th Anniversary
                   </DropdownItem>
                   <DropdownItem href="/congressional.html">
-                    Congressional Hearing
+                    Congressional Hearings
                   </DropdownItem>
                 </DropdownMenu>
               </UncontrolledDropdown>

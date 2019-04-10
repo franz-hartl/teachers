@@ -6,7 +6,7 @@ const NewHavenPage = () => (
   <Layout>
     <main>
       <div className="container px-5 region-content">
-        <h1 className="page-title">New Haven Program</h1>
+        <h1 className="page-title">Annual New Haven Program</h1>
         <p>
           From its inception, the Institute prepared Annual Reports that
           describe the program’s operation in New Haven by drawing heavily on
