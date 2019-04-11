@@ -288,6 +288,12 @@ h1.page-not-found{
 	padding-top:12px;
 	margin-top:1em;
 }
+.contact-cell{
+	padding:1rem 1.5em;
+	border-top:1px solid #ddd;;
+	border-bottom:1px solid #ddd;;
+	}
+
 p{
 	margin-top:1rem;
 }
@@ -689,5 +695,8 @@ div.fbwrap, a.givefeedback{
 @media screen and (max-width:640px){
 	.resources-menu .ft-menu-list{
 		display: block;
+	}
+	.contact-cell{
+		padding: 5px 7px;
 	}
 }

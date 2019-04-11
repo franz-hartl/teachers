@@ -1,9 +1,7 @@
 import React from 'react'
 import { IconContext } from 'react-icons'
 import { Link } from 'gatsby'
-import { withPrefix } from 'gatsby'
 const path = require('path')
-// import { Document, Page } from 'react-pdf'
 
 import {
   FaArrowRight,
@@ -19,14 +17,7 @@ import {
 import { basename } from 'path';
 
 class React_icons extends React.Component {
-  // Click and share current page link
-  handleClick() {
-    window.location.href =
-      'mailto:?subject=' +
-      'Yale-New Haven Teacher Institute :' +
-      ' ' +
-      window.location.href
-  }
+ // Click and share current page link
 
   render() {
     const dlUnitPaths = getdlUnitPaths(this.props.unitPath)
@@ -37,11 +28,10 @@ class React_icons extends React.Component {
         <IconContext.Provider value={{ color: '#2B50A3', size: '3em' }}>
           <p class="my-2 mb-3">
             <div>
-              <a href="#"
+              <a href={'mailto:?subject=' + 'Yale-New Haven Teacher Institute ' + 'http://teachersinstitute.yale.edu' + this.props.unitPath}
                 className="share_btn"
                 alt="share email link"
                 title="share email link"
-                onClick={this.handleClick}
               >
                 <FaEnvelope />
               </a>
@@ -73,8 +63,9 @@ class React_icons extends React.Component {
 
 export default React_icons
 
+
 function getdlUnitPaths(dlUnitPath){
-  var urlPath = window.location.href;
+  var urlPath = dlUnitPath;
   var pathSplit = urlPath.split("/curriculum");
   var basePath = path.basename(urlPath);
   let reg = new RegExp(/.([h-t]|x)|l/g);

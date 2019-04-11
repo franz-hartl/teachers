@@ -32,7 +32,7 @@ class UnitTemplate extends React.Component {
                   <div className="unit-row">
                     <h2 className="unit-title">{frontmatter.unitTitle}</h2>
                     <p className="unit-author">{frontmatter.unitAuthor}</p>
-                    <React_icons />
+                    <React_icons unitPath={navData[pageIndex].path}/>
                     {!isGuide && <Survey_feedback />}
                     <h2
                       className="guide-title"

@@ -24,7 +24,7 @@ export default class HTML extends React.Component {
             rel="apple-touch-icon"
             sizes="180x180"
           />
-
+          <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf"></link>
           <link href="/img/favicon.ico" rel="icon" type="image/x-icon" />
           <script
             dangerouslySetInnerHTML={{

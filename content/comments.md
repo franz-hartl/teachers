@@ -8,14 +8,23 @@ path: /comments.html
 
 Please send your inquiry or comment to the appropriate address below.
 
-<ynhti@yale.edu>
-For inquiries about the Institute\'s work in New Haven.
-
-<teachers@yale.edu> For inquiries about the Yale National Initiative to strengthen teaching
+<table class="contact-table">
+  <tr>
+    <td class="contact-cell"><a href="mailto:ynhti@yale.edu">ynhti@yale.edu <img src="/images/envelope-regular.svg" width="13" alt="email icon"></a></td>
+    <td class="contact-cell">For inquiries about the Institute's work in New Haven.</td>
+  </tr>
+  <tr>
+    <td class="contact-cell"><a href="mailto:teachers@yale.edu">teachers@yale.edu <img src="/images/envelope-regular.svg" width="13" alt="email icon"></a></td>
+    <td class="contact-cell">For inquiries about the Yale National Initiative to strengthen teaching
 in public schools®.
-
-<common.ground@yale.edu> For inquiries about the Institute\'s periodical, *On Common
-Ground* ®*.*
+</td>
+  </tr>
+  <tr>
+    <td class="contact-cell"><a href="mailto:common.ground@yale.edu">common.ground@yale.edu <img src="/images/envelope-regular.svg" width="13" alt="email icon"></a></td>
+    <td class="contact-cell">For inquiries about the Institute's periodical, <i>On Common
+Ground®</i></td>
+  </tr>
+</table>
 
 Comments and suggestions concerning this site or the Institute may
 also be submitted through our [Guestbook
