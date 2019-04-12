@@ -39,7 +39,7 @@ export default class  extends React.Component {
                   Curricular Resources
                 </DropdownToggle>
                 <DropdownMenu left>
-                  <DropdownItem href="/curriculum/indexes">
+                  <DropdownItem href="/curriculum/indexes/">
                     View Topical Index of Units
                   </DropdownItem>
                   <DropdownItem href="/curriculum/units">
