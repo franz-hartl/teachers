@@ -17,7 +17,7 @@ const conPage = () => (
             <ul>
               <li>
                 <strong>
-                  <Link to="transcripts/C16">
+                  <Link to="transcripts/C16.html">
                     Exploring Art and Culture in the Yale-New Haven Teachers
                     Institute, 1992{' '}
                   </Link>
@@ -30,7 +30,7 @@ const conPage = () => (
               </li>
               <li>
                 <strong>
-                  <Link to="transcripts/F14a">
+                  <Link to="transcripts/F14a.html">
                     School-College Collaboration: Preparing Teachers and
                     Curricula, 1991
                   </Link>
@@ -47,7 +47,7 @@ const conPage = () => (
               <ul>
               <li>
                 <strong>
-                  <Link to="transcripts/F14a">
+                  <Link to="transcripts/F14a.html">
                     Address by Fred M. Hechinger on “The University's Neglected
                     Task,” 1991
                   </Link>
@@ -59,7 +59,7 @@ const conPage = () => (
               </li>
               <li>
                 <strong>
-                  <Link to="transcripts/F14a">
+                  <Link to="transcripts/F14a.html">
                     Panel discussion of the Institute's publication,{' '}
                     <i>Teaching in New Haven, 1991</i>{' '}
                   </Link>
@@ -79,7 +79,7 @@ const conPage = () => (
               </ul>
               <li>
                 <strong>
-                  <Link to="transcripts/F13">
+                  <Link to="transcripts/F13.html">
                     Yale Graduate School Education Department/ M.A.T. Program
                     Reunion, 1991
                   </Link>
@@ -94,7 +94,7 @@ const conPage = () => (
               </li>
               <li>
                 <strong>
-                  <Link to="transcripts/F11">
+                  <Link to="transcripts/F11.html">
                     Reaching Each Student: College Faculty An “X” Factor in
                     Educational Reform? 1990
                   </Link>
@@ -109,7 +109,7 @@ const conPage = () => (
               </li>
               <li>
                 <strong>
-                  <Link to="transcripts/C2">
+                  <Link to="transcripts/C2.html">
                     Building Integrated Teacher Education Systems Statewide,
                     1985
                   </Link>
@@ -122,7 +122,7 @@ const conPage = () => (
                 </p>
               </li>
               <li>
-                <Link to="transcripts/C2">
+                <Link to="transcripts/C2.html">
                   <strong>
                     Excellence in Teaching: A Common Goal, February 16-18, 1983
                   </strong>

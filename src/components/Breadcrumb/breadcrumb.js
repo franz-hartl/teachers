@@ -10,16 +10,14 @@ class Breadcrumb extends React.Component {
     return (
       <div className="tr_breadcrumb mt-2">
         <span>
-          <Link to="/curriculum/units/">Curricular</Link>
+          <Link to="/curriculum/">Curricular Resources</Link>
         </span>
         {' > '}
         <span>
           <Link
-            to={`/curriculum/units/${String(unitPaths.year)}/${String(
-              unitPaths.volume
-            )}`}
+            to={`/curriculum/units/${String(unitPaths.year)}/${String(unitPaths.unitNum)}`}
           >
-            {unitPaths.year} Volume {unitPaths.volume}
+            {unitPaths.year} Volume {unitPaths.volume} {unitPaths.pageNum}
           </Link>
         </span>
         {' > '}
@@ -35,14 +33,16 @@ const VolumeUnitBreadcrumbs = ({ unitPaths }) => {
   // return(
   //   <h1>here {unitPaths.unitName}</h1>
   // )
-  var pattern = /\d\d\.x\.html/g
-  if (!pattern.test(unitPaths.unitName)) {
+  var pattern = /\d\d\.\d\d$/g
+
+
+  if (!pattern.test(unitPaths.unitName)) { //if is not a unit will return intro or preface
     return (
       <span>
         {`${/(intro)/.test(unitPaths.unitName) ? 'Intro' : 'Preface'}`}
       </span>
     )
-  } else {
+  } else { // will print section number or unit guide
     return (
       <span>
         <span>
@@ -59,20 +59,24 @@ const VolumeUnitBreadcrumbs = ({ unitPaths }) => {
   }
 }
 
+// UnitPath =  curriculum/guides/2018/2/18.02.01.x.html
+
 function getUnitPaths(unitPath) {
-  var dirname = path.dirname(unitPath)
-  var basename = path.basename(unitPath)
+
+  var dirname = path.dirname(unitPath) // dirname = /curriculum/guides/2018/2
+  var basename = path.basename(unitPath) // basename = 18.02.01.x.html
   var pageNum = 0
-  var unitGuidePath
   var pathSplit
+
 
   // unitPath = /curriculum/units/1998/1/98.01.01/3/
   if (basename.match(/^[0-9]+$/) != null) {
     pageNum = parseInt(basename)
-    basename = path.basename(dirname) + '.x.html'
+    basename = path.basename(dirname)
     dirname = path.dirname(dirname)
     pathSplit = (dirname + '/' + basename).split('/')
-  } else {
+  } 
+  else {
     // unitPath = /curriculum/guides/1998/1/98.01.01.x.html
     // unitPath = /curriculum/units/1998/1/98.01.01.x.html
     pathSplit = (dirname + '/' + basename).split('/')
@@ -81,9 +85,8 @@ function getUnitPaths(unitPath) {
     }
   }
 
-  pathSplit[2] = 'guides'
-  unitGuidePath = pathSplit.join('/')
-
+  // pathSplit[2] = 'guides'
+  var unitGuidePath = pathSplit.join('/')
   return {
     pageNum: pageNum,
     year: pathSplit[3],

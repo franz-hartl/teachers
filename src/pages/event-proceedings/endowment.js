@@ -18,7 +18,7 @@ const conPage = () => (
             <ul>
               <li>
                 <strong>
-                  <Link to="brochures/A2.html/F14a">...and for New Haven</Link>
+                  <Link to="brochures/A2.html/F14a.html">...and for New Haven</Link>
                 </strong>
                 <p>
                   A brochure describes the initiative to meet the endowment
@@ -27,7 +27,7 @@ const conPage = () => (
               </li>
               <li>
                 <strong>
-                  <Link to="transcripts/f16">
+                  <Link to="transcripts/f16.html">
                     A Celebration of the Teachers Institute: Completing the
                     Challenges, 1995{' '}
                   </Link>
@@ -53,7 +53,7 @@ const conPage = () => (
               </li>
               <li>
                 <strong>
-                  <Link to="transcripts/F14a">
+                  <Link to="transcripts/F14a.html">
                     Celebration of the Permanence and Promise of the Teachers
                     Institute, 1991{' '}
                   </Link>

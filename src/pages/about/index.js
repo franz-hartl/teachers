@@ -48,7 +48,7 @@ const aboutPage = () => (
           <div className="col-sm-6 right-panel">
             <div className="br-cell py-2">
               <h2 className="br-title">
-                <Link to="brochures/A6.html">
+                <Link to="about/policies-structure-procedures">
                   Policies, Structure, and Procedures{' '}
                   <i className="fas fa fa-arrow-circle-right" />
                 </Link>

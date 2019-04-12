@@ -117,7 +117,7 @@ export default class  extends React.Component {
                   <DropdownItem href="/brochures/annual-brochure.html">
                       Annual Brochure
                   </DropdownItem>
-                  <DropdownItem href="/brochures/A6.html">
+                  <DropdownItem href="/about/policies-structure-procedures">
                     Policies, Structure, and Procedures
                   </DropdownItem>
                   <DropdownItem href="/brochures/A9.html">
