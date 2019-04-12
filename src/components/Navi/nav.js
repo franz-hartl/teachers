@@ -96,7 +96,7 @@ export default class  extends React.Component {
                   <DropdownItem href="/event-proceedings/news-conferences">
                     News Conferences
                   </DropdownItem>
-                  <DropdownItem href="/brochures/25thTranscript.html">
+                  <DropdownItem href="/brochures/25th.html">
                     25th Anniversary
                   </DropdownItem>
                   <DropdownItem href="/congressional.html">
