@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 25th Anniversary of the Yale-New Haven Teachers Institute
-path: /brochures/25thTranscript.html
+path: /transcripts/25thTranscript.html
 ---
 
 <h1 className="page-title"><A NAME="top"></A>“Celebrating Teachers” 
