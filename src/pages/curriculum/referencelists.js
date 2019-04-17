@@ -32,7 +32,7 @@ const HomePage = () => (
                 </li>
                 <li>
                   <strong>
-                    <Link to="/curriculum/referencelists/high/">
+                    <Link to="curriculum/referencelists/high/">
                       Teaching Connecticut Academic Performance Test Skills in
                       High School, 2001
                     </Link>
@@ -47,7 +47,7 @@ const HomePage = () => (
                 </li>
                 <li>
                   <strong>
-                    <Link to="/curriculum/referencelists/diversity/">
+                    <Link to="curriculum/referencelists/diversity/">
                       Teaching about Diversity and Community, 2004
                     </Link>
                   </strong>

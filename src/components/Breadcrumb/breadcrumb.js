@@ -6,7 +6,7 @@ const path = require('path')
 class Breadcrumb extends React.Component {
   render() {
     const unitPaths = getUnitPaths(this.props.unitPath)
-
+    const num = romanNumber(unitPaths.newVolume)
     return (
       <div className="tr_breadcrumb mt-2">
         <span>
@@ -15,9 +15,8 @@ class Breadcrumb extends React.Component {
         {' > '}
         <span>
           <Link
-            to={`/curriculum/units/${String(unitPaths.year)}/${String(unitPaths.unitNum)}`}
-          >
-            {unitPaths.year} Volume {unitPaths.volume} {unitPaths.pageNum}
+            to={`/curriculum/units/${String(unitPaths.year)}/${String(unitPaths.newVolume)}`}
+          > {unitPaths.year} Volume {num}
           </Link>
         </span>
         {' > '}
@@ -28,6 +27,16 @@ class Breadcrumb extends React.Component {
 }
 
 export default Breadcrumb
+
+function romanNumber(i) {
+  
+  var volumeRom= [" ", "I", "II", "III", "IV", "V", "VI", "VII", "VIII", "IX", 
+  "X", "XI", "XII"];
+
+  return volumeRom[i];
+}
+
+
 
 const VolumeUnitBreadcrumbs = ({ unitPaths }) => {
   // return(
@@ -47,7 +56,7 @@ const VolumeUnitBreadcrumbs = ({ unitPaths }) => {
       <span>
         <span>
           <Link to={`${String(unitPaths.unitGuidePath)}`}>
-            Unit {unitPaths.unitNum} ({unitPaths.unitName})
+            Unit {unitPaths.unitNum} ({unitPaths.unitName}) 
           </Link>
         </span>
         {' > '}
@@ -67,6 +76,7 @@ function getUnitPaths(unitPath) {
   var basename = path.basename(unitPath) // basename = 18.02.01.x.html
   var pageNum = 0
   var pathSplit
+  var unitNum
 
 
   // unitPath = /curriculum/units/1998/1/98.01.01/3/
@@ -85,14 +95,18 @@ function getUnitPaths(unitPath) {
     }
   }
 
+  var newVolume = unitPath.split('/')[4];
+
   // pathSplit[2] = 'guides'
   var unitGuidePath = pathSplit.join('/')
   return {
     pageNum: pageNum,
+    newVolume : parseInt(newVolume),
     year: pathSplit[3],
     volume: pathSplit[4],
     unitNum: parseInt(basename.split('.')[2]),
     unitName: basename.split('.x.html')[0],
     unitGuidePath: unitGuidePath,
   }
+
 }
