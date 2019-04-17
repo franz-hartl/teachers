@@ -279,16 +279,16 @@ const getPageCount = (pagePath, html) => {
     } else {
       // unit page >= 2015
       let s = html.substring(html.indexOf('<main>'))
-      // check if page has a narrative/intro section at the top of the page with no <h1> title
+      // check if page has a narrative/intro section at the top of the page with no <h2> title
       var narrativePage = 0
-      if (html.indexOf('<h1>') > html.indexOf('<', 5)) {
+      if (html.indexOf('<h2>') > html.indexOf('<', 5)) {
         // console.log(
-        //   '*** Page has narrative/intro with no <h1> title tag ***  -  ' +
+        //   '*** Page has narrative/intro with no <h2> title tag ***  -  ' +
         //     pagePath
         // )
         narrativePage = 1
       }
-      let items = s.split('<h1>')
+      let items = s.split('<h2>')
       let pageCount = 0
       if (items.length < 2) {
         return 1 + narrativePage
@@ -328,20 +328,20 @@ const getUnitNavItems = (path, html) => {
   } else {
     // year >= 2015
     let s = html.substring(html.indexOf('<main>'))
-    let items = s.split('<h1>')
+    let items = s.split('<h2>')
 
-    // check if page has a narrative/intro section at the top of the page with no <h1> title
-    // if so, then add a Narrative page heading to the nav
-    if (html.indexOf('<h1>') > html.indexOf('<', 5)) {
+    // check if page has a narrative/intro section at the top of the page with no <h2> title
+    // if so, then add a page heading to the nav to get back to that page (call it 'Curriculum Unit')
+    if (html.indexOf('<h2>') > html.indexOf('<', 5)) {
       // console.log(
-      //   '*** Page has narrative/intro with no <h1> title tag ***  -  '
+      //   '*** Page has narrative/intro with no <h2> title tag ***  -  '
       // )
-      pageItems.push('Narrative')
+      pageItems.push('Curriculum Unit')
     }
 
     items.shift()
     for (let item of items) {
-      item = item.split('</h1>')[0]
+      item = item.split('</h2>')[0]
       item = item.replace(/\s*<[/]?strong>\s*/gi, '')
       pageItems.push(item.trim().trim('_'))
     }
@@ -361,7 +361,7 @@ const getPageHtml = (pageIndex, pagePath, html) => {
   let year = parseInt(pagePath.split('/')[3])
   var page = {}
 
-  // unit page if index is > 0
+  // unit page if index is > 0   (guide page is index 0)
   // if (pagePath.split('/')[2] == 'units') {
   if (pageIndex > 0) {
     if (year < 2015) {
@@ -370,40 +370,50 @@ const getPageHtml = (pageIndex, pagePath, html) => {
         return { title: null, html: html.trim() }
       }
       // unit page < 2015
-      // change header tag split on h3 to h2
-      let p = pages[pageIndex + 1].split('</h2>')
-      if (p.length > 1) {
-        var title = p[0].split('<h2>')[1].trim()
-        // remove all html tags in the title, except <sup>
-        //title = title.replace(/<\/?(?!(?:sup)\b)[a-z](?:[^>'"])*>/g, '')
-        page = { title: title, html: p[1].trim() }
+      // note: changed header tag split on h3 to h2
+      // if there is an <h2> tag then get the title and content
+      let p = pages[pageIndex + 1]
+      try {
+        i = p.indexOf('<h2>')
+      }  
+      catch(err) {
+        console.log(pagePath + ' --- ' + err)
+        return { title: '--- ERROR ---', html: '' }
+      }
+      if (i >= 0) {
+        j = p.indexOf('</h2>')
+        title = p.substring(i + 4, j).trim()
+        p = p.substring(j + 5).trim()
+        page = { title: title, html: p }       
       } else {
-        let title = pages[1]
-          .split('<li>')
-          [pageIndex].split('</li>')[0]
-          .trim()
-        page = { title: title, html: p[0].trim() }
+        // don't show <h2> header if the page did not have one
+        // let title = pages[1]
+        //   .split('<li>')
+        //   [pageIndex].split('</li>')[0]
+        //   .trim()
+        page = { title: '', html: pages[pageIndex + 1].trim() }
       }
     } else {
       // unit page >= 2015
-      let pages = html.split('<h1>')
+      let pages = html.split('<h2>')
 
       var title = ''
-      // check if there is no <h1> title tag
+      // check if there is no <h2> title tag
 
       // console.log("((((((((((((((((((((( getPageHtml - HERE ))))))))))))))))))))")
       // console.log("index= " + pageIndex + "\n")
       // console.log("page: " + pages[pageIndex].slice(0, 100))
 
-      if (html.indexOf('<h1>') > html.indexOf('<', 5)) {
-        // console.log('*** Page has narrative/intro with no <h1> title tag *** ')
+      if (html.indexOf('<h2>') > html.indexOf('<', 5)) {
+        // console.log('*** Page has narrative/intro with no <h2> title tag *** ')
         pageIndex = pageIndex - 1
       }
+
       if (pageIndex == 0) {
-        page = { title: 'Narrative', html: pages[0].trim() }
+        page = { title: '', html: pages[0].trim() }
       } else {
         try {
-          title = pages[pageIndex].split('</h1>')[0].trim()
+          title = pages[pageIndex].split('</h2>')[0].trim()
           // if the title is wrapped in a <strong> tag then remove it
           title = title.replace(/\s*<[/]?strong>\s*/gi, '')
           title = title.replace(/\s*<[/]?span>\s*/gi, '')
@@ -412,7 +422,7 @@ const getPageHtml = (pageIndex, pagePath, html) => {
         }
         page = {
           title: title.trim(),
-          html: pages[pageIndex].split('</h1>')[1].trim(),
+          html: pages[pageIndex].split('</h2>')[1].trim(),
         }
         // console.log(page)
       }
