@@ -186,6 +186,10 @@ body, p, span, div{
 	width: 334px;
 }
 
+main img{
+	max-width: 100%;
+}
+
 li.sitemap_list{
 	list-style:none;
 }
