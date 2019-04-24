@@ -186,12 +186,12 @@ function flatten_pages(nodes) {
     //   indexName: `dev_teachers_volumes`,
     //   settings,
     // },
-    {
-      query: pageQuery,
-      transformer: ({ data }) => flatten_pages(data.pages.edges),
-      indexName: `dev_teachers_pages`,
-      settings,
-    },
+    // {
+    //   query: pageQuery,
+    //   transformer: ({ data }) => flatten_pages(data.pages.edges),
+    //   indexName: `dev_teachers_pages`,
+    //   settings,
+    // },
   
   ]
   
