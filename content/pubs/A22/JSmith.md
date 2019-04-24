@@ -47,5 +47,5 @@ In short, I am hooked by the concept of the Institute and especially by my concr
 ogram, step by step, sometimes almost against my will. Now, it is definitely my decision to stay with it.
 </p>
 <hr/>
-<p><a href=".\">Back to Table of Contents</a></p><p><small>© 2001 by the Yale-New Haven Teachers Institute</small></p>
+<p><a href=".\">Back to Table of Contents</a></p>
 </main>

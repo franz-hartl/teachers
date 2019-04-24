@@ -30,5 +30,4 @@ path: "/pubs/A21/maeroff.html"
 <p>The story that is written about these efforts 15 years from now may very well be the story of whether or not America is to survive as the democracy that we have known until now.  That, increasingly, is what is at stake in the schools of this country.</p>
 <hr/>
 <p><a href=".\">Back to Table of Contents</a></p>
-<p><small>© 1998 by the Yale-New Haven Teachers Institute</small></p>
 </main>

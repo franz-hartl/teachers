@@ -15,5 +15,4 @@ path: "/pubs/A21/sutherland.html"
 <p>With 37 years of experience, I easily qualify for retirement.  Though my involvement with the Yale-New Haven Teachers Institute is not the only factor that keeps me in teaching, it undeniably has played and continues to play a major role in doing so.</p>
 <hr/>
 <p><a href=".\">Back to Table of Contents</a></p>
-<p><small>© 1998 by the Yale-New Haven Teachers Institute</small></p>
 </main>

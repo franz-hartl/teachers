@@ -16,5 +16,4 @@ path: "/pubs/A21/weinstein.html"
 <p>The cornerstone of the Brown University model, "Texts and Teachers," is the fashioning of a real collaboration between school and university.  We know that this is not easy.  Assumptions about what is read and how it is approached abound in both sets of institutions, and our partnership brings the inherent differences very much out into the open.  But our experience since 1988 has been overwhelmingly positive:  professors who have never before set foot in high schools have welcomed this opportunity to take their expertise into a wider community; teachers at public and independent schools have enjoyed the intellectual stimuli of a new partnership with the academy.  Both groups have found that many of their suppositions about the "other" camp were false, and both groups have returned to their "home" bases with fresh ideas.  Ultimately, this model redefines "home" as an educational concept, and the making of these teams is a way of broadening our educational constituencies and communities.</p>
 <hr/>
 <p><a href=".\">Back to Table of Contents</a></p>
-<p><small>© 1998 by the Yale-New Haven Teachers Institute</small></p>
 </main>

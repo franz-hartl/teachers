@@ -46,5 +46,4 @@ path: "/pubs/A21/warren.html"
 <p>It is clear that partnerships are working—for colleges, for schools, for students, and for teachers.  Independent colleges and universities have accepted the challenge given to all of us—to work together to improve the quality of life for our nation's children.  </p>
 <hr/>
 <p><a href=".\">Back to Table of Contents</a></p>
-<p><small>© 1998 by the Yale-New Haven Teachers Institute</small></p>
 </main>

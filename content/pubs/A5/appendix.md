@@ -493,8 +493,4 @@ Community. She has been an Institute Fellow for five years and was a
 Coordinator for four years (1980-1984).<br/>
 </p></a><center><a name="e"></a><div align="right"><a name="e"></a><p><a name="e">
 </a><a href="#top">to the top of the Appendix</a></p></div></center>
-<hr/>
-<font size="-1">
-© 1997 by the Yale-New Haven Teachers Institute
-</font>
 </main>

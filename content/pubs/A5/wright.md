@@ -1411,8 +1411,4 @@ those who request them—it is worth getting on the list if you expect to
 teach topics in biology or genetics in the next few years. 
 </p></a><center><a name="h"></a><div align="right"><a name="h"></a><p><a name="h">
 </a><a href="#top">to the top of this chapter</a></p></div></center>
-<hr/>
-<font size="-1">
-© 1997 by the Yale-New Haven Teachers Institute
-</font>
 </main>

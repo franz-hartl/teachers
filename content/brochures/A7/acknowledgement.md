@@ -22,5 +22,4 @@ educational and career­related reform at the national level.
 <h4><a href=".\">"School-College Collaboration": Table of Contents</a> |
 <a href="..\">Brochures and Reports</a>
 </h4>
-<font size="-1">© 1997 by the Yale-New Haven Teachers Institute
-</font></main>
+</main>

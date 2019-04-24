@@ -26,11 +26,11 @@ path: "/curriculum/indexes/i.x.html"
 <font size="-1"><a href="../units/">Directory of Volumes</a> |
 <a href="..\..\">Yale-New Haven Teachers Institute</a></font></center>
 <hr/>
-<a name="immigration"><font size="+1"><b></b></font></a><p><a name="immigration"><font size="+1"><b>Immigration</b></font><br/>
+<a name="immigration"><font size="+1"><b></b></font></a><font size="+1"><b></b></font><p><font size="+1"><b><a name="immigration">Immigration (see also </a><a href="h.x.html#history">History</a>, American, Immigration)</b><br/></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
 <i>African</i><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
-<font size="-1"></font></a><font size="-1"><a href="../guides/1998/4/98.04.08.x.html">98.04.08</a></font><br/>
+<font size="-1"><a href="../guides/1998/4/98.04.08.x.html">98.04.08</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 <font size="-1"><a href="../guides/1999/3/99.03.04.x.html">99.03.04</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
@@ -56,6 +56,14 @@ path: "/curriculum/indexes/i.x.html"
 <font color="#ffffff" style="visibility:hidden;">................</font>
 <font size="-1"><a href="../guides/2009/2/09.02.07.x.html">09.02.07</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2013/2/13.02.02.x.html">13.02.02</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2013/2/13.02.04.x.html">13.02.04</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2013/2/13.02.06.x.html">13.02.06</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2013/2/13.02.11.x.html">13.02.11</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
 Drama<br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
 <font size="-1"><a href="../guides/1996/4/96.04.09.x.html">96.04.09</a></font><br/>
@@ -63,6 +71,8 @@ Drama<br/>
 Irish<br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
 <font size="-1"><a href="../guides/1990/5/90.05.07.x.html">90.05.07</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">........................</font>
+<font size="-1"><a href="../guides/2013/2/13.02.03.x.html">13.02.03</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 New Haven, Connecticut<br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
@@ -71,6 +81,10 @@ New Haven, Connecticut<br/>
 <font size="-1"><a href="../guides/1999/3/99.03.02.x.html">99.03.02</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
 <font size="-1"><a href="../guides/2006/2/06.02.03.x.html">06.02.03</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">........................</font>
+<font size="-1"><a href="../guides/2013/2/13.02.10.x.html">13.02.10</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">........................</font>
+<font size="-1"><a href="../guides/2014/2/14.02.05.x.html">14.02.05</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 of Northeast<br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
@@ -357,6 +371,10 @@ Self-Awareness<br/>
 Astronomy<br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
 <font size="-1"><a href="../guides/1996/6/96.06.03.x.html">96.06.03</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">........</font>
+<i>Use</i><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2014/1/14.01.03.x.html">14.01.03</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
 <i>Web Page Design</i><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>

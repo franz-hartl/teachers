@@ -36,6 +36,5 @@ The stages in the writing process are as follows.
 </p>
 <hr/>
 <a align="left">Return to </a><a href="index.html">Contents</a>
-<hr/>
 © 2014 by the Yale-New Haven Teachers Institute
 </main>

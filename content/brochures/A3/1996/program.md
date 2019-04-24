@@ -2133,8 +2133,4 @@ part.	<hr/>
 </i></td></tr></tbody></table>
 </a><center><a name="p"></a><div align="right"><a name="p"></a><p><a name="p"> </a><a href="#top">to the top of The Program for New Haven
 Teachers</a></p></div></center>
-<hr/>
-<font size="-1">
-© 1997 by the Yale-New Haven Teachers Institute
-</font>
 </main>

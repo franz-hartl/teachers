@@ -38,5 +38,4 @@ path: "/pubs/A21/polkinghorn.html"
 <p>The very factors that sustain the CSMP, however, are always under threat of institutional inertia and political turbulence.  Partnerships that run against convention  require constant attention.  CSMP leaders try to tend the tiller by embedding the foundational principles in internal reviews and network meetings; by cultivating strong relationships across leaders in institutions; and by engaging external evaluators in short- and long-term studies that give ourselves and others no-nonsense information about the magnitude, effectiveness, and quality of CSMP work.</p>
 <hr/>
 <p><a href=".\">Back to Table of Contents</a></p>
-<p><small>© 1998 by the Yale-New Haven Teachers Institute</small></p>
 </main>

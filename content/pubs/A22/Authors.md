@@ -25,5 +25,4 @@ path: "/pubs/A22/Authors.html"
 <p><b>Thomas R. Whitaker  </b>  is Chairman of Editorial Board.</p>
 <hr/>
 <p><a href=".\">Back to Table of Contents</a></p>
-<p><small>© 2001 by the Yale-New Haven Teachers Institute</small></p>
 </main>

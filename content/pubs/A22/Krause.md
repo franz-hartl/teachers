@@ -84,5 +84,5 @@ et regularly in a cooperative, intensively academic atmosphere to learn more abo
 skills to those who need them most. For me at least, the benefits far outweighed the costs.
 </p>
 <hr/>
-<p><a href=".\">Back to Table of Contents</a></p><p><small>© 2001 by the Yale-New Haven Teachers Institute</small></p>
+<p><a href=".\">Back to Table of Contents</a></p>
 </main>

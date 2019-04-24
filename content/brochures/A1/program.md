@@ -24,6 +24,5 @@ Upon successful completion of the Institute program, Fellows receive an honorari
 </p>
 <hr/>
 <a align="left">Return to </a><a href="index.html">Contents</a>
-<hr/>
 © 2014 by the Yale-New Haven Teachers Institute
 </main>

@@ -1282,8 +1282,4 @@ directions for growing a wide variety of crystals plus an assortment of
 things to do with the crystals you grow. Highly recommended.
 </p></a><center><a name="l"></a><div align="right"><a name="l"></a><p><a name="l">
 </a><a href="#top">to the top of this chapter</a></p></div></center>
-<hr/>
-<font size="-1">
-© 1997 by the Yale-New Haven Teachers Institute
-</font>
 </main>

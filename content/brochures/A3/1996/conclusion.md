@@ -21,5 +21,4 @@ the country over the longer term.
 <h4><a href=".\">Annual Report 1996: Table of Contents</a> |
 <a href="..\..\">Yale-New Haven Teachers Institute</a>
 </h4>
-<font size="-1">© 1997 by the Yale-New Haven Teachers Institute
-</font></main>
+</main>

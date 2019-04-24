@@ -27,7 +27,7 @@ path: "/curriculum/indexes/e.x.html"
 <a href="..\..\">Yale-New Haven Teachers Institute</a></font></center>
 <hr/>
 <a name="earthscience"><font size="+1"><b></b></font></a><font size="+1"><b></b></font><p><font size="+1"><b><a name="earthscience">Earth Science (see </a><a href="s.x.html#science">Science</a>)</b></font><br/>
-<a name="ecologyandenvironmentalscience"><font size="+1"><b></b></font></a></p><p><a name="ecologyandenvironmentalscience"><font size="+1"><b>Ecology and Environmental Science (see also </b></font></a><font size="+1"><b><a href="b.x.html#bioethics">Bioethics</a>; <a href="b.x.html#biology">Biology</a>; <a href="s.x.html#science">Science</a>)</b></font><br/>
+<a name="ecologyandenvironmentalscience"><font size="+1"><b></b></font></a></p><p><a name="ecologyandenvironmentalscience"><font size="+1"><b>Ecology and Environmental Science (see also </b></font></a><font size="+1"><b><a href="b.x.html#bioethics">Bioethics</a>; <a href="b.x.html#biology">Biology</a>; <a href="s.x.html#science">Science</a>; <a href="s.x.html#sustainability">Sustainability</a>)</b></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
 <i>Acid Rain</i><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
@@ -60,11 +60,12 @@ Environmental<br/>
 <font size="-1"><a href="../guides/1997/6/97.06.05.x.html">97.06.05</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 <font size="-1"><a href="../guides/1997/6/97.06.11.x.html">97.06.11</a></font><br/>
-<a name="ecologyandenvironmentalscience"><font size="+1"><b></b></font></a></p><p><a name="ecologyandenvironmentalscience"><font size="+1"><b>Ecology and Environmental Science </b></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
-<font size="-1"></font></a><font size="-1"><a href="../guides/1997/7/97.07.04.x.html">97.07.04</a></font><br/>
+<font size="-1"><a href="../guides/1997/7/97.07.04.x.html">97.07.04</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 <font size="-1"><a href="../guides/1999/6/99.06.04.x.html">99.06.04</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2015/3/15.03.07.x.html">15.03.07</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
 <i>Biodiversity Conservation</i><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
@@ -93,6 +94,14 @@ Environmental<br/>
 <i>Calcium Cycle</i><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 <font size="-1"><a href="../guides/1985/7/85.07.08.x.html">85.07.08</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">........</font>
+<i>Carbon Cycle</i><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2012/4/12.04.05.x.html">12.04.05</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2015/3/15.03.01.x.html">15.03.01</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2018/2/18.02.02.x.html">18.02.02</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
 <i>Cape Cod, Massachusetts</i><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
@@ -165,6 +174,8 @@ Kelsey Island<br/>
 <font size="-1"><a href="../guides/2007/4/07.04.08.x.html">07.04.08</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 <font size="-1"><a href="../guides/2007/4/07.04.09.x.html">07.04.09</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2014/2/14.02.03.x.html">14.02.03</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
 <i>Ecosystems</i><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
@@ -214,6 +225,8 @@ Kelsey Island<br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 <font size="-1"><a href="../guides/2010/3/10.03.06.x.html">10.03.06</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2013/4/13.04.02.x.html">13.04.02</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
 Aquariums/Terrariums<br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
 <font size="-1"><a href="../guides/1992/5/92.05.02.x.html">92.05.02</a></font><br/>
@@ -235,8 +248,10 @@ Mathematics of<br/>
 <font size="-1"><a href="../guides/1997/7/97.07.08.x.html">97.07.08</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 <font size="-1"><a href="../guides/2005/5/05.05.06.x.html">05.05.06</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2013/1/13.01.02.x.html">13.01.02</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
-<i>Energy</i><br/>
+<i>Energy</i> (see also <a href="e.x.html#energy">Energy</a>)<br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 <font size="-1"><a href="../guides/1995/5/95.05.05.x.html">95.05.05</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
@@ -258,7 +273,15 @@ Mathematics of<br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 <font size="-1"><a href="../guides/2010/4/10.04.07.x.html">10.04.07</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
-Conservation<br/>
+<font size="-1"><a href="../guides/2013/3/13.03.02.x.html">13.03.02</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2013/3/13.03.03.x.html">13.03.03</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2013/3/13.03.04.x.html">13.03.04</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2018/2/18.02.01.x.html">18.02.01</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+Conservation<br/> (see also <a href="s.x.html#sustainability">Sustainability</a>)<br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
 <font size="-1"><a href="../guides/1995/5/95.05.05.x.html">95.05.05</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
@@ -276,6 +299,10 @@ Crisis<br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 <font size="-1"><a href="../guides/1996/6/96.06.03.x.html">96.06.03</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
+<i>Farms</i><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2011/4/11.04.03.x.html">11.04.03</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">........</font>
 <i>Fisheries</i><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 <font size="-1"><a href="../guides/2002/5/02.05.04.x.html">02.05.04</a></font><br/>
@@ -291,6 +318,10 @@ Oyster Industry in New Haven<br/>
 <font size="-1"><a href="../guides/1987/6/87.06.04.x.html">87.06.04</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 <font size="-1"><a href="../guides/1997/7/97.07.09.x.html">97.07.09</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2011/4/11.04.05.x.html">11.04.06</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2014/4/14.04.08.x.html">14.04.08</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 Chain<br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
@@ -309,6 +340,8 @@ Health<br/>
 <font size="-1"><a href="../guides/2002/5/02.05.08.x.html">02.05.08</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
 <font size="-1"><a href="../guides/2002/5/02.05.09.x.html">02.05.09</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">........................</font>
+<font size="-1"><a href="../guides/2014/4/14.04.09.x.html">14.04.09</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 Pesticides<br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
@@ -365,6 +398,8 @@ Pesticides<br/>
 <font size="-1"><a href="../guides/1993/5/93.05.07.x.html">93.05.07</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 <font size="-1"><a href="../guides/1995/5/95.05.01.x.html">95.05.01</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2017/2/17.02.07.x.html">17.02.07</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
 <i>Global Change</i><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
@@ -404,11 +439,27 @@ Pesticides<br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 <font size="-1"><a href="../guides/2010/3/10.03.06.x.html">10.03.06</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2012/4/12.04.05.x.html">12.04.05</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2018/2/18.02.02.x.html">18.02.02</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2018/2/18.02.03.x.html">18.02.03</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2018/2/18.02.04.x.html">18.02.04</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
 Greenhouse Effect<br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
 <font size="-1"><a href="../guides/2007/4/07.04.05.x.html">07.04.05</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
 <font size="-1"><a href="../guides/2005/4/05.04.09.x.html">05.04.09</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">........................</font>
+<font size="-1"><a href="../guides/2015/3/15.03.03.x.html">15.03.03</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">........................</font>
+<font size="-1"><a href="../guides/2015/3/15.03.05.x.html">15.03.05</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">........................</font>
+<font size="-1"><a href="../guides/2015/3/15.03.06.x.html">15.03.06</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">........................</font>
+<font size="-1"><a href="../guides/2015/3/15.03.07.x.html">15.03.07</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
 <i>Hazardous Waste</i><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
@@ -439,6 +490,14 @@ Population<br/>
 <font size="-1"><a href="../guides/2005/4/05.04.09.x.html">05.04.09</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 <font size="-1"><a href="../guides/2005/5/05.05.07.x.html">05.05.07</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2015/3/15.03.03.x.html">15.03.03</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2018/2/18.02.08.x.html">18.02.08</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+on Oceans<br/>
+<font color="#ffffff" style="visibility:hidden;">........................</font>
+<font size="-1"><a href="../guides/2011/4/11.04.01.x.html">11.04.01</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
 <i>of Inland Wetlands</i><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
@@ -459,6 +518,14 @@ Connecticut<br/>
 <font size="-1"><a href="../guides/2010/3/10.03.02.x.html">10.03.02</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 <font size="-1"><a href="../guides/2010/3/10.03.05.x.html">10.03.05</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2013/4/13.04.09.x.html">13.04.09</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2015/3/15.03.04.x.html">15.03.04</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2017/2/17.02.03.x.html">17.02.03</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2017/2/17.02.05.x.html">17.02.05</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
 <i>Marshes, Saltwater</i><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
@@ -477,6 +544,8 @@ Connecticut<br/>
 <font size="-1"><a href="../guides/1997/7/97.07.10.x.html">97.07.10</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 <font size="-1"><a href="../guides/2007/4/07.04.10.x.html">07.04.10</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2017/2/17.02.09.x.html">17.02.09</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
 <i>Meteorology</i><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
@@ -517,6 +586,8 @@ Connecticut<br/>
 <font size="-1"><a href="../guides/2007/4/07.04.12.x.html">07.04.12</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 <font size="-1"><a href="../guides/2007/4/07.04.13.x.html">07.04.13</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2014/2/14.02.03.x.html">14.02.03</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
 <i>Natural Resources</i><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
@@ -543,6 +614,8 @@ Connecticut<br/>
 <font size="-1"><a href="../guides/2001/2/01.02.01.x.html">01.02.01</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 <font size="-1"><a href="../guides/2005/5/05.05.01.x.html">05.05.01</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2017/2/17.02.08.x.html">17.02.08</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 Edgewood Park<br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
@@ -647,6 +720,8 @@ of Air<br/>
 <font size="-1"><a href="../guides/2000/6/00.06.04.x.html">00.06.04</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
 <font size="-1"><a href="../guides/2003/5/03.05.01.x.html">03.05.01</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">........................</font>
+<font size="-1"><a href="../guides/2011/4/11.04.02.x.html">11.04.02</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 Hazardous Waste<br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
@@ -661,6 +736,8 @@ Hazardous Waste<br/>
 <font size="-1"><i><b>Land and Water</b></i></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................................</font>
 <font size="-1"><a href="../guides/1990/3/90.03.01.x.html">90.03.01</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................................</font>
+<font size="-1"><a href="../guides/2015/3/15.03.04.x.html">15.03.04</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 of Land<br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
@@ -679,6 +756,14 @@ Long Island Sound<br/>
 <font size="-1"><a href="../guides/1997/6/97.06.09.x.html">97.06.09</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
 <font size="-1"><a href="../guides/1997/6/97.06.10.x.html">97.06.10</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">........................</font>
+<font size="-1"><a href="../guides/2013/4/13.04.02.x.html">13.04.02</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">........................</font>
+<font size="-1"><a href="../guides/2013/4/13.04.09.x.html">13.04.09</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">........................</font>
+<font size="-1"><a href="../guides/2015/3/15.03.04.x.html">15.03.04</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">........................</font>
+<font size="-1"><a href="../guides/2017/2/17.02.05.x.html">17.02.05</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 Noise<br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
@@ -695,6 +780,8 @@ Nonpoint Source<br/>
 of Ocean<br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
 <font size="-1"><a href="../guides/1993/5/93.05.03.x.html">93.05.03</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">........................</font>
+<font size="-1"><a href="../guides/2013/3/13.03.06.x.html">13.03.06</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 Testing<br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
@@ -721,6 +808,14 @@ of Water<br/>
 <font size="-1"><a href="../guides/2003/5/03.05.08.x.html">03.05.08</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
 <font size="-1"><a href="../guides/2003/5/03.05.09.x.html">03.05.09</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">........................</font>
+<font size="-1"><a href="../guides/2011/4/11.04.01.x.html">11.04.01</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">........................</font>
+<font size="-1"><a href="../guides/2015/3/15.03.04.x.html">15.03.04</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">........................</font>
+<font size="-1"><a href="../guides/2017/2/17.02.10.x.html">17.02.10</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">........................</font>
+<font size="-1"><a href="../guides/2018/2/18.02.02.x.html">18.02.02</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
 <i>Population</i><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
@@ -741,6 +836,8 @@ Graphic Display<br/>
 <font size="-1"><a href="../guides/1999/6/99.06.03.x.html">99.06.03</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 <font size="-1"><a href="../guides/1999/6/99.06.07.x.html">99.06.07</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2015/3/15.03.07.x.html">15.03.07</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
 <i>and Racism</i><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
@@ -763,6 +860,8 @@ Graphic Display<br/>
 <font size="-1"><a href="../guides/2000/6/00.06.03.x.html">00.06.03</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 <font size="-1"><a href="../guides/2005/5/05.05.08.x.html">05.05.08</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2013/3/13.03.06.x.html">13.03.06</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 and Art<br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
@@ -797,6 +896,10 @@ The West River<br/>
 <font size="-1"><a href="../guides/2010/4/10.04.05.x.html">10.04.05</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 <font size="-1"><a href="../guides/2010/4/10.04.07.x.html">10.04.07</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2015/3/15.03.05.x.html">15.03.05</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2015/3/15.03.07.x.html">15.03.07</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
 <i>Water</i><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
@@ -833,6 +936,28 @@ The West River<br/>
 <font size="-1"><a href="../guides/2003/5/03.05.08.x.html">03.05.08</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 <font size="-1"><a href="../guides/2003/5/03.05.09.x.html">03.05.09</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2013/4/13.04.09.x.html">13.04.09</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2017/2/17.02.01.x.html">17.02.01</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2017/2/17.02.02.x.html">17.02.02</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2017/2/17.02.03.x.html">17.02.03</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2017/2/17.02.04.x.html">17.02.04</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2017/2/17.02.06.x.html">17.02.06</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2017/2/17.02.07.x.html">17.02.07</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2017/2/17.02.08.x.html">17.02.08</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2017/2/17.02.09.x.html">17.02.09</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2018/2/18.02.05.x.html">18.02.05</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2018/2/18.02.06.x.html">18.02.06</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 Cycle<br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
@@ -895,9 +1020,29 @@ Doñana National Park<br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 <font size="-1"><a href="../guides/1991/1/91.01.06.x.html">91.01.06</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2014/3/14.03.06.x.html">14.03.06</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
 Aerospace Industry<br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
 <font size="-1"><a href="../guides/1990/7/90.07.06.x.html">90.07.06</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+Inequality<br/>
+<font color="#ffffff" style="visibility:hidden;">........................</font>
+<font size="-1"><a href="../guides/2018/1/18.01.01.x.html">18.01.01</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">........................</font>
+<font size="-1"><a href="../guides/2018/1/18.01.02.x.html">18.01.02</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">........................</font>
+<font size="-1"><a href="../guides/2018/1/18.01.03.x.html">18.01.03</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">........................</font>
+<font size="-1"><a href="../guides/2018/1/18.01.04.x.html">18.01.04</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">........................</font>
+<font size="-1"><a href="../guides/2018/1/18.01.05.x.html">18.01.05</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">........................</font>
+<font size="-1"><a href="../guides/2018/1/18.01.06.x.html">18.01.06</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">........................</font>
+<font size="-1"><a href="../guides/2018/1/18.01.07.x.html">18.01.07</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">........................</font>
+<font size="-1"><a href="../guides/2018/1/18.01.08.x.html">18.01.08</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
 <i>Consumerism</i><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
@@ -927,6 +1072,16 @@ Food<br/>
 <i>American Inequality</i><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 <font size="-1"><a href="../guides/1992/1/92.01.07.x.html">92.01.07</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2014/3/14.03.02.x.html">14.03.02</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2014/3/14.03.06.x.html">14.03.06</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2014/3/14.03.09.x.html">14.03.09</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2014/3/14.03.10.x.html">14.03.10</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2018/1/18.01.05.x.html">18.01.05</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
 <i>Bilingual </i><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
@@ -966,9 +1121,17 @@ Integrated<br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
 <font size="-1"><a href="../guides/2004/2/04.02.04.x.html">04.02.04</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
+<i>Elementary</i><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2013/1/13.01.04.x.html">13.01.04</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">........</font>
 <i>Gender and</i><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 <font size="-1"><a href="../guides/1996/1/96.01.06.x.html">96.01.06</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">........</font>
+<i>General</i><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2014/2/14.02.07.x.html">14.02.07</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
 <i>High School</i><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
@@ -1041,6 +1204,10 @@ Philosophy of<br/>
 <font size="-1"><a href="../guides/1996/1/96.01.04.x.html">96.01.04</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 <font size="-1"><a href="../guides/2002/1/02.01.04.x.html">02.01.04</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2014/3/14.03.08.x.html">14.03.08</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2014/3/14.03.10.x.html">14.03.10</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
 <i>School Discipline</i><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
@@ -1096,6 +1263,97 @@ Principles of<br/>
 Alienation Theme<br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
 <font size="-1"></font></a><font size="-1"><a href="../guides/1979/1/79.01.08.x.html">79.01.08</a></font><br/>
+<a name="energy"><font size="+1"><b></b></font></a></p><p><a name="energy"><font size="+1"><b>Energy</b></font><br/>
+<font color="#ffffff" style="visibility:hidden;">........</font>
+<font size="-1"></font></a><font size="-1"><a href="../guides/2004/4/04.04.01.x.html">04.04.01</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">........</font>
+<font size="-1"><a href="../guides/2004/4/04.04.03.x.html">04.04.03</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">........</font>
+<font size="-1"><a href="../guides/2004/4/04.04.04.x.html">04.04.04</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">........</font>
+<font size="-1"><a href="../guides/2004/4/04.04.05.x.html">04.04.05</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">........</font>
+<font size="-1"><a href="../guides/2004/4/04.04.07.x.html">04.04.07</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">........</font>
+<font size="-1"><a href="../guides/2012/4/12.04.02.x.html">12.04.02</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">........</font>
+<i>Alternative Sources</i><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/1981/5/81.05.09.x.html">81.05.09</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2010/4/10.04.01.x.html">10.04.01</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2010/4/10.04.03.x.html">10.04.03</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2010/4/10.04.04.x.html">10.04.04</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2010/4/10.04.05.x.html">10.04.05</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2010/4/10.04.07.x.html">10.04.07</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2012/4/12.04.07.x.html">12.04.07</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2018/2/18.02.01.x.html">18.02.01</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2018/2/18.02.07.x.html">18.02.07</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">........</font>
+<i>Crisis</i><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/1980/5/80.05.05.x.html">80.05.05</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/1981/5/81.05.10.x.html">81.05.10</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">........</font>
+<i>Fossil Fuels</i><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+Air Pollution from Combustion<br/>
+<font color="#ffffff" style="visibility:hidden;">........................</font>
+<font size="-1"><a href="../guides/1986/6/86.06.04.x.html">86.06.04</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">........................</font>
+<font size="-1"><a href="../guides/1986/6/86.06.05.x.html">86.06.05</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">........................</font>
+<font size="-1"><a href="../guides/1986/6/86.06.06.x.html">86.06.06</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+Coal<br/>
+<font color="#ffffff" style="visibility:hidden;">........................</font>
+<font size="-1"><a href="../guides/1986/6/86.06.01.x.html">86.06.01</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">........................</font>
+<font size="-1"><a href="../guides/1986/6/86.06.03.x.html">86.06.03</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+Oil and Gas<br/>
+<font color="#ffffff" style="visibility:hidden;">........................</font>
+<font size="-1"><a href="../guides/1986/6/86.06.02.x.html">86.06.02</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">........................</font>
+<font size="-1"><a href="../guides/2013/3/13.03.04.x.html">13.03.04</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">........</font>
+<i>Magnetic</i><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+Static Electricity<br/>
+<font color="#ffffff" style="visibility:hidden;">........................</font>
+<font size="-1"><a href="../guides/1999/7/99.07.02.x.html">99.07.02</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">........</font>
+<i>Solar</i><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/1989/6/89.06.07.x.html">89.06.07</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2010/4/10.04.02.x.html">10.04.02</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2012/4/12.04.07.x.html">12.04.07</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2015/3/15.03.05.x.html">15.03.05</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">........</font>
+<i>Use of</i><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+in Cities<br/>
+<font color="#ffffff" style="visibility:hidden;">........................</font>
+<font size="-1"><a href="../guides/1981/5/81.05.08.x.html">81.05.08</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">........................</font>
+<font size="-1"><a href="../guides/2013/3/13.03.05.x.html">13.03.05</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+History<br/>
+<font color="#ffffff" style="visibility:hidden;">........................</font>
+<font size="-1"><a href="../guides/1981/5/81.05.09.x.html">81.05.09</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">........................</font>
+<font size="-1"><a href="../guides/2012/4/12.04.03.x.html">12.04.03</a></font><br/>
 <a name="engineering"><font size="+1"><b></b></font></a></p><p><a name="engineering"><font size="+1"><b>Engineering</b></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
 <i>Biomedical</i><br/>
@@ -1125,6 +1383,8 @@ Math Applications<br/>
 <font size="-1"><a href="../guides/2001/5/01.05.02.x.html">01.05.02</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
 <font size="-1"><a href="../guides/2006/4/06.04.06.x.html">06.04.06</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">........................</font>
+<font size="-1"><a href="../guides/2012/4/12.04.06.x.html">12.04.06</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 Methods<br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
@@ -1137,87 +1397,44 @@ Model Making<br/>
 Physics of<br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
 <font size="-1"><a href="../guides/2001/5/01.05.08.x.html">01.05.08</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">........................</font>
+<font size="-1"><a href="../guides/2012/4/12.04.03.x.html">12.04.03</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">........................</font>
+<font size="-1"><a href="../guides/2012/4/12.04.04.x.html">12.04.04</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 Process of Design<br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
 <font size="-1"><a href="../guides/2001/5/01.05.04.x.html">01.05.04</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
+<i>Environmental</i> (see also <a href="e.x.html#ecologyandenvironmentalscience">Ecology and Environmental Science</a>)<br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2012/4/12.04.07.x.html">12.04.07</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2018/2/18.02.01.x.html">18.02.01</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2018/2/18.02.03.x.html">18.02.03</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2018/2/18.02.04.x.html">18.02.04</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2018/2/18.02.06.x.html">18.02.06</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2018/2/18.02.07.x.html">18.02.07</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">........</font>
+<i>General</i><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2012/4/12.04.01.x.html">12.04.01</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2012/4/12.04.02.x.html">12.04.02</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">........</font>
+<i>Robotics</i><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2014/4/14.04.05.x.html">14.04.05</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2015/3/15.03.02.x.html">15.03.02</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">........</font>
 <i>Structures</i><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 <font size="-1"><a href="../guides/2006/4/06.04.01.x.html">06.04.01</a></font><br/>
-<a name="energy"><font size="+1"><b></b></font></a></p><p><a name="energy"><font size="+1"><b>Energy</b></font><br/>
-<font color="#ffffff" style="visibility:hidden;">........</font>
-<font size="-1"></font></a><font size="-1"><a href="../guides/2004/4/04.04.01.x.html">04.04.01</a></font><br/>
-<font color="#ffffff" style="visibility:hidden;">........</font>
-<font size="-1"><a href="../guides/2004/4/04.04.03.x.html">04.04.03</a></font><br/>
-<font color="#ffffff" style="visibility:hidden;">........</font>
-<font size="-1"><a href="../guides/2004/4/04.04.04.x.html">04.04.04</a></font><br/>
-<font color="#ffffff" style="visibility:hidden;">........</font>
-<font size="-1"><a href="../guides/2004/4/04.04.05.x.html">04.04.05</a></font><br/>
-<font color="#ffffff" style="visibility:hidden;">........</font>
-<font size="-1"><a href="../guides/2004/4/04.04.07.x.html">04.04.07</a></font><br/>
-<font color="#ffffff" style="visibility:hidden;">........</font>
-<i>Alternative Sources</i><br/>
-<font color="#ffffff" style="visibility:hidden;">................</font>
-<font size="-1"><a href="../guides/1981/5/81.05.09.x.html">81.05.09</a></font><br/>
-<font color="#ffffff" style="visibility:hidden;">................</font>
-<font size="-1"><a href="../guides/2010/4/10.04.01.x.html">10.04.01</a></font><br/>
-<font color="#ffffff" style="visibility:hidden;">................</font>
-<font size="-1"><a href="../guides/2010/4/10.04.03.x.html">10.04.03</a></font><br/>
-<font color="#ffffff" style="visibility:hidden;">................</font>
-<font size="-1"><a href="../guides/2010/4/10.04.04.x.html">10.04.04</a></font><br/>
-<font color="#ffffff" style="visibility:hidden;">................</font>
-<font size="-1"><a href="../guides/2010/4/10.04.05.x.html">10.04.05</a></font><br/>
-<font color="#ffffff" style="visibility:hidden;">................</font>
-<font size="-1"><a href="../guides/2010/4/10.04.07.x.html">10.04.07</a></font><br/>
-<font color="#ffffff" style="visibility:hidden;">........</font>
-<i>Crisis</i><br/>
-<font color="#ffffff" style="visibility:hidden;">................</font>
-<font size="-1"><a href="../guides/1980/5/80.05.05.x.html">80.05.05</a></font><br/>
-<font color="#ffffff" style="visibility:hidden;">................</font>
-<font size="-1"><a href="../guides/1981/5/81.05.10.x.html">81.05.10</a></font><br/>
-<font color="#ffffff" style="visibility:hidden;">........</font>
-<i>Fossil Fuels</i><br/>
-<font color="#ffffff" style="visibility:hidden;">................</font>
-Air Pollution from Combustion<br/>
-<font color="#ffffff" style="visibility:hidden;">........................</font>
-<font size="-1"><a href="../guides/1986/6/86.06.04.x.html">86.06.04</a></font><br/>
-<font color="#ffffff" style="visibility:hidden;">........................</font>
-<font size="-1"><a href="../guides/1986/6/86.06.05.x.html">86.06.05</a></font><br/>
-<font color="#ffffff" style="visibility:hidden;">........................</font>
-<font size="-1"><a href="../guides/1986/6/86.06.06.x.html">86.06.06</a></font><br/>
-<font color="#ffffff" style="visibility:hidden;">................</font>
-Coal<br/>
-<font color="#ffffff" style="visibility:hidden;">........................</font>
-<font size="-1"><a href="../guides/1986/6/86.06.01.x.html">86.06.01</a></font><br/>
-<font color="#ffffff" style="visibility:hidden;">........................</font>
-<font size="-1"><a href="../guides/1986/6/86.06.03.x.html">86.06.03</a></font><br/>
-<font color="#ffffff" style="visibility:hidden;">................</font>
-Oil and Gas<br/>
-<font color="#ffffff" style="visibility:hidden;">........................</font>
-<font size="-1"><a href="../guides/1986/6/86.06.02.x.html">86.06.02</a></font><br/>
-<font color="#ffffff" style="visibility:hidden;">........</font>
-<i>Magnetic</i><br/>
-<font color="#ffffff" style="visibility:hidden;">................</font>
-Static Electricity<br/>
-<font color="#ffffff" style="visibility:hidden;">........................</font>
-<font size="-1"><a href="../guides/1999/7/99.07.02.x.html">99.07.02</a></font><br/>
-<font color="#ffffff" style="visibility:hidden;">........</font>
-<i>Solar</i><br/>
-<font color="#ffffff" style="visibility:hidden;">................</font>
-<font size="-1"><a href="../guides/1989/6/89.06.07.x.html">89.06.07</a></font><br/>
-<font color="#ffffff" style="visibility:hidden;">................</font>
-<font size="-1"><a href="../guides/2010/4/10.04.02.x.html">10.04.02</a></font><br/>
-<font color="#ffffff" style="visibility:hidden;">........</font>
-<i>Use of</i><br/>
-<font color="#ffffff" style="visibility:hidden;">................</font>
-in Cities<br/>
-<font color="#ffffff" style="visibility:hidden;">........................</font>
-<font size="-1"><a href="../guides/1981/5/81.05.08.x.html">81.05.08</a></font><br/>
-<font color="#ffffff" style="visibility:hidden;">................</font>
-History<br/>
-<font color="#ffffff" style="visibility:hidden;">........................</font>
-<font size="-1"><a href="../guides/1981/5/81.05.09.x.html">81.05.09</a></font><br/>
 <a name="england"><font size="+1"><b></b></font></a></p><p><a name="england"><font size="+1"><b>England (see also </b></font></a><font size="+1"><b><a href="h.x.html#history">History</a>, British; <a href="l.x.html#literature">Literature</a>, British; <a href="d.x.html#drama">Drama</a>; <a href="p.x.html#poetry">Poetry</a>)</b></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
 <i>Nineteenth-Century Literature</i><br/>

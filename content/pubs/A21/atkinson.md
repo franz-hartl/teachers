@@ -16,5 +16,4 @@ path: "/pubs/A21/atkinson.html"
 <p>Lastly, the partnerships will be formed around a set of high academic standards and careful monitoring of the process of achieving those standards.  The partnerships  will recognize the potential that all children have for achievement and seek to provide new tools and an environment in which that potential can become a reality.</p>
 <hr/>
 <p><a href=".\">Back to Table of Contents</a></p>
-<p><small>© 1998 by the Yale-New Haven Teachers Institute</small></p>
 </main>

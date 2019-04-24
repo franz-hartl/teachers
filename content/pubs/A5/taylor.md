@@ -1120,8 +1120,4 @@ Wouk, Herman. <i>The Caine Mutiny.</i> Garden City, NY: Doubleday, 1951.
 1954.
 </p></a><center><a name="j"></a><div align="right"><a name="j"></a><p><a name="j">
 </a><a href="#top">to the top of this chapter</a></p></div></center>
-<hr/>
-<font size="-1">
-© 1997 by the Yale-New Haven Teachers Institute
-</font>
 </main>

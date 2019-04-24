@@ -841,8 +841,4 @@ childhood in the Jim Crow South. Intense and human.
 collection of stories about growing up Black in the Jim Crow South.
 </p></a><center><a name="n"></a><div align="right"><a name="n"></a><p><a name="n">
 </a><a href="#top">to the top of this chapter</a></p></div></center>
-<hr/>
-<font size="-1">
-© 1997 by the Yale-New Haven Teachers Institute
-</font>
 </main>

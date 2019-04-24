@@ -21,6 +21,5 @@ path: "/brochures/A3/2000/acknowledgements.html"
 </td>
 </tr>
 </tbody></table>
-<hr/>
 © 2001 by the Yale-New Haven Teachers Institute
 </main>

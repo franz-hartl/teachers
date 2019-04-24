@@ -921,8 +921,4 @@ Applications of Aerodynamics.</i> New York: Springer, 1991.
 </p>
 </a><center><a name="f"></a><div align="right"><a name="f"></a><p><a name="f">
 </a><a href="#top">to the top of this chapter</a></p></div></center>
-<hr/>
-<font size="-1">
-© 1997 by the Yale-New Haven Teachers Institute
-</font>
 </main>

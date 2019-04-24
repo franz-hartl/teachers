@@ -46,9 +46,17 @@ path: "/curriculum/indexes/r.x.html"
 <font color="#ffffff" style="visibility:hidden;">................</font>
 <font size="-1"><a href="../guides/1996/1/96.01.07.x.html">96.01.07</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2011/2/11.02.05.x.html">11.02.05</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2013/2/13.02.01.x.html">13.02.01</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2014/3/14.03.04.x.html">14.03.04</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
 Lynching<br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
 <font size="-1"><a href="../guides/1989/1/89.01.09.x.html">89.01.09</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">........................</font>
+<font size="-1"><a href="../guides/2014/3/14.03.01.x.html">14.03.01</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
 <i>American</i><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
@@ -64,11 +72,13 @@ Lynching<br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 <font size="-1"><a href="../guides/1996/1/96.01.15.x.html">96.01.15</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
-Civil Rights<br/>
+Civil Rights (see also <a href="c.x.html#civilrights">Civil Rights</a>)<br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
 <font size="-1"><a href="../guides/1994/4/94.04.04.x.html">94.04.04</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
 <font size="-1"><a href="../guides/1994/4/94.04.06.x.html">94.04.06</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">........................</font>
+<font size="-1"><a href="../guides/2011/1/11.01.09.x.html">11.01.09</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 and Haitian<br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
@@ -77,14 +87,20 @@ and Haitian<br/>
 Hispanic<br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
 <font size="-1"><a href="../guides/1997/4/97.04.08.x.html">97.04.08</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">........................</font>
+<font size="-1"><a href="../guides/2013/2/13.02.01.x.html">13.02.01</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">........................</font>
+<font size="-1"><a href="../guides/2015/2/15.02.06.x.html">15.02.06</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
-Prejudice<br/>
+Prejudice (see also <a href="p.x.html#prejudice">Prejudice</a>)<br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
 <font size="-1"><a href="../guides/1994/4/94.04.01.x.html">94.04.01</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
 <font size="-1"><a href="../guides/1997/4/97.04.10.x.html">97.04.10</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
 <font size="-1"><a href="../guides/1998/4/98.04.10.x.html">98.04.10</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">........................</font>
+<font size="-1"><a href="../guides/2015/2/15.02.01.x.html">15.02.01</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
 <font size="-1"><i><b>Psychological Impact</b></i></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................................</font>
@@ -101,8 +117,10 @@ and Puerto Rican<br/>
 <font size="-1"><a href="../guides/1989/1/89.01.12.x.html">89.01.12</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................................</font>
 <font size="-1"><a href="../guides/1990/1/90.01.05.x.html">90.01.05</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................................</font>
+<font size="-1"><a href="../guides/2013/2/13.02.01.x.html">13.02.01</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
-School Desegregation<br/>
+School Desegregation (see also <a href="s.x.html#schooldesegregation">School Desegregation</a>)<br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
 <font size="-1"><a href="../guides/1996/1/96.01.04.x.html">96.01.04</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
@@ -120,7 +138,7 @@ School Desegregation<br/>
 <font color="#ffffff" style="visibility:hidden;">................................</font>
 <font size="-1"><a href="../guides/2004/1/04.01.09.x.html">04.01.09</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
-Slavery<br/>
+Slavery (see also <a href="s.x.html#slavery">Slavery</a>)<br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
 <font size="-1"><a href="../guides/1985/5/85.05.03.x.html">85.05.03</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
@@ -143,6 +161,10 @@ Slavery<br/>
 <font size="-1"><a href="../guides/1995/3/95.03.08.x.html">95.03.08</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 <font size="-1"><a href="../guides/1997/4/97.04.10.x.html">97.04.10</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2014/3/14.03.03.x.html">14.03.03</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2015/2/15.02.01.x.html">15.02.01</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
 <i>Japanese American</i><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
@@ -182,6 +204,24 @@ Latin American<br/>
 <font size="-1"><a href="../guides/1979/5/79.05.08.x.html">79.05.08</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 <font size="-1"><a href="../guides/1995/2/95.02.01.x.html">95.02.01</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2012/1/12.01.03.x.html">12.01.03</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2012/1/12.01.06.x.html">12.01.06</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2012/1/12.01.07.x.html">12.01.07</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2012/2/12.02.01.x.html">12.02.01</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2014/1/14.01.03.x.html">14.01.03</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2014/1/14.01.04.x.html">14.01.04</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2014/1/14.01.08.x.html">14.01.08</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2014/1/14.01.09.x.html">14.01.09</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2017/1/17.01.05.x.html">17.01.05</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
 <i>Autobiography</i><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
@@ -235,6 +275,10 @@ Ethnic<br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
 <i>Biography</i><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2012/2/12.02.05.x.html">12.02.05</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2012/2/12.02.06.x.html">12.02.06</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
 Carson, Rachel<br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
 <font size="-1"><a href="../guides/2006/3/06.03.02.x.html">06.03.02</a></font><br/>
@@ -242,6 +286,14 @@ Carson, Rachel<br/>
 X, Malcolm<br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
 <font size="-1"><a href="../guides/2006/3/06.03.02.x.html">06.03.02</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">........</font>
+<i>Children's Literature</i><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2017/1/17.01.06.x.html">17.01.06</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+Picture Books<br/>
+<font color="#ffffff" style="visibility:hidden;">........................</font>
+<font size="-1"><a href="../guides/2014/2/14.02.02.x.html">14.02.02</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
 <i>Critical Thinking and</i><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
@@ -280,6 +332,14 @@ X, Malcolm<br/>
 <font size="-1"><a href="../guides/2009/1/09.01.02.x.html">09.01.02</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 <font size="-1"><a href="../guides/2010/2/10.02.09.x.html">10.02.09</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2011/1/11.01.03.x.html">11.01.03</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2011/1/11.01.09.x.html">11.01.09</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2015/2/15.02.05.x.html">15.02.05</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2017/1/17.01.07.x.html">17.01.07</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
 <i>Detective Fiction</i><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
@@ -315,7 +375,7 @@ X, Malcolm<br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 <font size="-1"><a href="../guides/2004/2/04.02.06.x.html">04.02.06</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
-<i>Drama</i><br/>
+<i>Drama</i> (see also <a href="d.x.html#drama">Drama</a>)<br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 <font size="-1"><a href="../guides/1983/5/83.05.03.x.html">83.05.03</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
@@ -331,7 +391,7 @@ Autobiography<br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
 <font size="-1"><a href="../guides/1982/2/82.02.06.x.html">82.02.06</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
-<i>Fairy Tales</i><br/>
+<i>Fairy Tales</i> (see also <a href="f.x.html#fables">Fables</a>)<br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 <font size="-1"><a href="../guides/2004/2/04.02.01.x.html">04.02.01</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
@@ -342,12 +402,16 @@ Cinderella<br/>
 <i>Fiction</i><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 <font size="-1"><a href="../guides/2010/2/10.02.09.x.html">10.02.09</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2013/4/13.04.05.x.html">13.04.05</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
-<i>Folktales</i><br/>
+<i>Folktales</i> (see also <a href="f.x.html#folktales">Folktales</a>)<br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 <font size="-1"><a href="../guides/1993/2/93.02.08.x.html">93.02.08</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 <font size="-1"><a href="../guides/1993/2/93.02.11.x.html">93.02.11</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2017/1/17.01.01.x.html">17.01.01</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
 <i>General</i><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
@@ -378,6 +442,8 @@ Cinderella<br/>
 <font size="-1"><a href="../guides/2004/2/04.02.03.x.html">04.02.03</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 <font size="-1"><a href="../guides/2008/2/08.02.08.x.html">08.02.08</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2014/2/14.02.02.x.html">14.02.02</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
 <i>History</i><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
@@ -398,6 +464,8 @@ Exploration<br/>
 <font size="-1"><a href="../guides/2006/2/06.02.07.x.html">06.02.07</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 <font size="-1"><a href="../guides/2006/2/06.02.10.x.html">06.02.10</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2013/1/13.01.09.x.html">13.01.09</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
 <i>Literature of the Sea</i><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
@@ -413,7 +481,7 @@ Exploration<br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 <font size="-1"><a href="../guides/1995/2/95.02.01.x.html">95.02.01</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
-<i>Multiculturalism and</i><br/>
+<i>Multiculturalism and</i> (see also <a href="m.x.html#multiculturalism">Multiculturalism</a>)<br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 <font size="-1"><a href="../guides/1998/5/98.05.08.x.html">98.05.08</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
@@ -433,7 +501,7 @@ Exploration<br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 <font size="-1"><a href="../guides/1999/4/99.04.09.x.html">99.04.09</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
-<i>Mythology and Folklore</i><br/>
+<i>Mythology and Folklore</i> (see also <a href="m.x.html#mythology">Myhtology</a>)<br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 <font size="-1"><a href="../guides/1979/4/79.04.02.x.html">79.04.02</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
@@ -443,7 +511,7 @@ Exploration<br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 <font size="-1"><a href="../guides/1998/5/98.05.07.x.html">98.05.07</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
-<i>Poetry</i><br/>
+<i>Poetry</i> (see also <a href="p.x.html#poetry">Poetry</a>)<br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 <font size="-1"><a href="../guides/1979/1/79.01.07.x.html">79.01.07</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
@@ -478,6 +546,14 @@ Exploration<br/>
 <font size="-1"><a href="../guides/2003/3/03.03.09.x.html">03.03.09</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 <font size="-1"><a href="../guides/2010/2/10.02.08.x.html">10.02.08</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2011/3/11.03.01.x.html">11.03.01</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2011/3/11.03.05.x.html">11.03.05</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2011/3/11.03.06.x.html">11.03.06</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2011/3/11.03.08.x.html">11.03.08</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
 <i>Reader Response</i><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
@@ -488,6 +564,10 @@ Exploration<br/>
 <i>Science</i><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 <font size="-1"><a href="../guides/2004/7/04.07.12.x.html">04.07.12</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2012/3/12.03.07.x.html">12.03.07</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2015/3/15.03.06.x.html">15.03.06</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
 <i>Short Stories</i><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
@@ -509,11 +589,27 @@ Exploration<br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 <font size="-1"><a href="../guides/2006/3/06.03.02.x.html">06.03.02</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2013/1/13.01.08.x.html">13.01.08</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2014/2/14.02.03.x.html">14.02.03</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2014/2/14.02.06.x.html">14.02.06</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2014/2/14.02.07.x.html">14.02.07</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2015/2/15.02.05.x.html">15.02.05</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2015/3/15.03.06.x.html">15.03.06</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2018/1/18.01.08.x.html">18.01.08</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
 Immigration<br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
 <font size="-1"><a href="../guides/1988/2/88.02.07.x.html">88.02.07</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
 <font size="-1"><a href="../guides/1996/4/96.04.07.x.html">96.04.07</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">........................</font>
+<font size="-1"><a href="../guides/2014/2/14.02.05.x.html">14.02.05</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
 <i>Special Education</i><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
@@ -533,11 +629,27 @@ Immigration<br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 <font size="-1"><a href="../guides/2002/1/">02.01</a> (all 10 units)</font><br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
+<i>Technology</i><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2016/1/16.01.06.x.html">16.01.06</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">........</font>
 <i>Visualization</i><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 <font size="-1"><a href="../guides/2009/1/09.01.02.x.html">09.01.02</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 <font size="-1"><a href="../guides/2009/1/09.01.10.x.html">09.01.10</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2011/1/11.01.10.x.html">11.01.10</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2016/1/16.01.03.x.html">16.01.03</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2017/1/17.01.05.x.html">17.01.05</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2012/1/12.01.07.x.html">12.01.07</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2012/2/12.02.01.x.html">12.02.01</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2012/2/12.02.06.x.html">12.02.06</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
 <i>Voice in American Literature</i><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
@@ -571,6 +683,8 @@ Immigration<br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 <font size="-1"><a href="../guides/2002/2/02.02.01.x.html">02.02.01</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2011/2/11.02.02.x.html">11.02.02</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
 Hajj<br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
 <font size="-1"><a href="../guides/2007/2/07.02.04.x.html">07.02.04</a></font><br/>
@@ -581,7 +695,7 @@ Islamic Art<br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
 <font size="-1"><a href="../guides/2002/2/02.02.03.x.html">02.02.03</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
-<i>Judaism</i><br/>
+<i>Judaism</i> (see also <a href="j.x.html#jews">Jews</a>)<br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 Anti-Semitism<br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
@@ -652,6 +766,10 @@ General<br/>
 <font size="-1"><a href="../guides/1985/5/85.05.02.x.html">85.05.02</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 <font size="-1"><a href="../guides/2001/4/01.04.04.x.html">01.04.04</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2014/1/14.01.12.x.html">14.01.12</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2014/2/14.02.09.x.html">14.02.09</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
 <i>Basic</i><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
@@ -680,6 +798,8 @@ General<br/>
 <i>and the Internet</i><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 <font size="-1"><a href="../guides/1999/7/99.07.01.x.html">99.07.01</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2014/1/14.01.12.x.html">14.01.12</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
 <i>Oral History</i><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>

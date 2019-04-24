@@ -25,5 +25,4 @@ path: "/pubs/A21/authors.html"
 <p><b>Arnold Weinstein</b> is Edna and Richard Salomon Distinguished Professor and Professor of Comparative Literature at Brown University.</p>
 <hr/>
 <p><a href=".\">Back to Table of Contents</a></p>
-<p><small>© 1998 by the Yale-New Haven Teachers Institute</small></p>
 </main>

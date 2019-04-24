@@ -292,7 +292,4 @@ James R. Vivian
 </p>
 </a><center><a name="g"></a><div align="right"><a name="g"></a><p><a name="g">
 </a><a href="#top">to the top of Foreword</a></p></div></center>
-<hr/>
-<font size="-1">© 1997 by the Yale-New Haven Teachers Institute
-</font>
 </main>

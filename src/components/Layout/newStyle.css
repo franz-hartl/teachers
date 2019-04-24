@@ -176,14 +176,21 @@ navbar-collapse{
 }
 
 /* global fonts*/
-body, p, span, div{
+/* 4/21/2019-AS: Removed , p, span, div from list of tags */
+body{
 	font-family:Helvetica, "TheSans";
 	font-size: 16px;
 	line-height: 24px;
 	color: #504D49;
 }
+
+
 .site-branding img{
 	width: 334px;
+}
+
+main img{
+	max-width: 100%;
 }
 
 li.sitemap_list{

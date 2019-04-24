@@ -33,6 +33,6 @@ path: "/brochures/A1/"
 <a href="teacher.html">Teacher Leadership</a>
 </p></li></ul>
 <p align="Left">
-</p><hr/>
+</p>
 © 2014 by the Yale-New Haven Teachers Institute
 </div></main>

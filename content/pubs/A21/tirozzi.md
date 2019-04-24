@@ -39,5 +39,4 @@ path: "/pubs/A21/tirozzi.html"
 <p>The Yale-New Haven Teachers Institute has been a beacon of hope for what is possible when a significant partner and an enlightened school district commit to working closely and cooperatively together to enhance teaching and to improve the teaching-learning process.  States and school districts across the country should pause and look carefully at the universities and schools that have discovered the power of partnership as a means for implementing meaningful school reform—the results speak for themselves.</p>
 <hr/>
 <p><a href=".\">Back to Table of Contents</a></p>
-<p><small>© 1998 by the Yale-New Haven Teachers Institute</small></p>
 </main>

@@ -84,8 +84,4 @@ and the Human Genome</a><br/>
 <center><font size="-1"><a href="..\">Publications</a> | 
 <a href="..\..\">Yale-New Haven Teachers
 Institute</a></font></center>
-<hr/>
-<font size="-1">
-© 1997 by the Yale-New Haven Teachers Institute
-</font>
 </main>

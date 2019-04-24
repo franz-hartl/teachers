@@ -45,5 +45,5 @@ the seminar experience, an experience whose success, like that of all other phas
 idual Institutes.
 </p>
 <hr/>
-<p><a href=".\">Back to Table of Contents</a></p><p><small>© 2001 by the Yale-New Haven Teachers Institute</small></p>
+<p><a href=".\">Back to Table of Contents</a></p>
 </main>

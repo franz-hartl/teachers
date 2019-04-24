@@ -47,5 +47,5 @@ egularly report learning from the teachers in their seminars. The participants�
 shot in the arm.” “Participating in the seminar helped me feel connected to my profession and my commitment to my students while it also helped me grow personally.” One sign of the institute’s success is that assessments like these come equally from Colle
 ge of Arts and Sciences professors as well as from their colleagues in the schools.</p>
 <hr/>
-<p><a href=".\">Back to Table of Contents</a></p><p><small>© 2001 by the Yale-New Haven Teachers Institute</small></p>
+<p><a href=".\">Back to Table of Contents</a></p>
 </main>

@@ -475,8 +475,4 @@ pedagogical challenges, and the process of writing.</p><p>
 <i>Thomas R. Whitaker</i>
 </p></a><center><a name="b"></a><div align="right"><a name="b"></a><p><a name="b">
 </a><a href="#top">to the top of the Introduction</a></p></div></center>
-<hr/>
-<font size="-1">
-© 1997 by the Yale-New Haven Teachers Institute
-</font>
 </main>

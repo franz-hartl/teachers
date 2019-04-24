@@ -31,5 +31,4 @@ path: "/pubs/A21/donovan.html"
 <p>South African and American leaders recognize that the educational, political and ethical challenges they confront are so formidable and interdependent that no one institution or sector of society can engage them alone.  Both countries recognize that alliances between groups and institutions historically at odds or distant from one another may represent the direction of the future.  No group can rebuild District Six by itself.</p>
 <hr/>
 <p><a href=".\">Back to Table of Contents</a></p>
-<p><small>© 1998 by the Yale-New Haven Teachers Institute</small></p>
 </main>

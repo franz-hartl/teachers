@@ -1214,8 +1214,4 @@ local resources are available in your community.</p>
 </dt></dl> 
 </a><center><a name="q"></a><div align="right"><a name="q"></a><p><a name="q">
 </a><a href="#top">to the top of this chapter</a></p></div></center>
-<hr/>
-<font size="-1">
-© 1997 by the Yale-New Haven Teachers Institute
-</font>
 </dt></main>

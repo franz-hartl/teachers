@@ -46,5 +46,4 @@ path: "/pubs/A21/"
 <p><a href="contactinfo.html">Contact Information</a></p>
 <p align="CENTER"><small><a href="..\">Publications</a> | <a href="..\..\">Yale-New Haven Teachers Institute</a></small></p>
 <hr/>
-<p><small>© 1997 by the Yale-New Haven Teachers Institute</small></p>
 </main>

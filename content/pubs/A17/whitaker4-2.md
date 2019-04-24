@@ -173,5 +173,4 @@ powerfully influenced their own practice. Let us hear from you!
 Table of Contents of the Summer 1995 Issue of <i>On Common
 Ground</i></a>
 </h4>
-<font size="-1">© 1997 by the Yale-New Haven Teachers Institute
-</font></main>
+</main>

@@ -40,6 +40,8 @@ path: "/curriculum/indexes/k.x.html"
 <font size="-1"><a href="../guides/1996/1/96.01.01.x.html">96.01.01</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 <font size="-1"><a href="../guides/2006/3/06.03.05.x.html">06.03.05</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2013/1/13.01.03.x.html">13.01.03</a></font><br/>
 </p>
 <hr/>
 <center>

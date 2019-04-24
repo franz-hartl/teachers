@@ -65,5 +65,5 @@ a unit that would span the second and third grades. Organized around themes in p
 exhibition of the students’ work, as reflected in the unit’s title: “Collecting Our Pasts: Making Museums in Our Lives.” And for me personally, it was through teaching “American History Through Art” that I reconciled my professional dichotomy, redefining
 my career path as not at all contradictory but complementary, for at the foundation of museum work, academic art history, and the seminar is the belief that art is an exceptional tool for teaching and learning, and a vehicle for social change.</p>
 <hr/>
-<p><a href=".\">Back to Table of Contents</a></p><p><small>© 2001 by the Yale-New Haven Teachers Institute</small></p>
+<p><a href=".\">Back to Table of Contents</a></p>
 </main>

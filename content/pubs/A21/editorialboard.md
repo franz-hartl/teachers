@@ -50,5 +50,4 @@ Frederick W. Hilles Professor Emeritus of English<br/>
 Yale University</p>
 <hr/>
 <p><a href=".\">Back to Table of Contents</a></p>
-<p><small>© 1998 by the Yale-New Haven Teachers Institute</small></p>
 </main>

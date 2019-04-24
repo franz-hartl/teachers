@@ -51,5 +51,4 @@ Seminars</a><br/>
 <p><a href="contactinfo.html">Contact Information</a></p>
 <p align="CENTER"><small><a href="..\">Publications</a> | <a href="..\..\">Yale-New Haven Teachers Institute</a></small></p>
 <hr/>
-<p><small>© 2001 by the Yale-New Haven Teachers Institute</small></p>
 </main>

@@ -57,5 +57,5 @@ ould be like to have what this nation should have and must have. </p>
 tter in both regards. Because I offer Institute seminars, I can now see myself as someone actively engaged in the vital task of trying to bring that system into existence. And as such, I now see my profession as something that includes being a political s
 cientist, but that is also larger and ultimately more important. Like the conscientious teachers with whom I am fortunate enough to work, I now at least strive to be a professional educator.</p>
 <hr/>
-<p><a href=".\">Back to Table of Contents</a></p><p><small>© 2001 by the Yale-New Haven Teachers Institute</small></p>
+<p><a href=".\">Back to Table of Contents</a></p>
 </main>

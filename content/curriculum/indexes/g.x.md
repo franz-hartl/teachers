@@ -37,6 +37,8 @@ path: "/curriculum/indexes/g.x.html"
 <font size="-1"><a href="../guides/1987/3/87.03.02.x.html">87.03.02</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 <font size="-1"><a href="../guides/1998/3/98.03.05.x.html">98.03.05</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2013/1/13.01.03.x.html">13.01.03</a></font><br/>
 <a name="gardening"><font size="+1"><b></b></font></a></p><p><a name="gardening"><font size="+1"><b>Gardening</b></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
 <i>Organic</i><br/>
@@ -53,6 +55,8 @@ path: "/curriculum/indexes/g.x.html"
 <i>Heritage</i><br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
 <font size="-1"></font></a><font size="-1"><a href="../guides/1997/4/97.04.06.x.html">97.04.06</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">........................</font>
+<font size="-1"><a href="../guides/2013/2/13.02.06.x.html">13.02.06</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
 <i>Oral History</i><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
@@ -282,6 +286,8 @@ General<br/>
 <font size="-1"><a href="../guides/1997/7/97.07.10.x.html">97.07.10</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
 <font size="-1"><a href="../guides/2001/2/01.02.01.x.html">01.02.01</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">........................</font>
+<font size="-1"><a href="../guides/2012/3/12.03.04.x.html">12.03.04</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 of Inland Wetlands<br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
@@ -423,11 +429,15 @@ Oil and Gas<br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 <font size="-1"><a href="../guides/2010/3/10.03.06.x.html">10.03.06</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2015/3/15.03.01.x.html">15.03.01</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
 Coastal Change<br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
 <font size="-1"><a href="../guides/1997/6/97.06.01.x.html">97.06.01</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
 <font size="-1"><a href="../guides/1997/6/97.06.04.x.html">97.06.04</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">........................</font>
+<font size="-1"><a href="../guides/2017/2/17.02.07.x.html">17.02.07</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
 <i>North America</i><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>

@@ -73,5 +73,5 @@ quarter of a million electric lights cast
 their glow over the crowds. Ringgold and Stella celebrate in lively shapes and brilliant lights a future of possibility, which we may hold in the mind’s eye as we work with what is often a darker actuality in our urban schools.
 </p>
 <hr/>
-<p><a href=".\">Back to Table of Contents</a></p><p><small>© 2001 by the Yale-New Haven Teachers Institute</small></p>
+<p><a href=".\">Back to Table of Contents</a></p>
 </main>

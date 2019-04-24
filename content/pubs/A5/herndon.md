@@ -1342,8 +1342,4 @@ Zuidema, Henry P. “Genetics and Genesis: The New Biology Textbooks that
 Include Creationism.” <i>Creation/Evolution,</i> (Summer 1981): 18-22. 
 </p></a><center><a name="m"></a><div align="right"><a name="m"></a><p><a name="m">
 </a><a href="#top">to the top of this unit</a></p></div></center>
-<hr/>
-<font size="-1">
-© 1997 by the Yale-New Haven Teachers Institute
-</font>
 </main>

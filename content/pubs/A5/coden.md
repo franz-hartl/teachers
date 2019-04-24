@@ -511,8 +511,4 @@ chosen
 to concentrate on early memories and family. A powerful oratorical voice comes through in the readings.
 </p></a><center><a name="l"></a><div align="right"><a name="l"></a><p><a name="l">
 </a><a href="#top">to the top of this chapter</a></p></div></center>
-<hr/>
-<font size="-1">
-© 1997 by the Yale-New Haven Teachers Institute
-</font>
 </main>

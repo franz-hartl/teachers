@@ -21,5 +21,4 @@ World Wide Web:  http://teachersinstitute.yale.edu</p>
 tute, teachers from the University and the Schools work together in a collegial relationship. Founded in 1978, the Institute is the first program of its type to be established permanently as a unit of a university.</p>
 <hr/>
 <p><a href=".\">Back to Table of Contents</a></p>
-<p><small>© 2001 by the Yale-New Haven Teachers Institute</small></p>
 </main>

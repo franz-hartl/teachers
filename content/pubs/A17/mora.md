@@ -224,5 +224,4 @@ Scientist</i>, Volume 65, Number 4, pp. 405-411.
 Table of Contents of the Spring 1995 Issue of <i>On Common
 Ground</i></a>
 </h4>
-<font size="-1">© 1997 by the Yale-New Haven Teachers Institute
-</font></main>
+</main>

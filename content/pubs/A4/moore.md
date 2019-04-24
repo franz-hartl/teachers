@@ -470,5 +470,4 @@ Beaumont Newhall, ed., <i>Photography: Essays and Images</i> (New York: Museum o
 <hr/>
 <p><small>[ <a href=".\">Back to the Table of Contents</a> ]</small></p>
 <p><small><a href="..\..\">Main Page</a> : <a href="..\">Periodical Publications and Books</a> : Teaching in America: The Common Ground</small></p>
-<p><small>© 1997 by the Yale-New Haven Teachers Institute</small></p>
 </main>

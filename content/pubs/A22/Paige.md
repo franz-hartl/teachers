@@ -54,5 +54,5 @@ e for results. These goals must be accomplished student by student, school by sc
 sources, and no child is left behind.
 </p>
 <hr/>
-<p><a href=".\">Back to Table of Contents</a></p><p><small>© 2001 by the Yale-New Haven Teachers Institute</small></p>
+<p><a href=".\">Back to Table of Contents</a></p>
 </main>

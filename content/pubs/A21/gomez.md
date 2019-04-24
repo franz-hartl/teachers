@@ -24,5 +24,4 @@ path: "/pubs/A21/gomez.html"
 <p>Those who remain committed to partnership see as obvious the supposition that systemic change will occur only through equitable participation of all who comprise the system.  Yet in spite of such an observation, the democratizing elements of partnership, as in democracy itself, hold most of their power in promise.  In part, the delayed gratification of the movement might be related to the absence of a theoretical basis for educational collaboration and an almost exclusive focus on practice.  For without more rigorous philosophical scrutiny of the relationship among partnership, education, and democracy, profound systemic change seems unlikely.  And yet without partnership, the promise of democratic education is certain to remain only that.  </p>
 <hr/>
 <p><a href=".\">Back to Table of Contents</a></p>
-<p><small>© 1998 by the Yale-New Haven Teachers Institute</small></p>
 </main>

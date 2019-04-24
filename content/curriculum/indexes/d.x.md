@@ -233,9 +233,11 @@ O'Neill, Eugene<br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
 <font size="-1"><a href="../guides/1988/3/88.03.01.x.html">88.03.01</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
-<i>Director</i><br/>
+<i>Directing</i><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 <font size="-1"><a href="../guides/1995/2/95.02.10.x.html">95.02.10</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2016/1/16.01.07.x.html">16.01.07</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
 <i>Elements of</i><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
@@ -303,6 +305,8 @@ and Literature<br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 <font size="-1"><a href="../guides/1995/2/95.02.08.x.html">95.02.08</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2014/2/14.02.08.x.html">14.02.08</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
 Albee, Edward<br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
 <font size="-1"><a href="../guides/1997/5/97.05.10.x.html">97.05.10</a></font><br/>
@@ -369,6 +373,8 @@ Shakespeare, William<br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
 <font size="-1"><a href="../guides/1986/2/86.02.06.x.html">86.02.06</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
+<font size="-1"><a href="../guides/2016/1/16.01.02.x.html">16.01.02</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">........................</font>
 <font size="-1"><i><b><u>As You Like It</u></b></i></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................................</font>
 <font size="-1"><a href="../guides/1987/2/87.02.07.x.html">87.02.07</a></font><br/>
@@ -376,6 +382,10 @@ Shakespeare, William<br/>
 <font size="-1"><i><b><u>Hamlet</u></b></i></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................................</font>
 <font size="-1"><a href="../guides/1983/5/83.05.04.x.html">83.05.04</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................................</font>
+<font size="-1"><a href="../guides/2016/1/16.01.06.x.html">16.01.06</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................................</font>
+<font size="-1"><a href="../guides/2016/1/16.01.04.x.html">16.01.04</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
 <font size="-1"><i><b><u>King Lear</u></b></i></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................................</font>
@@ -386,6 +396,14 @@ Shakespeare, William<br/>
 <font size="-1"><a href="../guides/1987/4/87.04.04.x.html">87.04.04</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................................</font>
 <font size="-1"><a href="../guides/2010/2/10.02.13.x.html">10.02.13</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................................</font>
+<font size="-1"><a href="../guides/2016/1/16.01.03.x.html">16.01.03</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................................</font>
+<font size="-1"><a href="../guides/2016/1/16.01.05.x.html">16.01.05</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">........................</font>
+<font size="-1"><i><b><u>The Merchant of Venice</u></b></i></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................................</font>
+<font size="-1"><a href="../guides/2016/1/16.01.01.x.html">16.01.01</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
 <font size="-1"><i><b><u>Much Ado About Nothing</u></b></i></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................................</font>

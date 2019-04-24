@@ -38,5 +38,5 @@ d the Mexican author Rosario Castellanos. Students were interested to note that 
 </p><p>Collaborations between universities and local school districts, especially school districts with a large population of at risk students, will benefit the university, the local school district, teachers and probably most importantly, the students. Teach
 er development is the fundamental basis for the Yale-New Haven Project and the subsequent programs involving colleges and local school district. It is a program to be emulated to address the issue of improving education through teacher development.</p>
 <hr/>
-<p><a href=".\">Back to Table of Contents</a></p><p><small>© 2001 by the Yale-New Haven Teachers Institute</small></p>
+<p><a href=".\">Back to Table of Contents</a></p>
 </main>

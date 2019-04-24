@@ -121,5 +121,4 @@ agenda and give those revenues leverage and longevity.
 Table of Contents of the Spring  1996 Issue of <i>On Common
 Ground</i></a>
 </h4>
-<font size="-1">© 1997 by the Yale-New Haven Teachers Institute
-</font></main>
+</main>

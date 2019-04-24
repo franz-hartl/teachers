@@ -59,5 +59,5 @@ d to reward and support partnerships truly directed toward education and the pub
 istrict selected to participate in PTI’s initial implementation period. One of the PTI teaching Fellows, an elementary school teacher, was selected as a semi-finalist for the national President’s Teaching Award, for the curriculum unit she developed throu
 gh PTI. Over time, it is hoped that PTI’s reach will extend to all schools within the District. For more information on the Pittsburgh Teachers Institute, visit <a href="http://www.chatham.edu/pti/">http://www.chatham.edu/pti/</a>.
 </p><hr/>
-<p><a href=".\">Back to Table of Contents</a></p><p><small>© 2001 by the Yale-New Haven Teachers Institute</small></p>
+<p><a href=".\">Back to Table of Contents</a></p>
 </main>

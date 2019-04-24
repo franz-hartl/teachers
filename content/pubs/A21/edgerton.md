@@ -68,5 +68,4 @@ path: "/pubs/A21/edgerton.html"
 <p>In the game we have been playing, the faculty are the players and the students, all too often, are in the stands.  In the 21st century university, the students will be the players, and the faculty will be the coaches.  It's not yet clear whether the public will be in the stands, or down on the field as umpires.  The sooner, and the faster, that we can learn to play this new game, the more we will do for the schools.</p>
 <hr/>
 <p><a href=".\">Back to Table of Contents</a></p>
-<p><small>© 1998 by the Yale-New Haven Teachers Institute</small></p>
 </main>

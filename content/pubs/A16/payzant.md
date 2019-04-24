@@ -226,5 +226,4 @@ everyone to join in.
 Table of Contents of the Fall 1994 Issue of <i>On Common
 Ground</i></a>
 </h4>
-<font size="-1">© 1997 by the Yale-New Haven Teachers Institute
-</font></main>
+</main>

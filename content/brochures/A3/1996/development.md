@@ -843,7 +843,4 @@ Fellow<hr/>
 </i></td></tr></tbody></table>
 </a><center><a name="i"></a><div align="right"><a name="i"></a><p><a name="i">
 </a><a href="#top">to the top of Program Development</a></p></div></center>
-<hr/>
-<font size="-1">© 1997 by the Yale-New Haven Teachers Institute
-</font>
 </main>

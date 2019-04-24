@@ -316,7 +316,4 @@ Videotape Program</h4>
 "Teaching on Common Ground."  New Haven:  1995.
 </a><center><a name="b"></a><div align="right"><a name="b"></a><p><a name="b">
 </a><a href="#top">to the top of Appendix</a></p></div></center>
-<hr/>
-<font size="-1">© 1997 by the Yale-New Haven Teachers Institute
-</font>
 </main>
