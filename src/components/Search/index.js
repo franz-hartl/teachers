@@ -1,69 +1,98 @@
-import React from 'react'
+import React, { Component, createRef } from "react"
+import algoliasearch from "algoliasearch/lite"
+import {
+  InstantSearch,
+  Index,
+  Hits,
+  connectStateResults,
+} from "react-instantsearch-dom"
+import { Algolia } from "styled-icons/fa-brands/Algolia"
 
-const Search = () => (
-  <div className="search-block d-inline-flex col-md-5 ml-lg-3">
-    <select
-      title="search filter"
-      className="selectpicker"
-      id="siteSearchOptions"
-    >
-      <option value="Entire Site" data-refinement id="defaultRefinement">
-        Entire Site
-      </option>
-      <option
-        value="Curriculum Units and Guides to Units"
-        data-refinement="curriculum_units_and_guides_to_units"
-      >
-        Curricular Resources
-      </option>
-      <option
-        value="Curricular Units Only"
-        data-refinement="curriculum_units_only"
-      >
-        Curricular Units Only
-      </option>
-      <option value="Guides to Units Only" data-refinement="guides">
-        Guides to Units Only
-      </option>
-    </select>
-    <script
-      dangerouslySetInnerHTML={{
-        __html: ` var newSiteSearch = function() {
-    var cx = '014177378021644155909:u_pjrcixyzi';
-    var gcse = document.createElement('script');
-    gcse.type = 'text/javascript';
-    gcse.async = true;
-    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
-        '//cse.google.com/cse.js?cx=' + cx;
-    var s = document.getElementsByTagName('script')[0];
-    s.parentNode.insertBefore(gcse, s);
-  };`,
-      }}
-    />
-    <span
-      className="d-sm-inline-block"
-      id="siteSearch"
-      dangerouslySetInnerHTML={{
-        __html: `<gcse:search defaultToRefinement=""></gcse:search>`,
-      }}
-    />
-    <script
-      dangerouslySetInnerHTML={{
-        __html: `$(document).ready(function(){
-        $('#siteSearchOptions option').click(function() {
-          $('#siteSearch *').remove();
-          $('.gssb_c').remove();
-          var refinement = $(this).attr('data-refinement');
-          $('.selectedSiteSearchOption').removeClass('selectedSiteSearchOption');
-          $(this).addClass('selectedSiteSearchOption');
-          $('#siteSearch').append('<gcse:search defaultToRefinement="' + refinement + '"></gcse:search>');
-          newSiteSearch();
-        });
-        $('#defaultRefinement').trigger('click');
-        $('#defaultRefinement').trigger('click');`,
-      }}
-    />
-  </div>
+import { Root, HitsWrapper, By } from "./styles"
+import Input from "./Input"
+import * as hitComps from "./hits"
+
+const events = ["mousedown", "touchstart"]
+
+const Results = connectStateResults(
+  ({ searchState: state, searchResults: res, children }) =>
+    res && res.nbHits ? children : `No results for ${state.query}`
 )
 
-export default Search
+const Stats = connectStateResults(
+  ({ searchResults: res }) =>
+    res && res.nbHits > 0 && `${res.nbHits} result${res.nbHits > 1 ? `s` : ``}`
+)
+
+export default class Search extends Component {
+  state = { query: ``, focussed: false, ref: createRef() }
+  searchClient = algoliasearch(
+    process.env.GATSBY_ALGOLIA_APP_ID,
+    process.env.GATSBY_ALGOLIA_SEARCH_KEY
+  )
+
+  updateState = state => this.setState(state)
+
+  focus = () => {
+    this.setState({ focussed: true })
+  }
+
+  disableHits = () => {
+    this.setState({ focussed: false })
+  }
+
+  handleClickOutside = event => {
+    if (!this.state.ref.current.contains(event.target)) {
+      this.setState({ focussed: false })
+    }
+  }
+
+  componentDidMount() {
+    events.forEach(event =>
+      document.addEventListener(event, this.handleClickOutside)
+    )
+  }
+
+  componentWillUnmount() {
+    events.forEach(event =>
+      document.removeEventListener(event, this.handleClickOutside)
+    )
+  }
+
+  render() {
+    const { query, focussed, ref } = this.state
+    const { indices, collapse, hitsAsGrid } = this.props
+    return (
+      <InstantSearch
+        searchClient={this.searchClient}
+        indexName={indices[0].name}
+        onSearchStateChange={this.updateState}
+        root={{ Root, props: { ref } }}
+      >
+        <Input onFocus={this.focus} {...{ collapse, focussed }} />
+        <HitsWrapper
+          show={query.length > 0 && focussed}
+          hitsAsGrid={hitsAsGrid}
+        >
+          {indices.map(({ name, title, hitComp }) => (
+            <Index key={name} indexName={name}>
+              <header>
+                <h3>{title}</h3>
+                <Stats />
+              </header>
+              <Results>
+                <Hits hitComponent={hitComps[hitComp](this.disableHits)} />
+              </Results>
+            </Index>
+          ))}
+          <By>
+            Powered by{" "}
+            <a href="https://www.algolia.com">
+              <Algolia size="1em" /> Algolia
+            </a>
+          </By>
+        </HitsWrapper>
+      </InstantSearch>
+    )
+  }
+}

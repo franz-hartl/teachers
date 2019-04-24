@@ -55,7 +55,7 @@ const VolumeUnitBreadcrumbs = ({ unitPaths }) => {
     return (
       <span>
         <span>
-          <Link to={`${String(unitPaths.unitGuidePath)}`}>
+          <Link to={`${String(unitPaths.unitGuidePath)}${String(unitPaths.sectionNum)}`}>
             Unit {unitPaths.unitNum} ({unitPaths.unitName}) 
           </Link>
         </span>
@@ -94,13 +94,23 @@ function getUnitPaths(unitPath) {
       pageNum = 1
     }
   }
-
   var newVolume = unitPath.split('/')[4];
+  var sectionNum = unitPath.split('/')[6];
+
+  // print section to the url if there is a section otherwise print null
+  if(sectionNum === "" || sectionNum === undefined){
+    var sectionNum = ""
+  }
+  else{
+    var sectionNum = "/" + sectionNum;
+  }
 
   // pathSplit[2] = 'guides'
   var unitGuidePath = pathSplit.join('/')
+
   return {
     pageNum: pageNum,
+    sectionNum : sectionNum,
     newVolume : parseInt(newVolume),
     year: pathSplit[3],
     volume: pathSplit[4],

@@ -33,7 +33,7 @@ const HomePage = () => (
                 whatever their original audience, are readily adaptable for use
                 across a wide range of grades.
               </p>
-              <Link to="curriculum/indexes" className="btn-def">
+              <Link to="curriculum/indexes/" className="btn-def">
                 Browse Index
               </Link>
             </div>

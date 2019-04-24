@@ -38,7 +38,7 @@ const Footer = () => (
             <label>Feedback</label>
             <div className="footer-menu">
               <div className="ft-menu-list">
-                <Link to="/guestbook.html">Guestbook</Link>
+                <a href="https://yalesurvey.ca1.qualtrics.com/jfe/form/SV_2lYNllUbWwcheuh">Guestbook</a>
               </div>
               <div className="ft-menu-list">
                 <Link to="participate">Participate</Link>
