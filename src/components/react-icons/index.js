@@ -24,7 +24,7 @@ class React_icons extends React.Component {
 
     return (
       <div className="main_content">
-        <span>Tools for this unit:</span>
+        <span>Tools for this {dlUnitPaths.echoUnit}:</span>
         <IconContext.Provider value={{ color: '#2B50A3', size: '3em' }}>
           <p class="my-2 mb-3">
             <div>
@@ -77,13 +77,16 @@ function getdlUnitPaths(dlUnitPath){
   
   if (pathSplit[1] == "units"){
     var printUnit ='units';
+    var echoUnit = 'unit'
   }
   else{
     var printUnit = 'guides';
+    var echoUnit = 'guide'
   }
 
   return{
     pdfDownload : pdfDownload,
-    printUnit : printUnit
+    printUnit : printUnit,
+    echoUnit : echoUnit
   }
 }
