@@ -383,6 +383,10 @@ const getPageHtml = (pageIndex, pagePath, html) => {
         console.log(pagePath + ' --- ' + err)
         return { title: '--- ERROR ---', html: '' }
       }
+      
+      // 4-25-2019 AS: find all relative images paths and change to full path
+      p = p.replace(/[.]{2}[/][.]{2}[/][.]{2}[/]images[/]/gi, "/curriculum/images/")
+
       if (i >= 0) {
         j = p.indexOf('</h2>')
         title = p.substring(i + 4, j).trim()

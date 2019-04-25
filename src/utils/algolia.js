@@ -210,6 +210,12 @@ function flatten_pages(nodes) {
       case 'unit':
         var pageTextSize = 0
         if (year < 2015) {
+            ul = html.indexOf('</ul>')
+            if (ul > 0) {
+              html = html.slice(ul)
+            } else {
+              console.log(path + ' -- ERROR: has no unit <ul> list of pages.')
+            }
             pages = html.split('<hr/>')
         } else {
             pages = html.split('<h2>')
@@ -227,7 +233,7 @@ function flatten_pages(nodes) {
             pageTextSize += pageText.length
             a_pages.push({"pagePath": pagePath + pagePathExt, "pageText": pageText})
         }
-        if (pageTextSize > 80000) {
+        if (pageTextSize > 120000) {
           console.log('page size over max for:' + path)
         }
         return a_pages
