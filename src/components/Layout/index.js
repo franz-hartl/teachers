@@ -1,4 +1,5 @@
 import React from 'react'
+import ReactDom from 'react-dom'
 
 import Navi from 'components/Navi/nav'
 import Footer from 'components/Footer/footer'
@@ -14,8 +15,7 @@ import Search from 'components/Search/index.js'
 
 
 const searchIndices = [
-  { name: `dev_teachers_units`, title: `Units`, hitComp: `PageHit` },
-  { name: `dev_teachers_units`, title: `Units`, hitComp: `PageHit` },
+  { name: `dev_teachers_units`, title: `Units`, hitComp: `PageHit` }
 ] 
 
 class Layout extends React.Component {
@@ -35,6 +35,7 @@ class Layout extends React.Component {
         <header>
           <Logo />
           {/* <Search className="search-zone" collapse indices={searchIndices} /> */}
+          <Search />
           <Navi />
         </header>
         <div className="container py-3" id="content">{children}</div>
