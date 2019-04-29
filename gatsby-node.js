@@ -4,6 +4,12 @@ const path = require('path')
 const VolumeTemplate = path.resolve('./src/templates/Volume/index.js')
 const UnitTemplate = path.resolve('./src/templates/Units/index.js')
 const PageTemplate = path.resolve('./src/templates/Page/index.js')
+const ChildProcess = require('child_process');
+
+// add the following to try to fix Netlify exceeded build time of 30 minutes
+exports.onPostBuild = () => {
+  ChildProcess.execSync("ps aux | grep jest | grep -v grep | awk '{print $2}' | xargs kill");
+};
 
 exports.createPages = ({ graphql, actions }) => {
   const { createPage, createRedirect } = actions
