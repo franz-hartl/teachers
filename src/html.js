@@ -1,10 +1,7 @@
 import React from 'react'
-// import 'scss/gatstrap.scss'
-import 'animate.css/animate.css'
-import 'prismjs/themes/prism-okaidia.css'
-import 'font-awesome/css/font-awesome.css'
-import 'bootstrap/dist/css/bootstrap.min.css';
+// import 'font-awesome/css/font-awesome.css'
 import 'components/Layout/newStyle.css'
+// import Helmet from 'react-helmet'
 
 export default class HTML extends React.Component {
   render() {
@@ -19,13 +16,7 @@ export default class HTML extends React.Component {
             content="width=device-width, initial-scale=1.0"
           />
           {this.props.headComponents}
-          <link
-            href="/img/apple-touch-icon.png"
-            rel="apple-touch-icon"
-            sizes="180x180"
-          />
           <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf"></link>
-          <link href="/img/favicon.ico" rel="icon" type="image/x-icon" />
           <script
             dangerouslySetInnerHTML={{
               __html: `(function (d, t) {
@@ -36,6 +27,7 @@ export default class HTML extends React.Component {
   })(document, 'script');`,
             }}
           />
+          <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossOrigin="anonymous" />
         </head>
         <body>
           <div
@@ -43,10 +35,7 @@ export default class HTML extends React.Component {
             dangerouslySetInnerHTML={{ __html: this.props.body }}
           />
           {this.props.postBodyComponents}
-          <script
-            async
-            src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"
-          />
+        
         </body>
       </html>
     )

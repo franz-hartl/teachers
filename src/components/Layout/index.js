@@ -1,31 +1,18 @@
 import React from 'react'
-import ReactDom from 'react-dom'
 
 import Navi from 'components/Navi/nav'
 import Footer from 'components/Footer/footer'
 import Logo from 'components/Logo'
-import { siteMetadata } from '../../../gatsby-config'
-
-import 'prismjs/themes/prism.css'
-import 'bootstrap/dist/css/bootstrap.min.css';
+//import 'bootstrap/dist/css/bootstrap.min.css';
 import './newStyle.css'
-import { Link } from 'gatsby'
 import Index from 'components/react-icons/backtoTop.js'
 import Search from 'components/Search/index.js'
 
-
-const searchIndices = [
-  { name: `dev_teachers_units`, title: `Units`, hitComp: `PageHit` }
-] 
+// const searchIndices = [
+//   { name: `dev_teachers_units`, title: `Units`, hitComp: `PageHit` }
+// ] 
 
 class Layout extends React.Component {
-  // componentDidMount() {
-  //   emergence.init()
-  // }
-
-  // componentDidUpdate() {
-  //   emergence.init()
-  // } 
 
   render() {
     const { children } = this.props
