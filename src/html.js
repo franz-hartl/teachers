@@ -1,7 +1,6 @@
 import React from 'react'
 // import 'font-awesome/css/font-awesome.css'
-import 'components/Layout/newStyle.css'
-// import Helmet from 'react-helmet'
+import './styles/global.css'
 
 export default class HTML extends React.Component {
   render() {

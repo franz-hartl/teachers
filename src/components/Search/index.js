@@ -17,7 +17,7 @@ class Search extends React.Component{
 
   render(){
     return (
-  <div className="search-block d-inline-flex col-md-5 ml-lg-3">
+  <div className="search-block col-md-4 my-auto">
     <span
       className="d-sm-inline-block"
       id="siteSearch"
