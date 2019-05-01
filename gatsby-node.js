@@ -352,16 +352,22 @@ const getUnitNavItems = (path, html) => {
     items.shift()
     for (let item of items) {
       item = item.split('</h2>')[0]
-      item = item.replace(/\s*<[/]?strong>\s*/gi, '')
+      item = item.replace(/\s*<[/]?strong>\s*/gi, ' ')
       pageItems.push(item.trim().trim('_'))
     }
   }
   unitNavItems.push({ path: unitGuidesPath, title: 'Unit Guide' })
   unitNavItems.push({ path: unitPath, title: pageItems[0] })
   for (let i = 2; i <= pageItems.length; i++) {
+    // Remove <strong> or <span> or <sup> tags from nav items
+    title = pageItems[i - 1]
+    title = title.replace(/\s*<[/]?strong>\s*/gi, ' ')
+    title = title.replace(/\s*<[/]?span>\s*/gi, ' ')
+    title = title.replace(/\s*<sup>\s*.*\s*<\/sup>\s*/gi, ' ')
+    
     unitNavItems.push({
       path: unitPath.split('.x.html')[0] + '/' + i,
-      title: pageItems[i - 1],
+      title: title,
     })
   }
   return unitNavItems
@@ -428,9 +434,9 @@ const getPageHtml = (pageIndex, pagePath, html) => {
       } else {
         try {
           title = pages[pageIndex].split('</h2>')[0].trim()
-          // if the title is wrapped in a <strong> tag then remove it
-          title = title.replace(/\s*<[/]?strong>\s*/gi, '')
-          title = title.replace(/\s*<[/]?span>\s*/gi, '')
+          // if the title is wrapped in a <strong> or <span> tag then remove it
+          title = title.replace(/\s*<[/]?strong>\s*/gi, ' ')
+          title = title.replace(/\s*<[/]?span>\s*/gi, ' ')
         } catch (err) {
           // console.log('***ERROR*** finding title on page: ' + err)
         }
