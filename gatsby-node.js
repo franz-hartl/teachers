@@ -7,6 +7,7 @@ const PageTemplate = path.resolve('./src/templates/Page/index.js')
 const ChildProcess = require('child_process');
 
 // add the following to try to fix Netlify exceeded build time of 30 minutes
+//   see: https://github.com/gatsbyjs/gatsby/issues/9465
 exports.onPostBuild = () => {
   ChildProcess.execSync("ps aux | grep jest | grep -v grep | awk '{print $2}' | xargs kill");
 };
