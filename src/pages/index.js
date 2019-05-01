@@ -57,7 +57,7 @@ const HomePage = () => (
                   and secondary schools.
                 </p>
                 <Link
-                  className="btn btn-primary"
+                  className="s-btn"
                   to="/curriculum/indexes"
                   role="button"
                 >

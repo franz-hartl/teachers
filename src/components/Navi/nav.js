@@ -28,7 +28,6 @@ export default class  extends React.Component {
   }
   render() {
     return (
-      <div class="zone-menu-wrapper">
       <div className="container main-menu">
         <Navbar color="light" light expand="lg">
           <NavbarToggler onClick={this.toggle} />
@@ -39,7 +38,7 @@ export default class  extends React.Component {
                   Curricular Resources
                 </DropdownToggle>
                 <DropdownMenu left>
-                  <DropdownItem href="/curriculum/indexes/index.html">
+                  <DropdownItem href="/curriculum/indexes/">
                     View Topical Index of Units
                   </DropdownItem>
                   <DropdownItem href="/curriculum/units/index.html">
@@ -137,7 +136,6 @@ export default class  extends React.Component {
             </Nav>
           </Collapse>
         </Navbar>
-      </div>
       </div>
     );
   }

@@ -12,7 +12,7 @@ class Table_content extends React.Component {
         <div className="volumes-links">
           <Link
             to="/curriculum/units/"
-            className="btn btn-primary btn-sm"
+            className="btn-sm"
             role="button"
             aria-pressed="true"
           >
@@ -20,7 +20,7 @@ class Table_content extends React.Component {
           </Link>
           <Link
             to="/curriculum/indexes/"
-            className="btn btn-primary btn-sm"
+            className="btn-sm"
             role="button"
             aria-pressed="true"
           >

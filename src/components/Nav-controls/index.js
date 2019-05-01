@@ -25,7 +25,7 @@ class NavControls extends React.Component {
       <div className="content-nav-button">
         <Link
           to={`${prevPath ? prevPath : '/'}`}
-          className={`btn prv-btn btn-primary mr-2 px-4 btn-sm ${
+          className={`prv-btn mr-2 px-4 btn-sm ${
             prevPath ? '' : 'disabled'
           }`}
           role="button"
@@ -35,7 +35,7 @@ class NavControls extends React.Component {
         </Link>
         <Link
           to={`${nextPath ? nextPath : '/'}`}
-          className={`btn px-4 btn-primary next-btn btn-sm ml-2  ${
+          className={`px-4 next-btn btn-sm ml-2  ${
             nextPath ? '' : 'disabled'
           }`}
           role="button"
@@ -46,7 +46,7 @@ class NavControls extends React.Component {
         <a
           href="#"
           id="backtotop"
-          className="btn px-4 btn-primary backtotop btn-sm ml-2"
+          className="px-4 backtotop btn-sm ml-2"
           role="button"
           aria-pressed="true"
         >

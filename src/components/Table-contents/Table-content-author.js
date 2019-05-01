@@ -8,7 +8,7 @@ class Table_content_author extends React.Component {
           <a
             target="_blank"
             href="#"
-            className="btn btn-primary btn-sm"
+            className="btn btn-sm"
             role="button"
             aria-pressed="true"
           >
@@ -17,7 +17,7 @@ class Table_content_author extends React.Component {
           <a
             target="_blank"
             href="#"
-            className="btn btn-primary btn-sm"
+            className="btn btn-sm"
             role="button"
             aria-pressed="true"
           >
