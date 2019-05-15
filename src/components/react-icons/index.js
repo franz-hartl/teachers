@@ -72,16 +72,26 @@ function getdlUnitPaths(dlUnitPath){
   
   var pathSplit = pathSplit[1].split("/");
 
-  var str = pathSplit[4];
-  var pdfDownload = str.replace(reg,'');  // Remove .x.html
+  // var str = pathSplit[4];
+  var pdfDownload = pathSplit[4];     //str.replace(reg,'');  // Remove .x.html
+
+  // if there is no filename then it is a volume preface
+  if (pathSplit.length < 5 || pathSplit[4].trim() == '') {
+    var year = pathSplit[2].substring(2);
+    var volume = pathSplit[3].padStart(2, '0');
+    pdfDownload = year + '.' + volume + '.preface';
+  } else {
+    pdfDownload = pdfDownload.replace('.x.html', '');
+  }
   
   if (pathSplit[1] == "units"){
     var printUnit ='units';
     var echoUnit = 'unit'
   }
   else{
-    var printUnit = 'guides';
+    var printUnit = 'units';
     var echoUnit = 'guide'
+    pdfDownload = pdfDownload + '_guide'
   }
 
   return{

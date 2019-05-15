@@ -7,3 +7,5 @@ public
 .vscode/
 .env
 *.bkup*
+package-lock.json
+yarn.lock
