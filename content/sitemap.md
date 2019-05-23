@@ -75,7 +75,7 @@ path: /map.x.html
                     <li class="sitemap_list"><a class="sitemap_link" href="/pubs/A4">Teaching in America: The Common Ground<, 1984/li>
                     <li class="sitemap_list"><a class="sitemap_link" href="/pubs/A5">Teaching in New Haven: The Common Challenge, 1991</a></li>
                 </ul>
-            <li class="sitemap_list"><a class="sitemap_link" href="/brochures/CenterManual/index.html">Institute Centers</a></li>
+            <li class="sitemap_list"><a class="sitemap_link" href="/brochures/CenterManual/">Institute Centers</a></li>
         </ul>
     <li class="sitemap_list"><a class="sitemap_link" href="/event-proceedings">Event Proceedings</a></li>
         <ul>

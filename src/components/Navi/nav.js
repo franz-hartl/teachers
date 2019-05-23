@@ -76,7 +76,7 @@ export default class  extends React.Component {
                   <DropdownItem href="/pubs/books">
                     Books
                   </DropdownItem>
-                  <DropdownItem href="/brochures/CenterManual/index.html">
+                  <DropdownItem href="/brochures/CenterManual/">
                     Institute Center Manual
                   </DropdownItem>
                 </DropdownMenu>
