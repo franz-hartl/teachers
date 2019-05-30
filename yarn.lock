@@ -973,6 +973,13 @@
     signedsource "^1.0.0"
     yargs "^9.0.0"
 
+"@gfx/zopfli@^1.0.12":
+  version "1.0.13"
+  resolved "https://registry.yarnpkg.com/@gfx/zopfli/-/zopfli-1.0.13.tgz#88ca5b15567e9c76be73e8d11e166273ce44e0b3"
+  integrity sha512-pb+e68cuPRN348j6UeHvnR7vsZ0KMkQVUtRFqL4VaP3UlgNy/cAx2MsgVRerPAawRe9OoOrY/c7o2XDyU4RozQ==
+  dependencies:
+    base64-js "^1.3.0"
+
 "@mikaelkristiansson/domready@^1.0.9":
   version "1.0.9"
   resolved "https://registry.yarnpkg.com/@mikaelkristiansson/domready/-/domready-1.0.9.tgz#b2b85d8ac7bb2797e577050b61aeaf1b26fbd906"
@@ -2280,7 +2287,7 @@ base64-js@0.0.8:
   version "0.0.8"
   resolved "https://registry.yarnpkg.com/base64-js/-/base64-js-0.0.8.tgz#1101e9544f4a76b1bc3b26d452ca96d7a35e7978"
 
-base64-js@^1.0.2:
+base64-js@^1.0.2, base64-js@^1.3.0:
   version "1.3.0"
   resolved "https://registry.yarnpkg.com/base64-js/-/base64-js-1.3.0.tgz#cab1e6118f051095e58b5281aea8c1cd22bfc0e3"
 
@@ -6231,6 +6238,13 @@ gatsby-plugin-typography@^2.2.0:
   integrity sha512-4qjP6IeR1XwZ0/NR2py8Sl4Vx+BRS6D0F8E7kEGXcR4TjzNdwqOIQq0JkPotZxxHQRx2xx7Cu6Y7Wf+hM9MitA==
   dependencies:
     "@babel/runtime" "^7.0.0"
+
+gatsby-plugin-zopfli@^1.1.1:
+  version "1.1.1"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-zopfli/-/gatsby-plugin-zopfli-1.1.1.tgz#68ae3a4cf67676d473ca8333110e2e51b70f83c5"
+  integrity sha512-zXLPf70vdWKDT+dYU4ONMwv6O55mKaaAK+n1AXrR6BKtcLOv3MEjkjo7VsjMhu2xhYV5ZwwrtDryt5/yBOV5ww==
+  dependencies:
+    "@gfx/zopfli" "^1.0.12"
 
 gatsby-react-router-scroll@^2.0.7:
   version "2.0.7"

@@ -14,6 +14,9 @@ module.exports = {
   },
   pathPrefix: '/',
   plugins: [
+    {
+      resolve: 'gatsby-plugin-zopfli'
+    },
     // {
     //   resolve: `gatsby-plugin-algolia`,
     //   options: {
