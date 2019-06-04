@@ -1,5 +1,5 @@
 import React from 'react'
-import Layout from 'components/Layout/index'
+import Layout from 'components/layout'
 const path = require('path')
 
 class error404Page extends React.Component {

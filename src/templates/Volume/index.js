@@ -2,7 +2,7 @@ import React from 'react'
 import { graphql } from 'gatsby'
 import Breadcrumb from 'components/Breadcrumb/breadcrumb'
 import Table_content from 'components/Table-contents/volumeNav'
-import Layout from 'components/Layout/index'
+import Layout from 'components/layout'
 import React_icons from 'components/react-icons'
 import NavControls from 'components/Nav-controls'
 

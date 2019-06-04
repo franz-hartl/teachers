@@ -13,7 +13,7 @@
     "bootstrap": "^4.3.1",
     "dotenv": "^7.0.0",
     "gatsby": "^2.3.33",
-    "gatsby-cli": "^2.6.2",
+    "gatsby-cli": "^2.6.4",
     "gatsby-image": "^2.0.22",
     "gatsby-plugin-algolia": "^0.3.0",
     "gatsby-plugin-catch-links": "^2.0.12",
@@ -63,7 +63,8 @@
     "typeface-montserrat": "0.0.54",
     "typography": "^0.16.17",
     "typography-theme-wordpress-2016": "^0.15.10",
-    "webpack": ">=4.0.0"
+    "webpack": ">=4.0.0",
+    "workbox-webpack-plugin": "^4.0.0-rc.4"
   },
   "devDependencies": {
     "@fortawesome/fontawesome-svg-core": "1.2.8",
