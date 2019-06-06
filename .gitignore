@@ -9,3 +9,4 @@ public
 *.bkup*
 package-lock.json
 .netlify
+backup-files
