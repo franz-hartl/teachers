@@ -151,7 +151,6 @@ module.exports = {
     'gatsby-plugin-sitemap',
     'gatsby-transformer-sharp',
     `gatsby-plugin-meta-redirect`,
-    `gatsby-plugin-offline`,
     {
       resolve: `gatsby-plugin-s3`,
       options: {
