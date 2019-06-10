@@ -1,16 +1,5 @@
 import React from 'react'
 import Layout from 'components/layout'
-import { IconContext } from 'react-icons'
-import {
-  FaArrowRight,
-  FaArrowLeft,
-  FaAngleLeft,
-  FaAngleRight,
-  FaDownload,
-  FaFilePdf,
-  FaPrint,
-  FaEnvelope,
-} from 'react-icons/fa'
 
 class PageTemplate extends React.Component {
   render() {

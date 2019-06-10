@@ -9,8 +9,7 @@ module.exports = {
     description: "Yale New Haven Teacher's Intitute Site",
     siteUrl: 'https://teachersinstitute.yale.edu',
     author: '',
-    twitter: '',
-    adsense: '',
+    twitter: ''
   },
   pathPrefix: '/',
   plugins: [
@@ -40,33 +39,33 @@ module.exports = {
         name: 'content',
       },
     },
-    {
-      resolve: `gatsby-plugin-sitemap`,
-      options: {
-        output: `/sitemap2.xml`,
-        sitemapSize:1000,
-        // Exclude specific pages or groups of pages using glob parameters
-        // See: https://github.com/isaacs/minimatch
-        // The example below will exclude the single `path/to/page` and all routes beginning with `category`
-        exclude: [`\/curriculum\/units\/*`],
-        query: `
-          {
-            site {
-              siteMetadata {
-                siteUrl
-              }
-            }
+    // {
+    //   resolve: `gatsby-plugin-sitemap`,
+    //   options: {
+    //     output: `/sitemap2.xml`,
+    //     sitemapSize:1000,
+    //     // Exclude specific pages or groups of pages using glob parameters
+    //     // See: https://github.com/isaacs/minimatch
+    //     // The example below will exclude the single `path/to/page` and all routes beginning with `category`
+    //     exclude: [`\/curriculum\/units\/*`],
+    //     query: `
+    //       {
+    //         site {
+    //           siteMetadata {
+    //             siteUrl
+    //           }
+    //         }
   
-            allSitePage {
-              edges {
-                node {
-                  path
-                }
-              }
-            }
-        }`
-      }
-    },
+    //         allSitePage {
+    //           edges {
+    //             node {
+    //               path
+    //             }
+    //           }
+    //         }
+    //     }`
+    //   }
+    // },
     {
       resolve: 'gatsby-source-filesystem',
       options: {

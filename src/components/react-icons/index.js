@@ -1,20 +1,12 @@
 import React from 'react'
 import { IconContext } from 'react-icons'
-import { Link } from 'gatsby'
 const path = require('path')
 
 import {
-  FaArrowRight,
-  FaArrowLeft,
-  FaDrupal,
-  FaAngleLeft,
-  FaAngleRight,
   FaDownload,
-  FaFilePdf,
   FaPrint,
   FaEnvelope,
 } from 'react-icons/fa'
-import { basename } from 'path';
 
 class React_icons extends React.Component {
  // Click and share current page link
