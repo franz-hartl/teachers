@@ -99,37 +99,37 @@ module.exports = {
               wrapperStyle: 'margin-bottom: 1.0725rem',
             },
           },
-          'gatsby-remark-prismjs',
-          'gatsby-remark-copy-linked-files',
-          'gatsby-remark-smartypants',
+          // 'gatsby-remark-prismjs',
+          // 'gatsby-remark-copy-linked-files',
+          // 'gatsby-remark-smartypants',
         ],
       },
     },
-    {
-      resolve: `gatsby-plugin-manifest`,
-      options: {
-        name: 'Gatstrap',
-        short_name: 'Gatstrap',
-        description: 'Gatsby starter for bootstrap a blog',
-        homepage_url: '/',
-        start_url: '/',
-        background_color: '#fff',
-        theme_color: '#673ab7',
-        display: 'standalone',
-        icons: [
-          {
-            src: '/img/android-chrome-192x192.png',
-            sizes: '192x192',
-            type: 'image/png',
-          },
-          {
-            src: '/img/android-chrome-512x512.png',
-            sizes: '512x512',
-            type: 'image/png',
-          },
-        ],
-      },
-    },
+    // {
+    //   resolve: `gatsby-plugin-manifest`,
+    //   options: {
+    //     name: 'Gatstrap',
+    //     short_name: 'Gatstrap',
+    //     description: 'Gatsby starter for bootstrap a blog',
+    //     homepage_url: '/',
+    //     start_url: '/',
+    //     background_color: '#fff',
+    //     theme_color: '#673ab7',
+    //     display: 'standalone',
+    //     icons: [
+    //       {
+    //         src: '/img/android-chrome-192x192.png',
+    //         sizes: '192x192',
+    //         type: 'image/png',
+    //       },
+    //       {
+    //         src: '/img/android-chrome-512x512.png',
+    //         sizes: '512x512',
+    //         type: 'image/png',
+    //       },
+    //     ],
+    //   },
+    // },
     {
       resolve: 'gatsby-plugin-google-analytics',
       options: {
