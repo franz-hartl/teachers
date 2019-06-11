@@ -130,12 +130,12 @@ module.exports = {
     //     ],
     //   },
     // },
-    {
-      resolve: 'gatsby-plugin-google-analytics',
-      options: {
-        trackingId: '',
-      },
-    },
+    // {
+    //   resolve: 'gatsby-plugin-google-analytics',
+    //   options: {
+    //     trackingId: '',
+    //   },
+    // },
     {
       resolve: 'gatsby-plugin-netlify',
       options: {
