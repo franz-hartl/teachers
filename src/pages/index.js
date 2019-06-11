@@ -25,7 +25,7 @@ const HomePage = () => (
             </p>
             <p>
               See our{' '}
-              <Link to="/brochures/A1/2019-YNHTI-Annual-Brochure.pdf">
+              <Link to="brochures/A1/2019-YNHTI-Annual-Brochure.pdf">
                 2019 Annual Brochure.
               </Link>
             </p>
@@ -40,8 +40,8 @@ const HomePage = () => (
             </p>
             <p>
               You can view the curriculum resources in the{' '}
-              <Link to="/curriculum/indexes">index of topics</Link> or organized
-              by their year and <Link to="curriculum/units">volume.</Link>
+              <Link to="curriculum/indexes/">index of topics</Link> or organized
+              by their year and <Link to="curriculum/units/">volume.</Link>
             </p>
           </div>
           <div className="col-sm-4">
@@ -58,7 +58,7 @@ const HomePage = () => (
                 </p>
                 <Link
                   className="s-btn"
-                  to="/curriculum/indexes"
+                  to="/curriculum/indexes/"
                   role="button"
                 >
                   Browse by Topic

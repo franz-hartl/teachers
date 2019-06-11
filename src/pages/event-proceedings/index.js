@@ -70,7 +70,7 @@ const conPage = () => (
             </div>
             <div className="br-cell py-2">
               <h2 className="br-title">
-                <Link to="brochures/25thTranscript.html">
+                <Link to="transcripts/25thTranscript.html">
                   25th Anniversary{' '}
                   <i className="fas fa fa-arrow-circle-right" />
                 </Link>

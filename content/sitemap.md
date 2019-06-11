@@ -101,7 +101,7 @@ path: /map.x.html
                     <li class="sitemap_list"><a class="sitemap_link" href="/transcripts/F13.html">News Conference on November 8, 1982</a></li>
                     <li class="sitemap_list"><a class="sitemap_link" href="/transcripts/F1.html">Press Conference on National Endowment for the Humanities Award, October 18, 1978</a></li>
                 </ul>
-            <li class="sitemap_list"><a class="sitemap_link" href="/brochures/25thTranscript.html">25th Anniversary</a></li>
+            <li class="sitemap_list"><a class="sitemap_link" href="/transcripts/25thTranscript.html">25th Anniversary</a></li>
             <li class="sitemap_list"><a class="sitemap_link" href="/congressional.html">Congressional Hearing</a></li>
                 <ul>
                     <li class="sitemap_list"><a class="sitemap_link" href="https://drive.google.com/file/d/10XbR5iNBH_iTLa8XpIPOVxDeHGqJth31/view">Hearings on Reauthorization of the Higher Education Act, l985</a></li>

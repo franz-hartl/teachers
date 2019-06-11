@@ -172,7 +172,7 @@ class Navi extends React.Component {
                     </Link>
                     <Link
                       className="dropdown-item"
-                      to="brochures/25thTranscript.html "
+                      to="transcripts/25thTranscript.html "
                     >
                       25th Anniversary
                     </Link>
