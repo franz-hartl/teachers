@@ -25,9 +25,9 @@ const HomePage = () => (
             </p>
             <p>
               See our{' '}
-              <Link to="brochures/A1/2019-YNHTI-Annual-Brochure.pdf">
+              <a href="/brochures/A1/2019-YNHTI-Annual-Brochure.pdf">
                 2019 Annual Brochure.
-              </Link>
+              </a>
             </p>
             <h2>Curriculum Units by Teachers</h2>
             <p>
