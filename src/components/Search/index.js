@@ -27,7 +27,7 @@ class Search extends React.Component{
     />
     <script
       dangerouslySetInnerHTML={{
-        __html: `$(document).ready(function(){
+        __html: `jQuery(document).ready(function($){
         $('#siteSearchOptions option').click(function() {
           $('#siteSearch *').remove();
           $('.gssb_c').remove();
@@ -38,7 +38,7 @@ class Search extends React.Component{
           newSiteSearch();
         });
         $('#defaultRefinement').trigger('click');
-        $('#defaultRefinement').trigger('click');`,
+        })`,
       }}
     />
   </div>

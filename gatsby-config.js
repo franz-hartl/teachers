@@ -108,9 +108,9 @@ module.exports = {
     // {
     //   resolve: `gatsby-plugin-manifest`,
     //   options: {
-    //     name: 'Gatstrap',
-    //     short_name: 'Gatstrap',
-    //     description: 'Gatsby starter for bootstrap a blog',
+    //     name: 'Teachers Institute',
+    //     short_name: 'Teachers Institute',
+    //     description: 'Yale University Teacher Institute Site',
     //     homepage_url: '/',
     //     start_url: '/',
     //     background_color: '#fff',
@@ -136,14 +136,14 @@ module.exports = {
     //     trackingId: '',
     //   },
     // },
-    {
-      resolve: 'gatsby-plugin-netlify',
-      options: {
-        mergeSecurityHeaders: true,
-        mergeLinkHeaders: true,
-        mergeCachingHeaders: true,
-      },
-    },
+    // {
+    //   resolve: 'gatsby-plugin-netlify',
+    //   options: {
+    //     mergeSecurityHeaders: true,
+    //     mergeLinkHeaders: true,
+    //     mergeCachingHeaders: true,
+    //   },
+    // },
     'gatsby-plugin-catch-links',
     'gatsby-plugin-react-helmet',
     'gatsby-plugin-sharp',
