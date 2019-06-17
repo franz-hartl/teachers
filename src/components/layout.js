@@ -3,8 +3,6 @@ import React from 'react'
 import Navi from 'components/Navi/nav'
 import Footer from 'components/Footer/footer'
 import Logo from 'components/Logo'
-//import 'bootstrap/dist/css/bootstrap.min.css';
-//import './newStyle.css'
 import Index from 'components/react-icons/backtoTop.js'
 // import Search from 'components/Search/index.js'
 
