@@ -53,20 +53,6 @@ const HomePage = () => (
             </div>
           </div>
           <div className="col-sm-4">
-            <aside className="mb-2" />
-            <div className="p-3 mt-4 block-block">
-              <p>
-                <a
-                  target="_blank"
-                  href="http://teachers.yale.edu/curriculum/sort/index.php?page=sort_by_seminar_leader&skin=h"
-                  targets="_blank"
-                >
-                  Find
-                </a>{' '}
-                curriculum units written in seminars led by each participating
-                Yale faculty member.
-              </p>
-            </div>
           </div>
           <div className="row" />
         </div>
