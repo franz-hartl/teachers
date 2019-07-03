@@ -105,31 +105,19 @@ module.exports = {
         ],
       },
     },
-    // {
-    //   resolve: `gatsby-plugin-manifest`,
-    //   options: {
-    //     name: 'Teachers Institute',
-    //     short_name: 'Teachers Institute',
-    //     description: 'Yale University Teacher Institute Site',
-    //     homepage_url: '/',
-    //     start_url: '/',
-    //     background_color: '#fff',
-    //     theme_color: '#673ab7',
-    //     display: 'standalone',
-    //     icons: [
-    //       {
-    //         src: '/img/android-chrome-192x192.png',
-    //         sizes: '192x192',
-    //         type: 'image/png',
-    //       },
-    //       {
-    //         src: '/img/android-chrome-512x512.png',
-    //         sizes: '512x512',
-    //         type: 'image/png',
-    //       },
-    //     ],
-    //   },
-    // },
+    {
+      resolve: `gatsby-plugin-manifest`,
+      options: {
+        name: 'Teachers Institute',
+        short_name: 'Teachers Institute',
+        description: 'Yale University Teacher Institute',
+        homepage_url: '/',
+        start_url: '/',
+        background_color: '#fff',
+        theme_color: '#2a52a1',
+        display: 'standalone'
+      },
+    },
     // {
     //   resolve: 'gatsby-plugin-google-analytics',
     //   options: {
