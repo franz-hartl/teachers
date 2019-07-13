@@ -53,8 +53,8 @@ const NavLinks = ({ navData, activeIndex }) => {
       )
     } else {
       return (
-        <li
-          key={i.toString()}
+        <li 
+          key={i.toString}
           className={`tc_lists_guide ${activeIndex == i ? 'tc_active' : ''}`}
         >
           <Link to={item.path}>{item.title}</Link>

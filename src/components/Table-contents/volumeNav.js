@@ -53,6 +53,7 @@ const NavLinks = ({ navData, activeIndex }) => {
       return (
         <li
           key={i.toString()}
+          value={parseInt(item.path.split(".")[2], 10)}
           className={`tc_lists_guide ${activeIndex == i ? 'tc_active' : ''}`}
         >
           <Link to={item.path}>{item.title}</Link>
