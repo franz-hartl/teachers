@@ -25,7 +25,7 @@ const periodicalPage = () => (
                 <strong>
                   <a
                     target="_blank"
-                    href="http://teachers.yale.edu/pdfs/ocg/ocg16.pdf"
+                    href="/pdfs/ocg/ocg16.pdf"
                   >
                     On Common Ground®: Number 16, Fall 2018{' '}
                   </a>
@@ -47,7 +47,7 @@ const periodicalPage = () => (
                 <strong>
                   <a
                     target="_blank"
-                    href="http://teachers.yale.edu/pdfs/ocg/ocg15.pdf"
+                    href="/pdfs/ocg/ocg15.pdf"
                   >
                     On Common Ground®: Number 15, Fall 2015{' '}
                   </a>
@@ -62,7 +62,7 @@ const periodicalPage = () => (
                 <strong>
                   <a
                     target="_blank"
-                    href="http://teachers.yale.edu/pdfs/ocg/ocg14.pdf"
+                    href="/pdfs/ocg/ocg14.pdf"
                   >
                     On Common Ground®: Number 14, Fall 2011{' '}
                   </a>
@@ -78,7 +78,7 @@ const periodicalPage = () => (
                 <strong>
                   <a
                     target="_blank"
-                    href="http://teachers.yale.edu/pdfs/ocg/ocg13.pdf"
+                    href="/pdfs/ocg/ocg13.pdf"
                   >
                     On Common Ground®: Number 13, Spring 2009{' '}
                   </a>
@@ -92,7 +92,7 @@ const periodicalPage = () => (
                 <strong>
                   <a
                     target="_blank"
-                    href="http://teachers.yale.edu/pdfs/ocg/ocg12.pdf"
+                    href="/pdfs/ocg/ocg12.pdf"
                   >
                     On Common Ground®: Number 12, Spring 2008{' '}
                   </a>
@@ -105,7 +105,7 @@ const periodicalPage = () => (
                 <strong>
                   <a
                     target="_blank"
-                    href="http://teachers.yale.edu/pdfs/ocg/ocg11.pdf"
+                    href="/pdfs/ocg/ocg11.pdf"
                   >
                     On Common Ground®: Number 11, Winter 2007{' '}
                   </a>
@@ -119,7 +119,7 @@ const periodicalPage = () => (
                 <strong>
                   <a
                     target="_blank"
-                    href="http://teachers.yale.edu/pdfs/ocg/ocg10.pdf"
+                    href="/pdfs/ocg/ocg10.pdf"
                   >
                     On Common Ground®: Number 10, Spring 2005{' '}
                   </a>

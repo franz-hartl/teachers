@@ -22,7 +22,7 @@ const NewHavenPage = () => (
                 <a
                   target="_blank"
                   target="_blank"
-                  href="http://teachers.yale.edu/pdfs/ar/ar2009-full.pdf"
+                  href="/pdfs/ar/ar2009-full.pdf"
                 >
                   2009 Annual Report
                 </a>
@@ -31,7 +31,7 @@ const NewHavenPage = () => (
                 <a
                   target="_blank"
                   target="_blank"
-                  href="http://teachers.yale.edu/pdfs/ar/ar2008-full.pdf"
+                  href="/pdfs/ar/ar2008-full.pdf"
                 >
                   2008 Annual Report
                 </a>
@@ -40,7 +40,7 @@ const NewHavenPage = () => (
                 <a
                   target="_blank"
                   target="_blank"
-                  href="http://teachers.yale.edu/pdfs/ar/ar2007-full.pdf "
+                  href="/pdfs/ar/ar2007-full.pdf "
                 >
                   2007 Annual Report
                 </a>
@@ -54,7 +54,7 @@ const NewHavenPage = () => (
                 <a
                   target="_blank"
                   target="_blank"
-                  href="http://teachers.yale.edu/pdfs/ar/ar2004-full.pdf"
+                  href="/pdfs/ar/ar2004-full.pdf"
                 >
                   2004 Annual Report
                 </a>
@@ -93,7 +93,7 @@ const NewHavenPage = () => (
                 <a
                   target="_blank"
                   target="_blank"
-                  href="http://teachers.yale.edu/pdfs/ar/ar1997.pdf"
+                  href="/pdfs/ar/ar1997.pdf"
                 >
                   1997 Annual Report
                 </a>

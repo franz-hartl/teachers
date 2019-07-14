@@ -29,18 +29,18 @@ path: /map.x.html
                 </ul>
             <li class="sitemap_list"><a class="sitemap_link" href="/brochures/NewHavenProgram">New Haven Program</a></li>
                 <ul>
-                    <li class="sitemap_list"><a class="sitemap_link" href="http://teachers.yale.edu/pdfs/ar/ar2009-full.pdf">2009 Annual Report</a></li>
-                    <li class="sitemap_list"><a class="sitemap_link" href="http://teachers.yale.edu/pdfs/ar/ar2008-full.pdf">2008 Annual Report</a></li>
-                    <li class="sitemap_list"><a class="sitemap_link" href="http://teachers.yale.edu/pdfs/ar/ar2007-full.pdf">2007 Annual Report</a></li>
+                    <li class="sitemap_list"><a class="sitemap_link" href="/pdfs/ar/ar2009-full.pdf">2009 Annual Report</a></li>
+                    <li class="sitemap_list"><a class="sitemap_link" href="/pdfs/ar/ar2008-full.pdf">2008 Annual Report</a></li>
+                    <li class="sitemap_list"><a class="sitemap_link" href="/pdfs/ar/ar2007-full.pdf">2007 Annual Report</a></li>
                     <li class="sitemap_list"><a class="sitemap_link" href="/brochures/A3/2006/">2006 Annual Report</a></li>
-                    <li class="sitemap_list"><a class="sitemap_link" href="http://teachers.yale.edu/pdfs/ar/ar2004-full.pdf">2004 Annual Report</a></li>
+                    <li class="sitemap_list"><a class="sitemap_link" href="/pdfs/ar/ar2004-full.pdf">2004 Annual Report</a></li>
                     <li class="sitemap_list"><a class="sitemap_link" href="/brochures/A3/2003">2003 Annual Report</a></li>
                     <li class="sitemap_list"><a class="sitemap_link" href="/brochures/A3/2002">2002 Annual Report</a></li>
                     <li class="sitemap_list"><a class="sitemap_link" href="/brochures/A3/2001/">2001 Annual Report</a></li>
                     <li class="sitemap_list"><a class="sitemap_link" href="/brochures/A3/2000">2000 Annual Report</a></li>
                     <li class="sitemap_list"><a class="sitemap_link" href="/brochures/A3/1999">1999 Annual Report</a></li>
                     <li class="sitemap_list"><a class="sitemap_link" href="/brochures/A3/1998">1998 Annual Report</a></li>
-                    <li class="sitemap_list"><a class="sitemap_link" href="http://teachers.yale.edu/pdfs/ar/ar1997.pdf">1997 Annual Report</a></li>
+                    <li class="sitemap_list"><a class="sitemap_link" href="/pdfs/ar/ar1997.pdf">1997 Annual Report</a></li>
                     <li class="sitemap_list"><a class="sitemap_link" href="/brochures/A3/1996">1996 Annual Report</a></li>
                 </ul>
             <li class="sitemap_list"><a class="sitemap_link" href="/brochures/nationdemonstrationpj">National Demonstration Project</a></li>
@@ -53,13 +53,13 @@ path: /map.x.html
         <ul>
             <li class="sitemap_list"><a class="sitemap_link" href="/pubs/periodical">Periodical </a></li>
                 <ul>
-                    <li class="sitemap_list"><a class="sitemap_link" href="http://teachers.yale.edu/pdfs/ocg/ocg16.pdf">On Common Ground® - Number 16, Fall 2018 </a></li>
-                    <li class="sitemap_list"><a class="sitemap_link" href="http://teachers.yale.edu/pdfs/ocg/ocg15.pdf">On Common Ground® - Number 15, Fall 2015</a></li>
-                    <li class="sitemap_list"><a class="sitemap_link" href="http://teachers.yale.edu/pdfs/ocg/ocg14.pdf">On Common Ground® - Number 14, Fall 2011 </a></li>
-                    <li class="sitemap_list"><a class="sitemap_link" href="http://teachers.yale.edu/pdfs/ocg/ocg13.pdf">On Common Ground® - Number 13, Spring 2009 </a></li>
-                    <li class="sitemap_list"><a class="sitemap_link" href="http://teachers.yale.edu/pdfs/ocg/ocg12.pdf">On Common Ground® - Number 12, Spring 2008</a></li>
-                    <li class="sitemap_list"><a class="sitemap_link" href="http://teachers.yale.edu/pdfs/ocg/ocg11.pdf">On Common Ground® - Number 11, Winter 2007</a></li>
-                    <li class="sitemap_list"><a class="sitemap_link" href="http://teachers.yale.edu/pdfs/ocg/ocg10.pdf">On Common Ground® - Number 10, Spring 2005</a></li>
+                    <li class="sitemap_list"><a class="sitemap_link" href="/pdfs/ocg/ocg16.pdf">On Common Ground® - Number 16, Fall 2018 </a></li>
+                    <li class="sitemap_list"><a class="sitemap_link" href="/pdfs/ocg/ocg15.pdf">On Common Ground® - Number 15, Fall 2015</a></li>
+                    <li class="sitemap_list"><a class="sitemap_link" href="/pdfs/ocg/ocg14.pdf">On Common Ground® - Number 14, Fall 2011 </a></li>
+                    <li class="sitemap_list"><a class="sitemap_link" href="/pdfs/ocg/ocg13.pdf">On Common Ground® - Number 13, Spring 2009 </a></li>
+                    <li class="sitemap_list"><a class="sitemap_link" href="/pdfs/ocg/ocg12.pdf">On Common Ground® - Number 12, Spring 2008</a></li>
+                    <li class="sitemap_list"><a class="sitemap_link" href="/pdfs/ocg/ocg11.pdf">On Common Ground® - Number 11, Winter 2007</a></li>
+                    <li class="sitemap_list"><a class="sitemap_link" href="/pdfs/ocg/ocg10.pdf">On Common Ground® - Number 10, Spring 2005</a></li>
                     <li class="sitemap_list"><a class="sitemap_link" href="/pubs/A22/">On Common Ground® - Number 9, Fall 2001</a></li>
                     <li class="sitemap_list"><a class="sitemap_link" href="/pubs/A21/">On Common Ground® - Number 8, Winter 1998</a></li>
                     <li class="sitemap_list"><a class="sitemap_link" href="/pubs/A20/">On Common Ground® - Number 7, Fall 1996</a></li>
