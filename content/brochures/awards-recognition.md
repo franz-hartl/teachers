@@ -35,8 +35,8 @@ training good teachers: keeping them."
 Also in 2011 Senators Joseph Lieberman (I, CT) and Richard Blumenthal
 (D, CT) and Representatives Rosa DeLauro (D, CT-3) and Chaka Fattah (D,
 PA-2) have introduced legislation ([S.
-1240](http://teachers.yale.edu/pdfs/gov/S1240.pdf) and [H.R.
-2255](http://teachers.yale.edu/pdfs/gov/HR2255.pdf)) to create a
+1240](/pdfs/gov/S1240.pdf) and [H.R.
+2255](/pdfs/gov/HR2255.pdf)) to create a
 competitive grants program to establish Teachers Institutes in states
 throughout the nation. The Senators' and Representatives' plan was
 modeled after the Yale-New Haven Teachers Institute® and recognized the
