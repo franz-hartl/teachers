@@ -627,7 +627,7 @@ Immigration<br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
 <i>Survival Stories</i><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
-<font size="-1"><a href="../guides/2002/1/">02.01</a> (all 10 units)</font><br/>
+<font size="-1"><a href="../units/2002/1/">02.01</a> (all 10 units)</font><br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
 <i>Technology</i><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
@@ -653,7 +653,7 @@ Immigration<br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
 <i>Voice in American Literature</i><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
-<font size="-1"><a href="../guides/2007/1/">07.01</a> (all 11 units)</font><br/>
+<font size="-1"><a href="../units/2007/1/">07.01</a> (all 11 units)</font><br/>
 <a name="recycling"><font size="+1"><b></b></font></a></p><p><a name="recycling"><font size="+1"><b>Recycling (see also </b></font></a><font size="+1"><b><a href="e.x.html#ecology">Ecology</a>)</b></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
 <font size="-1"><a href="../guides/1992/5/92.05.08.x.html">92.05.08</a> </font><br/>

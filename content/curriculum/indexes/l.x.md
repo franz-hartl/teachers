@@ -2679,7 +2679,7 @@ Short Story <br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
 <i>Survival Stories</i><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
-<font size="-1"><a href="../guides/2002/1/">02.01</a> (all 10 units)</font><br/>
+<font size="-1"><a href="../units/2002/1/">02.01</a> (all 10 units)</font><br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
 <i>Symbolism</i><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>

@@ -616,7 +616,7 @@ Newspapers<br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
 <i>American</i><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
-<font size="-1"><a href="../guides/1989/1/">89.01</a> (all 14 units)</font><br/>
+<font size="-1"><a href="../units/1989/1/">89.01</a> (all 14 units)</font><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 <font size="-1"><a href="../guides/2014/2/14.02.08.x.html">14.02.08</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
@@ -844,7 +844,7 @@ Hartford<br/>
 <font size="-1"><a href="../guides/2017/2/17.02.05.x.html">17.02.05</a></font><br/>
 <a name="consumerpractices"><font size="+1"><b></b></font></a></p><p><a name="consumerpractices"><font size="+1"><b>Consumer Practices</b></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
-<font size="-1"></font></a><font size="-1"><a href="../guides/2010/1/">10.01</a>. (all 12 units)</font><br/>
+<font size="-1"></font></a><font size="-1"><a href="../units/2010/1/">10.01</a>. (all 12 units)</font><br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
 <i>American</i><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>

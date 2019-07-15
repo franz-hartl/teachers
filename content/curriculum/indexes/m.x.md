@@ -662,9 +662,9 @@ General<br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
 <font size="-1"><a href="../guides/1980/5/80.05.12.x.html">80.05.12</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
-<font size="-1"><a href="../guides/1980/7/">80.07</a> (all 13 units)</font><br/>
+<font size="-1"><a href="../units/1980/7/">80.07</a> (all 13 units)</font><br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
-<font size="-1"><a href="../guides/2004/5/">04.05</a> (all 10 units)</font><br/>
+<font size="-1"><a href="../units/2004/5/">04.05</a> (all 10 units)</font><br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
 <font size="-1"><a href="../guides/2014/1/14.01.10.x.html">14.01.11</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>

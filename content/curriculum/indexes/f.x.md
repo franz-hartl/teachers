@@ -874,7 +874,7 @@ Latin America<br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 Science<br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
-<font size="-1"><a href="../guides/2009/3/">09.03</a>  (all 12 units)</font><br/>
+<font size="-1"><a href="../units/2009/3/">09.03</a>  (all 12 units)</font><br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
 <i>and Energy</i><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
@@ -916,7 +916,7 @@ Science<br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
 <i>Science</i><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
-<font size="-1"><a href="../guides/2009/3/">09.03</a>. (all 12 units)</font><br/>
+<font size="-1"><a href="../units/2009/3/">09.03</a>. (all 12 units)</font><br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
 <i>Sources</i><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>

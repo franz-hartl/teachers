@@ -416,7 +416,7 @@ Social Implications of<br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 <font size="-1"><a href="../guides/2002/5/02.05.01.x.html">02.05.01</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
-<font size="-1"><a href="../guides/2009/3/">09.03</a> (all 12 units)</font><br/>
+<font size="-1"><a href="../units/2009/3/">09.03</a> (all 12 units)</font><br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
 <i>General</i><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
@@ -846,7 +846,7 @@ General<br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
 <font size="-1"><a href="../guides/1980/5/80.05.09.x.html">80.05.09</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
-<font size="-1"><a href="../guides/1981/3/">81.03</a> (all 8 units)</font><br/>
+<font size="-1"><a href="../units/1981/3/">81.03</a> (all 8 units)</font><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 Pregnancy <br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
