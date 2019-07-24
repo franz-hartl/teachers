@@ -28,6 +28,10 @@ const Meta = ({ site, title }) => {
           property: 'og:image',
           content: `${get(site, 'siteUrl')}/img/profile.jpg`,
         },
+        {
+          name="google-site-verification"
+          content="lGG0v5BPSFhC_ZUKwra6WlnQM8h9RCpUCd17WFIDmDI"
+        }
       ]}
     />
   )
