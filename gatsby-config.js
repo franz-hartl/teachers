@@ -115,7 +115,8 @@ module.exports = {
         start_url: '/',
         background_color: '#fff',
         theme_color: '#2a52a1',
-        display: 'standalone'
+        display: 'standalone',
+        icon: 'src/components/images/NHTI-logo-icon.png'
       },
     },
     // {
