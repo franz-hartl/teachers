@@ -198,7 +198,7 @@ const HomePage = () => (
         </p>
         <h2>10. Feedback</h2>
         <p>
-          By submitting your <a href="guestbook">Feedback</a>, you hereby grant
+          By submitting your <a href="https://yalesurvey.ca1.qualtrics.com/jfe/form/SV_2lYNllUbWwcheuh">Feedback</a>, you hereby grant
           Yale an irrevocable license to use, disclose, reproduce, distribute,
           prepare derivative works of, publicly perform and/or publicly display
           such feedback or comments for educational, research, promotional,
