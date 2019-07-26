@@ -4,7 +4,8 @@ class Search extends React.Component{
 
   componentDidMount(){
     (function() {
-      var cx = '014177378021644155909:u_pjrcixyzi';
+      var cx = '016355800077448512330:zmpjr4mxpm4';
+     //original search id var cx = '014177378021644155909:u_pjrcixyzi';
       var gcse = document.createElement('script');
       gcse.type = 'text/javascript';
       gcse.async = true;
