@@ -10,17 +10,17 @@ Please send your inquiry or comment to the appropriate address below.
 
 <table class="contact-table">
   <tr>
-    <td class="contact-cell"><a href="mailto:ynhti@yale.edu">ynhti@yale.edu <img src="/images/envelope-regular.svg" width="13" alt="email icon"></a></td>
+    <td class="contact-cell"><a href="mailto:ynhti@yale.edu">ynhti@yale.edu <img src="images/envelope-regular.svg" width="13" alt="email icon"></a></td>
     <td class="contact-cell">For inquiries about the Institute's work in New Haven.</td>
   </tr>
   <tr>
-    <td class="contact-cell"><a href="mailto:teachers@yale.edu">teachers@yale.edu <img src="/images/envelope-regular.svg" width="13" alt="email icon"></a></td>
+    <td class="contact-cell"><a href="mailto:teachers@yale.edu">teachers@yale.edu <img src="images/envelope-regular.svg" width="13" alt="email icon"></a></td>
     <td class="contact-cell">For inquiries about the Yale National Initiative to strengthen teaching
 in public schools®.
 </td>
   </tr>
   <tr>
-    <td class="contact-cell"><a href="mailto:common.ground@yale.edu">common.ground@yale.edu <img src="/images/envelope-regular.svg" width="13" alt="email icon"></a></td>
+    <td class="contact-cell"><a href="mailto:common.ground@yale.edu">common.ground@yale.edu <img src="images/envelope-regular.svg" width="13" alt="email icon"></a></td>
     <td class="contact-cell">For inquiries about the Institute's periodical, <i>On Common
 Ground®</i></td>
   </tr>
