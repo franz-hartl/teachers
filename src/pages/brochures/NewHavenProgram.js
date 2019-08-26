@@ -8,10 +8,10 @@ const NewHavenPage = () => (
       <div className="container px-5 region-content">
         <h1 className="page-title">Annual New Haven Program</h1>
         <p>
-          From its inception, the Institute prepared Annual Reports that
+          From its inception, the Institute has prepared Annual Reports that
           describe the program’s operation in New Haven by drawing heavily on
           the evaluations written by Fellows and seminar leaders at the
-          conclusion of their participation. Many also contain material on
+          conclusion of their participation. Many reports also contain material on
           program evaluation, national dissemination, and financial and program
           development. The reports for 1996-2009 are presently available.{' '}
         </p>

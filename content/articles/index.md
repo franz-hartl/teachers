@@ -11,11 +11,20 @@ Teachers Institute approach to teacher professional development, the
 history of the Institute's program in New Haven, and its significance
 to Yale University.
 
+- <h3><a href="T1.html">Yale University and the New Haven Public Schools, 1984</a></h3>
+
+  An essay by James R. Vivian containing recommendations on how to
+  implement the recommendation of the Carnegie Foundation <i>Special
+  Report on School and College,</i> contained also in the Carnegie <i>Report
+  on High School,</i> calls for universities and schools to develop
+  genuine partnerships based on the needs of schools as determined by
+  their principals and teachers.
+
 - <h3><a href="C1.html">Empowering Teachers as Colleagues, 1985</a></h3>
 
   An article written by James R. Vivian that appeared originally in
   "College-School Collaboration: Appraising the Major Approaches,"
-  (1985). According to the editor, "the Institute demonstrates that
+  1985. According to the editor, "the Institute demonstrates that
   the gap often presumed to exist between university faculty and
   school teachers can be bridged by building an intensive, long-term
   collaboration to focus on subjects deemed most important by teachers
@@ -30,22 +39,13 @@ to Yale University.
   history and literature, thematic approaches to literature, and
   approaches to teaching writing.
 
-- <h3><a href="T1.html">Yale University and the New Haven Public Schools, 1984</a></h3>
-
-  An essay by James R. Vivian containing recommendations on how to
-  implement the recommendation of the Carnegie Foundation <i>Special
-  Report on School and College,</i> contained also in the Carnegie <i>Report
-  on High School,</i> calls for universities and schools to develop
-  genuine partnerships based on the needs of schools as determined by
-  their principals and teachers.
-
-- <h3><a href="C6.html">Issues in Establishing and Developing an Educational Collaboration,
+- <h3><a href="C8.html">Issues in Establishing and Developing an Educational Collaboration,
   1986</a></h3>
 
   An essay by James R. Vivian addressing some of the issues raised by
   individuals considering how they might adapt the Institute's program
   to their own educational settings. An earlier version of this essay
-  appeared in "Education and Urban Society," (November 1986).
+  appeared in "Education and Urban Society," November 1986.
 
 - <h3><a href="C8.html">Partnerships and the Community, 1987</a></h3>
 

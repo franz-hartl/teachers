@@ -44,10 +44,10 @@ const conPage = () => (
               <p>
                 In 1986, Institute Director James R. Vivian testified before the
                 United States Senate Subcommittee on Education, Arts and
-                Humanities at the invitation of Senator. Dale Bumpers (R-AK) in
+                Humanities at the invitation of Senator Dale Bumpers (R-AK) in
                 support of “A Bill to Provide a National Program for Improving
                 the Quality of Instruction in the Humanities in Public and
-                Private Elementary Schools” introduced by Senator Bumpers. Vivian
+                Private Elementary Schools” that had been introduced by Senator Bumpers. Vivian
                 offered testimony at hearings also in 1985, 1990, 1991, and
                 1992.{' '}
               </p>

@@ -6,7 +6,7 @@ path: "/brochures/CenterManual/"
 <main>
 <title>Centers for Curriculum and Professional Development</title>
 <meta content="" name="ynhtindex"/>
-<center><b><h2>Centers for Curriculum and Professional Development: Contents</h2></b></center>
+<center><b><h2>Centers for Curriculum and Professional Development, 2004: Contents</h2></b></center>
 <hr/>
 <b><font size="+0"><a href="..\">Brochures and Reports</a>
 | <a href="..\..\">Yale-New Haven Teachers Institute</a></font></b>

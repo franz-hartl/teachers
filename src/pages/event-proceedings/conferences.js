@@ -23,7 +23,7 @@ const conPage = () => (
                   </Link>
                 </strong>
                 <p>
-                  A paper given by Jules D. Prown, Paul Mellon Professor of History of Art on teacher
+                  A paper given by Jules D. Prown, Paul Mellon Professor of History of Art, on teacher
                   programs in art museums at the National Gallery of Art,
                   Washington, D.C., on October 22-23, 1992.
                 </p>
@@ -38,7 +38,7 @@ const conPage = () => (
                 <p>
                   In 1991 teams of teachers and administrators from educational
                   partnerships across the United States attended a conference
-                  focused on the content process, and products of their
+                  focused on the content, process, and products of their
                   collaborative efforts. A <Link to="">report</Link> on and{' '}
                   <Link to="transcripts/F14a.html">transcript</Link> of the
                   conference are available.
@@ -142,7 +142,7 @@ const conPage = () => (
                   <li>
                     <strong>
                     <Link to="transcripts/F6.html">
-                      A Panel of Chiefs and Presidents
+                      Panel of Chiefs and Presidents
                     </Link></strong>
                     <p>
                       Robert MacNeil, Executive Editor of the MacNeil-Lehrer

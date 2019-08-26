@@ -42,7 +42,6 @@ Appropriations Subcommittee on Interior and Related Agencies, April
 
 Testimony of James R. Vivian, Director, at a Field Hearing of the
 Subcommittee on Education, Arts and Humanities on School Reform in
-Connecticut: <i>Lessons for Our Nation,</i> held at Yale-New Haven
-Teachers Institute in New Haven, Connecticut on September 3, 1992.
+Connecticut: <i>Lessons for Our Nation,</i> held at Yale University in New Haven, Connecticut on September 3, 1992.
 
 </div>

@@ -6,7 +6,7 @@ const conPage = () => (
   <Layout>
     <main>
       <div className="container px-5 region-content">
-        <h1 className="page-title">Endowment</h1>
+        <h1 className="page-title">Endowment Announcement</h1>
         <p>
           At the completion of endowment challenge grants awarded in 1990 by the
           DeWitt Wallace-Reader's Digest Fund and in 1991 by the National
@@ -37,7 +37,7 @@ const conPage = () => (
                   completion of endowment challenge grants awarded in 1990 by
                   the DeWitt Wallace-Reader’s Digest Fund and in 1991 by the
                   National Endowment for the Humanities. A{' '}
-                  <Link to="transcripts/F16">transcript</Link> and{' '}
+                  <Link to="transcripts/F16.html">transcript</Link> and{' '}
                   <a href="https://www.youtube.com/watch?v=Bjvu_HAW1HY">
                     video
                   </a>{' '}

@@ -4,7 +4,7 @@ title: "Index of Curricular Material"
 path: "/curriculum/indexes/"
 ---
 <main>
-<font size="+1">Index of all Curriculum Units, 1978-2010</font>
+<font size="+1">Index of all Curriculum Units, 1978-2018</font>
 <center>Select a letter to jump to the subjects beginning with that letter:
 <br/>
 <a href="a.x.html">A</a> | <a href="b.x.html">B</a> |
@@ -25,14 +25,14 @@ path: "/curriculum/indexes/"
 <hr/>
 <p>
 <b>Foreword</b>
-</p><p>Since the Yale-New Haven Teachers Institute began its work in 1978, hundreds of teaching units have been prepared by dozens of 
-teachers on scores of themes.  The 192 volumes containing the teaching units are a treasure trove of 
+</p><p>Since the Yale-New Haven Teachers Institute began its work in 1978, thousands of teaching units have been prepared by hundreds of 
+teachers on scores of themes.  The 224 volumes containing the teaching units are a treasure trove of 
 ideas and procedures for teaching English, History, Social Studies, the Languages, the Arts, Mathematics, and Science in elementary, middle, and high schools.  A list of these volumes appears on the
 <a href="../units/">Directory of Volumes</a> page of this website.
 The very bulk of the material, however, made it somewhat tiresome to search through all the volumes to unearth the gems of special 
-interest to the searcher.  Therefore, in the summer of l985, James Vivian, Director of the Institute, 
+interest to the searcher.  Therefore, in the summer of 1985, James Vivian, Director of the Institute, 
 commissioned the preparation of a topical index to all units written from 1978 through 1985.  In 1986 
-and annually from 1989 through 2009, the units written more recently were added.  The result of that 
+and annually from 1989 through 2018, the units written more recently were added.  The result of that 
 original commission and the subsequent updates follow over the next pages. 
 </p><p>First a defining word or two and then a suggestion about using the index. 
 </p><p>Each teaching unit is designated by three two-digit numbers.  For example, the form "04.01.09" refers to the year the unit was written (2004), the volume number (1) for the seminar in which the unit was developed, and the chapter (9) in that volume where the unit appears. The indexers decided not to indicate whether the units were primarily for elementary school, middle school, or for high school classes. It has seemed—and teachers have often said—that a great many of the units, regardless of their originally intended audience, are readily adaptable for use across a wide range of grades. 
@@ -57,5 +57,5 @@ curricula are also available from the Institute.  An electronic version of
 these curricular resources—including this index—is accessible by
 connecting to the Institute's World Wide Web site
 (<a href="..\..\">http://teachersinstitute.yale.edu</a>). Teachers who use these units may submit comments on them at <a href="http://teachers.yale.edu">http://teachers.yale.edu</a>. 
-</p><p>Finally, then, a word of appreciation to all the individuals who have worked on the index: Ellen Barber, Josiah H.Brown, Margaret Davey, Donna Del Buco, Jeff Dolven, Carla Eckhardt,  William Kessen, David Leonhardt, John Long, Stephanie Reid, John R. Savoie, and Dawn Volkman. 
+</p><p>Finally, then, a word of appreciation to all the individuals who have worked on the index: Ellen Barber, Josiah H.Brown, Margaret Davey, Donna Del Buco, Jeff Dolven, Carla Eckhardt, Michael Hattem, William Kessen, David Leonhardt, John Long, Stephanie Reid, John R. Savoie, and Dawn Volkman. 
 </p></main>

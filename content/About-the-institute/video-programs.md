@@ -11,7 +11,7 @@ Video programs depict the annual seminar process and results of the Yale-New Hav
 ## Teaching on Common Ground, 1995
 
 This program depicts the results of the structured, intensive,
-long-term collaboration among Yale university faculty members and New
+long-term collaboration among Yale University faculty members and New
 Haven Public School teachers that has occurred since 1978 through the
 Yale-New Haven Teachers Institute. The Institute is an educational
 partnership between Yale and the Public Schools designed to strengthen

@@ -17,7 +17,7 @@ const HomePage = () => (
               The Yale-New Haven Teachers Institute® is an educational
               partnership between Yale University and the New Haven Public
               Schools designed to strengthen teaching and learning in local
-              schools and, by example, in high-need schools across the country.
+              schools and, by example and direct assistance, in high-need schools across the country.
               Through the Institute, Yale faculty members and New Haven school
               teachers work together in a collegial relationship. The Institute
               is also an interschool and interdisciplinary forum for teachers to
@@ -39,9 +39,9 @@ const HomePage = () => (
               the students in their school courses.
             </p>
             <p>
-              You can view the curriculum resources in the{' '}
-              <Link to="curriculum/indexes/">index of topics</Link> or organized
-              by their year and <Link to="curriculum/units/">volume.</Link>
+              You can view the curriculum units in the{' '}
+              <Link to="curriculum/indexes/">index of topics</Link> or in 
+              the <Link to="curriculum/units/">volumes</Link> of units published each year.
             </p>
           </div>
           <div className="col-sm-4">
@@ -51,7 +51,7 @@ const HomePage = () => (
                   Topical Index of Curriculum Units
                 </h2>
                 <p>
-                  Since 1978 teachers have prepared hundreds of units for
+                  Since 1978 teachers have prepared thousands of units for
                   teaching topics in English, history and social studies,
                   languages, the arts, mathematics, and science in elementary
                   and secondary schools.

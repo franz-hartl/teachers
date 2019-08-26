@@ -73,6 +73,14 @@ const aboutPage = () => (
                 Haven, and its significance to Yale University.
               </p>
             </div>
+            <div className="br-cell py-2">
+              <h2 className="br-title">
+                <Link to="about/advisory">
+                  University Advisory Council{' '}
+                  <i className="fas fa fa-arrow-circle-right" />
+                </Link>
+              </h2>
+            </div>
           </div>
           <div className="row" />
         </div>
