@@ -51,6 +51,16 @@ const HomePage = () => (
                 View Volumes
               </Link>
             </div>
+            <div className="cr_row my-3 pr-3">
+              <h2>Reference Lists</h2>
+              <p>
+                Three annotated lists, compiled by New Haven teachers in 2001 and 2004, correlate Institute-developed curriculum 
+                units with subjects and curriculum standards for various grade in New Haven's public schools.
+              </p>{' '}
+              <Link to="curriculum/referencelists" className="btn-def">
+                Reference Lists
+              </Link>
+            </div>
           </div>
           <div className="col-sm-4">
           </div>
