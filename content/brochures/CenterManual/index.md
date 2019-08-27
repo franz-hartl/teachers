@@ -6,7 +6,7 @@ path: "/brochures/CenterManual/"
 <main>
 <title>Centers for Curriculum and Professional Development</title>
 <meta content="" name="ynhtindex"/>
-<center><b><h2>Centers for Curriculum and Professional Development, 2004: Contents</h2></b></center>
+<center><b><h1>Centers for Curriculum and Professional Development, 2004: Contents</h1></b></center>
 <p>In 1996 the Yale-New Haven Teachers Institute and the New Haven Public Schools undertook an initiative designed to broaden and deepen their longstanding efforts to strengthen teaching and learning in the schools. The Institute offered several elementary, middle, and high schools the opportunity to establish an Institute Center for Curriculum and Professional Development to create in schools a place that would be conducive to the kinds of conversations teachers have with each other and with their university colleagues and Institute seminars on the Yale campus. They are intended to increase the visibility and use of Institute resources within the schools and to include teachers who had not before been Institute Fellows.</p>
 <hr/>
 <b><font size="+0"><a href="..\">Brochures and Reports</a>
