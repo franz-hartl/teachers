@@ -50,6 +50,7 @@ exports.createPages = ({ graphql, actions }) => {
                     unitVolume
                     unitTitle
                     unitAuthor
+                    isMissingPage
                   }
                 }
               }
@@ -85,12 +86,13 @@ exports.createPages = ({ graphql, actions }) => {
 
         var noPageNode = {
           html:
-            '<h4>no guide</h4><main><h3>-- Guide not available --</h3></main>',
+            '<h4>Guide Entry</h4><main><p><b>There is no Guide for this curriculum unit.</b></p><p>Plese select Next to continue to the next section.</p></main>',
           frontmatter: {
             path: '',
             title: '',
             unitTitle: '',
             unitAuthor: '',
+            isMissingPage: true,
           },
         }
         //=======================

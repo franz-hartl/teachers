@@ -15,6 +15,8 @@ class VolumeTemplate extends React.Component {
     const page = this.props.pageContext.pageNode
     const pageIndex = page.frontmatter.unitTitle == 'Introduction' ? 1 : 0
     const x = navData[1].path
+    const isMissingPage = page.frontmatter.isMissingPage == true
+
     return (
       <Layout>
         <main>
@@ -32,7 +34,7 @@ class VolumeTemplate extends React.Component {
                     <p className="unit-author">
                       {pageIndex == 0 ? '' : page.frontmatter.unitAuthor}
                     </p>
-                    <React_icons unitPath={navData[pageIndex].path}/>
+                    {!isMissingPage && <React_icons unitPath={navData[pageIndex].path}/>}
                     <div dangerouslySetInnerHTML={{ __html: page.html }} />
                     <NavControls navData={navData} pageIndex={pageIndex} />
                   </div>
