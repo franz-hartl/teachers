@@ -50,7 +50,6 @@ exports.createPages = ({ graphql, actions }) => {
                     unitVolume
                     unitTitle
                     unitAuthor
-                    isMissingPage
                   }
                 }
               }
