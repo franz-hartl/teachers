@@ -21,7 +21,7 @@ class Layout extends React.Component {
           <div className="row">
           <Logo />
           {/* <Search className="search-zone" collapse indices={searchIndices} /> */}
-          {/* <Search /> */}
+          <Search />
           </div>
         </header>
         <div className="zone-menu-wrapper"><Navi /></div>

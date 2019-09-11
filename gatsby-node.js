@@ -8,9 +8,26 @@ const ChildProcess = require('child_process');
 
 // add the following to try to fix Netlify exceeded build time of 30 minutes
 //   see: https://github.com/gatsbyjs/gatsby/issues/9465
-exports.onPostBuild = () => {
-  ChildProcess.execSync("ps aux | grep jest | grep -v grep | awk '{print $2}' | xargs kill");
-};
+// exports.onPostBuild = () => {
+//   ChildProcess.execSync("ps aux | grep jest | grep -v grep | awk '{print $2}' | xargs kill");
+// };
+
+exports.onPostBuild = async function({ cache, store, graphql }, { query }) {
+  const cacheKey = "some-key-name"
+  let obj = await cache.get(cacheKey)
+  if (!obj) {
+    obj = { created: Date.now() }
+    const data = await graphql(query)
+    obj.data = data
+  } else if (Date.now() > obj.lastChecked + 3600000) {
+    /* Reload after a day */
+    const data = await graphql(query)
+    obj.data = data
+  }
+  obj.lastChecked = Date.now()
+  await cache.set(cacheKey, obj)
+  /* Do something with data ... */
+}
 
 exports.createPages = ({ graphql, actions }) => {
   const { createPage, createRedirect } = actions

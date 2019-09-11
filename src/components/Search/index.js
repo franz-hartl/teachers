@@ -29,7 +29,7 @@ class Search extends React.Component{
     <script async src="https://cse.google.com/cse.js?cx=014177378021644155909:u_pjrcixyzi"></script>
     <div class="gcse-searchbox-only" data-resultsUrl="/search-results" data-newWindow="false" data-queryParameterName="search" />
 
-    <script
+    {/* <script
       dangerouslySetInnerHTML={{
         __html: `jQuery(document).ready(function($){
         $('#siteSearchOptions option').click(function() {
@@ -44,7 +44,7 @@ class Search extends React.Component{
         $('#defaultRefinement').trigger('click');
         })`,
       }}
-    />
+    /> */}
   </div>
 )}
     }

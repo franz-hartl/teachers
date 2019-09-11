@@ -3,20 +3,6 @@ import Layout from 'components/layout'
 
 class searchResults extends React.Component {
 
-    componentDidMount(){
-        (function() {
-          // var cx = '016355800077448512330:zmpjr4mxpm4';
-          var cx = '014177378021644155909:u_pjrcixyzi';
-          var gcse = document.createElement('script');
-          gcse.type = 'text/javascript';
-          gcse.async = true;
-          gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
-              '//cse.google.com/cse.js?cx=' + cx;
-          var s = document.getElementsByTagName('script')[0];
-          s.parentNode.insertBefore(gcse, s);
-        })();
-      }
-
 render() {
 
     return (

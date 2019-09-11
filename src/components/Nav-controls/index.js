@@ -1,17 +1,9 @@
 import React from 'react'
 import { Link } from 'gatsby'
-import { IconContext } from 'react-icons'
 import {
   FaArrowRight,
   FaArrowLeft,
   FaArrowUp,
-  FaDrupal,
-  FaAngleLeft,
-  FaAngleRight,
-  FaDownload,
-  FaFilePdf,
-  FaPrint,
-  FaEnvelope,
 } from 'react-icons/fa'
 
 class NavControls extends React.Component {

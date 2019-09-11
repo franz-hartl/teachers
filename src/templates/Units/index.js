@@ -1,5 +1,4 @@
 import React from 'react'
-import { graphql } from 'gatsby'
 import Breadcrumb from 'components/Breadcrumb/breadcrumb'
 import Table_content from 'components/Table-contents'
 import Layout from 'components/layout'
