@@ -127,6 +127,9 @@ export default class  extends React.Component {
                   <DropdownItem href="/articles/index.html">
                     Published Essays
                   </DropdownItem>
+                  <DropdownItem href="/about/advisory">
+                    University Advisory Council
+                  </DropdownItem>
                   <DropdownItem href="/comments.html">
                     Contact Us
                   </DropdownItem>

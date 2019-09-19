@@ -80,6 +80,9 @@ const aboutPage = () => (
                   <i className="fas fa fa-arrow-circle-right" />
                 </Link>
               </h2>
+              <p>
+                The University Advisory Council is a presidentially-appointed body of Yale faculty members that guides the general direction of the program and acts as a course-of-study committee so that the Institute can certify Fellows' work to institutions where they may be pursuing advanced degrees.
+              </p>
             </div>
           </div>
           <div className="row" />
