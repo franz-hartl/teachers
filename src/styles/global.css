@@ -154,7 +154,9 @@
 .gsc-cursor {
   display: inline-block;
 }
-
+iframe{
+  width: 100%;
+}
 .gsc-cursor-page{
   color: black;
   padding: 4px 10px;

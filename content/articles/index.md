@@ -47,7 +47,7 @@ to Yale University.
   to their own educational settings. An earlier version of this essay
   appeared in "Education and Urban Society," November 1986.
 
-- <h3><a href="C8.html">Partnerships and the Community, 1987</a></h3>
+- <h3><a href="C6.html">Partnerships and the Community, 1987</a></h3>
 
   In a panel at the State University of New York in 1987, James R.
   Vivian spoke about the principles of the Institute's program in New
