@@ -48,7 +48,7 @@ const Advisory = () => (
               <li>Heather Gerken</li>
               <li>Susan L. Gibbons*</li>
               <li>Larry Gladney</li>
-              <li>Kimberly Goff-Crews</li>
+              <li>Kimberly Goff-Crews*</li>
               <li>Anjelica Gonzalez</li>
               <li>Langdon L. Hammer</li>
               <li>Daniel HoSang</li>
@@ -60,7 +60,7 @@ const Advisory = () => (
               <li>Brigitte Peucker</li>
               <li>Stephen J. Pitti</li>
               <li>Joseph R. Roach</li>
-              <li>Peter Salovery*</li>
+              <li>Peter Salovey's*</li>
               <li>Edwin C. Schroeder*</li>
               <li>Margretta R. Seashore</li>
               <li>Ian Shapiro</li>
