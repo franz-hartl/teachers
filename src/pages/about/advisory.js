@@ -25,9 +25,9 @@ const Advisory = () => (
                 forward by its Executive Committee, all members of the
                 Council, also appointed by the President.
               </p>
-              <h3>Honorary Chairman</h3>
+              <h3>Honorary Chair</h3>
               <p>Howard R. Lamar</p>
-              <h3>Co-Chairmen</h3>
+              <h3>Co-Chairß</h3>
               <p>Paul H. Fry</p>
               <p>Paul E. Turner</p>
               <h3>Executive Committee</h3>
@@ -36,7 +36,7 @@ const Advisory = () => (
               <p>W. Mark Saltzman</p>
               <ul className="member_names"><h3>Members</h3>
               <li>Rolena Adorno</li>
-              <li>Sarbani Basu</li>
+              <li>Sarbani Basu</li>ß
               <li>Ned Blackhawk</li>
               <li>Jeff Brock*</li>
               <li>Jill Campbell</li>
