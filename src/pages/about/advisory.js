@@ -36,7 +36,7 @@ const Advisory = () => (
               <p>W. Mark Saltzman</p>
               <ul className="member_names"><h3>Members</h3>
               <li>Rolena Adorno</li>
-              <li>Sarbani Basu</li>ß
+              <li>Sarbani Basu</li>
               <li>Ned Blackhawk</li>
               <li>Jeff Brock*</li>
               <li>Jill Campbell</li>
