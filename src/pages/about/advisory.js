@@ -27,7 +27,7 @@ const Advisory = () => (
               </p>
               <h3>Honorary Chair</h3>
               <p>Howard R. Lamar</p>
-              <h3>Co-Chairß</h3>
+              <h3>Co-Chair</h3>
               <p>Paul H. Fry</p>
               <p>Paul E. Turner</p>
               <h3>Executive Committee</h3>
