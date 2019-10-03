@@ -162,6 +162,7 @@ const conPage = () => (
 
                     <iframe
                   width="560"
+                  title="Excellence in Teaching: A common Goal youtube video"
                   height="315"
                   src="https://www.youtube.com/embed/OlWOeScEWs8?"
                   frameborder="0"
