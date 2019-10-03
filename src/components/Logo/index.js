@@ -7,7 +7,7 @@ const Logo = () => (
   <div className="mb-3">
     <Link className="logolink" to="/">
       <h1 className="offscreen">The Yale-New Haven Teachers Institute</h1>
-      <img src={logo} alt="Yale New Haven Teacher Institute Logo" />
+      <img src={logo} title="Yale New Haven Teacher Institute Logo" alt="Yale New Haven Teacher Institute Logo" />
     </Link>
   </div>
   </div>

@@ -23,8 +23,8 @@ to Yale University.
 - <h3><a href="C1.html">Empowering Teachers as Colleagues, 1985</a></h3>
 
   An article written by James R. Vivian that appeared originally in
-  "College-School Collaboration: Appraising the Major Approaches,"
-  1985. According to the editor, "the Institute demonstrates that
+  "College-School Collaboration: Appraising the Major Approaches," 1985. 
+  According to the editor, "the Institute demonstrates that
   the gap often presumed to exist between university faculty and
   school teachers can be bridged by building an intensive, long-term
   collaboration to focus on subjects deemed most important by teachers
@@ -47,7 +47,7 @@ to Yale University.
   to their own educational settings. An earlier version of this essay
   appeared in "Education and Urban Society," November 1986.
 
-- <h3><a href="C8.html">Partnerships and the Community, 1987</a></h3>
+- <h3><a href="C6.html">Partnerships and the Community, 1987</a></h3>
 
   In a panel at the State University of New York in 1987, James R.
   Vivian spoke about the principles of the Institute's program in New

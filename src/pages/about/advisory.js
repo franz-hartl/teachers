@@ -5,18 +5,14 @@ const Advisory = () => (
   <Layout>
     <main>
       <div className="container px-5 region-content">
-        <h1 className="page-title">About the Teachers Institute</h1>
+        <h1 className="page-title">University Advisory Council</h1>
         <div className="row mt-4">
-          <div className="col-sm-9 left-panel">
+          <div className="col-sm-11 left-panel">
             <div className="br-cell py-2">
-              <h2 className="br-title">
-                University Advisory Council
-              </h2>
               <p>
-                The University Advisory Council is a presidentiallyappointed
+                The University Advisory Council is a presidentially-appointed
                 body of Yale faculty members that guides the
-                general direction of the program and acts as a courseof-
-                study committee so that the Institute can certify
+                general direction of the program and acts as a course-of-study committee so that the Institute can certify
                 Fellows' work to institutions where they may be pursuing
                 advanced degrees.
               </p>
@@ -29,12 +25,16 @@ const Advisory = () => (
                 forward by its Executive Committee, all members of the
                 Council, also appointed by the President.
               </p>
-              <h3>Honorary Chairman</h3>
+              <h3>Honorary Chair</h3>
               <p>Howard R. Lamar</p>
-              <h3>Co-Chairmen</h3>
+              <h3>Co-Chair</h3>
               <p>Paul H. Fry</p>
               <p>Paul E. Turner</p>
-              <ul><h3>Members</h3>
+              <h3>Executive Committee</h3>
+              <p>Jessica C. Brantley</p>
+              <p>Gary W. Brudvig</p>
+              <p>W. Mark Saltzman</p>
+              <ul className="member_names"><h3>Members</h3>
               <li>Rolena Adorno</li>
               <li>Sarbani Basu</li>
               <li>Ned Blackhawk</li>
@@ -47,21 +47,21 @@ const Advisory = () => (
               <li>Bryan Garsten</li>
               <li>Heather Gerken</li>
               <li>Susan L. Gibbons*</li>
-              <li>Larry Gledney</li>
-              <li>Kimberly GOff-Crews</li>
+              <li>Larry Gladney</li>
+              <li>Kimberly Goff-Crews*</li>
               <li>Anjelica Gonzalez</li>
               <li>Langdon L. Hammer</li>
-              <li>Daneil HoSang</li>
+              <li>Daniel HoSang</li>
               <li>Matthew Jacobson</li>
               <li>Mary T. Y. Lui</li>
-              <li>John MacKey</li>
+              <li>John MacKay</li>
               <li>Amy Meyers*</li>
               <li>Jordan Peccia</li>
               <li>Brigitte Peucker</li>
               <li>Stephen J. Pitti</li>
               <li>Joseph R. Roach</li>
-              <li>Peter Salovery</li>
-              <li>Edwin C. Schroeder</li>
+              <li>Peter Salovey</li>
+              <li>Edwin C. Schroeder*</li>
               <li>Margretta R. Seashore</li>
               <li>Ian Shapiro</li>
               <li>C. Megan Urry</li>
@@ -70,7 +70,7 @@ const Advisory = () => (
               <li>Anders Winroth</li>
               </ul>
 
-              <i>ex officio</i>
+              <i>* ex officio</i>
               </div>
             </div>
           <div className="row" />
