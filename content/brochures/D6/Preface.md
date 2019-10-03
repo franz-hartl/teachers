@@ -7,7 +7,7 @@ path: "/brochures/D6/Preface.html"
 <center><h3><a name="top">Preface</a></h3></center>
 <hr/>
 <b><font size="+0"><a href="index.html">Progress Report Contents</a>
-| <a href="..\">Brochures and Reports</a></font></b>
+</font></b>
 <hr/>
 <table>
 <tbody><tr>

@@ -7,7 +7,7 @@ path: "/brochures/A3/2006/conclusion.html"
 <center>
 <b><h3><a name="top"></a> Conclusion </h3></b>
 </center>
-<b><a href="index.html">Annual Report 2006 Contents</a> | <a href="..\..\">Brochures and Reports</a></b>
+<b><a href="index.html">Annual Report 2006 Contents</a></b>
 <hr/><table cellpadding="4">
 <tbody><tr>
 <td valign="top" width="85%">In 2006 the Yale-New Haven Teachers Institute continued its New Haven program with renewed teacher leadership while participating in the Yale National Initiative to strengthen teaching in public schools, which is based on the efficacy of the New Haven program and the success of its National Demonstration Project. </td>

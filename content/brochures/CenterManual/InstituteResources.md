@@ -8,7 +8,7 @@ path: "/brochures/CenterManual/InstituteResources.html"
 <center><b><h3><a name="top">Institute Resources</a></h3></b></center>
 <hr/>
 <b><font size="+0"><a href="index.html">Centers for Curriculum and Professional Development Contents</a>
-| <a href="..\">Brochures and Reports</a></font></b>
+</font></b>
 <hr width="100%"/>
 <p>Following is a list of material provided by the Yale-New Haven Teachers Institute that your Center should contain:
 </p>

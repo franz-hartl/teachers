@@ -7,9 +7,6 @@ path: "/brochures/A1/activities.html"
 <title>Activities</title>
 <h3 align="center">2014 Annual Brochure</h3> 
 <hr/>
-<b><a href="..\">Brochures and Reports</a>
-| <a href="..\..\">Yale-New Haven Teachers Institute</a></b>
-<hr/>
 <font size="4"><b>Activities</b></font>
 <p>
 <!--a href="../ProgramDocument/Poster.html"--><b>Talks:</b><!--/a--> from 4:15 to 6:15 p.m. on Tuesdays, March 11, 18, 25, and April 8, 22 and 29. Yale faculty members present informal talks on topics drawn from current or potential Institute seminars. The talks are intended to stimulate thinking and discussion and to point up interdisciplinary relationships in scholarship and teaching. 

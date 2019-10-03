@@ -191,13 +191,4 @@ October 1978 were:
 </li><li>James R. Vivian, Director of the Yale-New Haven Teachers Institute.
 </li></ul>
 </li></ul>
-<hr/>
-<center><font size="-1">
-<a href="../brochures/">Brochures and Reports</a> | 
-<a href="../pubs/">Publications</a> | 
-<a href="../articles/">Published Essays and Public Testimony</a> | 
-<a href="../curriculum/">Curricular Resources</a> | 
-<a href="../transcripts/">Transcripts</a> | 
-<a href="..\">The Yale-New Haven Teachers Institute</a>
-</font></center>
 </main>

@@ -7,9 +7,6 @@ path: "/brochures/A1/uacouncil.html"
 <title>University Advisory Council</title>
 <h3 align="center">2014 Annual Brochure</h3> 
 <hr/>
-<b><a href="..\">Brochures and Reports</a>
-| <a href="..\..\">Yale-New Haven Teachers Institute</a></b>
-<hr/>
 <font size="4"><b>University Advisory Council</b></font>
 <p>
 The University Advisory Council is a presidentiallyappointed body of Yale faculty members that guides the general direction of the program and acts as a course-of-study committee so that the Institute can certify Fellows' work to institutions where they may be pursuing advanced degrees.

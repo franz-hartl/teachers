@@ -7,9 +7,6 @@ path: "/brochures/A1/teacher.html"
 <title>Teacher Leadership</title>
 <h3 align="center">2014 Annual Brochure</h3> 
 <hr/>
-<b><a href="..\">Brochures and Reports</a>
-| <a href="..\..\">Yale-New Haven Teachers Institute</a></b>
-<hr/>
 <font size="4"><b>Teacher Leadership</b></font>
 <p>
 <b>School Representatives and Contacts</b>

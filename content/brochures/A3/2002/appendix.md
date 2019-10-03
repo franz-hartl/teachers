@@ -7,7 +7,7 @@ path: "/brochures/A3/2002/appendix.html"
 <center><a name="top"></a><b><h3>Appendix</h3></b></center>
 <hr/>
 <b><a href="index.html">Annual Report 2002 Contents</a>
-| <a href="..\..\">Brochures and Reports</a></b>
+</b>
 <hr/>
 <p><b>Contents of section:</b>
 </p>

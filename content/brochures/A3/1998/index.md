@@ -5,10 +5,8 @@ path: "/brochures/A3/1998/"
 ---
 <main>
 <center><b><h2>Annual Report 1998: Contents</h2></b>
-<hr/></center>
-<p><b><a href="..\..\">Brochures and Reports</a>
-| <a href="..\..\..\">Yale-New Haven Teachers Institute</a></b>
-</p><hr/>
+</center>
+<hr/>
 <p><a href="highlights.html">Hightlights of the Report</a>
 <br/><font color="#FFFFFF" style="visibility:hidden;">____</font><nobr><a href="highlights.html#a">Introduction</a></nobr>
 <br/><font color="#FFFFFF" style="visibility:hidden;">____</font><nobr><a href="highlights.html#b">The

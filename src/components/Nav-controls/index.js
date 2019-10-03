@@ -9,9 +9,8 @@ import {
 class NavControls extends React.Component {
   render() {
     const { pageIndex, navData } = this.props
-    const prevPath = pageIndex ? navData[pageIndex - 1].path : null
-    const nextPath =
-      pageIndex + 1 < navData.length ? navData[pageIndex + 1].path : null
+    const prevPath = pageIndex > 0 ? navData[pageIndex - 1].path : null
+    const nextPath = pageIndex + 1 < navData.length ? navData[pageIndex + 1].path : null
 
     return (
       <div className="content-nav-button">

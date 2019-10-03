@@ -8,8 +8,7 @@ path: "/brochures/A3/1999/nationaldem.html"
 Project</h3></b>
 <hr/></center>
 <p><b><a href="index.html">Annual Report 1999 Table of Contents</a>
-|
-<a href="..\..\">Brochures and Reports</a></b>
+</b>
 </p><hr/>
 <p><b>Contents of section:
 </b></p><ul>

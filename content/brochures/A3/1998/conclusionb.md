@@ -7,8 +7,7 @@ path: "/brochures/A3/1998/conclusionb.html"
 <center><a name="t"></a><b><h3>Conclusion</h3></b>
 <hr/></center>
 <p><b><a href="index.html">Annual Report 1998 Table of Contents</a>
-|
-<a href="..\..\">Brochures and Reports</a></b>
+</b>
 </p><hr/>
 <table cellpadding="2">
 <tbody><tr valign="TOP">

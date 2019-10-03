@@ -48,8 +48,7 @@ Methods and Results for Teachers and Students</a>
 </li></ul>
 </li></ul>
 <h4>
-<a href=".\">"School-College Collaboration": Table of Contents</a> |
-<a href="..\">Brochures and Reports</a>
+<a href=".\">"School-College Collaboration": Table of Contents</a>
 </h4>
 <hr/>
 <a name="a">

@@ -14,7 +14,6 @@ Educational Collaboration: the Yale­New Haven Experience," in
 Partnerships in Education, a Special Report of the Carnegie Foundation for
 the Advancement of Teaching </i>(Princeton, New Jersey, 1983), ix. 
 </p><hr/>
-<h4><a href=".\">"School-College Collaboration": Table of Contents</a> |
-<a href="..\">Brochures and Reports</a>
+<h4><a href=".\">"School-College Collaboration": Table of Contents</a>
 </h4>
 </main>

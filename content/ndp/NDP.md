@@ -9,10 +9,6 @@ Project</big></b>
 <br/>of the Yale-New Haven Teachers Institute<p>
 <b>Aims and Current Accomplishments</b>
 <br/>
-</p><hr width="100%"/></center>
-<p>
-<b><a href="../brochures/">Brochures and Reports</a> | <a href="..\">Yale-New Haven Teachers Institute</a></b>
-<br/>
 </p><hr width="100%"/><b>Contents:</b>
 <p><a href="#a">Aims and Current Accomplishments</a>
 <br/><a href="#b">Establishing the Project</a>

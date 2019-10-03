@@ -12,8 +12,7 @@ path: "/brochures/A7/appendix.html"
 <a href="#b"></a></li><li><a href="#b">Questionnaire Results</a>
 </li></ul>
 <h4>
-<a href=".\">"School-College Collaboration": Table of Contents</a> |
-<a href="..\">Brochures and Reports</a>
+<a href=".\">"School-College Collaboration": Table of Contents</a>
 </h4>
 <hr/>
 <a name="a">

@@ -8,7 +8,7 @@ path: "/brochures/A3/2002/yalenationalinit.html"
 <a name="top"></a><b><h3>The Yale National Initiative</h3></b></center>
 <hr/>
 <b><a href="index.html">Annual Report 2002 Contents</a>
-| <a href="..\..\">Brochures and Reports</a></b>
+</b>
 <hr width="100%"/>
 <p><b>Contents of section:</b>
 </p><ul>

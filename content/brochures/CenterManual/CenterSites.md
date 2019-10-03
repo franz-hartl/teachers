@@ -8,7 +8,7 @@ path: "/brochures/CenterManual/CenterSites.html"
 <center><b><h3><a name="top">Center Sites</a></h3></b></center>
 <hr/>
 <b><font size="+0"><a href="index.html">Centers for Curriculum and Professional Development Contents</a>
-| <a href="..\">Brochures and Reports</a></font></b>
+</font></b>
 <hr width="100%"/>
 <p><b></b></p><center><b>Institute Center Locations</b>
 <p>(as of 04/20/04)</p></center>

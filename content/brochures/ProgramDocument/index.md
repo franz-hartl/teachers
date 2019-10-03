@@ -13,9 +13,6 @@ li.a {text-indent: 30px;}
 li.b {text-indent: 60px;}
 </style>
 <center><b><h2>Program Documents: Contents</h2></b></center>
-<hr/>
-<b><font size="+0"><a href="..\">Brochures and Reports</a>
-| <a href="..\..\">Yale-New Haven Teachers Institute</a></font></b>
 <hr width="100%"/>
 <!--insert <font color="#FFFFFF">____</font><nobr> To make the layout work on some of the mobile devices-->
 <ul class="a">

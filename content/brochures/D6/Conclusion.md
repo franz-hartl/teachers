@@ -7,7 +7,7 @@ path: "/brochures/D6/Conclusion.html"
 <center><h3><a name="top">Conclusion</a></h3></center>
 <hr/>
 <b><font size="+0"><a href="index.html">Progress Report Contents</a>
-| <a href="..\">Brochures and Reports</a></font></b>
+</font></b>
 <hr width="100%"/>
 <table cellpadding="2">
 <tbody><tr>

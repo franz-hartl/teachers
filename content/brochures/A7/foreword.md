@@ -17,8 +17,7 @@ path: "/brochures/A7/foreword.html"
 <a href="#g"></a></li><li><a href="#g">Implications for the Future</a>
 </li></ul>
 <h4>
-<a href=".\">"School-College Collaboration": Table of Contents</a> |
-<a href="..\">Brochures and Reports</a>
+<a href=".\">"School-College Collaboration": Table of Contents</a>
 </h4>
 <hr/>
 <a name="a">

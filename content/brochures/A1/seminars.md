@@ -7,9 +7,6 @@ path: "/brochures/A1/seminars.html"
 <title>Seminars </title>
 <h3 align="center">2014 Annual Brochure</h3> 
 <hr/>
-<b><a href="..\">Brochures and Reports</a>
-| <a href="..\..\">Yale-New Haven Teachers Institute</a></b>
-<hr/>
 <font size="4"><b>Seminars</b></font>
 <p>
 Between September and December of each year, the teachers who serve as Institute Representatives and Contacts canvass their colleagues and determine the subjects they would like the Institute to treat. The Institute organizes seminars that address teachers' requests and interests.

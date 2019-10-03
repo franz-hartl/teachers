@@ -6,9 +6,6 @@ path: "/brochures/D6/"
 <main>
 <center><h2>Progress Report: Contents</h2></center>
 <hr/>
-<b><a href="..\">Brochures and Reports</a>
-| <a href="..\..\">Yale-New Haven Teachers Institute</a></b>
-<hr/>
 <p><a href="Preface.html">Preface</a>
 </p><p><a href="Introduction.html">Introduction</a>
 <br/><font color="#FFFFFF" style="visibility:hidden;">____</font><nobr><a href="Introduction.html#e">Introduction by James R. Vivian</a></nobr>

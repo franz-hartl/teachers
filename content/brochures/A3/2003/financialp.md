@@ -7,7 +7,7 @@ path: "/brochures/A3/2003/financialp.html"
 <center>
 <b><h3><a name="top"></a>Financial Plans</h3></b>
 </center>
-<b><a href="index.html">Annual Report 2003 Contents</a> | <a href="..\..\">Brochures and Reports</a></b>
+<b><a href="index.html">Annual Report 2003 Contents</a></b>
 <hr/><table cellpadding="4"><tbody><tr>
 <td valign="top" width="85%">
 For the local program, the Yale-New Haven Teachers Institute is currently seeking funds that might be used for seminars in either the humanities or the sciences. Its major long-term need is for an endowment that would provide continuing support for seminars in the sciences. The existing endowment for the Teachers Institute is limited to support for seminars in the humanities, and the teachers' expressed need for seminars in the sciences remains strong. </td><td valign="top">

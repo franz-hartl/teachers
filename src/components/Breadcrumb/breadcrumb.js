@@ -6,7 +6,7 @@ const path = require('path')
 class Breadcrumb extends React.Component {
   render() {
     const unitPaths = getUnitPaths(this.props.unitPath)
-    const num = romanNumber(unitPaths.newVolume)
+
     return (
       <div className="tr_breadcrumb mt-2">
         <span>
@@ -15,8 +15,8 @@ class Breadcrumb extends React.Component {
         {' > '}
         <span>
           <Link
-            to={`/curriculum/units/${String(unitPaths.year)}/${String(unitPaths.newVolume)}`}
-          > {unitPaths.year} Volume {num}
+            to={`/curriculum/units/${String(unitPaths.year)}/${String(unitPaths.volume)}`}
+          > {unitPaths.year} Volume {`${isNaN(unitPaths.volume) ? unitPaths.volume : romanNumber(parseInt(unitPaths.volume))}`}
           </Link>
         </span>
         {' > '}
@@ -27,6 +27,7 @@ class Breadcrumb extends React.Component {
 }
 
 export default Breadcrumb
+
 
 function romanNumber(i) {
   
@@ -39,23 +40,21 @@ function romanNumber(i) {
 
 
 const VolumeUnitBreadcrumbs = ({ unitPaths }) => {
-  // return(
-  //   <h1>here {unitPaths.unitName}</h1>
-  // )
-  var pattern = /\d\d\.\d\d$/g
+  // var pattern = /\d\d\.\d\d$/g
+  var pattern = /intro|preface/g
+  var patternUnit = /(ch|\d\d).\d\d$/g
 
-
-  if (!pattern.test(unitPaths.unitName)) { //if is not a unit will return intro or preface
+  if (pattern.test(unitPaths.unitName)) { // check if it is an intro or preface
     return (
       <span>
-        {`${/(intro)/.test(unitPaths.unitName) ? 'Intro' : 'Preface'}`}
+        {`${/(intro)/.test(unitPaths.unitName) ? 'Introduction' : 'Preface'}`}
       </span>
     )
-  } else { // will print section number or unit guide
+  } else if (patternUnit.test(unitPaths.unitName)) { // will print section number or unit guide
     return (
       <span>
         <span>
-          <Link to={`${String(unitPaths.unitGuidePath)}${String(unitPaths.sectionNum)}`}>
+          <Link to={`${String(unitPaths.unitGuidePath)}`}>
             Unit {unitPaths.unitNum} ({unitPaths.unitName}) 
           </Link>
         </span>
@@ -64,6 +63,10 @@ const VolumeUnitBreadcrumbs = ({ unitPaths }) => {
           {`Section ${unitPaths.pageNum ? unitPaths.pageNum : 'Unit Guide'}`}
         </span>
       </span>
+    )
+  } else {
+    return (
+      <span>Preface</span>
     )
   }
 }
@@ -76,10 +79,8 @@ function getUnitPaths(unitPath) {
   var basename = path.basename(unitPath) // basename = 18.02.01.x.html
   var pageNum = 0
   var pathSplit
-  var unitNum
 
-
-  // unitPath = /curriculum/units/1998/1/98.01.01/3/
+  // unitPath = /curriculum/units/1998/1/98.01.01/3/     (unit 98.01.01 page 3)
   if (basename.match(/^[0-9]+$/) != null) {
     pageNum = parseInt(basename)
     basename = path.basename(dirname)
@@ -90,33 +91,33 @@ function getUnitPaths(unitPath) {
     // unitPath = /curriculum/guides/1998/1/98.01.01.x.html
     // unitPath = /curriculum/units/1998/1/98.01.01.x.html
     pathSplit = (dirname + '/' + basename).split('/')
-    if (pathSplit[2] == 'units') {
+    if (pathSplit[2] === 'units') {
       pageNum = 1
     }
   }
-  var newVolume = unitPath.split('/')[4];
   var sectionNum = unitPath.split('/')[6];
 
   // print section to the url if there is a section otherwise print null
   if(sectionNum === "" || sectionNum === undefined){
     var sectionNum = ""
   }
-  else{
+  else {
     var sectionNum = "/" + sectionNum;
   }
 
-  // pathSplit[2] = 'guides'
+  pathSplit[2] = 'units'
   var unitGuidePath = pathSplit.join('/')
+  // if unitGuidePath ends with .x.html then remove it
+  unitGuidePath = unitGuidePath.split('.x.html')[0]
 
   return {
     pageNum: pageNum,
     sectionNum : sectionNum,
-    newVolume : parseInt(newVolume),
     year: pathSplit[3],
     volume: pathSplit[4],
     unitNum: parseInt(basename.split('.')[2]),
     unitName: basename.split('.x.html')[0],
-    unitGuidePath: unitGuidePath,
+    unitGuidePath: unitGuidePath + '.x.html',
   }
 
 }

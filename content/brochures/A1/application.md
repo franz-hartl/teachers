@@ -7,9 +7,6 @@ path: "/brochures/A1/application.html"
 <title>Application</title>
 <h3 align="center">2014 Annual Brochure</h3> 
 <hr/>
-<b><a href="..\">Brochures and Reports</a>
-| <a href="..\..\">Yale-New Haven Teachers Institute</a></b>
-<hr/>
 <font size="4"><b>Application</b></font>
 <p>
 In applying to the Institute, teachers describe how the seminar will increase their preparation for the courses they teach and assist them in developing a curriculum unit through which they plan to introduce subject matter from the seminar in their own teaching. Public Schools principals verify that each applicant is proposing to work on a topic that is consistent with district standards and significant for school curricula. After an application review and recommendations by teachers in the program's leadership, the Institute Director makes final decisions about whom to accept as Fellows. These decisions take into account program objectives and the relation of proposed topics to seminar subjects and school courses, as well as such practical considerations as the size of each seminar. 

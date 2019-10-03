@@ -8,9 +8,6 @@ path: "/brochures/A1/"
 <p align="Center"><b>
 </b></p><h2 align="Center"><b>2014 Annual Brochure</b></h2>
 <hr/>
-<div align="Left"><b><a href="..\">Brochures and Reports</a>
-| <a href="../../index.html">Yale-New Haven Teachers Institute</a></b>
-<hr/>
 <p align="Left"><b><font size="4">Contents</font></b><br/>
 </p><ul>
 <li>

@@ -7,7 +7,7 @@ path: "/brochures/A3/2000/nationaldem.html"
 <center><a name="t"></a><b><h3>The National Demonstration Project</h3></b></center>
 <hr/>
 <b><a href="index.html">Annual Report 2000 Contents</a>
-| <a href="..\..\">Brochures and Reports</a></b>
+</b>
 <hr/>
 <p><b>Contents of section:</b>
 </p><ul>

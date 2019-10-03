@@ -7,7 +7,7 @@ path: "/brochures/A3/2003/yalenationalinit.html"
 <center>
 <b><h3><a name="top"></a>The Program in New Haven</h3></b>
 </center>
-<b><a href="index.html">Annual Report 2003 Contents</a> | <a href="..\..\">Brochures and Reports</a></b>
+<b><a href="index.html">Annual Report 2003 Contents</a></b>
 <hr/><b>Contents of section: </b><ul>
 <li><a href="#a">The Aims of the Yale National Initiative</a></li>
 <li><a href="#b">The National Demonstration Project</a></li>

@@ -19,7 +19,6 @@ programs to: improve schools, strengthen organizations and programs that
 serve youth, encourage ties between schools and communities and promote
 educational and career­related reform at the national level.
 </p><hr/>
-<h4><a href=".\">"School-College Collaboration": Table of Contents</a> |
-<a href="..\">Brochures and Reports</a>
+<h4><a href=".\">"School-College Collaboration": Table of Contents</a>
 </h4>
 </main>

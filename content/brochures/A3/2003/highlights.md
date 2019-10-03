@@ -8,7 +8,7 @@ path: "/brochures/A3/2003/highlights.html"
 <b><h3><a name="top"></a>Highlights of the Report</h3></b>
 </center>
 <hr/>
-<b><a href="index.html">Annual Report 2003 Contents</a> | <a href="..\..\">Brochures and Reports</a></b>
+<b><a href="index.html">Annual Report 2003 Contents</a></b>
 <hr/>
 <b>Contents of section: </b>
 <ul>

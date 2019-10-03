@@ -8,7 +8,7 @@ path: "/brochures/A3/2000/acknowledgements.html"
 <h3>Acknowledgments</h3></center>
 <hr/>
 <b><a href="index.html">Annual Report 2000 Contents</a> 
-| <a href="..\..\">Brochures and Reports</a></b>
+</b>
 <hr/>
 <table cellpadding="2">
 <tbody><tr>

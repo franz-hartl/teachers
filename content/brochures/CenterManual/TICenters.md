@@ -8,7 +8,7 @@ path: "/brochures/CenterManual/TICenters.html"
 <center><b><h3><a name="top">Teachers Institute Centers</a></h3></b></center>
 <hr/>
 <b><font size="+0"><a href="index.html">Centers for Curriculum and Professional Development Contents</a>
-| <a href="..\">Brochures and Reports</a></font></b>
+</font></b>
 <hr width="100%"/>
 <p>The Yale-New Haven Teachers Institute and the New Haven Public Schools have undertaken an initiative designed to broaden and deepen their long-standing efforts to strengthen teaching and learning in the schools.  Beginning in 1996, the Institute offered several elementary, middle, and high schools the opportunity to establish an Institute Center for Curriculum and Professional Development within their buildings.  By 1999, Centers had been established in eleven schools in the New Haven system.
 </p>

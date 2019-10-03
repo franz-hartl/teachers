@@ -7,9 +7,6 @@ path: "/brochures/A1/program.html"
 <title>Program</title>
 <h3 align="center">2014 Annual Brochure</h3> 
 <hr/>
-<b><a href="..\">Brochures and Reports</a>
-| <a href="..\..\">Yale-New Haven Teachers Institute</a></b>
-<hr/>
 <font size="4"><b>Program</b></font>
 <p>
 The Yale-New Haven Teachers Institute® is an educational partnership between Yale University and the New Haven Public Schools designed to strengthen teaching and learning in local schools and, by example and direct assistance, in high-need schools around the country. Through the Institute, Yale faculty members and New Haven school teachers work together in a collegial relationship. The Institute is also an interschool and interdisciplinary forum for teachers to collaborate on new curricula. Each participating teacher becomes an Institute Fellow, studies the seminar subject, and prepares a curriculum unit on that subject to be taught the following year. Teachers have primary responsibility for identifying the subjects the Institute addresses.

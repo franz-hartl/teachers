@@ -105,20 +105,20 @@ module.exports = {
         ],
       },
     },
-    {
-      resolve: `gatsby-plugin-manifest`,
-      options: {
-        name: 'Teachers Institute',
-        short_name: 'Teachers Institute',
-        description: 'Yale University Teacher Institute',
-        homepage_url: '/',
-        start_url: '/',
-        background_color: '#fff',
-        theme_color: '#2a52a1',
-        display: 'standalone',
-        icon: 'src/components/images/NHTI-logo-icon.png'
-      },
-    },
+    // {
+    //   resolve: `gatsby-plugin-manifest`,
+    //   options: {
+    //     name: 'Teachers Institute',
+    //     short_name: 'Teachers Institute',
+    //     description: 'Yale University Teacher Institute',
+    //     homepage_url: '/',
+    //     start_url: '/',
+    //     background_color: '#fff',
+    //     theme_color: '#2a52a1',
+    //     display: 'standalone',
+    //     icon: 'src/components/images/NHTI-logo-icon.png'
+    //   },
+    // },
     // {
     //   resolve: 'gatsby-plugin-google-analytics',
     //   options: {
@@ -139,12 +139,12 @@ module.exports = {
     'gatsby-plugin-sitemap',
     'gatsby-transformer-sharp',
     `gatsby-plugin-meta-redirect`,
-    {
-      resolve: `gatsby-plugin-s3`,
-      options: {
-          bucketName: 'test-teachers-institute',
-          acl: ''
-      },
-    },
+    // {
+    //   resolve: `gatsby-plugin-s3`,
+    //   options: {
+    //       bucketName: 'test-teachers-institute',
+    //       acl: ''
+    //   },
+    // },
   ],
 }

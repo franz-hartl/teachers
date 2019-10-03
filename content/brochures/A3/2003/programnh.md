@@ -7,7 +7,7 @@ path: "/brochures/A3/2003/programnh.html"
 <center>
 <b><h3><a name="top"></a> The Program in New Haven </h3></b>
 </center>
-<hr/><b><a href="index.html">Annual Report 2003 Contents</a> | <a href="..\..\">Brochures and Reports</a></b><table cellpadding="4">
+<hr/><b><a href="index.html">Annual Report 2003 Contents</a></b><table cellpadding="4">
 </table><hr/><b>Contents of section: </b><ul>
 <li><a href="#a">The Seminars and Curriculum Units</a></li>
 <ul>

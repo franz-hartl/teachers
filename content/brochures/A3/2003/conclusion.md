@@ -7,7 +7,7 @@ path: "/brochures/A3/2003/conclusion.html"
 <center>
 <b><h3><a name="top"></a> Conclusion </h3></b>
 </center>
-<b><a href="index.html">Annual Report 2003 Contents</a> | <a href="..\..\">Brochures and Reports</a></b>
+<b><a href="index.html">Annual Report 2003 Contents</a></b>
 <hr/><table cellpadding="4"><tbody><tr>
 <td valign="top" width="85%">
 Having celebrated its 25th anniversary the year before, during 2003 the Yale-New Haven Teachers Institute worked to consolidate progress in its two complementary areas of activity: the local and the national.<p>

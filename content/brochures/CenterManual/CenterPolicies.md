@@ -8,7 +8,7 @@ path: "/brochures/CenterManual/CenterPolicies.html"
 <center><b><h3><a name="top">Center Policies and Procedures</a></h3></b></center>
 <hr/>
 <b><font size="+0"><a href="index.html">Centers for Curriculum and Professional Development Contents</a>
-| <a href="..\">Brochures and Reports</a></font></b>
+</font></b>
 <hr width="100%"/>
 <p><b>Contents of section:</b>
 </p><ul>
