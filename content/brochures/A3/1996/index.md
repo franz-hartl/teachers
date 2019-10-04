@@ -4,8 +4,7 @@ title: "1996 Annual Report"
 path: "/brochures/A3/1996/"
 ---
 <main>
-<center><h3>Annual Report 1996: Contents<b></b></h3><b>
-</b></center>
+<center><h3>Annual Report 1996: Contents</h3></center>
 <hr/>
 <a href="foreword.html">Foreword</a><p>    
 <a href="program.html">The Program for New Haven Teachers     </a>
