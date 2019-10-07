@@ -1867,11 +1867,6 @@ arraybuffer.slice@~0.0.7:
   version "0.0.7"
   resolved "https://registry.yarnpkg.com/arraybuffer.slice/-/arraybuffer.slice-0.0.7.tgz#3bbc4275dd584cc1b10809b89d4e8b63a69e7675"
 
-arrayiffy-if-string@^3.11.15:
-  version "3.11.15"
-  resolved "https://registry.yarnpkg.com/arrayiffy-if-string/-/arrayiffy-if-string-3.11.15.tgz#2c026877cb8d9e0f4fd8b900be4c8e05e2501359"
-  integrity sha512-xk8Fy0o4lh2ugQScuHHv7miHFjc1bH6tnAshpt4FeBgRD0TB3hYJjXUrzfdbh3cMqVL0Ezh1eV08cLk/Dbmrrw==
-
 arrify@^1.0.0, arrify@^1.0.1:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/arrify/-/arrify-1.0.1.tgz#898508da2226f380df904728456849c1501a4b0d"
@@ -1907,14 +1902,6 @@ assert@^1.1.1:
 assign-symbols@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/assign-symbols/-/assign-symbols-1.0.0.tgz#59667f41fadd4f20ccbc2bb96b8d4f7f78ec0367"
-
-ast-monkey-traverse@^1.11.38:
-  version "1.11.38"
-  resolved "https://registry.yarnpkg.com/ast-monkey-traverse/-/ast-monkey-traverse-1.11.38.tgz#f7487a5359fca322eb6321df9c0ba68b3d4318e0"
-  integrity sha512-cDSxJ+xBkf6qOpIHt4OyTS8jRJhwTfTfTwQdUYOUvF2SRbnscFieAbhxlbu/85dO0v7vZN3mP67h+cWmAYmf8w==
-  dependencies:
-    lodash.clonedeep "^4.5.0"
-    lodash.isplainobject "^4.0.6"
 
 ast-types-flow@0.0.7, ast-types-flow@^0.0.7:
   version "0.0.7"
@@ -3058,20 +3045,6 @@ chardet@^0.7.0:
 charenc@~0.0.1:
   version "0.0.2"
   resolved "https://registry.yarnpkg.com/charenc/-/charenc-0.0.2.tgz#c0a1d2f3a7092e03774bfa83f14c0fc5790a8667"
-
-check-types-mini@^5.7.39:
-  version "5.7.39"
-  resolved "https://registry.yarnpkg.com/check-types-mini/-/check-types-mini-5.7.39.tgz#43b5c7090b0b6a9c3609f488fb8731bd60753e66"
-  integrity sha512-3BtxGoS9MHSIOgKQfI+CyZNu0aWYmXFIobS5evBTgsLtGXPKAU4QT/Z6H/tZWZlpp2GpSdCq6hpmOSMOIcLmEQ==
-  dependencies:
-    arrayiffy-if-string "^3.11.15"
-    ast-monkey-traverse "^1.11.38"
-    lodash.intersection "^4.4.0"
-    lodash.pullall "^4.2.0"
-    matcher "^2.0.0"
-    object-path "^0.11.4"
-    ordinal "^1.0.3"
-    type-detect "^4.0.8"
 
 cheerio@^1.0.0-rc.2:
   version "1.0.0-rc.2"
@@ -4887,11 +4860,6 @@ escape-html@~1.0.3:
 escape-string-regexp@1.0.5, escape-string-regexp@^1.0.2, escape-string-regexp@^1.0.5:
   version "1.0.5"
   resolved "https://registry.yarnpkg.com/escape-string-regexp/-/escape-string-regexp-1.0.5.tgz#1b61c0562190a8dff6ae3bb2cf0200ca130b86d4"
-
-escape-string-regexp@^2.0.0:
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/escape-string-regexp/-/escape-string-regexp-2.0.0.tgz#a30304e99daa32e23b2fd20f51babd07cffca344"
-  integrity sha512-UpzcLCXolUWcNu5HtVMHYdXJjArjsF9C0aNnquZYY4uW/Vu0miy5YoWvbV345HauVvcAUnpRuhMMcqTcGOY2+w==
 
 escodegen@^1.9.1:
   version "1.11.1"
@@ -9278,11 +9246,6 @@ lodash.has@^4.0:
   version "4.5.2"
   resolved "https://registry.yarnpkg.com/lodash.has/-/lodash.has-4.5.2.tgz#d19f4dc1095058cccbe2b0cdf4ee0fe4aa37c862"
 
-lodash.intersection@^4.4.0:
-  version "4.4.0"
-  resolved "https://registry.yarnpkg.com/lodash.intersection/-/lodash.intersection-4.4.0.tgz#0a11ba631d0e95c23c7f2f4cbb9a692ed178e705"
-  integrity sha1-ChG6Yx0OlcI8fy9Mu5ppLtF45wU=
-
 lodash.isarguments@^3.0.0:
   version "3.1.0"
   resolved "https://registry.yarnpkg.com/lodash.isarguments/-/lodash.isarguments-3.1.0.tgz#2f573d85c6a24289ff00663b491c1d338ff3458a"
@@ -9349,11 +9312,6 @@ lodash.merge@^4.6.0:
 lodash.mergewith@^4.6.0:
   version "4.6.1"
   resolved "https://registry.yarnpkg.com/lodash.mergewith/-/lodash.mergewith-4.6.1.tgz#639057e726c3afbdb3e7d42741caa8d6e4335927"
-
-lodash.pullall@^4.2.0:
-  version "4.2.0"
-  resolved "https://registry.yarnpkg.com/lodash.pullall/-/lodash.pullall-4.2.0.tgz#9d98b8518b7c965b0fae4099bd9fb7df8bbf38ba"
-  integrity sha1-nZi4UYt8llsPrkCZvZ+334u/OLo=
 
 lodash.restparam@^3.0.0:
   version "3.6.1"
@@ -9568,13 +9526,6 @@ markdown-escapes@^1.0.0:
 markdown-table@^1.1.0:
   version "1.1.2"
   resolved "https://registry.yarnpkg.com/markdown-table/-/markdown-table-1.1.2.tgz#c78db948fa879903a41bce522e3b96f801c63786"
-
-matcher@^2.0.0:
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/matcher/-/matcher-2.0.0.tgz#85fe38d97670dbd2a46590cf099401e2ffb4755c"
-  integrity sha512-nlmfSlgHBFx36j/Pl/KQPbIaqE8Zf0TqmSMjsuddHDg6PMSVgmyW9HpkLs0o0M1n2GIZ/S2BZBLIww/xjhiGng==
-  dependencies:
-    escape-string-regexp "^2.0.0"
 
 math-random@^1.0.1:
   version "1.0.1"
@@ -10641,16 +10592,6 @@ ordered-read-streams@^0.3.0:
   dependencies:
     is-stream "^1.0.1"
     readable-stream "^2.0.1"
-
-ordinal-number-suffix@^0.1.2:
-  version "0.1.2"
-  resolved "https://registry.yarnpkg.com/ordinal-number-suffix/-/ordinal-number-suffix-0.1.2.tgz#073de78194397481f4ceea29720ab55268ea40c6"
-  integrity sha512-Pe8iFV6R5GYxATa6FqPWr904CuD6El2o1pAja5fnEKJgofKgx5iFjImhWzND2naTtBGMyJTcIh3+FpuyFKGqiw==
-
-ordinal@^1.0.3:
-  version "1.0.3"
-  resolved "https://registry.yarnpkg.com/ordinal/-/ordinal-1.0.3.tgz#1a3c7726a61728112f50944ad7c35c06ae3a0d4d"
-  integrity sha512-cMddMgb2QElm8G7vdaa02jhUNbTSrhsgAGUz1OokD83uJTwSUn+nKoNoKVVaRa08yF6sgfO7Maou1+bgLd9rdQ==
 
 original@>=0.0.5, original@^1.0.0:
   version "1.0.2"
@@ -11834,45 +11775,42 @@ range-parser@^1.0.3, range-parser@~1.2.0:
   version "1.2.0"
   resolved "https://registry.yarnpkg.com/range-parser/-/range-parser-1.2.0.tgz#f49be6b487894ddc40dcc94a322f611092e00d5e"
 
-ranges-apply@^3.0.33:
-  version "3.0.33"
-  resolved "https://registry.yarnpkg.com/ranges-apply/-/ranges-apply-3.0.33.tgz#e10116e094006257f2ba6cef3f6e86f195f134bf"
-  integrity sha512-9zW30UyA+Z0Vyu2qJklLqXrkzGix8aa9sK21qpb+uzM/WRbVqBG4IFmanK0d9RrR+uGDHdVWvADKQFj2nFGP8A==
+ranges-apply@^3.0.36:
+  version "3.0.36"
+  resolved "https://registry.yarnpkg.com/ranges-apply/-/ranges-apply-3.0.36.tgz#deff87d433640d53e17d317cb8211c2136e5e527"
+  integrity sha512-/ZPqNf8u5wONH7e1JsxdRkbSGQDUAfr3U00mKPKMy4G09jN/9INtOGiRnzurgsvVXGEDOKXjV7EMLyDDdk+L2A==
   dependencies:
     is-natural-number "^4.0.1"
     is-natural-number-string "^1.0.1"
-    ordinal-number-suffix "^0.1.2"
-    ranges-merge "^4.2.20"
+    ranges-merge "^4.2.23"
 
-ranges-merge@^4.2.20:
-  version "4.2.20"
-  resolved "https://registry.yarnpkg.com/ranges-merge/-/ranges-merge-4.2.20.tgz#28486a9f028faf0b14c5bd2d0fb4dfd25ad1f2d4"
-  integrity sha512-a+qDhN/TLiemHHDBMnI8arzGlwB4RograTxjPiHCkNFoZbUm3hP19h+5YZoRPENzxC/5Kqy7gqtM1CkNu174xQ==
+ranges-merge@^4.2.23:
+  version "4.2.23"
+  resolved "https://registry.yarnpkg.com/ranges-merge/-/ranges-merge-4.2.23.tgz#1ff6acae6daef30cee3961b0634a333c70652c6f"
+  integrity sha512-LIeanWPV3PYfkmf918CxX+JWUvci7EgUeon/fFNWiv2bwSd4JAnfzAHkHh/z2sWJSVLM8Ka/oEaXU8If+jIMEw==
   dependencies:
     lodash.clonedeep "^4.5.0"
     lodash.isplainobject "^4.0.6"
-    ranges-sort "^3.10.37"
+    ranges-sort "^3.10.40"
 
-ranges-push@^3.5.0:
-  version "3.5.0"
-  resolved "https://registry.yarnpkg.com/ranges-push/-/ranges-push-3.5.0.tgz#200795f949081a66d8f90319eaea7b87b5a4e5e0"
-  integrity sha512-Hq+WvDcWoIeoJV0wsm0w7qeTeyBi78j97UAZbNYxuhAxwsGRGpQQqdvt8drb3J6TJogvOgFMQslh0wHEFskA8Q==
+ranges-push@^3.6.3:
+  version "3.6.3"
+  resolved "https://registry.yarnpkg.com/ranges-push/-/ranges-push-3.6.3.tgz#7af71da29742f5be1c12f4395c2e14e45365a90a"
+  integrity sha512-U41knjuosRrxZHP1iraHN5uQkb9gxNSrTzLKXc3Zv7ZVsV0Ot0mWc/1gqmA+9fx8SnBGR3cyiD5NZgrp1bcJxQ==
   dependencies:
     is-natural-number "^4.0.1"
     is-natural-number-string "^1.0.1"
     lodash.clonedeep "^4.5.0"
-    ranges-merge "^4.2.20"
-    string-collapse-leading-whitespace "^1.12.42"
-    string-trim-spaces-only "^2.8.0"
+    ranges-merge "^4.2.23"
+    string-collapse-leading-whitespace "^2.0.3"
+    string-trim-spaces-only "^2.8.3"
 
-ranges-sort@^3.10.37:
-  version "3.10.37"
-  resolved "https://registry.yarnpkg.com/ranges-sort/-/ranges-sort-3.10.37.tgz#5e98063c8f21c2509cc128f90558b90e311569a6"
-  integrity sha512-GFEVIdTtmYw5HX1Kye47tImbB3E8HhsslVUArAByDGjtgb46p0jxOZwqhdQR/KcR2pfudCeVCGU5oKYgb294jg==
+ranges-sort@^3.10.40:
+  version "3.10.40"
+  resolved "https://registry.yarnpkg.com/ranges-sort/-/ranges-sort-3.10.40.tgz#a1fc65457ebf1ee21d7e0ca7a63efabc07b75894"
+  integrity sha512-DxBjjDFwvr5Ls1VJimuv/wn/imi6YKRKT5FYaEcFV6un2UmjiHHxjy6HBh9fWBnaDA0mBr4D72QHm9e9CveAOg==
   dependencies:
-    check-types-mini "^5.7.39"
     is-natural-number "^4.0.1"
-    ordinal-number-suffix "^0.1.2"
 
 raw-body@2.3.2:
   version "2.3.2"
@@ -13652,15 +13590,15 @@ strict-uri-encode@^2.0.0:
   resolved "https://registry.yarnpkg.com/strict-uri-encode/-/strict-uri-encode-2.0.0.tgz#b9c7330c7042862f6b142dc274bbcc5866ce3546"
   integrity sha1-ucczDHBChi9rFC3CdLvMWGbONUY=
 
-string-collapse-leading-whitespace@^1.12.42:
-  version "1.12.42"
-  resolved "https://registry.yarnpkg.com/string-collapse-leading-whitespace/-/string-collapse-leading-whitespace-1.12.42.tgz#1e5aef1461d85e4c81da4521f453c9e65d274999"
-  integrity sha512-OJyIywYoCwPOCfiOMctHJybMP1lAeYpnsc/+MG6Lo8+oUC9YYHaEOGSnu5bW94lgVD5ElIPIWwp7Gldfzd02nQ==
+string-collapse-leading-whitespace@^2.0.3:
+  version "2.0.3"
+  resolved "https://registry.yarnpkg.com/string-collapse-leading-whitespace/-/string-collapse-leading-whitespace-2.0.3.tgz#f4dfc6f55a6cc4319f853d08374354a014ece6ae"
+  integrity sha512-5Q9hLVRt5Mk+fj3LLwWUyp8FseZRsnbUnVgEfO+tqHaZhgQcWwCjo8KwwEnoXKVchAEG0cX5pHiXAR6iP9l2tQ==
 
-string-left-right@^2.3.1:
-  version "2.3.1"
-  resolved "https://registry.yarnpkg.com/string-left-right/-/string-left-right-2.3.1.tgz#5c9ccad4141b81f1313fc02eaabec20a14edc9ce"
-  integrity sha512-yW/eyfeu+os4f84YKITvON4Va+1ZiMvjVYiHmDLVfb5Uuv82dd9J0ygQc7wuvftyjKSdWWmIKtC3J1nqZc6oOQ==
+string-left-right@^2.3.5:
+  version "2.3.5"
+  resolved "https://registry.yarnpkg.com/string-left-right/-/string-left-right-2.3.5.tgz#c9c5b3e805e519537bbc3b5f269e8b838446554a"
+  integrity sha512-1tD2+qZ5qyxyUPNIP3F4rYV0/Xeu/l9KxwE7aBgglmzcQyDFQNzlCIdcW45+WlnDffOjXCNJrbBXVuA3BL1p7g==
   dependencies:
     lodash.clonedeep "^4.5.0"
     lodash.isplainobject "^4.0.6"
@@ -13683,23 +13621,23 @@ string-similarity@^1.2.0:
     lodash.map "^4.6.0"
     lodash.maxby "^4.6.0"
 
-string-strip-html@^4.2.1:
-  version "4.2.1"
-  resolved "https://registry.yarnpkg.com/string-strip-html/-/string-strip-html-4.2.1.tgz#670b57c74e317c7fc13a73ff2f6ab0f3caf38947"
-  integrity sha512-NaOiNtsgNxeFfm6GvLY4n9L9uETDUV7/XC2rc9sZ9lhiVGSq+MKuPHWmb0Oe9A4VSPLOmM+JNL4m06+1v47N1g==
+string-strip-html@^4.3.2:
+  version "4.3.2"
+  resolved "https://registry.yarnpkg.com/string-strip-html/-/string-strip-html-4.3.2.tgz#dff4c7d9ed20bdaf1d5318512ec1acf057f012dd"
+  integrity sha512-lsomYw6rOoswvXkYCgp1Vot0Ztqn3VBEbrHa1pBAaXlujVvmWJXtppRKRTjpW7RUgfdLG07KNNTzelUAfTVyJA==
   dependencies:
     ent "^2.2.0"
     lodash.isplainobject "^4.0.6"
     lodash.trim "^4.5.1"
     lodash.without "^4.4.0"
-    ranges-apply "^3.0.33"
-    ranges-push "^3.5.0"
-    string-left-right "^2.3.1"
+    ranges-apply "^3.0.36"
+    ranges-push "^3.6.3"
+    string-left-right "^2.3.5"
 
-string-trim-spaces-only@^2.8.0:
-  version "2.8.0"
-  resolved "https://registry.yarnpkg.com/string-trim-spaces-only/-/string-trim-spaces-only-2.8.0.tgz#437b614dced6892d69132aa8de35becaf17f9b0a"
-  integrity sha512-jBSi8aRKtwpxFQzdfA5UBcaQ0lxUU5NPKiefHTZfvIcyQckjtUZ+bqlGxUjj2xRIj+JoEpGm5YpTmocQNMtETg==
+string-trim-spaces-only@^2.8.3:
+  version "2.8.3"
+  resolved "https://registry.yarnpkg.com/string-trim-spaces-only/-/string-trim-spaces-only-2.8.3.tgz#1a8a9918867a4a9ccdc3d365905552b5a022267b"
+  integrity sha512-4w8pyIn8gMaqmULix/V3QTAlRwozEDILjMO5P2aSD0HSLv3Ofzc1WoghsmbpRB0hLhpEYNAe++sYxlQ2ScfgyQ==
 
 string-width@^1.0.1, string-width@^1.0.2:
   version "1.0.2"
@@ -14425,11 +14363,6 @@ type-check@~0.3.2:
   resolved "https://registry.yarnpkg.com/type-check/-/type-check-0.3.2.tgz#5884cab512cf1d355e3fb784f30804b2b520db72"
   dependencies:
     prelude-ls "~1.1.2"
-
-type-detect@^4.0.8:
-  version "4.0.8"
-  resolved "https://registry.yarnpkg.com/type-detect/-/type-detect-4.0.8.tgz#7646fb5f18871cfbb7749e69bd39a6388eb7450c"
-  integrity sha512-0fr/mIH1dlO+x7TlcMy+bIDqKPsw/70tVyeHW787goQjhmqaZe10uwLujubK9q9Lg6Fiho1KUKDYz0Z7k7g5/g==
 
 type-fest@^0.3.0:
   version "0.3.1"
