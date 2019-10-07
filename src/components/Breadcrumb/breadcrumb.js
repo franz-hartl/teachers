@@ -25,7 +25,6 @@ class Breadcrumb extends React.Component {
     )
   }
 }
-
 export default Breadcrumb
 
 
@@ -78,25 +77,27 @@ function getUnitPaths(unitPath) {
   var dirname = path.dirname(unitPath) // dirname = /curriculum/guides/2018/2
   var basename = path.basename(unitPath) // basename = 18.02.01.x.html
   var pageNum = 0
-  var pathSplit
+  var pathSplit = (dirname + '/' + basename).split('/')
 
   // unitPath = /curriculum/units/1998/1/98.01.01/3/     (unit 98.01.01 page 3)
-  if (basename.match(/^[0-9]+$/) != null) {
+  // if this is a page then save the number in pageNum and then remove page number from url
+  if (pathSplit.length > 5 && basename.match(/^[0-9]+$/) != null) {
     pageNum = parseInt(basename)
     basename = path.basename(dirname)
     dirname = path.dirname(dirname)
     pathSplit = (dirname + '/' + basename).split('/')
   } 
-  else {
+  else {   // otherwise if it is a unit (not a guide) then it is the 1st page (section)
     // unitPath = /curriculum/guides/1998/1/98.01.01.x.html
     // unitPath = /curriculum/units/1998/1/98.01.01.x.html
-    pathSplit = (dirname + '/' + basename).split('/')
     if (pathSplit[2] === 'units') {
       pageNum = 1
     }
   }
+
   var sectionNum = unitPath.split('/')[6];
 
+  // section is the page number or if it is a guide, preface or intro page
   // print section to the url if there is a section otherwise print null
   if(sectionNum === "" || sectionNum === undefined){
     var sectionNum = ""

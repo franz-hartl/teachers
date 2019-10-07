@@ -15,7 +15,7 @@ class NavControls extends React.Component {
     return (
       <div className="content-nav-button">
         <Link
-          to={`${prevPath ? prevPath : '/'}`}
+          to={`${prevPath ? prevPath : '#'}`}
           className={`prv-btn mr-2 px-4 btn-sm ${
             prevPath ? '' : 'disabled'
           }`}
@@ -25,7 +25,7 @@ class NavControls extends React.Component {
           <FaArrowLeft /> Previous{' '}
         </Link>
         <Link
-          to={`${nextPath ? nextPath : '/'}`}
+          to={`${nextPath ? nextPath : '#'}`}
           className={`px-4 next-btn btn-sm ml-2  ${
             nextPath ? '' : 'disabled'
           }`}

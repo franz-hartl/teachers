@@ -4,9 +4,6 @@ title: "Teaching in America: Poetry and Paintings: Teaching Mood, Metaphor, and 
 path: "/pubs/A4/marshall.html"
 ---
 <main>
-<table border="0" width="100%">
-<tbody><tr><td bgcolor="#C0C0A0"><b><big>Yale-New Haven Teachers Institute</big></b></td></tr>
-</tbody></table>
 <p><small><a href="..\..\">Main Page</a> : <a href="..\">Periodical Publications and Books</a> : Teaching in America: The Common Ground</small></p>
 <p><small>[ <a href=".\">Back to the Table of Contents</a> ]</small></p>
 <hr/>

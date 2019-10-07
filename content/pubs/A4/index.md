@@ -4,9 +4,6 @@ title: "Teaching in America: The Common Ground"
 path: "/pubs/A4/"
 ---
 <main>
-<table border="0" width="100%">
-<tbody><tr><td bgcolor="#C0C0A0"><b><big>Yale-New Haven Teachers Institute</big></b></td></tr>
-</tbody></table>
 <p><small><a href="..\..\">Main Page</a> : <a href="..\">Periodical Publications and Books</a> : Teaching in America: The Common Ground</small></p>
 <hr/>
 <h2 align="CENTER">Teaching in America: The Common Ground</h2>
