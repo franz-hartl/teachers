@@ -157,9 +157,7 @@
 iframe{
   width: 100%;
 }
-.navbar-nav > li > div.dropdown-menu{
-  display:none;
-  }
+
 .gsc-cursor-page{
   color: black;
   padding: 4px 10px;
@@ -180,4 +178,10 @@ div.gsc-cursor-current-page {
   .member_names li{
   display:inline-block;
   width:45%;
+  }
+
+  @media screen and (max-width:640px){
+    .navbar-nav > li > div.dropdown-menu{
+      display:none;
+      }
   }
