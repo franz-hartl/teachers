@@ -16,6 +16,54 @@ const VolumeIndexPage = () => (
             <table width="100%" border="0">
               <tr>
                 <td />
+                <td>
+                  <font size="+1">
+                    <b>
+                      <i>2019</i>
+                    </b>
+                  </font>
+                </td>
+                <td />
+              </tr>
+
+              <tr valign="top">
+                <td nowrap="nowrap">Volume I</td>
+                <td />
+                <td>
+                  <Link to="/curriculum/units/2019/1/">
+                    Digital Lives
+                  </Link>
+                </td>
+              </tr>
+
+              <tr valign="top">
+                <td nowrap="nowrap">Volume II</td>
+                <td />
+                <td>
+                  <Link to="/curriculum/units/2019/2/">
+                    Teaching about Race and Racism Across the Disciplines
+                  </Link>
+                </td>
+              </tr>
+
+              <tr valign="top">
+                <td nowrap="nowrap">Volume III</td>
+                <td />
+                <td>
+                  <Link to="/curriculum/units/2019/3/">
+                    Human Centered Design of Biotechnology
+                  </Link>
+                </td>
+              </tr>
+
+              <tr>
+                <td>&nbsp;</td>
+                <td width="75" />
+                <td />
+              </tr>
+
+              <tr>
+                <td />
 
                 <td>
                   <font size="+1">
