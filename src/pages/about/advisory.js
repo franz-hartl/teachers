@@ -55,7 +55,6 @@ const Advisory = () => (
               <li>Matthew Jacobson</li>
               <li>Mary T. Y. Lui</li>
               <li>John MacKay</li>
-              <li>Amy Meyers*</li>
               <li>Jordan Peccia</li>
               <li>Brigitte Peucker</li>
               <li>Stephen J. Pitti</li>
