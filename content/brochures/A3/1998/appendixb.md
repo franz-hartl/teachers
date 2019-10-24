@@ -4,9 +4,9 @@ title: "Appendix"
 path: "/brochures/A3/1998/appendixb.html"
 ---
 <main>
-<center><a name="t"></a><b><h3>Appendix</h3></b>
+<center><a name="t"></a><b><h2>Appendix</h2></b>
 <hr/></center>
-<p><b><a href="index.html">Annual Report 1998 Table of Contents</a>
+<p><b><a href="/brochures/A3/1998/">Annual Report 1998 Table of Contents</a>
 </b></p><hr/>
 <p><b>Contents of section:</b>
 </p>
@@ -457,6 +457,5 @@ Fortune. New York: Modern Language Association, 1986, pp. 14-24.
 <p><a href="#c">to the top of Selected Bibliography</a> | <a href="#t">to
 the top of Appendix</a>
 </p><hr/></div>
-<p>© 1999 by the <a href="..\..\..\">Yale-New Haven
-Teachers Institute</a>
+<p>© 1999 by the <a href="/">Yale-New Haven Teachers Institute</a>
 </p></main>

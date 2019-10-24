@@ -93,6 +93,10 @@ Alienation Theme<br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 <font size="-1"><a href="../guides/1989/5/89.05.04.x.html">89.05.04</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
+<i>Ethics of</i><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2019/1/19.01.09.x.html">19.01.09</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">........</font>
 <i>Instruction</i><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 <font size="-1"><a href="../guides/2014/1/14.01.02.x.html">14.01.02</a></font><br/>

@@ -139,6 +139,8 @@ Investigation<br/>
 <font size="-1"><a href="../guides/1995/3/95.03.07.x.html">95.03.07</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
 <font size="-1"><a href="../guides/1996/5/96.05.01.x.html">96.05.01</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">........................</font>
+<font size="-1"><a href="../guides/2019/3/19.03.01.x.html">19.03.01</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 Structures/Architecture<br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
@@ -416,7 +418,7 @@ Social Implications of<br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 <font size="-1"><a href="../guides/2002/5/02.05.01.x.html">02.05.01</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
-<font size="-1"><a href="../units/2009/3/">09.03</a> (all 12 units)</font><br/>
+<font size="-1"><a href="../guides/2009/3/">09.03</a> (all 12 units)</font><br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
 <i>General</i><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
@@ -726,10 +728,14 @@ Scientific Process<br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 <font size="-1"></font></a><font size="-1"><a href="../guides/1979/1/79.01.05.x.html">79.01.05</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
+<i>Robots/I&gt;<br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2019/1/19.01.05.x.html">19.01.05</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">........</font>
 <i>Short Story</i><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 <font size="-1"><a href="../guides/1987/2/87.02.04.x.html">87.02.04</a></font><br/>
-<a name="self-esteem"><font size="+1"><b></b></font></a></p><p><a name="self-esteem"><font size="+1"><b>Self-Esteem</b></font><br/>
+<a name="self-esteem"><font size="+1"><b></b></font></a></i></p><p><i><a name="self-esteem"><font size="+1"><b>Self-Esteem</b></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
 <i>Female</i><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
@@ -742,19 +748,19 @@ Scientific Process<br/>
 <i>Preadolescence and</i><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 <font size="-1"><a href="../guides/1996/3/96.03.03.x.html">96.03.03</a></font><br/>
-<a name="sengbe"><font size="+1"><b></b></font></a></p><p><a name="sengbe"><font size="+1"><b>Sengbe, Joseph (Cinque)</b></font><br/>
+<a name="sengbe"><font size="+1"><b></b></font></a></i></p><p><i><a name="sengbe"><font size="+1"><b>Sengbe, Joseph (Cinque)</b></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
 <font size="-1"></font></a><font size="-1"><a href="../guides/1989/5/89.05.08.x.html">89.05.08</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
 <font size="-1"><a href="../guides/1990/2/90.02.08.x.html">90.02.08</a></font><br/>
-<a name="sexism"><font size="+1"><b></b></font></a></p><p><a name="sexism"><font size="+1"><b>Sexism</b></font><br/>
+<a name="sexism"><font size="+1"><b></b></font></a></i></p><p><i><a name="sexism"><font size="+1"><b>Sexism</b></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
 <i>in Literature</i><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 Female Stereotypes<br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
 <font size="-1"></font></a><font size="-1"><a href="../guides/1982/5/82.05.06.x.html">82.05.06</a></font><br/>
-<a name="sexuality"><font size="+1"><b></b></font></a></p><p><a name="sexuality"><font size="+1"><b>Sexuality</b></font><br/>
+<a name="sexuality"><font size="+1"><b></b></font></a></i></p><p><i><a name="sexuality"><font size="+1"><b>Sexuality</b></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
 <i>Contraception</i><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
@@ -846,7 +852,7 @@ General<br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
 <font size="-1"><a href="../guides/1980/5/80.05.09.x.html">80.05.09</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
-<font size="-1"><a href="../units/1981/3/">81.03</a> (all 8 units)</font><br/>
+<font size="-1"><a href="../guides/1981/3/">81.03</a> (all 8 units)</font><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 Pregnancy <br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
@@ -879,7 +885,7 @@ American<br/>
 Hate Crimes<br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
 <font size="-1"><a href="../guides/2005/2/05.02.01.x.html">05.02.01</a></font><br/>
-<a name="shakespeare"><font size="+1"><b></b></font></a></p><p><a name="shakespeare"><font size="+1"><b>Shakespeare, William</b></font><br/>
+<a name="shakespeare"><font size="+1"><b></b></font></a></i></p><p><i><a name="shakespeare"><font size="+1"><b>Shakespeare, William</b></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
 <i><u>As You Like It</u></i><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
@@ -952,7 +958,7 @@ Hate Crimes<br/>
 <font size="-1"><a href="../guides/1986/2/86.02.06.x.html">86.02.06</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 <font size="-1"><a href="../guides/2009/1/09.01.05.x.html">09.01.05</a></font><br/>
-<a name="slavery"><font size="+1"><b></b></font></a></p><p><a name="slavery"><font size="+1"><b>Slavery</b></font><br/>
+<a name="slavery"><font size="+1"><b></b></font></a></i></p><p><i><a name="slavery"><font size="+1"><b>Slavery</b></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
 <i>African American</i><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
@@ -1013,14 +1019,14 @@ Black Emancipators<br/>
 Revolts<br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
 <font size="-1"><a href="../guides/1985/4/85.04.06.x.html">85.04.06</a></font><br/>
-<a name="socialservices"><font size="+1"><b></b></font></a></p><p><a name="socialservices"><font size="+1"><b>Social Services</b></font><br/>
+<a name="socialservices"><font size="+1"><b></b></font></a></i></p><p><i><a name="socialservices"><font size="+1"><b>Social Services</b></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
 <i>American</i><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 for the Aging<br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
 <font size="-1"></font></a><font size="-1"><a href="../guides/1983/6/83.06.01.x.html">83.06.01</a></font><br/>
-<a name="socialstudies"><font size="+1"><b></b></font></a></p><p><a name="socialstudies"><font size="+1"><b>Social Studies (see also </b></font></a><font size="+1"><b><a href="h.x.html#history">History</a>; <a href="g.x.html#geography">Geography</a>; <a href="l.x.html#law">Law</a>; <a href="p.x.html#politics">Politics</a>; etc.)</b></font><br/>
+<a name="socialstudies"><font size="+1"><b></b></font></a></i></p><p><i><a name="socialstudies"><font size="+1"><b>Social Studies (see also </b></font></a><font size="+1"><b><a href="h.x.html#history">History</a>; <a href="g.x.html#geography">Geography</a>; <a href="l.x.html#law">Law</a>; <a href="p.x.html#politics">Politics</a>; etc.)</b></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
 <i>African American Women</i><br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
@@ -1173,7 +1179,7 @@ Achievement among African Americans<br/>
 <i>Water Rights, International</i><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 <font size="-1"><a href="../guides/2003/5/03.05.08.x.html">03.05.08</a></font><br/>
-<a name="sociology"><font size="+1"><b></b></font></a></p><p><a name="sociology"><font size="+1"><b>Sociology</b></font><br/>
+<a name="sociology"><font size="+1"><b></b></font></a></i></p><p><i><a name="sociology"><font size="+1"><b>Sociology</b></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
 <i>Children</i><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
@@ -1202,6 +1208,8 @@ Plea-Bargaining<br/>
 <font size="-1"><a href="../guides/1997/4/97.04.03.x.html">97.04.03</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 <font size="-1"><a href="../guides/2005/2/05.02.01.x.html">05.02.01</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2019/2/19.02.07.x.html">19.02.07</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
 <i>Electricity and</i><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
@@ -1252,7 +1260,7 @@ Initiation<br/>
 <i>Urban Studies</i><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 <font size="-1"><a href="../guides/1992/3/92.03.06.x.html">92.03.06</a></font><br/>
-<a name="solarenergy"><font size="+1"><b></b></font></a></p><p><a name="solarenergy"><font size="+1"><b>Solar Energy (see also </b></font></a><font size="+1"><b><a href="e.x.html#energy">Energy</a>; <a href="s.x.html#sustainability">Sustainability</a>)</b></font><br/>
+<a name="solarenergy"><font size="+1"><b></b></font></a></i></p><p><i><a name="solarenergy"><font size="+1"><b>Solar Energy (see also </b></font></a><font size="+1"><b><a href="e.x.html#energy">Energy</a>; <a href="s.x.html#sustainability">Sustainability</a>)</b></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
 <font size="-1"><a href="../guides/2010/4/10.04.03.x.html">10.04.03</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
@@ -1273,10 +1281,10 @@ Use of<br/>
 <font size="-1"><a href="../guides/2010/4/10.04.02.x.html">10.04.02</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 <font size="-1"><a href="../guides/2010/4/10.04.06.x.html">10.04.06</a></font><br/>
-<a name="sophocles"><font size="+1"><b></b></font></a></p><p><a name="sophocles"><font size="+1"><b>Sophocles</b></font><br/>
+<a name="sophocles"><font size="+1"><b></b></font></a></i></p><p><i><a name="sophocles"><font size="+1"><b>Sophocles</b></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
 <font size="-1"></font></a><font size="-1"><a href="../guides/1984/2/84.02.03.x.html">84.02.03</a></font><br/>
-<a name="sound"><font size="+1"><b></b></font></a></p><p><a name="sound"><font size="+1"><b>Sound</b></font><br/>
+<a name="sound"><font size="+1"><b></b></font></a></i></p><p><i><a name="sound"><font size="+1"><b>Sound</b></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
 <i>General</i><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
@@ -1295,7 +1303,7 @@ Use of<br/>
 <font size="-1"><a href="../guides/2003/4/03.04.04.x.html">03.04.04</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 <font size="-1"><a href="../guides/2006/5/06.05.04.x.html">06.05.04</a></font><br/>
-<a name="southamerica"><font size="+1"><b></b></font></a></p><p><a name="southamerica"><font size="+1"><b>South America</b></font><br/>
+<a name="southamerica"><font size="+1"><b></b></font></a></i></p><p><i><a name="southamerica"><font size="+1"><b>South America</b></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
 <i>through Art Murals</i><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
@@ -1310,8 +1318,8 @@ Use of<br/>
 <font size="-1"><a href="../guides/1982/5/82.05.05.x.html">82.05.05</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 <font size="-1"><a href="../guides/1992/2/92.02.04.x.html">92.02.04</a></font><br/>
-<a name="space"><font size="+1"><b></b></font></a></p><p><a name="space"><font size="+1"><b>Space (see </b></font></a><font size="+1"><b><a href="a.x.html#astronomy">Astronomy</a>)</b></font><br/>
-<a name="spanish"><font size="+1"><b></b></font></a></p><p><a name="spanish"><font size="+1"><b>Spanish  (see also </b></font></a><font size="+1"><b><a href="f.x.html#foreignlanguageinstruction">Foreign Language Instruction</a>)</b></font><br/>
+<a name="space"><font size="+1"><b></b></font></a></i></p><p><i><a name="space"><font size="+1"><b>Space (see </b></font></a><font size="+1"><b><a href="a.x.html#astronomy">Astronomy</a>)</b></font><br/>
+<a name="spanish"><font size="+1"><b></b></font></a></i></p><p><i><a name="spanish"><font size="+1"><b>Spanish  (see also </b></font></a><font size="+1"><b><a href="f.x.html#foreignlanguageinstruction">Foreign Language Instruction</a>)</b></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
 <i>Language Instruction</i><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
@@ -1492,7 +1500,7 @@ Short Story<br/>
 United States Government<br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
 <font size="-1"><a href="../guides/1982/3/82.03.05.x.html">82.03.05</a></font><br/>
-<a name="specialeducation"><font size="+1"><b></b></font></a></p><p><a name="specialeducation"><font size="+1"><b>Special Education</b></font><br/>
+<a name="specialeducation"><font size="+1"><b></b></font></a></i></p><p><i><a name="specialeducation"><font size="+1"><b>Special Education</b></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
 <i>Art History</i><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
@@ -1733,10 +1741,10 @@ through Survival Stories<br/>
 U. S. Constitution<br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
 <font size="-1"><a href="../guides/1987/3/87.03.08.x.html">87.03.08</a></font><br/>
-<a name="st.jacques"><font size="+1"><b></b></font></a></p><p><a name="st.jacques"><font size="+1"><b>St. Jacques, Raymond</b></font><br/>
+<a name="st.jacques"><font size="+1"><b></b></font></a></i></p><p><i><a name="st.jacques"><font size="+1"><b>St. Jacques, Raymond</b></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
 <font size="-1"></font></a><font size="-1"><a href="../guides/1985/5/85.05.04.x.html">85.05.04</a></font><br/>
-<a name="statistics"><font size="+1"><b></b></font></a></p><p><a name="statistics"><font size="+1"><b>Statistics (see also </b></font></a><font size="+1"><b><a href="m.x.html#mathematics">Mathematics</a>)</b></font><br/>
+<a name="statistics"><font size="+1"><b></b></font></a></i></p><p><i><a name="statistics"><font size="+1"><b>Statistics (see also </b></font></a><font size="+1"><b><a href="m.x.html#mathematics">Mathematics</a>)</b></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
 <i>Clinical Trials</i><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
@@ -1747,6 +1755,8 @@ U. S. Constitution<br/>
 <font size="-1"><a href="../guides/1997/7/97.07.10.x.html">97.07.10</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 <font size="-1"><a href="../guides/1999/3/99.03.04.x.html">99.03.04</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2019/3/19.03.06.x.html">19.03.06</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 HIV/AIDS<br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
@@ -1787,6 +1797,8 @@ Pharmaceutical Industry<br/>
 <font size="-1"><a href="../guides/2008/6/08.06.06.x.html">08.06.06</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 <font size="-1"><a href="../guides/2008/6/08.06.07.x.html">08.06.07</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2019/3/19.03.05.x.html">19.03.05</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
 <i>Health</i><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
@@ -1803,7 +1815,7 @@ Pharmaceutical Industry<br/>
 Spreadsheets<br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
 <font size="-1"><a href="../guides/1986/5/86.05.04.x.html">86.05.04</a></font><br/>
-<a name="steinbeck"><font size="+1"><b></b></font></a></p><p><a name="steinbeck"><font size="+1"><b>Steinbeck, John</b></font><br/>
+<a name="steinbeck"><font size="+1"><b></b></font></a></i></p><p><i><a name="steinbeck"><font size="+1"><b>Steinbeck, John</b></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
 <font size="-1"></font></a><font size="-1"><a href="../guides/1985/3/85.03.04.x.html">85.03.04</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
@@ -1812,7 +1824,7 @@ Spreadsheets<br/>
 <font size="-1"><a href="../guides/2001/6/01.06.04.x.html">01.06.04</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 <font size="-1"><a href="../guides/2011/1/11.01.08.x.html">11.01.08</a></font><br/>
-<a name="students'rights"><font size="+1"><b></b></font></a></p><p><a name="students'rights"><font size="+1"><b>Students' Rights</b></font><br/>
+<a name="students'rights"><font size="+1"><b></b></font></a></i></p><p><i><a name="students'rights"><font size="+1"><b>Students' Rights</b></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
 <font size="-1"></font></a><font size="-1"><a href="../guides/1992/1/92.01.08.x.html">92.01.08</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
@@ -1837,7 +1849,7 @@ Spreadsheets<br/>
 <font size="-1"><a href="../guides/2000/3/00.03.02.x.html">00.03.02</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 <font size="-1"><a href="../guides/2000/3/00.03.06.x.html">00.03.06</a></font><br/>
-<a name="sustainability"><font size="+1"><b></b></font></a></p><p><a name="sustainability"><font size="+1"><b>Sustainability (see also </b></font></a><font size="+1"><b><a href="e.x.html#ecologyandenvironmentalscience">Ecology and Environmental Science</a>; <a href="b.x.html#bioethics">Bioethics</a>; <a href="s.x.html#science">Science</a>)</b></font><br/>
+<a name="sustainability"><font size="+1"><b></b></font></a></i></p><p><i><a name="sustainability"><font size="+1"><b>Sustainability (see also </b></font></a><font size="+1"><b><a href="e.x.html#ecologyandenvironmentalscience">Ecology and Environmental Science</a>; <a href="b.x.html#bioethics">Bioethics</a>; <a href="s.x.html#science">Science</a>)</b></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
 <font size="-1"><a href="../guides/2013/3/13.03.01.x.html">13.03.01</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
@@ -1856,8 +1868,8 @@ Spreadsheets<br/>
 <font size="-1"><a href="../guides/2015/3/15.03.05.x.html">15.03.05</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
 <font size="-1"><a href="../guides/2015/3/15.03.07.x.html">15.03.07</a></font><br/>
-</p>
-<hr/>
+</i></p><p><i>
+</i></p><hr/><i>
 <center>
 <a href="a.x.html">A</a> | <a href="b.x.html">B</a> |
 <a href="c.x.html">C</a> | <a href="d.x.html">D</a> |
@@ -1874,4 +1886,4 @@ Spreadsheets<br/>
 <a href="y.x.html">Y</a> | <a href="z.x.html">Z</a><br/>
 <font size="-1"><a href="../units/">Directory of Volumes</a> |
 <a href="..\..\">Yale-New Haven Teachers Institute</a></font></center>
-</main>
+</i></main>

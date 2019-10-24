@@ -4,9 +4,9 @@ title: "Highlights of the Report"
 path: "/brochures/A3/2000/highlights.html"
 ---
 <main>
-<center><a name="f"></a><b><h3>Highlights of the Report</h3></b></center>
+<center><a name="f"></a><h2>Highlights of the Report</h2></center>
 <hr/>
-<b><a href="index.html">Annual Report 2000 Contents</a>
+<b><a href="/brochures/A3/2000/">Annual Report 2000 Contents</a>
 </b>
 <hr width="100%"/>
 <p><b>Contents of section:</b>
@@ -199,5 +199,5 @@ path: "/brochures/A3/2000/highlights.html"
 <div align="right"><a href="financiald.html">to the section of the Report on Financial Plans</a>
 | <a href="#f">return to the top of Highlights of the Report</a></div>
 <hr/>
-© 2001 by the <a href="..\..\..\">Yale-New Haven Teachers Institute</a>
+© 2001 by the <a href="/">Yale-New Haven Teachers Institute</a>
 </main>

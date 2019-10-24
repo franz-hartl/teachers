@@ -4,9 +4,9 @@ title: "Highlights of the Report"
 path: "/brochures/A3/1998/highlights.html"
 ---
 <main>
-<center><a name="f"></a><b><h3>Highlights of the Report</h3></b>
+<center><a name="f"></a><b><h2>Highlights of the Report</h2></b>
 <hr/></center>
-<b><a href="index.html">Annual Report 1998 Table of Contents</a>
+<b><a href="/brochures/A3/1998/">Annual Report 1998 Table of Contents</a>
 </b>
 <hr/>
 <p><b>Contents of section:</b>
@@ -200,6 +200,5 @@ in New Haven and the National Demonstration Project. </p></td>
 <p><a href="financiald.html">to the section of the Report on Financial
 Developments</a> | <a href="#f">return to the top of Highlights of the
 Report </a> </p><hr/></div>
-<p>© 1999 by the <a href="..\..\..\">Yale-New Haven
-Teachers Institute</a>
+<p>© 1999 by the <a href="/">Yale-New Haven Teachers Institute</a>
 </p></main>

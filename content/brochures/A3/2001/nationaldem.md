@@ -4,9 +4,9 @@ title: "National Demonstration Project"
 path: "/brochures/A3/2001/nationaldem.html"
 ---
 <main>
-<center><a name="t"></a><b><h3>The National Demonstration Project</h3></b></center>
+<center><a name="t"></a><h2>The National Demonstration Project</h2></center>
 <hr/>
-<b><a href="index.html">Annual Report 2001 Contents</a>
+<b><a href="/brochures/A3/2001/">Annual Report 2001 Contents</a>
 </b>
 <hr/>
 <p><b>Contents of section:
@@ -1235,5 +1235,5 @@ aim of the Center for Educational Partnerships, with which the Institute retains
 </tbody></table>
 <div align="right"><a href="#t">to the top of the National Demonstration Project</a></div>
 <hr/>
-© 2002 by the <a href="..\..\..\">Yale-New Haven Teachers Institute</a>
+© 2002 by the <a href="/">Yale-New Haven Teachers Institute</a>
 </main>

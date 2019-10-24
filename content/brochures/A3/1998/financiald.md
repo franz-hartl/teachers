@@ -4,11 +4,9 @@ title: "Financial Developments"
 path: "/brochures/A3/1998/financiald.html"
 ---
 <main>
-<center><a name="t"></a><b><h3>Financial Developments</h3></b>
+<center><a name="t"></a><b><h2>Financial Developments</h2></b>
 <hr/></center>
-<p><b><a href="index.html">Annual Report 1998 Table of Contents</a>
-|
-<a href="..\..\">Brochurs and Reports</a></b>
+<p><b><a href="/brochures/A3/1998/">Annual Report 1998 Table of Contents</a>
 </p><hr/>
 <table cellpadding="2">
 <tbody><tr valign="CENTER">
@@ -61,6 +59,5 @@ Ground. </font>
 </tbody></table>
 <div align="right">
 <p><a href="#t">to the top of Financial Developments</a></p></div>
-<hr/>© 1999 by the <a href="..\..\..\">Yale-New Haven
-Teachers Institute</a>
+<hr/>© 1999 by the <a href="/">Yale-New Haven Teachers Institute</a>
 </main>

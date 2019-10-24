@@ -4,8 +4,7 @@ title: "Foreword"
 path: "/brochures/A3/1996/foreword.html"
 ---
 <main>
-<center>
-<h2>Foreword</h2></center>
+<center><h2>Foreword</h2></center>
 <hr/>
 The present report covers the offerings, organization, and operation of the
 Institute's 1996 program for the New Haven teachers who participated as
@@ -31,7 +30,6 @@ assisted by the Editorial Board.  Finally, it describes the status of the
 Institute's initiative for securing financial support, in particular the need
 that remains for building a more adequate endowment for the Institute.
 </p><hr/>
-<h4><a href=".\">Annual Report 1996: Table of Contents</a> |
-<a href="..\..\">Yale-New Haven Teachers Institute</a>
-</h4>
+<a href="/brochures/A3/1996/">Annual Report 1996: Table of Contents</a> |
+<a href="/">Yale-New Haven Teachers Institute</a>
 </main>

@@ -4,8 +4,7 @@ title: "Institutional and Financial Development"
 path: "/brochures/A3/1996/financial.html"
 ---
 <main>
-<center>
-<h2>Institutional and Financial Development</h2></center>
+<center><h2>Institutional and Financial Development</h2></center>
 <hr/>
 In December 1995 Yale President Richard C. Levin, NEH
 Chairman Sheldon Hackney and DeWitt Wallace-Reader's Digest Fund President
@@ -27,7 +26,6 @@ endowment revenues in order to increase the Institute's permanent funding
 and thereby provide more adequately over the longer term for its efforts
 locally and nationally.
 </p><hr/>
-<h4><a href=".\">Annual Report 1996: Table of Contents</a> |
-<a href="..\..\">Yale-New Haven Teachers Institute</a>
-</h4>
+<a href="/brochures/A3/1996/">Annual Report 1996: Table of Contents</a> |
+<a href="/">Yale-New Haven Teachers Institute</a>
 </main>

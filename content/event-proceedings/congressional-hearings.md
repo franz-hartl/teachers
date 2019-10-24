@@ -4,7 +4,7 @@ title: Congressional Hearing
 path: /congressional.html
 ---
 
-<h1 class="page-title">Congressional Hearings </h1>
+<h2 class="page-title">Congressional Hearings </h2>
 
 In 1986, Institute Director James R. Vivian testified before the
 United States Senate Subcommittee on Education, Arts and Humanities at

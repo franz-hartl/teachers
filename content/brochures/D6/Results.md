@@ -4,9 +4,9 @@ title: "Results"
 path: "/brochures/D6/Results.html"
 ---
 <main>
-<center><h3><a name="top">Results</a></h3></center>
+<center><h2><a name="top">Results</a></h2></center>
 <hr/>
-<b><font size="+0"><a href="index.html">Progress Report Contents</a>
+<b><font size="+0"><a href="/brochures/D6/">Progress Report Contents</a>
 </font></b>
 <hr width="100%"/>
 <p><b>Contents of section:</b>
@@ -53,7 +53,7 @@ path: "/brochures/D6/Results.html"
 <hr/>
 <table cellpadding="2">
 <tbody><tr>
-<td width="85%"><p><a name="a/"></a><b></b></p><h4><b>Consistency of Response</b></h4>
+<td width="85%"><p><a name="a"></a><b></b></p><h3><b>Consistency of Response</b></h3>
 <p>There was remarkable consistency among the questionnaire responses, from different groups of individuals (e.g., Fellows and non-Fellows) and from groups whose responses were solicited over as many as seven years.  We examined responses from sever
 al different groups of individuals.  We were initially interested in learning whether and to what extent teachers who become Fellows are different from their colleagues who do not.  It soon became clear from their questionnaire responses that Fellows were
 quite similar to their peers in the New Haven system not only with respect to demographic characteristics and academic preparation but in their responses to other questions as well.   We were also interested in comparing Fellows who take part in the Inst
@@ -75,7 +75,7 @@ ited.  To underscore the consistency of response, ranges are often provided when
 <hr/>
 <table cellpadding="2">
 <tbody><tr>
-<td width="85%"><p><a name="b/"></a><b></b></p><h4><b>Fellows’ Written Responses</b></h4>
+<td width="85%"><p><a name="b"></a><b></b></p><h3><b>Fellows’ Written Responses</b></h3>
 <p>As has been noted, the Institute has, from the beginning, asked participating Fellows each year to describe their experience with the program in their own words.  These written responses provided Institute staff with feedback about the program an
 d were used in part to suggest refinements to program elements and procedures.  Since 1986, we have administered a program evaluation survey to Fellows made up mainly of multiple-choice questions.  However, because Fellows' statements about the program in
 earlier years provided such rich documentation of their experience in the Institute, we have retained three open-ended questions.  These concern Fellows' experiences in their seminars, the effect they expect their curriculum units and their Institute par
@@ -140,7 +140,7 @@ This illustrates how the two methods of evaluation reinforce each other, and all
 <hr/></div>
 <table cellpadding="2">
 <tbody><tr>
-<td width="85%"><p><a name="c/"></a><b></b></p><h4><b>Responses to Multiple-Choice Questions</b></h4>
+<td width="85%"><p><a name="c"></a><b></b></p><h3><b>Responses to Multiple-Choice Questions</b></h3>
 <p>Most of the results that follow are expressed as ranges based on the questionnaire responses over five years.  Simply put, this means that the statistics reported are the highest and lowest percentages of Fellows who gave a particular response du
 ring the period between 1986 and 1990.  Occasionally, we report only the responses from the 1990 questionnaires, usually because the range over five years was quite narrow.
 </p>
@@ -158,7 +158,7 @@ at a later time.)
 <hr/>
 <table cellpadding="2">
 <tbody><tr>
-<td width="85%"><p><a name="d/"></a><b></b></p><h4><b>I. Characteristics of Fellows and Non-Fellows</b></h4>
+<td width="85%"><p><a name="d"></a><b></b></p><h3><b>I. Characteristics of Fellows and Non-Fellows</b></h3>
 <p>It is of interest to describe the individuals who choose to participate in the Institute and to compare them with their peers in the New Haven Public School System who do not participate.  It is often suggested by critics of programs such as the 
 Yale-New Haven Teachers Institute that their successes may be attributed to a process of self-selection by participants.  This argument implies that the teachers who take part in programs such as the Institute are a better-prepared and more highly-motivat
 ed group than the teachers who opt not to participate.  The validity of the argument depends upon the existence of observed differences between the two groups.  This section of the report, therefore, describes Institute Fellows and compares them with non-
@@ -173,7 +173,7 @@ Fellows in 1982 and 1987.
 <hr/>
 <table cellpadding="2">
 <tbody><tr>
-<td width="85%"><p><a name="e/"></a><b></b></p><h4><b>Demographic Characteristics</b></h4>
+<td width="85%"><p><a name="e"></a><b></b></p><h3><b>Demographic Characteristics</b></h3>
 <p>The New Haven Public School teachers who participate in the Institute are a diverse group, and their diversity reflects that of their colleagues throughout the city.  In 1990, there were four Fellows in their twenties and three in their sixties, bu
 t most (59 percent) were between the ages of forty and forty-nine.  They have, on average, fifteen years of full-time teaching experience, and twelve years of full-time experience in the New Haven Public Schools.  Responses of non-Fellows showed them to b
 e remarkably similar: they had taught full-time for an average of fifteen years, twelve and a half of which were spent in the New Haven schools; their average age was forty-two.
@@ -239,7 +239,7 @@ aring for very young children.
 <hr/></div>
 <table cellpadding="2">
 <tbody><tr>
-<td width="85%"><p><a name="f/"></a><b></b></p><h4><b>Academic Preparation</b></h4>
+<td width="85%"><p><a name="f"></a><b></b></p><h3><b>Academic Preparation</b></h3>
 <p>Responses to survey questions about academic preparation revealed few differences between Fellows and non-Fellows.  Table 2 displays all of the undergraduate and graduate degrees and certificates earned by all of the teachers who completed our su
 rveys in all of the years of their distribution.
 </p>
@@ -364,7 +364,7 @@ ity to balance out the picture.”
 <hr/></div>
 <table cellpadding="2">
 <tbody><tr>
-<td width="85%"><p><a name="g/"></a><b></b></p><h4><b>Subjects Taught</b></h4>
+<td width="85%"><p><a name="g"></a><b></b></p><h3><b>Subjects Taught</b></h3>
 <p>The distribution of academic majors reported by Fellows is also consistent with the distribution of subjects taught in the New Haven Public Schools.  For example, relatively large numbers of English majors participate in the Institute, reflecting
 a relatively high number of English teachers in the city at large.  Table 3 shows the sizes of six academic departments in middle and high schools in New Haven, in terms of the numbers of teachers they include.  The six departments represented reflect th
 e principal subjects addressed by the Institute.
@@ -467,7 +467,7 @@ Rethinking, retrieving, re-interpretation as well as acquiring new knowledge was
 <hr/></div>
 <table cellpadding="2">
 <tbody><tr>
-<td width="85%"><p><a name="h/"></a><b></b></p><h4><b>II. Fellows’ and Non-Fellows’ Perceptions of the Teaching Profession</b></h4>
+<td width="85%"><p><a name="h"></a><b></b></p><h3><b>II. Fellows’ and Non-Fellows’ Perceptions of the Teaching Profession</b></h3>
 <p>The surveys included a number of questions that asked for respondents' perceptions of selected aspects of the teaching profession and their own relation to it.  Fellows and non-Fellows were asked to reflect on the recommendations for reform of th
 e teaching profession that surfaced during the early 1980s, and to respond to questions about their own professionalism and professional experiences.  This section describes the reactions to such questions.  Although a later section will focus on Fellows'
 responses to particular features of their Institute experience, this section includes responses to questions about the Institute that are directly related to proposals for educational reform and to issues of professionalism.
@@ -481,7 +481,7 @@ responses to particular features of their Institute experience, this section inc
 <hr/>
 <table cellpadding="2">
 <tbody><tr>
-<td width="85%"><p><a name="i/"></a><b></b></p><h4><b>Opinions on Issues of School Reform</b></h4>
+<td width="85%"><p><a name="i"></a><b></b></p><h3><b>Opinions on Issues of School Reform</b></h3>
 <p>The questions on school reform were derived from a review of major studies and reports on education issued between 1982 and 1986.  These questions were included in the Fellows' annual questionnaires starting in 1986 and in the system-wide survey 
 conducted in 1987.  Responses of Fellows to the questions were quite uniform.  Their responses are therefore represented here by the results from the 1990 survey although, for some questions, tables showing the results from all six years are provided to d
 emonstrate and underscore the consistency of response.
@@ -508,7 +508,7 @@ most identical proportions.
 <hr/>
 <table cellpadding="2">
 <tbody><tr>
-<td width="85%"><p><a name="j/"></a><b></b></p><h4><b>Teacher Professionalism</b></h4>
+<td width="85%"><p><a name="j"></a><b></b></p><h3><b>Teacher Professionalism</b></h3>
 <p>Proposals to enhance professionalism in schools were among the most widely endorsed by Fellows, who demonstrated considerable optimism about the prospect of restructuring schools to provide a more professional environment for teachers, as well as
 making teachers’ salaries competitive with those of other professions.  Figure 2 shows their responses in detail.
 </p>
@@ -546,7 +546,7 @@ provement in this measure; 45 percent said it would greatly improve education.
 <hr/></div>
 <table cellpadding="2">
 <tbody><tr>
-<td width="85%"><p><a name="k/"></a><b></b></p><h4><b>Academic Preparation</b></h4>
+<td width="85%"><p><a name="k"></a><b></b></p><h3><b>Academic Preparation</b></h3>
 <p>Fellows and non-Fellows alike demonstrated their expectations for the benefits of greater academic preparation in their responses to survey questions on issues of school reform.  Table 4 illustrates Fellows’ responses.  Well over half of all Fell
 ows—no fewer than 61 percent in any given year, and no more than 78 percent—agreed that the requirement of a bachelor’s degree in the arts and sciences as a prerequisite for the professional study of teaching would improve public education.  Fellows showe
 d even greater enthusiasm for the benefits of developing a new professional curriculum in graduate schools of education leading to a masters degree in teaching, with 84 percent supporting the idea in 1988, and no fewer than three quarters (75 percent) end
@@ -651,7 +651,7 @@ ement.  In the same year, 72 percent responded that they were better prepared as
 <hr/></div>
 <table cellpadding="2">
 <tbody><tr>
-<td width="85%"><p><a name="l/"></a><b></b></p><h4><b>Professional Growth</b></h4>
+<td width="85%"><p><a name="l"></a><b></b></p><h3><b>Professional Growth</b></h3>
 <p>The 1987 system-wide survey asked Fellows and non-Fellows to list the professional growth activities they had participated in over the last three years.  Table 5 shows what they reported.
 </p>
 <center>
@@ -822,7 +822,7 @@ imistic responses to proposals associated with the Institute’s approach to str
 <hr/></div>
 <table cellpadding="2">
 <tbody><tr>
-<td width="85%"><p><a name="m/"></a><b></b></p><h4><b>Respondents' Own Effectiveness as Teachers</b></h4>
+<td width="85%"><p><a name="m"></a><b></b></p><h3><b>Respondents' Own Effectiveness as Teachers</b></h3>
 <p>Fellows and non-Fellows rated themselves highly on their effectiveness as teachers: on a scale of one (low) to five (high), 82 percent of Fellows in 1982 and 75 percent in 1987 gave themselves a four or five, and 78 and 71 percent respectively of
 non-Fellows did the same.  Eighty-five and 90 percent of Fellows gave themselves a four or a five when asked about their intellectual interest in the subjects they teach, along with 80 and 86 percent of non-Fellows.  This did not diminish their appreciat
 ion of these qualities in the Institute: when Fellows were asked if participating in the seminar had helped them grow professionally and intellectually, the majority said yes.  Fellows in 1987 stated unanimously that it had helped them grow in these respe
@@ -838,7 +838,7 @@ lly.
 <hr/>
 <table cellpadding="2">
 <tbody><tr>
-<td width="85%"><p><a name="n/"></a><b></b></p><h4><b>Teacher Leadership</b></h4>
+<td width="85%"><p><a name="n"></a><b></b></p><h3><b>Teacher Leadership</b></h3>
 <p>Related to the question of teacher professionalism is that of teacher leadership.  Teachers’ control over their own classrooms and curriculum, and the degree of leadership they are able to exercise in their schools, make a substantial difference 
 in their sense of themselves as professionals.  Again, the questions on issues of school reform in the Fellows and 1987 system-wide surveys are useful in illuminating the context of Fellows’ experience at the Institute.  Asked if they thought freeing teac
 hers to decide how best to meet state and local goals for children while holding them accountable for student progress would improve education, as many as 84 percent and no fewer than 71 percent of Fellows in any given year agreed; 67 percent of non-Fello
@@ -858,7 +858,7 @@ t) of non-Fellows agreed, including almost a third (32 percent) who agreed stron
 <hr/>
 <table cellpadding="2">
 <tbody><tr>
-<td width="85%"><p><a name="o/"></a><b></b></p><h4><b>Teacher Leadership in the Schools</b></h4>
+<td width="85%"><p><a name="o"></a><b></b></p><h3><b>Teacher Leadership in the Schools</b></h3>
 <p>The 1987 system-wide surveys further contribute to the context in which we must understand findings on the Institute’s results, inasmuch as they pose questions about the attitudes of Fellows and non-Fellows to the leadership they felt able to exe
 rcise in their schools.  In one question, respondents were asked to rate, on a scale of one (not at all) to five (a lot), the extent to which they felt they had a voice in determining certain aspects of their teaching situations.  
 </p>
@@ -886,7 +886,7 @@ is truly ours.  The seminar leader’s guidance is essential in helping us shape
 <hr/>
 <table cellpadding="2">
 <tbody><tr>
-<td width="85%"><p><a name="p/"></a><b></b></p><h4><b>Teacher Leadership in the Institute</b></h4>
+<td width="85%"><p><a name="p"></a><b></b></p><h3><b>Teacher Leadership in the Institute</b></h3>
 <p>In light of this it is not surprising that Fellows report that the opportunity to design their own curriculum was a major incentive for them to participate in the Institute: no fewer than 85 and as many as 91 percent of Fellows characterized it a
 s an “important incentive,” and in no year did more than 7 percent discount its influence on their decision to apply.  In the annual surveys almost all Fellows described developing their own curriculum unit as beneficial, as Figure 6 indicates.
 </p>
@@ -974,7 +974,7 @@ rvey said that the Institute is run by New Haven teachers, and only 22 percent d
 <hr/></div>
 <table cellpadding="2">
 <tbody><tr>
-<td width="85%"><p><a name="q/"></a><b></b></p><h4><b>Collegiality</b></h4>
+<td width="85%"><p><a name="q"></a><b></b></p><h3><b>Collegiality</b></h3>
 <p>The prospect of collegiality among Public School teachers and between teachers and Yale faculty members strongly influenced the decision of many Fellows to participate.  The opportunity to work with Yale faculty was an important incentive to betw
 een 69 and 80 percent of all Fellows, and a minor incentive to a further 16 to 22 percent; in no year did fewer than 90 percent indicate that contact with Yale faculty had played some role in encouraging them to participate.  Furthermore, no fewer than 82
 and as many as 99 percent of Fellows cited the opportunity to work with teachers from other schools as an incentive; in all years more than half (between 54 and 68 percent) listed it as an important incentive.  Of non-Fellows responding to the question o
@@ -1252,7 +1252,7 @@ for advice and criticism....It was my best curriculum unit (so far), and by far 
 <hr/>
 <table cellpadding="2">
 <tbody><tr>
-<td width="85%"><p><a name="r/"></a><b></b></p><h4><b>III.  Fellows’ Reactions to Selected Aspects of the Institute</b></h4>
+<td width="85%"><p><a name="r"></a><b></b></p><h3><b>III.  Fellows’ Reactions to Selected Aspects of the Institute</b></h3>
 <p>A major portion of the Fellows’ questionnaire was devoted to Fellows’ reactions to their Institute experience.  Some of the responses have been discussed in earlier sections.  In this section, we report Fellows’ reasons for participating in the I
 nstitute and their reactions to selected features of the Institute program.
 </p>
@@ -1265,7 +1265,7 @@ nstitute and their reactions to selected features of the Institute program.
 <hr/>
 <table cellpadding="2">
 <tbody><tr>
-<td width="85%"><p><a name="s/"></a><b></b></p><h4><b>Why Fellows Participate</b></h4>
+<td width="85%"><p><a name="s"></a><b></b></p><h3><b>Why Fellows Participate</b></h3>
 <p>We asked Fellows to comment specifically on the incentives to their participation.  Having access to Yale facilities was important to many.  In 1990, almost half (49 percent) considered the opportunity to use the libraries and other academic faci
 lities an important incentive, and an additional 36 percent ranked it as a minor incentive.  Use of athletic facilities was an important incentive only to 9 percent; for 61 percent, it was not an incentive.
 </p>
@@ -1479,8 +1479,8 @@ it which certainly did not neglect methods.”
 <hr/></div>
 <table cellpadding="2">
 <tbody><tr>
-<td width="85%"><p><a name="t/"></a><b></b></p><h4><b>Program Scheduling and Design</b></h4>
-<p><a name="u/"></a><b></b></p><h4><b>Readings</b></h4>
+<td width="85%"><p><a name="t"></a><b></b></p><h3><b>Program Scheduling and Design</b></h3>
+<p><a name="u"></a><b></b></p><h3><b>Readings</b></h3>
 <p>Fellows in both humanities and science seminars are asked to read a substantial amount of material related to the topic they are studying, both in preparing for seminar discussions and in researching the curriculum units they write.  Figure 15 in
 dicates how much Fellows said they read in 1990.
 </p>
@@ -1520,7 +1520,7 @@ the future.  Overall, between 68 and 84 percent of Fellows found the bibliograph
 <hr/></div>
 <table cellpadding="2">
 <tbody><tr>
-<td width="85%"><p><a name="v/"></a><b></b></p><h4><b>Talks</b></h4>
+<td width="85%"><p><a name="v"></a><b></b></p><h3><b>Talks</b></h3>
 <p>In the first two months of each session the Institute schedules a series of talks given by Yale faculty members.  The topics of the talks may reflect the content of a seminar being offered that year, preview a seminar that could be offered the fo
 llowing year, or address some other subject of scholarly or current interest.  The speakers are usually past or prospective seminar leaders, though other faculty from the University may offer their special expertise in response to teacher interest.
 </p>
@@ -1604,7 +1604,7 @@ cent), and discuss the topic with other teachers (94 percent).
 <hr/></div>
 <table cellpadding="2">
 <tbody><tr>
-<td width="85%"><p><a name="w/"></a><b></b></p><h4><b>Schedule</b></h4>
+<td width="85%"><p><a name="w"></a><b></b></p><h3><b>Schedule</b></h3>
 <p>The Institute schedule has evolved over the years to accommodate Fellows' work during both the school year and the summer.  Fellows test aspects of their units-in-progress in their classrooms during the school year, and complete the units during 
 the summer recess.  There was mixed reaction to questions that posed possible changes in the schedule:  between 9 and 19 percent of the Fellows wanted the schedule changed so that the entire session would be conducted during the summer, and between 16 and
 30 percent wanted all activities to take place during the school year.  There are obviously advantages and disadvantages to both proposals.  Between 38 and 49 percent of Fellows work at least part time during the summer months, and they must also balance
@@ -1627,7 +1627,7 @@ ween 92 and 96 percent judged the Institute schedule to be "useful," and between
 <hr/>
 <table cellpadding="2">
 <tbody><tr>
-<td width="85%"><p><a name="x/"></a><b></b></p><h4><b>Fellows’ Reactions to Yale</b></h4>
+<td width="85%"><p><a name="x"></a><b></b></p><h3><b>Fellows’ Reactions to Yale</b></h3>
 <p>All Institute seminars and lectures are conducted on the Yale campus, and Fellows receive the benefits of membership in the university community—including full library privileges and the opportunity to use athletic and other facilities—for a full
 year from the beginning of the session in which they participate.  The surveys speak strongly of the Fellows’ appreciation of the University setting and its resources.  As indicated in the previous section, working with Yale faculty was an important ince
 ntive to participation for a majority of Fellows, and a small percentage—between 12 and 25 percent—sought out faculty members other than their seminar leaders.  Access to academic facilities such as the libraries was an incentive for no fewer than 82 perc
@@ -1666,7 +1666,7 @@ an affiliation with a university would improve education in schools.
 <hr/></div>
 <table cellpadding="2">
 <tbody><tr>
-<td width="85%"><p><a name="y/"></a><b></b></p><h4><b>IV. The Curriculum Units</b></h4>
+<td width="85%"><p><a name="y"></a><b></b></p><h3><b>IV. The Curriculum Units</b></h3>
 <p>The curriculum units developed by Fellows during their Institute participation represent the most tangible outcome of the Institute.  A catalog of the units developed between 1978 and 1990 offers testimony to the range and variety of Fellows’ int
 erests and their creativity.  A section of the Fellows’ questionnaire asked about Fellows’ experiences developing their units and their uses of both units that they themselves developed and units developed by other Fellows.  In addition, the system-wide s
 urveys investigated the uses by non-Fellows of units developed by Institute Fellows and the reactions of both Fellows and non-Fellows following their use of the units.
@@ -1680,7 +1680,7 @@ urveys investigated the uses by non-Fellows of units developed by Institute Fell
 <hr/>
 <table cellpadding="2">
 <tbody><tr>
-<td width="85%"><p><a name="z/"></a><b></b></p><h4><b>Development of the Units by Fellows</b></h4>
+<td width="85%"><p><a name="z"></a><b></b></p><h3><b>Development of the Units by Fellows</b></h3>
 <p>Fellows develop their curriculum units according to a process which has five steps to guide them to the final product.  Table 12 illustrates the primary sources of Fellows’ ideas for their units:
 </p>
 <center>
@@ -1904,7 +1904,7 @@ and grows very naturally, practically writes itself.”
 <hr/></div>
 <table cellpadding="2">
 <tbody><tr>
-<td width="85%"><p><a name="aa"></a><b></b></p><h4><b>Approaches, Activities and Skills Taught in the Classroom</b></h4>
+<td width="85%"><p><a name="aa"></a><b></b></p><h3><b>Approaches, Activities and Skills Taught in the Classroom</b></h3>
 <p>Fellows were asked to describe their past teaching generally as well as their teaching of Institute units specifically, and the results show that the use of Institute units makes a significant difference in some of the approaches and activities t
 eachers use as well as the skills they teach.  Figure 17 makes a few representative comparisons.
 </p>
@@ -1945,7 +1945,7 @@ h.”
 <hr/>
 <table cellpadding="2">
 <tbody><tr>
-<td width="85%"><p><a name="bb"></a><b></b></p><h4><b>Units in Use in the New Haven Public Schools</b></h4>
+<td width="85%"><p><a name="bb"></a><b></b></p><h3><b>Units in Use in the New Haven Public Schools</b></h3>
 <p>From the outset the Institute has been interested in the extent and pattern of the use of Institute-developed curriculum units by Fellows and other teachers.  Though the units are developed first for their authors’ own use, they are written for a
 n audience of teachers, and we have encouraged teachers throughout the New Haven Public Schools to make use of them in their own classrooms.  We are accordingly interested not only in how Fellows use their own units, but how Fellows use other Fellows’ uni
 ts and how non-Fellows use Fellows’ units.  We have conducted a number of surveys over the last ten years to investigate these types of unit use.  The first, in 1981, was administered to Fellows and non-Fellows and concerned unit use alone.  In 1982 we ad
@@ -2112,7 +2112,7 @@ and definitely built my self-esteem (I can still do a good, innovative unit with
 <hr/></div>
 <table cellpadding="2">
 <tbody><tr>
-<td width="85%"><p><a name="cc"></a><b></b></p><h4><b>Fellows’ Use of Their Own Units</b></h4>
+<td width="85%"><p><a name="cc"></a><b></b></p><h3><b>Fellows’ Use of Their Own Units</b></h3>
 <p>Fellows employed their units in different ways in their classrooms, as Table 15 shows.  Thirty-nine percent in 1987 said they used units to introduce topics not in the textbook, and the same proportion used them to expand on topics that were in t
 he textbook.  Thirty-seven percent used them as the primary resource for teaching a topic, with 30 percent adopting them as a substitute for other available material on the topic because the unit presented the topic better.
 </p>
@@ -2181,7 +2181,7 @@ rity of the Institute units in active use are taught by teachers other than thei
 <hr/></div>
 <table cellpadding="2">
 <tbody><tr>
-<td width="85%"><p><a name="dd"></a><b></b></p><h4><b>Fellows’ and Non-Fellows’ Use of Others’ Units</b></h4>
+<td width="85%"><p><a name="dd"></a><b></b></p><h3><b>Fellows’ and Non-Fellows’ Use of Others’ Units</b></h3>
 <p>The system-wide surveys provided an opportunity to ask Fellows and non-Fellows about their experience of actually teaching Institute units which others had written.  This was particularly important to us because of the Institute’s aim of producin
 g curriculum units which are not only useful to the Fellows who wrote them, but which can be adapted by other teachers for use in their own classrooms.  
 </p>
@@ -2593,7 +2593,7 @@ gh the Institute and structured guidance, the dreams of doing this become a real
 <hr/>
 <table cellpadding="2">
 <tbody><tr>
-<td width="85%"><p><a name="ee"></a><b></b></p><h4><b>V. Fellows’ Reports of Student Response</b></h4>
+<td width="85%"><p><a name="ee"></a><b></b></p><h3><b>V. Fellows’ Reports of Student Response</b></h3>
 <p>The ultimate test of the effectiveness of the Institute is, of course, the benefit that it brings to students in the New Haven Public Schools.  It is a traditional dilemma of program evaluation that the effects for students, of programs whose dir
 ect beneficiaries are the teachers of such students, are diffuse and difficult to measure.  As should be amply evident from this report, teachers respond to the Institute in personal ways.  While the overwhelming majority report having benefitted in many 
 of the same ways, the reflection of this benefit in their teaching is less easily described.  Given this difficulty, the Institute staff chose to ask the Fellows themselves to report on changes in their teaching as a function of their participation in the

@@ -5,7 +5,7 @@ path: "/brochures/A1/teacher.html"
 ---
 <main>
 <title>Teacher Leadership</title>
-<h3 align="center">2014 Annual Brochure</h3> 
+<h2 align="center">2014 Annual Brochure</h2>
 <hr/>
 <font size="4"><b>Teacher Leadership</b></font>
 <p>
@@ -224,6 +224,6 @@ For every New Haven school, teachers represent their colleagues in planning, org
 <b>Seminar Coordinators</b><br/> 
 A teacher acts as Coordinator of each seminar to provide teacher leadership and help maintain collegial rapport within the group. Coordinators are selected in February and serve through July, resolving any scheduling or administrative problems and facilitating the smooth operation of the seminars. On the recommendation of the Coordinators, the Director may withdraw from the Institute any Fellow whose continued participation they deem to be detrimental to the program.</p>
 <hr/>
-<a align="left">Return to </a><a href="index.html">Contents</a>
+<a align="left">Return to </a><a href="./">Contents</a>
 © 2014 by the Yale-New Haven Teachers Institute
 </main>

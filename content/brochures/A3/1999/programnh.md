@@ -6,10 +6,9 @@ path: "/brochures/A3/1999/programnh.html"
 <main>
 <center>
 <h2>
-<a name="top"></a><b><h3>The Program in New Haven</h3></b>
+<a name="top"></a><h2>The Program in New Haven</h2>
 <hr/></h2></center>
-<b><font size="+0"><a href="index.html">Annual Report 1999 Table of
-Contents</a></font></b>
+<b><font size="+0"><a href="/brochures/A3/1999/">Annual Report 1999 Table of Contents</a></font></b>
 <hr width="100%"/>
 <p><b>Contents of section:</b>
 </p><ul>
@@ -3310,32 +3309,10 @@ could be made more widely available. The Institute is therefore now documenting
 more fully the work of teams in the schools, the activities of the Centers
 and Academies, and the development of electronic resources. This documentation
 has been summarized in earlier sections of this report.</p></td>
-<td>
-<table cellpadding="2">
-<tbody><tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody></table>
-</td>
 </tr>
 </tbody></table>
 <div align="right"><a href="#y">to the top of Local Program Documentation
 and Evaluation</a> | <a href="#top">to the top of the Program in New
 Haven</a></div>
-<hr/>© 2000 by the <a href="/">Yale-New Haven
-Teachers Institute</a>
+<hr/>© 2000 by the <a href="/">Yale-New Haven Teachers Institute</a>
 </main>

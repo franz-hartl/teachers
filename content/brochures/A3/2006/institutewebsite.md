@@ -4,11 +4,9 @@ title: "The Institute Web site"
 path: "/brochures/A3/2006/institutewebsite.html"
 ---
 <main>
-<center>
-<b><h3><a name="top"></a>The Institute and InitiativeWeb Sites</h3></b>
-</center>
+<center><h2><a name="top"></a>The Institute and InitiativeWeb Sites</h2></center>
 <hr/>
-<b><a href="index.html">Annual Report 2006 Contents</a></b>
+<b><a href="/brochures/A3/2006/">Annual Report 2006 Contents</a></b>
 <hr/>
 <table cellpadding="4"><tbody><tr>
 <td valign="top" width="85%">Electronic versions of the Institute's curriculum units and other publications are available at the Yale-New Haven Teachers Institute and Yale National Initiative Web (<a href="/">http://teachersinstitute.yale.edu</a> and <a href="http://teachers.yale.edu">http://teachers.yale.edu</a>, respectively). The New Haven Web site played an important role during the National Demonstration Project, as a link in its network of information and a model for the Web sites of other Teachers Institutes, and it remains essential as the Yale National Initiative proceeds. The full texts of almost all the curriculum units written in New Haven between 1978 and 2006, plus an <i>Index</i> and <i>Guide</i> to these units, are available online to teachers in New Haven and elsewhere. Information about the New Haven Institute (its brochures and most recent Annual Reports) is also available, as is the text of its periodical <i>On Common Ground</i>, which contains articles regarding school-university partnerships and is intended for a national audience. The Initiative also inaugurated in February 2004 a new Web site, which includes links to the New Haven Web site and to those of the other League Teachers Institutes. Many of the publications on the New Haven Web site, including PDF and HTML versions of the periodical, are available on the national Web site. That site also features extensive information on the Teachers Institute approach, the activity of the National Initiative, and news from the League of Teachers Institutes.</td><td valign="top"></td></tr>
@@ -130,5 +128,5 @@ path: "/brochures/A3/2006/institutewebsite.html"
 <tr><td valign="top" width="85%">Clearly the curriculum units prepared by Fellows of the Yale-New Haven Teachers Institute continue to demonstrate their usefulness in many different ways for teachers and others who are engaged within a wide range of subjects and who have received many kinds of preparation.</td><td valign="top"></td></tr>
 </tbody></table>
 <div align="right"><a href="#top">return to the top of The Institute and Initiative Web Sites</a></div>
-<hr/>© 2007 by the <a href="..\..\">Yale-New Haven Teachers Institute</a>
+<hr/>© 2007 by the <a href="/">Yale-New Haven Teachers Institute</a>
 </main>

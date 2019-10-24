@@ -56,7 +56,7 @@ individuals who have chosen to remain in teaching in New Haven.
 </i></td></tr><tr><td><i> (table available in print form)
 </i></td></tr></tbody></table>
 <hr/>
-</a><h4><a name="a"></a><a href=".\">Annual Report 1996: Table of Contents</a> |
-<a href="..\..\">Yale-New Haven Teachers Institute</a>
+</a><h4><a name="a"></a><a href="/brochures/A3/1996/">Annual Report 1996: Table of Contents</a> |
+<a href="/">Yale-New Haven Teachers Institute</a>
 </h4>
 </main>

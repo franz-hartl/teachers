@@ -4,14 +4,14 @@ title: "Conclusion"
 path: "/brochures/D6/Conclusion.html"
 ---
 <main>
-<center><h3><a name="top">Conclusion</a></h3></center>
+<center><h2><a name="top">Conclusion</a></h2></center>
 <hr/>
-<b><font size="+0"><a href="index.html">Progress Report Contents</a>
+<b><font size="+0"><a href="/brochures/D6/">Progress Report Contents</a>
 </font></b>
 <hr width="100%"/>
 <table cellpadding="2">
 <tbody><tr>
-<td width="85%"><p><a name="a/"></a><b></b></p><h4><b>Teacher Retention and Continuing Participation in the Institute</b></h4>
+<td width="85%"><p><a name="a"></a><b></b></p><h3><b>Teacher Retention and Continuing Participation in the Institute</b></h3>
 <p>A major goal of the Institute has always been to enhance the retention of teachers, especially good and committed teachers, in the New Haven Public Schools.  To this end, we have continually tracked retention rates among Fellows.
 </p>
 <p>In 1990 the Institute updated its ongoing study of Fellows who have remained in teaching in New Haven.  The study shows that of the 309 individual teachers who have completed the program successfully at least once between 1978 and 1990, two-third

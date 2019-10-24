@@ -4,7 +4,7 @@ title: "Conclusion"
 path: "/brochures/A3/1998/conclusionb.html"
 ---
 <main>
-<center><a name="t"></a><b><h3>Conclusion</h3></b>
+<center><a name="t"></a><b><h2>Conclusion</h2></b>
 <hr/></center>
 <p><b><a href="index.html">Annual Report 1998 Table of Contents</a>
 </b>
@@ -113,6 +113,5 @@ the city.” —William Ferris </font></i>
 </tbody></table>
 <div align="right">
 <p><a href="#t">to the top of Conclusion</a></p></div>
-<hr/>© 1999 by the <a href="..\..\..\">Yale-New Haven
-Teachers Institute</a>
+<hr/>© 1999 by the <a href="/">Yale-New Haven Teachers Institute</a>
 </main>

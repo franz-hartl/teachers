@@ -3,7 +3,7 @@ layout: page
 title: Awards and Recognition
 path: /brochures/A9.html
 ---
-<h1>Awards and Recognition </h1>
+<h2>Awards and Recognition </h2>
 
 "Principal Recognition Accorded to the Institute by individuals and
  organizations since 1978"

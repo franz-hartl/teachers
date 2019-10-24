@@ -4,8 +4,7 @@ title: "Transcripts"
 path: "/transcripts/"
 ---
 <main>
-<h3>Transcripts of News Conferences and other Public Presentations of the
-Institute</h3>
+<h2>Transcripts of News Conferences and other Public Presentations of the Institute</h2>
 <ul>
 <li>Speakers at <a href="25thTranscript.html">"Celebrating Teachers,"</a>
 the program for the Institute's 25th Anniversary Gala on November 13, 2002

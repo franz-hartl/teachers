@@ -4,9 +4,9 @@ title: "Introduction"
 path: "/brochures/D6/Introduction.html"
 ---
 <main>
-<center><h3><a name="top">Introduction</a></h3></center>
+<center><h2><a name="top">Introduction</a></h2></center>
 <hr/>
-<b><font size="+0"><a href="index.html">Progress Report Contents</a>
+<b><font size="+0"><a href="/brochures/D6/">Progress Report Contents</a>
 </font></b>
 <hr width="100%"/>
 <p><b>Contents of section:</b>
@@ -20,7 +20,7 @@ path: "/brochures/D6/Introduction.html"
 <hr/>
 <table cellpadding="2">
 <tbody><tr>
-<td width="85%"><p><a name="e/"></a><b></b></p><h4><b>Introduction by James R. Vivian</b></h4>
+<td width="85%"><p><a name="$1"></a><b></b></p><h3><b>Introduction by James R. Vivian</b></h3>
 <p>As the movement nationally for university-school collaboration continues to gain momentum; as this movement becomes more sharply focused on excellence in teaching in public schools; and as numerous collaborative programs, some with the Institute’
 s assistance and following the Institute’s model, are being established in other communities, it is vitally important that we deepen our understanding of the ways in which such programs can strengthen teaching and learning in public schools.  If, in fact,
 this movement is to be sustained, in New Haven and elsewhere, collaborative programs must present persuasive evidence of their results.  The Institute therefore has a responsibility as one of the most visible collaborative programs, as well as an opportu
@@ -50,7 +50,7 @@ itled as a report on our progress, and not on our definitive conclusions.
 <hr/></div>
 <table cellpadding="2">
 <tbody><tr>
-<td width="85%"><p><a name="a/"></a><b></b></p><h4><b>Introduction to the Teacher Surveys</b></h4>
+<td width="85%"><p><a name="$1"></a><b></b></p><h3><b>Introduction to the Teacher Surveys</b></h3>
 <p>A brief chronology of the teacher surveys will help to establish the findings described in this report in the larger context of evaluation of the Institute.  During the first few years of the Institute, its staff developed a series of open-ended 
 questions to elicit information about how Fellows assessed their Institute experiences.  Thus, a review of their Institute experience by Fellows has always been an important feature of the overall evaluation strategy of the Institute.  Between 1978 and 19
 81, Fellows’ comments were used mainly for internal purposes.  Responses to the open-ended questions contributed to ongoing self-analysis and review of the program and to the revision and refinement of program elements.  During the same period, seminar le
@@ -83,7 +83,7 @@ hat included former Fellows and non-Fellows.
 <hr/></div>
 <table cellpadding="2">
 <tbody><tr>
-<td width="85%"><p><a name="b/"></a><b></b></p><h4><b>Structure of the Questionnaires</b></h4>
+<td width="85%"><p><a name="b"></a><b></b></p><h3><b>Structure of the Questionnaires</b></h3>
 <p>The 1987 questionnaires consisted of questions grouped into sections according to topic.  The first section asked about the educational background and teaching experience of the respondents, both Fellows and other teachers:  their undergraduate a
 nd graduate degrees and certificates, their major fields of study, the kinds of classroom materials they were using, the subjects in which they were certified to teach and which they felt best prepared to teach, and the types of professional growth activi
 ties in which they had participated in the years immediately preceding the survey.  A second section asked respondents about their attitudes toward the teaching profession and toward their own teaching experience, including their reactions to various reco
@@ -123,7 +123,7 @@ her major section was devoted to fairly specific questions about the curriculum 
 <hr/></div>
 <table cellpadding="2">
 <tbody><tr>
-<td width="85%"><p><a name="c/"></a><b></b></p><h4><b>Reviews and Revisions</b></h4>
+<td width="85%"><p><a name="c"></a><b></b></p><h3><b>Reviews and Revisions</b></h3>
 <p>The 1982 questionnaires were pre-tested by 12 Institute Coordinators and reviewed by the Supervisor of Staff and Organizational Development for the New Haven Public Schools.  The questionnaires were revised to reflect the comments and suggestions
 of these individuals.  
 </p>
@@ -141,7 +141,7 @@ m 1982 to 1987 to allow for comparisons between the results of the two surveys.
 <hr/>
 <table cellpadding="2">
 <tbody><tr>
-<td width="85%"><p><a name="d/"></a><b></b></p><h4><b>Administration and Response Rates</b></h4>
+<td width="85%"><p><a name="d"></a><b></b></p><h3><b>Administration and Response Rates</b></h3>
 <p>The 1987 system-wide questionnaires, introduced by a cover letter that explained the purposes of the survey and assured the confidentiality of respondents, were administered by Institute Coordinators within the schools that they represented.  Onl
 y teachers who were potentially eligible to become Fellows completed the system-wide questionnaires.  Teachers in fields not covered by the Institute (e.g., physical education) were not surveyed.  Completed questionnaires were received by 75 percent of th
 e Fellows (83 individuals) and 57 percent of the non-Fellows (183 teachers).
@@ -160,5 +160,5 @@ elementary school teachers who have taken part in the Institute is therefore muc
 </tbody></table>
 <div align="right"><a href="#top">to the top of Introduction</a></div>
 <hr/>
-© 1992 by the <a href="..\..\">Yale-New Haven Teachers Institute</a>
+© 1992 by the <a href="/">Yale-New Haven Teachers Institute</a>
 </main>

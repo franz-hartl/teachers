@@ -173,6 +173,8 @@ Identity<br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
 <font size="-1"><a href="../guides/2014/2/14.02.10.x.html">14.02.10</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
+<font size="-1"><a href="../guides/2019/2/19.02.06.x.html">19.02.06</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">........................</font>
 <font size="-1"><i><b>Puerto Rican</b></i></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................................</font>
 <font size="-1"><a href="../guides/2001/4/01.04.08.x.html">01.04.08</a></font><br/>
@@ -819,6 +821,14 @@ Famous Trials<br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 <font size="-1"><a href="../guides/2005/2/05.02.03.x.html">05.02.03</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2019/2/19.02.09.x.html">19.02.09</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+Afrofuturism<br/>
+<font color="#ffffff" style="visibility:hidden;">........................</font>
+<font size="-1"><a href="../guides/2019/2/19.02.07.x.html">19.02.07</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">........................</font>
+<font size="-1"><a href="../guides/2019/2/19.02.08.x.html">19.02.08</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
 Picture Books<br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
 <font size="-1"><a href="../guides/1997/2/97.02.08.x.html">97.02.08</a></font><br/>
@@ -1172,6 +1182,8 @@ Skeletal<br/>
 <font size="-1"><a href="../guides/2006/6/06.06.03.x.html">06.06.03</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
 <font size="-1"><a href="../guides/2012/3/12.03.07.x.html">12.03.07</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">........................</font>
+<font size="-1"><a href="../guides/2019/3/19.03.11.x.html">19.03.11</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 Vocal Tract<br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>

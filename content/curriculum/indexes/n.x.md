@@ -101,6 +101,8 @@ Time<br/>
 <font size="-1"><a href="../guides/2015/1/15.01.07.x.html">15.01.07</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 <font size="-1"><a href="../guides/2015/1/15.01.08.x.html">15.01.08</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2019/2/19.02.04.x.html">19.02.04</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
 <i>History</i><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
@@ -125,6 +127,8 @@ Time<br/>
 <font size="-1"><a href="../guides/2015/1/15.01.06.x.html">15.01.06</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 <font size="-1"><a href="../guides/2015/1/15.01.08.x.html">15.01.08</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2019/2/19.02.04.x.html">19.02.04</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
 <i>Legends</i><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>

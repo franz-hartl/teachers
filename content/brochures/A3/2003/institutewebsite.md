@@ -4,11 +4,9 @@ title: "The Institute Web site"
 path: "/brochures/A3/2003/institutewebsite.html"
 ---
 <main>
-<center>
-<b><h3><a name="top"></a>The Institute Web site</h3></b>
-</center>
+<center><h2><a name="top"></a>The Institute Web site</h2></center>
 <hr/>
-<b><a href="index.html">Annual Report 2003 Contents</a></b>
+<b><a href="/brochures/A3/2003/">Annual Report 2003 Contents</a></b>
 <hr/>
 <table cellpadding="4"><tbody><tr>
 <td valign="top" width="85%">
@@ -59,5 +57,5 @@ Indeed, the curriculum units prepared by Fellows of the Yale-New Haven Teachers 
 </tbody></table>
 <div align="right"><a href="#top">return to the top of The Institute Web site</a></div>
 <hr/>
-© 2004 by the <a href="..\..\">Yale-New Haven Teachers Institute</a>
+© 2004 by the <a href="/">Yale-New Haven Teachers Institute</a>
 </main>

@@ -5,9 +5,9 @@ path: "/brochures/A3/2002/conclusion.html"
 ---
 <main>
 <center>
-<a name="top"></a><b><h3>Conclusion</h3></b></center>
+<a name="top"></a><h2>Conclusion</h2</center>
 <hr/>
-<b><a href="index.html">Annual Report 2002 Contents</a>
+<b><a href="/brochures/A3/2002/">Annual Report 2002 Contents</a>
 </b>
 <hr/>
 <table cellpadding="2">

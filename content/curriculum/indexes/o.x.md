@@ -104,9 +104,13 @@ Waves<br/>
 <font size="-1"></font></a><font size="-1"><a href="../guides/1984/2/84.02.02.x.html">84.02.02</a></font><br/>
 <a name="orwell"><font size="+1"><b></b></font></a></p><p><a name="orwell"><font size="+1"><b>Orwell, George</b></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
+<i><u>1984</u></i><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"></font></a><font size="-1"><a href="../guides/2019/1/19.01.07.x.html">19.01.07</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">........</font>
 <i><u>Animal Farm</u></i><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
-<font size="-1"></font></a><font size="-1"><a href="../guides/2008/2/08.02.03.x.html">08.02.03</a></font><br/>
+<font size="-1"><a href="../guides/2008/2/08.02.03.x.html">08.02.03</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
 <i><u>Down and Out In Paris and London</u></i><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>

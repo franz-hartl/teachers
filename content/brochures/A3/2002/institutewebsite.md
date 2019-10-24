@@ -5,9 +5,9 @@ path: "/brochures/A3/2002/institutewebsite.html"
 ---
 <main>
 <center>
-<a name="top"></a><b><h3>The Institute Web-Site</h3></b></center>
+<a name="top"></a><h2>The Institute Web-Site</h2</center>
 <hr/>
-<b><a href="index.html">Annual Report 2002 Contents</a>
+<b><a href="/brochures/A3/2002/">Annual Report 2002 Contents</a>
 </b>
 <hr/>
 <table cellpadding="2">

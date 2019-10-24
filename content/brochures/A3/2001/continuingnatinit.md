@@ -4,9 +4,9 @@ title: "The Continuing National Initiative"
 path: "/brochures/A3/2001/continuingnatinit.html"
 ---
 <main>
-<center><a name="top"></a><b><h3>The Continuing National Initiative</h3></b></center>
+<center><a name="top"></a><h2>The Continuing National Initiative</h2></center>
 <hr/>
-<b><a href="index.html">Annual Report 2001 Contents</a>
+<b><a href="/brochures/A3/2001/">Annual Report 2001 Contents</a>
 </b>
 <hr/>
 <table cellpadding="2">
@@ -73,5 +73,5 @@ path: "/brochures/A3/2001/continuingnatinit.html"
 </tbody></table>
 <div align="RIGHT"><a href="#top">to the top of the Continuing National Initiative</a></div>
 <hr/>
-© 2002 by the <a href="..\..\..\">Yale-New Haven Teachers Institute</a>
+© 2002 by the <a href="/">Yale-New Haven Teachers Institute</a>
 </main>

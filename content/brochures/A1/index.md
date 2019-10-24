@@ -5,8 +5,7 @@ path: "/brochures/A1/"
 ---
 <main>
 <title>2014 Annual Brochure: Contents</title>
-<p align="Center"><b>
-</b></p><h2 align="Center"><b>2014 Annual Brochure</b></h2>
+<p align="Center"></p><h2 align="Center">2014 Annual Brochure</h2>
 <hr/>
 <p align="Left"><b><font size="4">Contents</font></b><br/>
 </p><ul>
@@ -32,4 +31,5 @@ path: "/brochures/A1/"
 <p align="Left">
 </p>
 © 2014 by the Yale-New Haven Teachers Institute
-</div></main>
+</div>
+</main>

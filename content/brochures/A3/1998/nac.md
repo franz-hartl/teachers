@@ -4,10 +4,9 @@ title: "National Advisory Committee"
 path: "/brochures/A3/1998/nac.html"
 ---
 <main>
-<center><a name="t"></a><b><h3>National Advisory
-Committee</h3></b>
+<center><a name="t"></a><b><h2>National Advisory Committee</h2></b>
 <hr/></center>
-<p><b><a href="index.html">Annual Report 1998 Table of Contents</a>
+<p><b><a href="/brochures/A3/1998/">Annual Report 1998 Table of Contents</a>
 </b>
 </p><hr/>
 <table cellpadding="2">
@@ -144,6 +143,5 @@ teachers. </font></i>
 </tbody></table>
 <div align="right">
 <p><a href="#t">to the top of National Advisory Committee</a></p></div>
-<hr/>© 1999 by the <a href="..\..\..\">Yale-New Haven Teachers
-Institute </a>
+<hr/>© 1999 by the <a href="/">Yale-New Haven Teachers Institute </a>
 </main>

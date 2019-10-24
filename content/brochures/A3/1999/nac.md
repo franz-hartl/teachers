@@ -4,9 +4,9 @@ title: "National Advisory Committee"
 path: "/brochures/A3/1999/nac.html"
 ---
 <main>
-<center><a name="t"></a><b><h3>National Advisory Committee</h3></b>
+<center><a name="t"></a><h2>National Advisory Committee</h2>
 <hr/></center>
-<p><b><a href="index.html">Annual Report 1999 Table of Contents</a>
+<p><b><a href="/brochures/A3/1999/">Annual Report 1999 Table of Contents</a>
 </b>
 </p><hr/>
 <table cellpadding="2">
@@ -45,31 +45,10 @@ Project. Its meeting will therefore be scheduled to occur shortly after
 the Second Annual Conference of the National Demonstration Conference,
 and in conjunction with a meeting of the presidents, chancellors, and superintendents
 from the five collaborating Teachers Institutes.</p></td>
-<td>
-<table cellpadding="2">
-<tbody><tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody></table>
 </td>
 </tr>
 </tbody></table>
 <div align="right">
 <p><a href="#t">to the top of National Advisory Committee</a></p></div>
-<hr/>© 2000 by the <a href="..\..\..\">Yale-New Haven Teachers
-Institute</a>
+<hr/>© 2000 by the <a href="/">Yale-New Haven Teachers Institute</a>
 </main>

@@ -108,6 +108,8 @@ Ship Structure<br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 <font size="-1"><a href="../guides/2009/4/09.04.07.x.html">09.04.07</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2019/3/19.03.06.x.html">19.03.06</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
 Physics<br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
 <font size="-1"><a href="../guides/2000/5/00.05.09.x.html">00.05.09</a></font><br/>
@@ -291,6 +293,8 @@ Statistics (see also <a href="s.x.html#statistics">Statistics</a>)<br/>
 <font size="-1"><a href="../guides/2010/1/10.01.11.x.html">10.01.11</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
 <font size="-1"><a href="../guides/2018/1/18.01.06.x.html">18.01.06</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">........................</font>
+<font size="-1"><a href="../guides/2019/3/19.03.05.x.html">19.03.05</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 Teaching of, Models for<br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
@@ -662,9 +666,9 @@ General<br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
 <font size="-1"><a href="../guides/1980/5/80.05.12.x.html">80.05.12</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
-<font size="-1"><a href="../units/1980/7/">80.07</a> (all 13 units)</font><br/>
+<font size="-1"><a href="../guides/1980/7/">80.07</a> (all 13 units)</font><br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
-<font size="-1"><a href="../units/2004/5/">04.05</a> (all 10 units)</font><br/>
+<font size="-1"><a href="../guides/2004/5/">04.05</a> (all 10 units)</font><br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
 <font size="-1"><a href="../guides/2014/1/14.01.10.x.html">14.01.11</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
@@ -950,6 +954,10 @@ South to North<br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
 <font size="-1"><a href="../guides/1998/1/98.01.05.x.html">98.01.05</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
+<i>Central American</i><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2019/2/19.02.02.x.html">19.02.02</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">........</font>
 <i>Haitian</i><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 to America<br/>
@@ -1083,6 +1091,8 @@ Learning Styles<br/>
 <font size="-1"><a href="../guides/1998/5/98.05.06.x.html">98.05.06</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 <font size="-1"><a href="../guides/2006/2/06.02.02.x.html">06.02.02</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2019/1/19.01.04.x.html">19.01.04</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 Children's Literature<br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
@@ -1387,7 +1397,6 @@ Lyrics<br/>
 Modern<br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
 <font size="-1"><a href="../guides/1982/5/82.05.08.x.html">82.05.08</a></font><br/>
-<font color="#ffffff" style="visibility:hidden;">........</font>
 <font color="#ffffff" style="visibility:hidden;">........</font>
 <i>Samba</i><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>

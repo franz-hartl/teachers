@@ -4,9 +4,9 @@ title: "National Advisory Committee"
 path: "/brochures/A3/2001/nac.html"
 ---
 <main>
-<center><a name="top"><b><h3>National Advisory Committee</h3></b></a></center>
+<center><a name="top"><h2>National Advisory Committee</h2></a></center>
 <hr/>
-<b><a href="index.html">Annual Report 2001 Contents</a>
+<b><a href="/brochures/A3/2001/">Annual Report 2001 Contents</a>
 </b>
 <hr/>
 <table cellpadding="2">
@@ -67,5 +67,5 @@ path: "/brochures/A3/2001/nac.html"
 </tbody></table>
 <div align="RIGHT"><a href="#top">to the top of National Advisory Committee</a></div>
 <hr/>
-© 2002 by the <a href="..\..\..\">Yale-New Haven Teachers Institute</a>
+© 2002 by the <a href="/">Yale-New Haven Teachers Institute</a>
 </main>

@@ -852,6 +852,8 @@ Spanish<br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 <font size="-1"><a href="../guides/2016/2/16.02.05.x.html">16.02.05</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2019/1/19.01.01.x.html">19.01.01</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
 Haiku<br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
 <font size="-1"><a href="../guides/2001/3/01.03.09.x.html">01.03.09</a> 01.03.10</font><br/>
@@ -875,6 +877,8 @@ Students' Rights<br/>
 <font size="-1"><a href="../guides/1997/6/97.06.10.x.html">97.06.10</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 <font size="-1"><a href="../guides/2013/1/13.01.06.x.html">13.01.06</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2019/1/19.01.02.x.html">19.01.02</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 in reaction to Atwood's <u>The Handmaid's Tale</u><br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>

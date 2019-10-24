@@ -4,11 +4,9 @@ title: "Highlights of the Report"
 path: "/brochures/A3/2006/highlights.html"
 ---
 <main>
-<center>
-<b><h3><a name="top"></a>Highlights of the Report</h3></b>
-</center>
+<center><h2><a name="top"></a>Highlights of the Report</h2></center>
 <hr/>
-<b><a href="index.html">Annual Report 2006 Contents</a></b>
+<b><a href="/brochures/A3/2006/">Annual Report 2006 Contents</a></b>
 <hr/>
 <b>Contents of section: </b>
 <ul>
@@ -58,5 +56,5 @@ path: "/brochures/A3/2006/highlights.html"
 </tbody></table>
 <div align="right"><a href="#c">return to the top of The New Haven and National Web Sites</a> | <a href="#top">return to the top of Highlights of the Report</a></div>
 <hr/>
-© 2007 by the <a href="..\..\">Yale-New Haven Teachers Institute</a>
+© 2007 by the <a href="/">Yale-New Haven Teachers Institute</a>
 </main>

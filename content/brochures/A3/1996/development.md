@@ -6,25 +6,22 @@ path: "/brochures/A3/1996/development.html"
 <main>
 <center><h2>Program Development</h2></center>
 <hr/>
-<h4>Contents of this section: </h4>
+<h3>Contents of this section: </h3>
 <ul>
 <a href="#a"></a><li><a href="#a">Introduction</a>
 <a href="#b"></a></li><li><a href="#b">University Advisory Council</a>
 <a href="#c"></a></li><li><a href="#c">National Advisory Council</a>
 <a href="#d"></a></li><li><a href="#d">Computer Resources and Assistance</a>
 <a href="#e"></a></li><li><a href="#e">Teams of Fellows</a>
-<a href="#f"></a></li><li><a href="#f">Institute Centers for Professional and Curricular
-Development</a>
+<a href="#f"></a></li><li><a href="#f">Institute Centers for Professional and Curricular Development</a>
 <a href="#g"></a></li><li><a href="#g">Involvement of Yale Students</a>
 <a href="#h"></a></li><li><a href="#h">School District Curriculum Standards and Priorities</a>
 <a href="#i"></a></li><li><a href="#i">Academy</a>
 </li></ul>
-<h4>
 <a href=".\">Annual Report 1996: Table of Contents</a> |
-<a href="..\..\">Yale-New Haven Teachers Institute</a>
-</h4>
+<a href="/">Yale-New Haven Teachers Institute</a>
 <hr/>
-<a name="a">
+<a name="a"></a>
 <table>
 <tbody><tr><td>
 The ongoing development of the Institute is guided by teachers from the
@@ -78,14 +75,13 @@ Centers
 The ongoing development of the Institute is guided by teachers from the
 Schools and the University, and by the National Advisory Committee.<hr/>
 </i></td></tr></tbody></table>
-</a><center><a name="a"></a><div align="right"><a name="a"></a><p><a name="a">
+<center><a name="a"></a><div align="right"><a name="a"></a><p><a name="a">
 </a><a href="#top">to the top of Program Development</a></p></div></center>
 <hr/>
 <a name="b">
 <table>
 <tbody><tr><td>
-<h3>
-University Advisory Council</h3>
+<h3>University Advisory Council</h3>
 Yale faculty members advise and assist the
 Institute through the University Advisory Council and its Executive
 Committee, both appointed by the Yale President.  The University Advisory

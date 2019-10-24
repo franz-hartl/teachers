@@ -79,6 +79,8 @@ Civil Rights (see also <a href="c.x.html#civilrights">Civil Rights</a>)<br/>
 <font size="-1"><a href="../guides/1994/4/94.04.06.x.html">94.04.06</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
 <font size="-1"><a href="../guides/2011/1/11.01.09.x.html">11.01.09</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">........................</font>
+<font size="-1"><a href="../guides/2019/2/19.02.05.x.html">19.02.05</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 and Haitian<br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
@@ -128,6 +130,8 @@ School Desegregation (see also <a href="s.x.html#schooldesegregation">School Des
 <font color="#ffffff" style="visibility:hidden;">........................</font>
 <font size="-1"><a href="../guides/2004/3/04.03.07.x.html">04.03.07</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
+<font size="-1"><a href="../guides/2019/2/19.02.01.x.html">19.02.01</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">........................</font>
 <font size="-1"><i><b>Supreme Court Cases</b></i></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................................</font>
 <font size="-1"><a href="../guides/1982/3/82.03.06.x.html">82.03.06</a></font><br/>
@@ -165,6 +169,10 @@ Slavery (see also <a href="s.x.html#slavery">Slavery</a>)<br/>
 <font size="-1"><a href="../guides/2014/3/14.03.03.x.html">14.03.03</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 <font size="-1"><a href="../guides/2015/2/15.02.01.x.html">15.02.01</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2019/2/19.02.09.x.html">19.02.09</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2019/2/19.02.10.x.html">19.02.10</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
 <i>Japanese American</i><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
@@ -627,7 +635,7 @@ Immigration<br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
 <i>Survival Stories</i><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
-<font size="-1"><a href="../units/2002/1/">02.01</a> (all 10 units)</font><br/>
+<font size="-1"><a href="../guides/2002/1/">02.01</a> (all 10 units)</font><br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
 <i>Technology</i><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
@@ -653,7 +661,7 @@ Immigration<br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
 <i>Voice in American Literature</i><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
-<font size="-1"><a href="../units/2007/1/">07.01</a> (all 11 units)</font><br/>
+<font size="-1"><a href="../guides/2007/1/">07.01</a> (all 11 units)</font><br/>
 <a name="recycling"><font size="+1"><b></b></font></a></p><p><a name="recycling"><font size="+1"><b>Recycling (see also </b></font></a><font size="+1"><b><a href="e.x.html#ecology">Ecology</a>)</b></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
 <font size="-1"><a href="../guides/1992/5/92.05.08.x.html">92.05.08</a> </font><br/>
@@ -810,6 +818,8 @@ General<br/>
 <font size="-1"><a href="../guides/1999/7/99.07.01.x.html">99.07.01</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 <font size="-1"><a href="../guides/2001/2/01.02.04.x.html">01.02.04</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2019/1/19.01.02.x.html">19.01.02</a></font><br/>
 <a name="rivera"><font size="+1"><b></b></font></a></p><p><a name="rivera"><font size="+1"><b>Rivera, Diego</b></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
 <font size="-1"></font></a><font size="-1"><a href="../guides/1985/4/85.04.05.x.html">85.04.05</a></font><br/>

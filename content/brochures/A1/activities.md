@@ -5,7 +5,7 @@ path: "/brochures/A1/activities.html"
 ---
 <main>
 <title>Activities</title>
-<h3 align="center">2014 Annual Brochure</h3> 
+<h2 align="center">2014 Annual Brochure</h2>
 <hr/>
 <font size="4"><b>Activities</b></font>
 <p>
@@ -32,6 +32,6 @@ The stages in the writing process are as follows.
 <b>Individual Fellow-Faculty Meetings:</b> Fellows are expected to meet individually with their seminar leader at least twice, initially while deciding on a final unit topic and reading list, and again while writing the unit, usually after the first draft is returned with the seminar leader's comments. Fellows are encouraged to discuss the development and teaching of their units with other Fellows and their seminar leader throughout the seminar period and beyond. 
 </p>
 <hr/>
-<a align="left">Return to </a><a href="index.html">Contents</a>
+<a align="left">Return to </a><a href="./">Contents</a>
 © 2014 by the Yale-New Haven Teachers Institute
 </main>

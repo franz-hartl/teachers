@@ -5,7 +5,7 @@ path: "/brochures/A1/program.html"
 ---
 <main>
 <title>Program</title>
-<h3 align="center">2014 Annual Brochure</h3> 
+<h2 align="center">2014 Annual Brochure</h2> 
 <hr/>
 <font size="4"><b>Program</b></font>
 <p>
@@ -20,6 +20,6 @@ Since its inception in 1978, the Institute has been recognized repeatedly as a p
 Upon successful completion of the Institute program, Fellows receive an honorarium of $1500 and may petition for certification of their course of study. Any Fellow who intends to seek for Institute studies to be recognized for credit in a degree program is advised to consult in advance with the dean of the institution where he or she is enrolled. 
 </p>
 <hr/>
-<a align="left">Return to </a><a href="index.html">Contents</a>
+<a align="left">Return to </a><a href="./">Contents</a>
 © 2014 by the Yale-New Haven Teachers Institute
 </main>

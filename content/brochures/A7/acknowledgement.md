@@ -4,8 +4,7 @@ title: "Acknowledgement"
 path: "/brochures/A7/acknowledgement.html"
 ---
 <main>
-<center>
-<h2>Acknowledgement</h2></center>
+<center><h2>Acknowledgement</h2></center>
 <hr/>
 The authors would like to express their gratitude to the DeWitt
 Wallace­ Reader's Digest Fund for making this report possible. The
@@ -19,6 +18,5 @@ programs to: improve schools, strengthen organizations and programs that
 serve youth, encourage ties between schools and communities and promote
 educational and career­related reform at the national level.
 </p><hr/>
-<h4><a href=".\">"School-College Collaboration": Table of Contents</a>
-</h4>
+<a href="/brochures/A7/">"School-College Collaboration": Table of Contents</a>
 </main>

@@ -6,15 +6,13 @@ path: "/brochures/A3/1996/dissemination.html"
 <main>
 <center><h2>National Dissemination</h2></center>
 <hr/>
-<h4>Contents  of this section: </h4>
+<h3>Contents  of this section: </h3>
 <ul>
 <a href="#a"></a><li><a href="#a">Publication of <i>On Common Ground</i></a>
 <a href="#b"></a></li><li><a href="#b">Videotape Programs</a>
 </li></ul>
-<h4>
 <a href=".\">Annual Report 1996: Table of Contents</a> |
-<a href="..\..\">Yale-New Haven Teachers Institute</a>
-</h4>
+<a href="/">Yale-New Haven Teachers Institute</a>
 <hr/>
 <a name="a">
 <table>

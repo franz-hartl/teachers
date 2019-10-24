@@ -510,6 +510,8 @@ Guillén, Nicolás <br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 <font size="-1"><a href="../guides/2011/3/11.03.12.x.html">11.03.12</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2019/1/19.01.01.x.html">19.01.01</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
 and Science Instruction<br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
 <font size="-1"><a href="../guides/2003/4/03.04.01.x.html">03.04.01</a></font><br/>
@@ -1005,8 +1007,12 @@ World War II<br/>
 <i>Students' Rights</i><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 <font size="-1"><a href="../guides/2000/3/00.03.04.x.html">00.03.04</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">........</font>
+<i>Technology and</i><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
-Writing Instruction<br/>
+<font size="-1"><a href="../guides/2019/1/19.01.07.x.html">19.01.07</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">........</font>
+<i>Writing Instruction</i><br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
 <font size="-1"><a href="../guides/2000/3/00.03.02.x.html">00.03.02</a></font><br/>
 <a name="problemsolving"><font size="+1"><b></b></font></a></p><p><a name="problemsolving"><font size="+1"><b>Problem Solving (see also </b></font></a><font size="+1"><b><a href="d.x.html#detectivefiction">Detective Fiction</a>;</b></font><br/>

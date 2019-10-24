@@ -6,7 +6,7 @@ path: "/brochures/A3/1996/program.html"
 <main>
 <center><h2>The Program for New Haven Teachers</h2></center>
 <hr/>
-<h4>Contents of section: </h4>
+<h3>Contents of section:</h3>
 <ul>
 <a href="#a"></a><li><a href="#a">Introduction</a>
 </li><li>Content of the Seminars Offered
@@ -31,7 +31,7 @@ and Cosmology</a>
 </li></ul>
 <h4>
 <a href=".\">Annual Report 1996: Table of Contents</a> |
-<a href="..\..\">Yale-New Haven Teachers Institute</a>
+<a href="/">Yale-New Haven Teachers Institute</a>
 </h4>
 <hr/>
 <a name="a">

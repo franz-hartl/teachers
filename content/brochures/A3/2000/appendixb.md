@@ -4,9 +4,9 @@ title: "Appendix"
 path: "/brochures/A3/2000/appendixb.html"
 ---
 <main>
-<center><a name="t"></a><b><h3>Appendix</h3></b></center>
+<center><a name="t"></a><h2>Appendix</h2></center>
 <hr/>
-<b><a href="index.html">Annual Report 2000 Contents</a>
+<b><a href="/brochures/A3/2000/">Annual Report 2000 Contents</a>
 </b>
 <hr/>
 <p><b>Contents of section:</b>
@@ -242,5 +242,5 @@ path: "/brochures/A3/2000/appendixb.html"
 | <a href="#t">to the top of Appendix</a>
 </div>
 <hr/>
-<p>© 2001 by the <a href="..\..\..\">Yale-New Haven Teachers Institute</a>
+<p>© 2001 by the <a href="/">Yale-New Haven Teachers Institute</a>
 </p></main>

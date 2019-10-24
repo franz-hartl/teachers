@@ -5,7 +5,7 @@ path: "/brochures/A1/uacouncil.html"
 ---
 <main>
 <title>University Advisory Council</title>
-<h3 align="center">2014 Annual Brochure</h3> 
+<h2 align="center">2014 Annual Brochure</h2> 
 <hr/>
 <font size="4"><b>University Advisory Council</b></font>
 <p>
@@ -86,6 +86,6 @@ Kurt W. Zilm<br/>
 </tr>
 </tbody></table>
 </p><hr/>
-<a align="left">Return to </a><a href="index.html">Contents</a>
+<a align="left">Return to </a><a href="./">Contents</a>
 © 2014 by the Yale-New Haven Teachers Institute
 </main>

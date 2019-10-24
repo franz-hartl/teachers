@@ -4,9 +4,9 @@ title: "National Demonstration Project"
 path: "/brochures/A3/2000/nationaldem.html"
 ---
 <main>
-<center><a name="t"></a><b><h3>The National Demonstration Project</h3></b></center>
+<center><a name="t"></a><h2>The National Demonstration Project</h2></center>
 <hr/>
-<b><a href="index.html">Annual Report 2000 Contents</a>
+<b><a href="i/brochures/A3/2000/">Annual Report 2000 Contents</a>
 </b>
 <hr/>
 <p><b>Contents of section:</b>
@@ -666,5 +666,5 @@ path: "/brochures/A3/2000/nationaldem.html"
 </tbody></table>
 <div align="right"><a href="#t">to the top of the National Demonstration Project</a></div>
 <hr/>
-© 2001 by the <a href="..\..\..\">Yale-New Haven Teachers Institute</a>
+© 2001 by the <a href="/">Yale-New Haven Teachers Institute</a>
 </main>

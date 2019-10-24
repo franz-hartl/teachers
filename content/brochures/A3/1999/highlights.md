@@ -4,9 +4,9 @@ title: "Highlights of the Report"
 path: "/brochures/A3/1999/highlights.html"
 ---
 <main>
-<center><a name="f"></a><b><h3>Highlights of the Report</h3></b>
+<center><a name="f"></a><h2>Highlights of the Report</h2>
 <hr/></center>
-<b><a href="index.html">Annual Report 1999 Table of Contents</a>
+<b><a href="/brochures/A3/1999/">Annual Report 1999 Table of Contents</a>
 </b>
 <br/>
 <hr width="100%"/>
@@ -282,32 +282,6 @@ Highlights of the Report</a>
 <p>A final section of the report sets forth the recent developments in
 the continuing effort to obtain financial support for both the New Haven
 program and the National Demonstration Project.</p></td>
-<td>
-<table cellpadding="2">
-<tbody><tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody></table>
-</td>
 </tr>
 </tbody></table>
 <div align="right"><a href="financiald.html">to the section of the
@@ -315,6 +289,5 @@ Report on Financial Developments</a> | <a href="#f">return to the top of
 Highlights of the
 Report</a>
 <hr/></div>
-© 2000 by the <a href="..\..\..\">Yale-New Haven
-Teachers Institute</a>
+© 2000 by the <a href="/">Yale-New Haven Teachers Institute</a>
 </main>

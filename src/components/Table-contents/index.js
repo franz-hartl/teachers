@@ -1,6 +1,7 @@
-import React from 'react'
+import React, { Fragment } from 'react'
 import { Link } from 'gatsby'
 const path = require('path')
+const he = require('he');
 
 class Table_content extends React.Component {
   render() {
@@ -41,14 +42,15 @@ export default Table_content
 
 const NavLinks = ({ navData, activeIndex }) => {
   const listItems = navData.map(function(item, i) {
-    item.title
+    he.decode.options.isAttributeValue = true;
+    var sTitle = he.decode(item.title)
     if (i == 0) {
       return (
         <h3
           key={i.toString()}
           className={`tc_lists_guide ${activeIndex == i ? 'tc_active' : ''}`}
         >
-          <Link to={item.path}>{item.title}</Link>
+          <Link to={item.path}><span dangerouslySetInnerHTML={{ __html: sTitle }} /></Link>
         </h3>
       )
     } else {
@@ -57,7 +59,7 @@ const NavLinks = ({ navData, activeIndex }) => {
           key={i.toString}
           className={`tc_lists_guide ${activeIndex == i ? 'tc_active' : ''}`}
         >
-          <Link to={item.path}>{item.title}</Link>
+          <Link to={item.path}><span dangerouslySetInnerHTML={{ __html: sTitle }} /></Link>
         </li>
       )
     }

@@ -216,6 +216,8 @@ Eastern Europe to America<br/>
 <i>American (1898-1908)</i><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 <font size="-1"></font></a><font size="-1"><a href="../guides/1978/3/78.03.07.x.html">78.03.07</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2019/2/19.02.02.x.html">19.02.02</a></font><br/>
 <a name="india"><font size="+1"><b></b></font></a></p><p><a name="india"><font size="+1"><b>India</b></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
 <i>Culture</i><br/>
@@ -350,7 +352,7 @@ Self-Awareness<br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
 <i>Drama and</i><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
-<font size="-1"><a href="../guides/1998/04/98.04.10.x.html">98.04.10</a></font><br/>
+<font size="-1">98.           </font></a><font size="-1"><a href="../guides/2004/10/">04.10</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
 <i>Privacy and</i><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>

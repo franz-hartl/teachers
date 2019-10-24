@@ -4,9 +4,8 @@ title: "National Demonstration Project"
 path: "/brochures/A3/1998/nationaldem.html"
 ---
 <main>
-<center><a name="t"></a><b><h3>The National Demonstration
-Project</h3></b>
-<hr/></center><b><a href="index.html">Annual Report 1998 Table of
+<center><a name="t"></a><h2>The National Demonstration Project</h2>
+<hr/></center><b><a href="/brochures/A3/1998/">Annual Report 1998 Table of
 Contents</a>
 </b><hr/>
 <p><b>Contents of section:</b>
@@ -1271,6 +1270,5 @@ encourage others to emulate it. </i>
 <div align="right">
 <p><a href="#m">to the top of External Evaluation</a> | <a href="#t">to
 the top of the National Demonstration Project</a></p></div>
-<hr/>© 1999 by the <a href="..\..\..\">Yale-New Haven
-Teachers Institute</a>
+<hr/>© 1999 by the <a href="/">Yale-New Haven Teachers Institute</a>
 </main>

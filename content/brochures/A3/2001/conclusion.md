@@ -4,9 +4,9 @@ title: "Conclusion"
 path: "/brochures/A3/2001/conclusion.html"
 ---
 <main>
-<center><a name="t"></a><b><h3>Conclusion</h3></b></center>
+<center><a name="t"></a><h2>Conclusion</h2></center>
 <hr/>
-<b><a href="index.html">Annual Report 2001 Contents</a>
+<b><a href="/brochures/A3/2001/">Annual Report 2001 Contents</a>
 </b>
 <hr/>
 <table cellpadding="2">
@@ -46,5 +46,5 @@ path: "/brochures/A3/2001/conclusion.html"
 </td>
 </tr>
 </tbody></table>
-<hr/>© 2002 by the <a href="..\..\..\">Yale-New Haven Teachers Institute</a>
+<hr/>© 2002 by the <a href="/">Yale-New Haven Teachers Institute</a>
 </main>

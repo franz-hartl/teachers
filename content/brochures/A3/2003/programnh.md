@@ -4,10 +4,8 @@ title: "The Program in New Haven"
 path: "/brochures/A3/2003/programnh.html"
 ---
 <main>
-<center>
-<b><h3><a name="top"></a> The Program in New Haven </h3></b>
-</center>
-<hr/><b><a href="index.html">Annual Report 2003 Contents</a></b><table cellpadding="4">
+<center><h2><a name="top"></a>The Program in New Haven</h2></center>
+<hr/><b><a href="/brochures/A3/2003/">Annual Report 2003 Contents</a></b><table cellpadding="4">
 </table><hr/><b>Contents of section: </b><ul>
 <li><a href="#a">The Seminars and Curriculum Units</a></li>
 <ul>
@@ -1721,5 +1719,5 @@ This Annual Report itself is a massive compilation of information and statistics
 </td></tr>
 </tbody></table><div align="right"><a href="#w">return to the top of Local Program Documentation and Evaluation</a> | <a href="#top">return to the top of The Program in New Haven</a></div>
 <hr/>
-© 2004 by the <a href="..\..\">Yale-New Haven Teachers Institute</a><table cellpadding="4">
+© 2004 by the <a href="/">Yale-New Haven Teachers Institute</a><table cellpadding="4">
 </table></main>

@@ -4,9 +4,9 @@ title: "Financial Developments"
 path: "/brochures/A3/1999/financiald.html"
 ---
 <main>
-<center><a name="t"></a><b><h3>Financial Developments</h3></b>
+<center><a name="t"></a><h2>Financial Developments</h2>
 <hr/></center>
-<p><b><a href="index.html">Annual Report 1999 Table of Contents</a>
+<p><b><a href="/brochures/A3/1999/">Annual Report 1999 Table of Contents</a>
 </b>
 </p><hr/>
 <table cellpadding="2">
@@ -47,39 +47,9 @@ of the group of the Institutes now established and to encourage the creation
 of yet other Institutes across the nation. The initiative may well require
 a “partnership” between the Yale-New Haven Teachers Institute and one or
 more foundations or funds.</p></td>
-<td>
-<br/> 
-<br/> 
-<br/> 
-<br/> 
-<br/> 
-<br/> 
-<br/> 
-<br/> 
-<table cellpadding="2">
-<tbody><tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody></table>
-</td>
 </tr>
 </tbody></table>
 <div align="right">
 <p><a href="#t">to the top of Financial Developments</a></p></div>
-<hr/>© 2000 by the <a href="..\..\..\">Yale-New Haven
-Teachers Institute</a>
+<hr/>© 2000 by the <a href="/">Yale-New Haven Teachers Institute</a>
 </main>

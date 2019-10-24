@@ -4,9 +4,9 @@ title: "Conclusion"
 path: "/brochures/A3/2000/conclusionb.html"
 ---
 <main>
-<center><a name="t"></a><b><h3>Conclusion</h3></b></center>
+<center><a name="t"></a><h2>Conclusion</h2></center>
 <hr/>
-<b><a href="index.html">Annual Report 2000 Contents</a>
+<b><a href="/brochures/A3/2000/">Annual Report 2000 Contents</a>
 </b>
 <hr/>
 <table cellpadding="2">
@@ -19,29 +19,8 @@ on Project. The Yale-New Haven Teachers Institute has now completed the second y
 un to create a network of Teachers Institutes across the country that can serve as a model for university-school collaboration. The Institute is now seeking funds to continue the national initiative through a fourteen-year process, including a two-year ph
 ase of assessment and preparation, which might establish as many as 45 new Teachers Institutes across the nation. The periodical <i>On Common Ground</i> may become a vehicle for the dissemination of the progress and results of this initiative.</p>
 </td>
-<td>
-<table cellpadding="2">
-<tbody><tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody></table>
-</td>
 </tr>
 </tbody></table>
 <hr/>
-© 2001 by the <a href="..\..\..\">Yale-New Haven Teachers Institute</a>
+© 2001 by the <a href="/">Yale-New Haven Teachers Institute</a>
 </main>

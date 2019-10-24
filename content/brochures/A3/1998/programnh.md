@@ -4,10 +4,9 @@ title: "The Program in New Haven"
 path: "/brochures/A3/1998/programnh.html"
 ---
 <main>
-<center><a name="top"></a><b><h3>The Program In New
-Haven</h3></b>
+<center><a name="top"></a><h2>The Program In New Haven</h2>
 <hr/></center>
-<b><a href="index.html">Annual Report 1998 Table of Contents</a>
+<b><a href="/brochures/A3/1998/">Annual Report 1998 Table of Contents</a>
 </b>
 <hr/>
 <p><b>Contents of section:</b>
@@ -3403,8 +3402,7 @@ Schools. </font></i>
 <div align="right"><a href="#y">to the top of Local Program Documentation
 and Evaluation</a> | <a href="#top">to the top of the Program in New
 Haven</a></div>
-<hr/>© 1999 by the <a href="..\..\..\">Yale-New Haven
-Teachers Institute</a></td>
+<hr/>© 1999 by the <a href="/">Yale-New Haven Teachers Institute</a></td>
 </tr>
 </tbody></table>
 </main>

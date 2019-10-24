@@ -28,11 +28,21 @@ path: "/curriculum/indexes/t.x.html"
 <hr/>
 <a name="technology"><font size="+1"><b></b></font></a><font size="+1"><b></b></font><p><font size="+1"><b><a name="technology">Technology (see also </a><a href="c.x.html#computers">Computers</a>; <a href="e.x.html#energy">Energy</a>; <a href="i.x.html#internet">Internet</a>; etc.) </b></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
+<i>Biotechnology</i><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2019/3/19.03.08.x.html">19.03.08</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2019/3/19.03.11.x.html">19.03.11</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">........</font>
 <i>Computers</i><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 Accounting and<br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
 <font size="-1"><a href="../guides/1989/7/89.07.02.x.html">89.07.02</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<i>Artificial Intelligence</i><br/>
+<font color="#ffffff" style="visibility:hidden;">........................</font>
+<font size="-1"><a href="../guides/2019/1/19.01.05.x.html">19.01.05</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 Instruction with<br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
@@ -149,6 +159,12 @@ Medicine<br/>
 <i>Privacy and</i><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 <font size="-1"><a href="../guides/2000/3/00.03.01.x.html">00.03.01</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2019/1/19.01.06.x.html">19.01.06</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">........</font>
+<i>Theater and</i><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2019/1/19.01.08.x.html">19.01.08</a></font><br/>
 <a name="television"><font size="+1"><b></b></font></a></p><p><a name="television"><font size="+1"><b>Television</b></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
 <i>American</i><br/>
@@ -203,6 +219,8 @@ Violence<br/>
 <font size="-1"><a href="../guides/2002/4/02.04.08.x.html">02.04.08</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 <font size="-1"><a href="../guides/2016/4/16.04.09.x.html">16.04.09</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2019/1/19.01.08.x.html">19.01.08</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
 <i>History of</i><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>

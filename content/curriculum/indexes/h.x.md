@@ -245,6 +245,10 @@ HIV/AIDS<br/>
 <i>Immune System</i><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 <font size="-1"><a href="../guides/2015/4/15.04.06.x.html">15.04.06</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2019/3/19.03.02.x.html">19.03.02</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2019/3/19.03.03.x.html">19.03.03</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
 <i>Nutrition</i><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
@@ -271,6 +275,16 @@ Vegetables<br/>
 <font size="-1"><a href="../guides/1996/2/96.02.04.x.html">96.02.04</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 <font size="-1"><a href="../guides/1996/2/96.02.07.x.html">96.02.07</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">........</font>
+<i>Public Health</i><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2019/3/19.03.02.x.html">19.03.02</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2019/3/19.03.03.x.html">19.03.03</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2019/3/19.03.07.x.html">19.03.07</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2019/3/19.03.10.x.html">19.03.10</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
 <i>Tobacco and</i><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
@@ -1260,6 +1274,8 @@ Immigration (see also <a href="i.x.html#immigration">Immigration</a>)<br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
 <font size="-1"><a href="../guides/2013/2/13.02.06.x.html">13.02.06</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
+<font size="-1"><a href="../guides/2019/2/19.02.05.x.html">19.02.05</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">........................</font>
 <font size="-1"><i><b>Ellis Island and</b></i></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................................</font>
 <font size="-1"><a href="../guides/1999/3/99.03.06.x.html">99.03.06</a></font><br/>
@@ -1387,6 +1403,8 @@ Native American (see also <a href="n.x.html#nativeamericans">Native Americans</a
 <font size="-1"><a href="../guides/2015/1/15.01.07.x.html">15.01.07</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
 <font size="-1"><a href="../guides/2015/1/15.01.08.x.html">15.01.08</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">........................</font>
+<font size="-1"><a href="../guides/2019/2/19.02.04.x.html">19.02.04</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 New Deal<br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
@@ -1585,6 +1603,8 @@ Racism<br/>
 <font size="-1"><a href="../guides/2014/3/14.03.01.x.html">14.03.01</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
 <font size="-1"><a href="../guides/2015/2/15.02.01.x.html">15.02.01</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">........................</font>
+<font size="-1"><a href="../guides/2019/2/19.02.05.x.html">19.02.05</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 Reconstruction<br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
@@ -1617,6 +1637,16 @@ Revolutionary War<br/>
 <font size="-1"><a href="../guides/2012/1/12.01.09.x.html">12.01.09</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
 <font size="-1"><a href="../guides/2012/1/12.01.10.x.html">12.01.10</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+Segregation<br/>
+<font color="#ffffff" style="visibility:hidden;">........................</font>
+<font size="-1"><i><b>Housing</b></i></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................................</font>
+<font size="-1"><a href="../guides/2019/2/19.02.01.x.html">19.02.01</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+Settler Colonialism<br/>
+<font color="#ffffff" style="visibility:hidden;">........................</font>
+<font size="-1"><a href="../guides/2019/2/19.02.04.x.html">19.02.04</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 Sex Roles<br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
@@ -1713,6 +1743,8 @@ Supreme Court<br/>
 <font size="-1"><a href="../guides/2004/1/04.01.05.x.html">04.01.05</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................................</font>
 <font size="-1"><a href="../guides/2004/1/04.01.09.x.html">04.01.09</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................................</font>
+<font size="-1"><a href="../guides/2019/2/19.02.01.x.html">19.02.01</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
 <font size="-1"><i><b>Dred Scott Decision</b></i></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................................</font>
@@ -2247,6 +2279,8 @@ Holocaust<br/>
 <font size="-1"><a href="../guides/1992/2/92.02.06.x.html">92.02.06</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 <font size="-1"><a href="../guides/1998/1/98.01.07.x.html">98.01.07</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2019/2/19.02.03.x.html">19.02.03</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 and African American<br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>

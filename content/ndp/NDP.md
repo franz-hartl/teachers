@@ -4,30 +4,27 @@ title: "National Demonstration Project Brochure 2000"
 path: "/ndp/NDP.html"
 ---
 <main>
-<center><a name="top"></a><b><big>A National Demonstration
-Project</big></b>
+<center><a name="top"></a><h2>A National Demonstration Project</h2
 <br/>of the Yale-New Haven Teachers Institute<p>
-<b>Aims and Current Accomplishments</b>
+<b>Aims and Current Accomplishments</b></center>
 <br/>
 </p><hr width="100%"/><b>Contents:</b>
 <p><a href="#a">Aims and Current Accomplishments</a>
 <br/><a href="#b">Establishing the Project</a>
 <br/><a href="#c">A Network of Teachers Institutes</a>
-<br/><font color="#FFFFFF" style="visibility:hidden;">____</font><nobr><a href="#d">Yale-New Haven
-Teachers</a></nobr>
-<br/><font color="#FFFFFF" style="visibility:hidden;">____</font><nobr><a href="#e">Pittsburgh Teachers
-Institute</a></nobr>
-<br/><font color="#FFFFFF" style="visibility:hidden;">____</font><nobr><a href="#f">Houston Teachers
-Institute</a></nobr>
-<br/><font color="#FFFFFF" style="visibility:hidden;">____</font><nobr><a href="#g">Albuquerque Teachers
-Institute</a></nobr>
-<br/><font color="#FFFFFF" style="visibility:hidden;">____</font><nobr><a href="#h">UCI-Santa Ana Teachers
-Institute</a></nobr>
+<ul>
+    <li><a href="#d">Yale-New Haven Teachers</a></li>
+    <li><a href="#e">Pittsburgh Teachers Institute</a></li>
+    <li><a href="#f">Houston Teachers Institute</a></li>
+    <li><a href="#g">Albuquerque Teachers Institute</a></li>
+    <li><a href="#h">UCI-Santa Ana Teachers Institute</a></li>
+</ul>
 <br/><a href="#i">Communication and Dissemination</a>
 <br/><a href="#j">Documentation and Evaluation</a>
-<br/><font color="#FFFFFF" style="visibility:hidden;">____</font><nobr><a href="#k">Internal Documentation
-and Evaluation</a></nobr>
-<br/><font color="#FFFFFF" style="visibility:hidden;">____</font><nobr><a href="#l">External Evaluation</a></nobr>
+<ul>
+    <li><a href="#k">Internal Documentation and Evaluation</a></li>
+    <li><a href="#l">External Evaluation</a></li>
+</ul>
 <br/><a href="#m">Expansion and Affiliation</a>
 <br/><a href="#n">Appendix: Basic Principles</a>
 </p>

@@ -4,9 +4,9 @@ title: "The Program in New Haven"
 path: "/brochures/A3/2000/programnh.html"
 ---
 <main>
-<center><a name="top"></a><b><h3>The Program in New Haven</h3></b></center>
+<center><a name="top"></a><h2>The Program in New Haven</h2></center>
 <hr/>
-<b><a href="index.html">Annual Report 2000 Contents</a>
+<b><a href="/brochures/A3/2000/">Annual Report 2000 Contents</a>
 </b>
 <hr/>
 <p><b>Contents of section:</b>

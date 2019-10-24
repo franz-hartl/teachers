@@ -4,7 +4,7 @@ title: Polivies, Structure, and Procedures
 path: /about/policies-structure-procedures
 ---
 
-<h1>Policies, Structure, and Procedures</h1>
+<h2>Policies, Structure, and Procedures</h2>
 
 "The Policies, Structure, and Procedures" of the Institute, endorsed
 by the Yale Corporation in September 1994, describe the Institute as a

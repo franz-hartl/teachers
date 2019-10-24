@@ -4,9 +4,9 @@ title: "Preface"
 path: "/brochures/D6/Preface.html"
 ---
 <main>
-<center><h3><a name="top">Preface</a></h3></center>
+<center><h2><a name="top">Preface</a></h2></center>
 <hr/>
-<b><font size="+0"><a href="index.html">Progress Report Contents</a>
+<b><font size="+0"><a href="/brochures/D6/">Progress Report Contents</a>
 </font></b>
 <hr/>
 <table>

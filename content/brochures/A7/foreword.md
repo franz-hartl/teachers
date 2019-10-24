@@ -6,7 +6,7 @@ path: "/brochures/A7/foreword.html"
 <main>
 <center><h2>Foreword</h2></center>
 <hr/>
-<h4>Contents  of this section: </h4>
+<h3>Contents  of this section: </h3>
 <ul>
 <a href="#a"></a><li><a href="#a">Introduction</a>
 <a href="#b"></a></li><li><a href="#b">Background</a>
@@ -17,7 +17,7 @@ path: "/brochures/A7/foreword.html"
 <a href="#g"></a></li><li><a href="#g">Implications for the Future</a>
 </li></ul>
 <h4>
-<a href=".\">"School-College Collaboration": Table of Contents</a>
+<a href="/brochures/A7/">"School-College Collaboration": Table of Contents</a>
 </h4>
 <hr/>
 <a name="a">

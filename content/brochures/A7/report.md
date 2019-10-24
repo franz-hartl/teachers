@@ -7,9 +7,9 @@ path: "/brochures/A7/report.html"
 <center><h2>Conference Report on "School-College Collaboration: Preparing
 Teachers and Curricula for Public Schools" </h2>
 <font size="+1">by Thomas R. Whitaker</font>
-<h4><i>New Haven, Connecticut, December 5-6,1991</i></h4></center>
+<em><i>New Haven, Connecticut, December 5-6,1991</i></em></center>
 <hr/>
-<h4>Contents  of this section: </h4>
+<h3>Contents  of this section: </h3>
 <ul>
 <a href="#a"></a><li><a href="#a">Introduction</a>
 </li><li>Conference Themes
@@ -48,7 +48,7 @@ Methods and Results for Teachers and Students</a>
 </li></ul>
 </li></ul>
 <h4>
-<a href=".\">"School-College Collaboration": Table of Contents</a>
+<a href="/brochures/A7/">"School-College Collaboration": Table of Contents</a>
 </h4>
 <hr/>
 <a name="a">

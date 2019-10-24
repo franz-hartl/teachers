@@ -128,6 +128,37 @@ Mock Trials<br/>
 <u>A Tale of Two Cities</u><br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
 <font size="-1"><a href="../guides/1979/5/79.05.02.x.html">79.05.02</a></font><br/>
+<a name="digitalmedia"><font size="+1"><b></b></font></a></p><p><a name="digitalmedia"><font size="+1"><b>Digital Media</b></font><br/>
+<font color="#ffffff" style="visibility:hidden;">........</font>
+<font size="-1"></font></a><font size="-1"><a href="../guides/2019/1/19.01.01.x.html">19.01.01</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">........</font>
+<i>Ethics of</i><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2019/1/19.01.09.x.html">19.01.09</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2019/1/19.01.06.x.html">19.01.06</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">........</font>
+<i>Research Methods</i><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2019/1/19.01.02.x.html">19.01.02</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">........</font>
+<i>Social Impact</i><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2019/1/19.01.03.x.html">19.01.03</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2019/1/19.01.04.x.html">19.01.04</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2019/1/19.01.06.x.html">19.01.06</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2019/1/19.01.07.x.html">19.01.07</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2019/1/19.01.09.x.html">19.01.09</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">........</font>
+<i>Social Media</i><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2019/1/19.01.06.x.html">19.01.06</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2019/1/19.01.08.x.html">19.01.08</a></font><br/>
 <a name="dinosaurs"><font size="+1"><b></b></font></a></p><p><a name="dinosaurs"><font size="+1"><b>Dinosaurs</b></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
 <i>History of</i><br/>

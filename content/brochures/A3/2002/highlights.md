@@ -4,10 +4,10 @@ title: "Highlights of the Report"
 path: "/brochures/A3/2002/highlights.html"
 ---
 <main>
-<center><a name="/brochures/A3/2002/highlights.html"></a><b>
-<h3><a name="top"></a>Highlights of the Report</h3></b></center>
+<center><a name="/brochures/A3/2002/highlights.html"></a>
+<h2><a name="top"></a>Highlights of the Report</h2</center>
 <hr/>
-<b><a href="index.html">Annual Report 2002 Contents</a> 
+<b><a href="/brochures/A3/2002/">Annual Report 2002 Contents</a> 
 </b>
 <br/>
 <hr width="100%"/>

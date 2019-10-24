@@ -50,7 +50,8 @@ fax: (203) 432-1084<br/>
 </tbody></table>
 </p><p>
 Yale-New Haven Teachers Institute® is a registered trademark of Yale University.
-</p><hr/>
-<a align="left">Return to </a><a href="index.html">Contents</a>
+</p>
+<hr/>
+<a align="left">Return to </a><a href="./">Contents</a>
 © 2014 by the Yale-New Haven Teachers Institute
 </main>

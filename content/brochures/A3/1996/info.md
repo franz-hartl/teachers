@@ -4,8 +4,7 @@ title: "For More Information"
 path: "/brochures/A3/1996/info.html"
 ---
 <main>
-<center>
-<h2>For More Information</h2></center>
+<center><h2>For More Information</h2></center>
 <hr/>
 The Yale-New Haven Teachers Institute is an educational partnership
 between Yale University and the New Haven Public Schools designed to
@@ -29,9 +28,9 @@ New Haven, Connecticut 06520-3563<br/>
 phone: (203) 432-1080<br/>
 fax: (203) 432-1084<br/>
 electronic mail: <a href="mailto:ynhti@yale.edu">ynhti@yale.edu</a><br/>
-internet: <a href="..\..\">http://teachersinstitute.yale.edu</a><br/>
+internet: <a href="/">http://teachersinstitute.yale.edu</a><br/>
 </p><hr/>
-<h4><a href=".\">Annual Report 1996: Table of Contents</a> |
-<a href="..\..\">Yale-New Haven Teachers Institute</a>
+<h4><a href="/brochures/A3/1996/">Annual Report 1996: Table of Contents</a> |
+<a href="/">Yale-New Haven Teachers Institute</a>
 </h4>
 </main>

@@ -4,10 +4,9 @@ title: "National Demonstration Project"
 path: "/brochures/A3/1999/nationaldem.html"
 ---
 <main>
-<center><a name="t"></a><b><h3>The National Demonstration
-Project</h3></b>
+<center><a name="t"></a><h2>The National Demonstration Project</h2>
 <hr/></center>
-<p><b><a href="index.html">Annual Report 1999 Table of Contents</a>
+<p><b><a href="/brochures/A3/1999/">Annual Report 1999 Table of Contents</a>
 </b>
 </p><hr/>
 <p><b>Contents of section:
@@ -1712,32 +1711,10 @@ Institute collects. 
 <p><i>(image available in print form)</i>
 </p><p><i><font size="-1">Plenary Session with representatives of Policy Studies
 Associates at the First Annual Conference in New Haven, October 1999.</font></i></p></td>
-<td>
-<table cellpadding="2">
-<tbody><tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody></table>
-</td>
 </tr>
 </tbody></table>
 <div align="right">
 <p><a href="#m">to the top of External Evaluation</a> | <a href="#t">to
 the top of the National Demonstration Project</a></p></div>
-<hr/>© 2000 by the <a href="..\..\..\">Yale-New Haven
-Teachers Institute</a>
+<hr/>© 2000 by the <a href="/">Yale-New Haven Teachers Institute</a>
 </main>

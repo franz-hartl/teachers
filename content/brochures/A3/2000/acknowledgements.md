@@ -5,10 +5,9 @@ path: "/brochures/A3/2000/acknowledgements.html"
 ---
 <main>
 <center>
-<h3>Acknowledgments</h3></center>
+<h2>Acknowledgments</h2></center>
 <hr/>
-<b><a href="index.html">Annual Report 2000 Contents</a> 
-</b>
+<a href="/brochures/A3/2000/">Annual Report 2000 Contents</a>
 <hr/>
 <table cellpadding="2">
 <tbody><tr>

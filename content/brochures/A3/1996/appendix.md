@@ -4,27 +4,20 @@ title: "Appendix"
 path: "/brochures/A3/1996/appendix.html"
 ---
 <main>
-<center>
-<h2>Appendix
-</h2></center>
+<center><h2>Appendix</h2></center>
 <hr/>
-<h4>Contents of this section: </h4>
+<h3>Contents of this section:</h3>
 <ul>
 <a href="#a"></a><li><a href="#a">Committees, Council, and Boards of the Institute</a>
 <a href="#b"></a></li><li><a href="#b">Selected Bibliography</a>
 </li></ul>
-<h4>
-<a href=".\">Annual Report 1996: Table of Contents</a> |
-<a href="..\..\">Yale-New Haven Teachers Institute</a>
-</h4>
+<em><a href=".\">Annual Report 1996: Table of Contents</a> |
+<a href="/">Yale-New Haven Teachers Institute</a></em>
 <hr/>
-<a name="a">
+<a name="a"></a>
 <font size="-1">
-<center><h3>Committees, Council, and Boards of the
-Institute</h3>
-</center>
-<h4>National Advisory Committee 
-</h4>
+<center><h3>Committees, Council, and Boards of the Institute</h3></center>
+<h4>National Advisory Committee</h4>
 Gordon M. Ambach<br/>
 Carla Asher<br/>
 Leon Botstein<br/>
@@ -36,11 +29,11 @@ Robert Schwartz<br/>
 Theodore R. Sizer<br/>
 Donald Stewart<br/>
 Glegg L. Watson<br/>
+<br/>
 <h4>University Advisory Council</h4>
-<b>  Honorary Chairman</b><br/>
-Howard R. Lamar
-<p>
-<b>  Executive Committee</b><br/>
+<h5>Honorary Chairman</h5>
+Howard R. Lamar<br/>
+<h5>Executive Committee</h5>
 Kent C. Bloomer<br/>
 Paul H. Fry<br/>
 Gary L. Haller<br/>
@@ -57,33 +50,26 @@ Rev. Frederick J. Streets<br/>
 Frank M. Turner, 
 Co-Chariman<br/>
 Robert G. Wheeler<br/>
-</p><p>
-<b>		      Members</b><br/>
+<h5>Members</h5>
 Sidney Altman<br/>
-Thomas Appelquist, 
-<i>			ex officio</i><br/>
-Richard H. Brodhead, 
-<i>			ex officio</i><br/>
+Thomas Appelquist, <i>ex officio</i><br/>
+Richard H. Brodhead, <i>ex officio</i><br/>
 Allan Bromley<br/>
 David Bromwich<br/>
-Richard L. Burger, 
-<i>			ex officio</i><br/>
+Richard L. Burger, <i>ex officio</i><br/>
 Robert A. Burt <br/>
 Jon Butler <br/>
 Jared L. Cohon <br/>
-Roberto Gonzalez-			Echevarria <br/>
+Roberto Gonzalez-Echevarria <br/>
 Margaret A. Farley <br/>
 Robert B. Gordon <br/>
 Gilbert M. Joseph <br/>
 Fred H. Koetter <br/>
 Traugott Lawler <br/>
-Richard C. Levin, 
-<i>ex officio</i> <br/>
-Linda K. Lorimer, 
-<i>ex officio</i> <br/>
+Richard C. Levin, <i>ex officio</i> <br/>
+Linda K. Lorimer, <i>ex officio</i> <br/>
 Paul W. MacAvoy <br/>
-A. Patrick McCaughey, 
-<i>	ex officio</i> <br/>
+A. Patrick McCaughey, <i>ex officio</i> <br/>
 Lawrence Manley <br/>
 Sharon M. Oster <br/>
 David Pease <br/>
@@ -94,15 +80,14 @@ William H. Smith <br/>
 Sabatino Sofia <br/>
 Jonathan D. Spence <br/>
 Robert B. Stepto <br/>
-Susan M. Vogel, 
-<i>ex officio</i><br/>
+Susan M. Vogel, <i>ex officio</i><br/>
 Charles A. Walker <br/>
 Thomas R. Whitaker <br/>
 Robin W. Winks <br/>
 Stephen Wizner <br/>
 Bryan J. Wolf <br/>
 Werner P. Wolf <br/>
-</p>
+<br/>
 <h4>Steering Committee</h4>
 Raymond W. Brooks <br/>
 Gereen L. Freeman <br/>
@@ -113,6 +98,7 @@ Roberta A. Mazzucco <br/>
 Kevin S. Miller <br/>
 Luis A. Recalde <br/>
 Jean E. Sutherland <br/>
+<br/>
 <h4>Seminar Coordinators</h4>
 Stephen Beasley-Murray <br/>
 Elsa-Marma Calderon <br/>
@@ -120,8 +106,8 @@ Alan K. Frishman <br/>
 Carolyn N. Kinder <br/>
 Luis A. Recalde <br/>
 Jean E. Sutherland <br/>
-<h4>School Representatives
-and Contacts</h4>
+<br/>
+<h4>School Representatives and Contacts</h4>
 Lisa S. Alter <br/>
 Trudy Anderson <br/>
 Holly Anthony <br/>
@@ -139,7 +125,7 @@ Raymond W. Brooks <br/>
 Michael Brownstein <br/>
 Joyce Bryant <br/>
 Elsa-Marma Calderon <br/>
-Synia J. Carroll-			McQuillan <br/>
+Synia J. Carroll-McQuillan <br/>
 G. Casey Cassidy <br/>
 Daisy Catalan <br/>
 Sequella Coleman <br/>
@@ -157,7 +143,7 @@ Gary Highsmith <br/>
 Christine Y. House <br/>
 Annie Jackson <br/>
 Pamela Kelley <br/>
-Waltrina Kirkland-			Mullins <br/>
+Waltrina Kirkland-Mullins <br/>
 Robin Lally <br/>
 Myrella Lara <br/>
 Elizabeth T. Lawrence<br/>
@@ -192,7 +178,8 @@ Ladora Twitty<br/>
 Lois R. Van Wagner<br/>
 Carol Viccione-Luce<br/>
 Cynthia Wilson<br/>
-<h4>		Special Gifts Committee</h4>
+<br/>
+<h4>Special Gifts Committee</h4>
 Lane Ameen<br/>
 Henry P. Brightwell, Jr.<br/>
 Henry Chauncey, Jr.<br/>
@@ -216,8 +203,9 @@ H. Catherine W. Skinner<br/>
 Jerald L. Stevens<br/>
 Calvin Trillin<br/>
 G. Harold Welch, Jr.<br/>
+<br/>
 <h4><i>On Common Ground</i></h4>
-<b> Editorial Board</b><br/>
+<h5>Editorial Board</h5>
 Sharon Floyd<br/>
 Manuel N. Gomez<br/>
 Patricia King<br/>
@@ -227,9 +215,8 @@ Sharon Olguin<br/>
 Thomas E. Persing<br/>
 Jay L. Robinson<br/>
 Charles S. Serns<br/>
-Thomas R. Whitaker, 			Chairman
-<p>
-<b>      Editorial Advisory Board</b><br/>
+Thomas R. Whitaker, Chairman<br/>
+<h5>Editorial Advisory Board</h5>
 Adrienne Y. Bailey<br/>
 Reni Castilla<br/>
 Lucy Davis<br/>
@@ -244,14 +231,11 @@ Leo Rockas<br/>
 Adele Seeff<br/>
 Thomas Toch<br/>
 Gita Z. Wilder
-</p></font><p><font size="-1">
-</font>
-</p></a><center><a name="a"></a><div align="right"><a name="a"></a><p><a name="a">
+</font><center><a name="a"></a><div align="right"><a name="a"></a><p><a name="a">
 </a><a href="#top">to the top of Appendix</a></p></div></center>
 <hr/>
-<a name="b">
-<h3>
-Selected Bibliography</h3>
+<a name="b"></a>
+<h3>Selected Bibliography</h3>
 <h4>Institute Publications</h4>
 "Centers for Professional and Curricular Development."  New Haven:
 Yale-New Haven Teachers Institute, 1996.<p>
@@ -265,12 +249,10 @@ Ground. </i>Number 7, Fall 1996.</p><p>
 Ground. </i>Number 6, Spring 1996.</p><p>
 "Guides to Curriculum Units Written by Institute Fellows,
 1978-1996." </p><p>
-"Index of All Curriculum Units, 1978-1996.   New Haven:
-1996"</p><p>
+"Index of All Curriculum Units, 1978-1996.   New Haven: 1996"</p><p>
 "Partnership and the Arts." <i>On Common Ground.
 </i>Number 5, Fall 1995.</p><p>
-"Partnerships in Science and Technology." <i> On Common
-Ground. </i>Number 4, Spring 1995.</p><p>
+"Partnerships in Science and Technology." <i> On Common Ground. </i>Number 4, Spring 1995.</p><p>
 "Policies, Procedures, and Organizational Structure of the
 Yale-New Haven Teachers Institute," endorsed by the Yale Corporation,
 September 1994.</p><p>
@@ -311,9 +293,9 @@ ________.  "Yale University:  The Yale-New Haven Teachers
 Institute."   In <i>School-College Collaborative Programs in English.
 </i>Ed. Ron J. Fortune.  New York:  Modern Language Association, 1986, pp.
 14-24.</p>
-<h4>
-Videotape Program</h4>
+<br/>
+<h4>Videotape Program</h4>
 "Teaching on Common Ground."  New Haven:  1995.
-</a><center><a name="b"></a><div align="right"><a name="b"></a><p><a name="b">
-</a><a href="#top">to the top of Appendix</a></p></div></center>
+<center><a name="b"></a><div align="right"><a name="b"></a><p><a name="b"></a>
+<a href="#top">to the top of Appendix</a></p></div></center>
 </main>

@@ -631,6 +631,8 @@ Responsibility<br/>
 Video Production<br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
 <font size="-1"><a href="../guides/2003/1/03.01.11.x.html">03.01.11</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">........................</font>
+<font size="-1"><a href="../guides/2019/1/19.01.09.x.html">19.01.09</a></font><br/>
 <a name="firstaid"><font size="+1"><b></b></font></a></p><p><a name="firstaid"><font size="+1"><b>First Aid</b></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
 <i>Basic</i><br/>
@@ -874,7 +876,7 @@ Latin America<br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 Science<br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
-<font size="-1"><a href="../units/2009/3/">09.03</a>  (all 12 units)</font><br/>
+<font size="-1"><a href="../guides/2009/3/">09.03</a>  (all 12 units)</font><br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
 <i>and Energy</i><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
@@ -916,7 +918,7 @@ Science<br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
 <i>Science</i><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
-<font size="-1"><a href="../units/2009/3/">09.03</a>. (all 12 units)</font><br/>
+<font size="-1"><a href="../guides/2009/3/">09.03</a>. (all 12 units)</font><br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
 <i>Sources</i><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
