@@ -144,6 +144,29 @@ exports.createPages = ({ graphql, actions }) => {
           // then determine the number of unit pages to create
           let pageCount = getPageCount(node.frontmatter.path, node.html) + 1
 
+
+          // check if there are any <script> javascript imports 
+          //  and if so add them to the bottom of each page of the unit
+          const regex = /<script [\S\s]*?<\/script>/g;
+          let m;
+          let scripts_html = '';
+
+          while ((m = regex.exec(node.html)) !== null) {
+              // This is necessary to avoid infinite loops with zero-width matches
+              if (m.index === regex.lastIndex) {
+                  regex.lastIndex++;
+              }
+              
+              // The result can be accessed through the `m`-variable.
+              m.forEach((match, groupIndex) => {
+                  console.log(`Found match, group ${groupIndex}: ${match}`)
+                  scripts_html += match + '\n'
+              });
+          }
+          if (scripts_html.length > 0) {
+            node.html = node.html.replace(regex, '')
+          }
+
           // if this is not the 1st page of the unit then remove .x.html from filename and add /pagenumber
           var pagePath = ''
           for (let i = 0; i < pageCount; i++) {
@@ -180,6 +203,10 @@ exports.createPages = ({ graphql, actions }) => {
 
             pageHtml = getPageHtml(i, pagePath, pageHtml)
 
+            if (i > 0 && scripts_html.length > 0) {
+              pageHtml.html += '\n' + scripts_html
+            }
+            
             unitVolume = volumePage.node.frontmatter.unitVolume
 
             createPage({
