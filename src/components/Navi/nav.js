@@ -1,36 +1,42 @@
-import React from 'react';
+import React, { useState} from 'react';
 import {
   Collapse,
   Navbar,
   NavbarToggler,
   Nav,
   NavItem,
+  NavbarBrand,
   NavLink,
   UncontrolledDropdown,
   DropdownToggle,
   DropdownMenu,
   DropdownItem } from 'reactstrap';
 
-export default class  extends React.Component {
-  constructor(props) {
-    super(props);
+// export default class  extends React.Component {
+//   constructor(props) {
+//     super(props);
 
-    this.toggle = this.toggle.bind(this);
-    this.state = {
-      isOpen: false
-    };
-  }
-  toggle() {
-    this.setState({
-      isOpen: !this.state.isOpen
-    });
-  }
-  render() {
+//     this.toggle = this.toggle.bind(this);
+//     this.state = {
+//       isOpen: false
+//     };
+//   }
+//   toggle() {
+//     this.setState({
+//       isOpen: !this.state.isOpen
+//     });
+//   }
+//   render() {
+
+  const Navi = (props) => {
+    const [collapsed, setCollapsed] = useState(true);
+  
+    const toggleNavbar = () => setCollapsed(!collapsed);
     return (
       <div className="container main-menu">
         <Navbar color="light" light expand="lg">
-          <NavbarToggler onClick={this.toggle} />
-          <Collapse isOpen={this.state.isOpen} navbar>
+          <NavbarToggler onClick={toggleNavbar} />
+          <Collapse isOpen={!collapsed} aria-expanded="false" navbar>
             <Nav className="ml-auto ynhti-nav" navbar>
               <UncontrolledDropdown nav inNavbar>
                 <DropdownToggle href="/curriculum" caret>
@@ -141,4 +147,5 @@ export default class  extends React.Component {
       </div>
     );
   }
-}
+
+  export default Navi

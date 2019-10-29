@@ -25,7 +25,7 @@ class Layout extends React.Component {
           </div>
         </header>
         <div className="zone-menu-wrapper"><Navi /></div>
-        <div className="container py-3" id="content">{children}</div>
+        <div tabindex="-1" className="container py-3" id="content">{children}</div>
         <Footer />
         <Index />
       </div>
