@@ -146,7 +146,7 @@ exports.createPages = ({ graphql, actions }) => {
 
 
           // check if there are any <script> javascript imports 
-          //  and if so add them to the bottom of each page of the unit
+          //  and if so add them to the top of each page of the unit
           const regex = /<script [\S\s]*?<\/script>/g;
           let m;
           let scripts_html = '';
@@ -204,7 +204,7 @@ exports.createPages = ({ graphql, actions }) => {
             pageHtml = getPageHtml(i, pagePath, pageHtml)
 
             if (i > 0 && scripts_html.length > 0) {
-              pageHtml.html += '\n' + scripts_html
+              pageHtml.html = scripts_html + '\n' + pageHtml.html
             }
             
             unitVolume = volumePage.node.frontmatter.unitVolume
@@ -389,7 +389,10 @@ const getUnitNavItems = (path, html) => {
   unitNavItems.push({ path: unitPath, title: pageItems[0] })
   for (let i = 2; i <= pageItems.length; i++) {
     // Remove <strong> or <span> or <sup> tags from nav items
+    //  also remove <i> and <em>
     title = pageItems[i - 1]
+    title = title.replace(/\s*<[/]?i>\s*/gi, ' ')
+    title = title.replace(/\s*<[/]?em>\s*/gi, ' ')
     title = title.replace(/\s*<[/]?strong>\s*/gi, ' ')
     title = title.replace(/\s*<[/]?span>\s*/gi, ' ')
     title = title.replace(/\s*<sup>\s*.*\s*<\/sup>\s*/gi, ' ')

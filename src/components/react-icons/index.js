@@ -27,23 +27,23 @@ class React_icons extends React.Component {
               >
                 <FaEnvelope />
               </a>
-              <a href={'/curriculum/' + dlUnitPaths.printUnit + '/files/' + dlUnitPaths.pdfDownload + '.pdf'}
+              <a href={'/curriculum/units/files/' + dlUnitPaths.pdfDownload + '.pdf'}
                 download
                 className="dl_pdf middle-icon share_btn"
                 alt="download entire guide pdf"
                 title="download pdf"
                 id="download-pdf"
-                >
-              <FaDownload />
+              >
+                <FaDownload />
               </a>
-              <a href={'/curriculum/' + dlUnitPaths.printUnit + '/files/' + dlUnitPaths.pdfDownload + '.pdf'}
+              <a href={'/curriculum/units/files/' + dlUnitPaths.pdfDownload + '.pdf'}
                className="share_btn print_pdf"
                alt="print pdf version"
                title="print pdf version"
                id="print-pdf"
                taret="_blank"
-               >
-              <FaPrint />
+              >
+                <FaPrint />
               </a>
             </div>
           </p>
@@ -59,9 +59,10 @@ export default React_icons
 function getdlUnitPaths(dlUnitPath){
   var urlPath = dlUnitPath;
   var pathSplit = urlPath.split("/curriculum");
-  var basePath = path.basename(urlPath);
-  let reg = new RegExp(/.([h-t]|x)|l/g);
-  
+  // var basePath = path.basename(urlPath);
+  // let reg = new RegExp(/.([h-t]|x)|l/g);
+  let echoUnit = 'unit';
+
   var pathSplit = pathSplit[1].split("/");
 
   // var str = pathSplit[4];
@@ -72,23 +73,21 @@ function getdlUnitPaths(dlUnitPath){
     var year = pathSplit[2].substring(2);
     var volume = pathSplit[3].padStart(2, '0');
     pdfDownload = year + '.' + volume + '.preface';
+    echoUnit = 'preface';
   } else {
     pdfDownload = pdfDownload.replace('.x.html', '');
+    if (pdfDownload.endsWith('intro')) {
+      echoUnit = 'intro';
+    }
   }
   
-  if (pathSplit[1] == "units"){
-    var printUnit ='units';
-    var echoUnit = 'unit'
-  }
-  else{
-    var printUnit = 'units';
-    var echoUnit = 'guide'
-    pdfDownload = pdfDownload + '_guide'
+  if (pathSplit[1] == "guides"){
+    echoUnit = 'guide';
+    pdfDownload = pdfDownload + '_guide';
   }
 
   return{
     pdfDownload : pdfDownload,
-    printUnit : printUnit,
     echoUnit : echoUnit
   }
 }

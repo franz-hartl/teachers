@@ -4,7 +4,7 @@ title: "Curriculum Unit Index: F"
 path: "/curriculum/indexes/f.x.html"
 ---
 <main>
-<font size="+1">Index of all Curriculum Units, 1978-2010</font>
+<font size="+1">Index of all Curriculum Units, 1978-2019</font>
 <blockquote>section <font size="+2"><b>F</b></font></blockquote>
 <p>Selecting a Unit number (such as <a href="../guides/2004/1/04.01.09.x.html">
 04.01.09</a>) will take you to the Guide Entry for that Unit.

@@ -21,7 +21,7 @@ class Table_content extends React.Component {
             View This Volume
           </Link>
           <Link
-            to="/curriculum/indexes"
+            to="/curriculum/indexes/"
             className="btn-sm"
             role="button"
             aria-pressed="true"
@@ -50,7 +50,7 @@ const NavLinks = ({ navData, activeIndex }) => {
           key={i.toString()}
           className={`tc_lists_guide ${activeIndex == i ? 'tc_active' : ''}`}
         >
-          <Link to={item.path}><span dangerouslySetInnerHTML={{ __html: sTitle }} /></Link>
+          <Link to={item.path}>{`${String(sTitle)}`}</Link>
         </h3>
       )
     } else {
@@ -59,7 +59,7 @@ const NavLinks = ({ navData, activeIndex }) => {
           key={i.toString}
           className={`tc_lists_guide ${activeIndex == i ? 'tc_active' : ''}`}
         >
-          <Link to={item.path}><span dangerouslySetInnerHTML={{ __html: sTitle }} /></Link>
+          <Link to={item.path}>{`${String(sTitle)}`}</Link>
         </li>
       )
     }
