@@ -204,7 +204,7 @@ exports.createPages = ({ graphql, actions }) => {
             pageHtml = getPageHtml(i, pagePath, pageHtml)
 
             if (i > 0 && scripts_html.length > 0) {
-              pageHtml.html = scripts_html + '\n' + pageHtml.html
+              pageHtml.html = pageHtml.html + '\n' + scripts_html + '\n' 
             }
             
             unitVolume = volumePage.node.frontmatter.unitVolume
