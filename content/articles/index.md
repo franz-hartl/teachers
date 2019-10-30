@@ -11,7 +11,7 @@ Teachers Institute approach to teacher professional development, the
 history of the Institute's program in New Haven, and its significance
 to Yale University.
 
-- <h3><a href="T1.html">Yale University and the New Haven Public Schools, 1984</a></h3>
+- <h3><a href="/articles/T1.html">Yale University and the New Haven Public Schools, 1984</a></h3>
 
   An essay by James R. Vivian containing recommendations on how to
   implement the recommendation of the Carnegie Foundation <i>Special
@@ -20,7 +20,7 @@ to Yale University.
   genuine partnerships based on the needs of schools as determined by
   their principals and teachers.
 
-- <h3><a href="C1.html">Empowering Teachers as Colleagues, 1985</a></h3>
+- <h3><a href="/articles/C1.html">Empowering Teachers as Colleagues, 1985</a></h3>
 
   An article written by James R. Vivian that appeared originally in
   "College-School Collaboration: Appraising the Major Approaches," 1985. 
@@ -30,7 +30,7 @@ to Yale University.
   collaboration to focus on subjects deemed most important by teachers
   for strengthening their own teaching."
 
-- <h3><a href="C7.html">Yale University: The Yale-New Haven Teachers Institute, 1986</a></h3>
+- <h3><a href="/articles/C7.html">Yale University: The Yale-New Haven Teachers Institute, 1986</a></h3>
 
   An article written by James R. Vivian, published by the MLA in 1986
   in "School-College Collaborative Programs in English," describes
@@ -39,7 +39,7 @@ to Yale University.
   history and literature, thematic approaches to literature, and
   approaches to teaching writing.
 
-- <h3><a href="C8.html">Issues in Establishing and Developing an Educational Collaboration,
+- <h3><a href="/articles/C8.html">Issues in Establishing and Developing an Educational Collaboration,
   1986</a></h3>
 
   An essay by James R. Vivian addressing some of the issues raised by
@@ -47,7 +47,7 @@ to Yale University.
   to their own educational settings. An earlier version of this essay
   appeared in "Education and Urban Society," November 1986.
 
-- <h3><a href="C6.html">Partnerships and the Community, 1987</a></h3>
+- <h3><a href="/articles/C6.html">Partnerships and the Community, 1987</a></h3>
 
   In a panel at the State University of New York in 1987, James R.
   Vivian spoke about the principles of the Institute's program in New
