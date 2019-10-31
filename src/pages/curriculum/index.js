@@ -24,7 +24,7 @@ const HomePage = () => (
             <div className="cr_row my-3 pr-3">
               <h2>View topical index of curriculum units</h2>
               <p>
-                Hundreds of curriculum units written since 1978 are a treasure
+                Thousands of curriculum units written since 1978 are a treasure
                 trove of ideas and procedures for teaching subjects in the
                 humanities and in STEM fields in grades K-12. Each teaching unit
                 is designated by three two-digit numbers (e.g. 99.01.01). The Index does not
