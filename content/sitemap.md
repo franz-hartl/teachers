@@ -24,7 +24,8 @@ path: /map.x.html
             <li class="sitemap_list"><a class="sitemap_link" href="/brochures/studies">Studies</a></li>
                 <ul>
                     <li class="sitemap_list">Fellow Questionnaire Results, 1992-2018: Overview</li>
-                    <li class="sitemap_list">A Progress Report on Surveys Administered to New Haven Teachers, 1982-1990</li>
+                    <li class="sitemap_list">Teachers Institute Enhances Student Engagement, 2018</li>
+                    <li class="sitemap_list"><a class="sitemap_link" href="/brochures/D6/">A Progress Report on Surveys Administered to New Haven Teachers, 1982-1990</li>
                     <li class="sitemap_list">Study of Teachers Institute Curriculum Units, 2014-2015</li>
                 </ul>
             <li class="sitemap_list"><a class="sitemap_link" href="/brochures/NewHavenProgram">New Haven Program</a></li>
@@ -72,7 +73,7 @@ path: /map.x.html
                 </ul>
             <li class="sitemap_list"><a class="sitemap_link" href="/pubs/books">Books</a></li>
                 <ul>
-                    <li class="sitemap_list"><a class="sitemap_link" href="/pubs/A4">Teaching in America: The Common Ground<, 1984/li>
+                    <li class="sitemap_list"><a class="sitemap_link" href="/pubs/A4">Teaching in America: The Common Ground, 1984</li>
                     <li class="sitemap_list"><a class="sitemap_link" href="/pubs/A5">Teaching in New Haven: The Common Challenge, 1991</a></li>
                 </ul>
             <li class="sitemap_list"><a class="sitemap_link" href="/brochures/CenterManual/">Institute Centers</a></li>
@@ -81,7 +82,7 @@ path: /map.x.html
         <ul>
             <li class="sitemap_list"><a class="sitemap_link" href="/event-proceedings/conferences">Conferences</a></li>
                 <ul>
-                    <li class="sitemap_list"><a class="sitemap_link" href="transcripts/F14a.html">School­College Collaboration: Preparing Teachers and Curricula for Public Schools, 1991 </a></li>
+                    <li class="sitemap_list"><a class="sitemap_link" href="transcripts/F14a.html">School­ College Collaboration: Preparing Teachers and Curricula for Public Schools, 1991 </a></li>
                     <li class="sitemap_list"><a class="sitemap_link" href="transcripts/C16.html">Exploring Art and Culture in the Yale-New Haven Teachers Institute, 1992</a></li>
                     <li class="sitemap_list"><a class="sitemap_link" href="transcripts/F14d.html">Address by Fred M. Hechinger "The University's Neglected Task," 1991</a></li>
                     <li class="sitemap_list"><a class="sitemap_link" href="transcripts/F13.html">Yale Graduate School Education Department/ M.A.T. Program Reunion, 1991</a></li>
@@ -119,6 +120,7 @@ path: /map.x.html
             <li class="sitemap_list"><a class="sitemap_link" href="/brochures/video-programs.html">Video Programs</a></li>
             <li class="sitemap_list"><a class="sitemap_link" href="/articles/index.html">Published Essays</a></li>
             <li class="sitemap_list"><a class="sitemap_link" href="/comments.html">Contact Us</a></li>
+            <li class="sitemap_list"><a class="sitemap_link" href="/about/advisory">Contact Us</a></li>          
         </ul>
     <li class="sitemap_list">Footer</li>
         <ul>
@@ -129,7 +131,7 @@ path: /map.x.html
             <li class="sitemap_list"><a class="sitemap_link" href="/timeline">Timeline</a></li>
             <li class="sitemap_list"><a class="sitemap_link" href="/about">About the Institute</a></li>
             <li class="sitemap_list"><a class="sitemap_link" href="/map.x.html">Site Map</a></li>
-            <li class="sitemap_list"><a class="sitemap_link" href="/">Guestbook</a></li>
+            <li class="sitemap_list"><a class="sitemap_link" href="https://yalesurvey.ca1.qualtrics.com/jfe/form/SV_2lYNllUbWwcheuh">Guestbook</a></li>
             <li class="sitemap_list"><a class="sitemap_link" href="/participate">Participate</a></li>
             <li class="sitemap_list"><a class="sitemap_link" href="/comments.html">Contact Us</a></li>
         </ul>
