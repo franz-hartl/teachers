@@ -10,7 +10,7 @@ path: /map.x.html
     <li class="sitemap_list"><a class="sitemap_link" href="/">Home Page</a></li>
     <li class="sitemap_list"><a class="sitemap_link" href="/curriculum">Curricular Resources</a></li>
         <ul>
-            <li class="sitemap_list"><a class="sitemap_link" href="/curriculum/indexes">View Topical Index of Units </a></li>
+            <li class="sitemap_list"><a class="sitemap_link" href="/curriculum/indexes/">View Topical Index of Units </a></li>
             <li class="sitemap_list"><a class="sitemap_link" href="/curriculum/units">View Lists of Volumes Year</a></li>
             <li class="sitemap_list"><a class="sitemap_link" href="/curriculum/referencelists">Reference Lists</a></li>
                 <ul>

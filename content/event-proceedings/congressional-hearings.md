@@ -16,14 +16,14 @@ Senator Bumpers. Vivian offered testimony at hearings also in 1985, 1990,
 
 <div class="col-sm-12 hearing left-panel">
 
-**<ul><li><p class="px-2"><a href="/pdfs/house-edu-labor-Mar90.pdf" target="_blank">Hearings on Reauthorization of the Higher Education Act, 1985</a></p></li></ul>**
+**<ul><li><p class="px-2"><a href="/pdfs/senate-edu-arts-humanities-oct85.pdf" target="_blank">Hearings on Reauthorization of the Higher Education Act, 1985</a></p></li></ul>**
 
 James R. Vivian testified before the Subcommittee on Education,
 Arts, and Humanities regarding reauthorization of the Higher Education
 Act at the invitation of Senator Robert T. Stafford of Vermont, Chairman
 of the Subcommittee.
 
-**<ul><li><p class="px-2"><a href="/pdfs/senate-edu-arts-humanities-oct85.pdf" target="_blank">Hearings on the Twenty-First Century Teachers Act, 1990</a></p></li></ul>**
+**<ul><li><p class="px-2"><a href="/pdfs/house-edu-labor-Mar90.pdf" target="_blank">Hearings on the Twenty-First Century Teachers Act, 1990</a></p></li></ul>**
 
 On March 15, 1990, Institute Director James R. Vivian testified
 before the House Committee on Education and Labor hearings on "The
