@@ -20,7 +20,7 @@ class UnitTemplate extends React.Component {
     return (
       <Layout>
         <main>
-          <div className="region-content">
+          <div className="region-content units">
             <Breadcrumb unitPath={navData[pageIndex].path} />
             <h1 className="volume-title">{unitVolume}</h1>
             <aside>
