@@ -5,7 +5,6 @@ import {
   NavbarToggler,
   Nav,
   NavItem,
-  NavbarBrand,
   NavLink,
   UncontrolledDropdown,
   DropdownToggle,
@@ -36,7 +35,7 @@ import {
       <div className="container main-menu">
         <Navbar color="light" light expand="lg">
           <NavbarToggler onClick={toggleNavbar} />
-          <Collapse isOpen={!collapsed} aria-expanded="false" navbar>
+          <Collapse isOpen={!collapsed} navbar>
             <Nav className="ml-auto ynhti-nav" navbar>
               <UncontrolledDropdown nav inNavbar>
                 <DropdownToggle href="/curriculum" caret>
