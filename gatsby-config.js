@@ -7,7 +7,7 @@ module.exports = {
   siteMetadata: {
     title: "Teacher's Institute",
     description: "Yale New Haven Teacher's Intitute Site",
-    siteUrl: 'https://teachersinstitute.yale.edu',
+    siteUrl: 'http://admiring-bell-a37b62.netlify.com/',
     author: '',
     twitter: ''
   },
@@ -17,7 +17,7 @@ module.exports = {
       resolve: 'gatsby-plugin-zopfli'
     },
     // {
-    //   resolve: `gatsby-plugin-algolia`,
+    //   resolve: 'gatsby-plugin-algolia',
     //   options: {
     //     appId: process.env.GATSBY_ALGOLIA_APP_ID,
     //     apiKey: process.env.ALGOLIA_ADMIN_KEY,
@@ -40,14 +40,14 @@ module.exports = {
       },
     },
     // {
-    //   resolve: `gatsby-plugin-sitemap`,
+    //   resolve: 'gatsby-plugin-sitemap',
     //   options: {
     //     output: `/sitemap2.xml`,
     //     sitemapSize:1000,
     //     // Exclude specific pages or groups of pages using glob parameters
     //     // See: https://github.com/isaacs/minimatch
     //     // The example below will exclude the single `path/to/page` and all routes beginning with `category`
-    //     exclude: [`\/curriculum\/units\/*`],
+    //     exclude: ['/curriculum/units/*'],
     //     query: `
     //       {
     //         site {
@@ -105,20 +105,25 @@ module.exports = {
         ],
       },
     },
-    {
-      resolve: `gatsby-plugin-manifest`,
-      options: {
-        name: 'Teachers Institute',
-        short_name: 'Teachers Institute',
-        description: 'Yale University Teacher Institute',
-        homepage_url: '/',
-        start_url: '/',
-        background_color: '#fff',
-        theme_color: '#2a52a1',
-        display: 'standalone',
-        icon: 'src/components/images/NHTI-logo-icon.png'
-      },
-    },
+    //   resolve: 'gatsby-plugin-manifest',
+    // `gatsby-plugin-favicon`,
+    // {
+    //   resolve: 'gatsby-plugin-favicon',
+    //   options: {
+    //     logo: './src/favicon.png',
+
+    //     // WebApp Manifest Configuration
+    //     // name: 'Teachers Institute',
+    //     // short_name: 'Teachers Institute',
+    //     // description: 'Yale University Teacher Institute',
+    //     // homepage_url: '/',
+    //     // start_url: '/',
+    //     // background_color: '#fff',
+    //     // theme_color: '#2a52a1',
+    //     // display: 'standalone',
+    //     //icon: 'src/components/images/NHTI-logo-icon.png'
+    //   },
+    // },
     // {
     //   resolve: 'gatsby-plugin-google-analytics',
     //   options: {
@@ -136,11 +141,11 @@ module.exports = {
     'gatsby-plugin-catch-links',
     'gatsby-plugin-react-helmet',
     'gatsby-plugin-sharp',
-    'gatsby-plugin-sitemap',
+    // 'gatsby-plugin-sitemap',
     'gatsby-transformer-sharp',
-    `gatsby-plugin-meta-redirect`,
+    'gatsby-plugin-meta-redirect',
     // {
-    //   resolve: `gatsby-plugin-s3`,
+    //   resolve: 'gatsby-plugin-s3',
     //   options: {
     //       bucketName: 'test-teachers-institute',
     //       acl: ''
