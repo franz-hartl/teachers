@@ -1,13 +1,14 @@
 {
-  "name": "gatsby-starter-blog",
+  "name": "teachers-institute",
   "private": true,
-  "description": "A starter for a blog powered by Gatsby and Markdown",
-  "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "description": "TeachersInstitute site powered by Gatsby and Markdown",
+  "version": "1.0.0",
+  "author": "Alan Scrimenti <alan.scrimenti@yale.edu>, Chao Hang Lu <chaohang.lu@yale.edu ",
   "bugs": {
     "url": "https://github.com/gatsbyjs/gatsby/issues"
   },
   "dependencies": {
+    "node": "^13.1.0",
     "animate.css": "^3.7.0",
     "bootstrap": "^4.3.1",
     "dotenv": "^7.0.0",
