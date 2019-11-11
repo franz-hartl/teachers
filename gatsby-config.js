@@ -105,6 +105,7 @@ module.exports = {
         ],
       },
     },
+<<<<<<< HEAD
     //   resolve: 'gatsby-plugin-manifest',
     // `gatsby-plugin-favicon`,
     // {
@@ -122,6 +123,20 @@ module.exports = {
     //     // theme_color: '#2a52a1',
     //     // display: 'standalone',
     //     //icon: 'src/components/images/NHTI-logo-icon.png'
+=======
+    // {
+    //   resolve: `gatsby-plugin-manifest`,
+    //   options: {
+    //     name: 'Teachers Institute',
+    //     short_name: 'Teachers Institute',
+    //     description: 'Yale University Teacher Institute',
+    //     homepage_url: '/',
+    //     start_url: '/',
+    //     background_color: '#fff',
+    //     theme_color: '#2a52a1',
+    //     display: 'standalone',
+    //     icon: 'src/components/images/NHTI-logo-icon.png'
+>>>>>>> efd7e1054c47d7eddcb65c2cccbc04e8a4ede37e
     //   },
     // },
     // {
