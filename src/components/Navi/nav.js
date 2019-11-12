@@ -45,7 +45,7 @@ import {
                   <DropdownItem href="/curriculum/indexes/">
                     View Topical Index of Units
                   </DropdownItem>
-                  <DropdownItem href="/curriculum/units/">
+                  <DropdownItem href="/curriculum/units/index.html">
                     View List of Volumes by Year
                   </DropdownItem>
                   <DropdownItem href="/curriculum/referencelists">
