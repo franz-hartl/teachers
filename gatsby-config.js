@@ -7,7 +7,7 @@ module.exports = {
   siteMetadata: {
     title: "Teacher's Institute",
     description: "Yale New Haven Teacher's Intitute Site",
-    siteUrl: 'http://admiring-bell-a37b62.netlify.com/',
+    siteUrl: 'http://teachersinstitute.yale.edu/',
     author: '',
     twitter: ''
   },
@@ -105,20 +105,20 @@ module.exports = {
         ],
       },
     },
-    {
-      resolve: `gatsby-plugin-manifest`,
-      options: {
-        name: 'Teachers Institute',
-        short_name: 'Teachers Institute',
-        description: 'Yale University Teacher Institute',
-        homepage_url: '/',
-        start_url: '/',
-        background_color: '#fff',
-        theme_color: '#2a52a1',
-        display: 'standalone',
-        icon: 'src/components/images/NHTI-logo-icon.png'
-      },
-    },
+    // {
+    //   resolve: `gatsby-plugin-manifest`,
+    //   options: {
+    //     name: 'Teachers Institute',
+    //     short_name: 'Teachers Institute',
+    //     description: 'Yale University Teacher Institute',
+    //     homepage_url: '/',
+    //     start_url: '/',
+    //     background_color: '#fff',
+    //     theme_color: '#2a52a1',
+    //     display: 'standalone',
+    //     icon: 'src/components/images/NHTI-logo-icon.png'
+    //   },
+    // },
     // {
     //   resolve: 'gatsby-plugin-google-analytics',
     //   options: {
