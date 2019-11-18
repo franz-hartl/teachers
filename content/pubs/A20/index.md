@@ -49,7 +49,7 @@ Multiculturalism</a>
 </td><td><a href="/pubs/A20/brodhead2.html">On the Debate Over Multiculturalism</a><br/>
 <font color="white" style="visibility:hidden;">______</font>By Richard H. Brodhead
 </td></tr><tr valign="top"><td align="right">
-</td><td><a href="/pubs/A20/mcgarth-galaviz.html">The Puente Project</a><br/>
+</td><td><a href="/pubs/A20/mcgrath-galaviz.html">The Puente Project</a><br/>
 <font color="white" style="visibility:hidden;">______</font>By Patricia McGrath and Felix Galaviz
 </td></tr><tr valign="top"><td align="right">
 </td><td><a href="/pubs/A20/olson.html">Writing about Culturally Diverse Literature
@@ -60,7 +60,7 @@ Multiculturalism</a>
 </a><br/>
 <font color="white" style="visibility:hidden;">______</font>By Richard Simonelli
 </td></tr><tr valign="top"><td align="right">
-</td><td><a href="/pubs/A20/suina-smoklin.html">Rural-Urban Teacher Education
+</td><td><a href="/pubs/A20/suina-smolkin.html">Rural-Urban Teacher Education
 </a><br/>
 <font color="white" style="visibility:hidden;">______</font>By Joseph H. Suina and Laura B. Smolkin
 </td></tr><tr valign="top"><td align="right">
@@ -109,6 +109,6 @@ Contact Information</a>
 </td></tr></tbody></table>
 </p>
 <center><font size="-1"><a href="..\">Publications</a> | 
-<a href="..\..\">Yale-New Haven Teachers
+<a href="/">Yale-New Haven Teachers
 Institute</a></font></center>
 </main>

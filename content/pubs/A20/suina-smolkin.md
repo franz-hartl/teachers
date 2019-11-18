@@ -3,7 +3,7 @@ layout: "page"
 title: "Rural-Urban Teacher Education"
 path: "/pubs/A20/suina-smolkin.html"
 ---
-<main>  <title>Rural-Urban Teacher Education</title>   <center><h2>Rural-Urban Teacher Education</h2> <font size="+1">By Joseph H. Suina and Laura B. Smolkin</font> </center><hr/> 
+<main><center><h2>Rural-Urban Teacher Education</h2> <font size="+1">By Joseph H. Suina and Laura B. Smolkin</font> </center><hr/> 
 The Rural-Urban Teacher Education Program was developed at the University
 of New Mexico in 1993 in response to the ever-growing need for more
 meaningful teacher training for diverse student populations.  Since the

@@ -1,13 +1,13 @@
 ---
 layout: "page"
-title: ""
+title: "Contact Information"
 path: "/pubs/A20/contact7.html"
 ---
 <main>
 <center><h2>Contact Information
 </h2></center>
 <hr/>
-Fall 996<br/>
+Fall 1996<br/>
 Yale-New Haven Teachers Institute
 <br/>Box 203563 Yale Station
 <br/>New Haven, Connecticut 06520-3563
@@ -15,7 +15,7 @@ Yale-New Haven Teachers Institute
 Phone (203) 432-1080
 <br/>Fax (203) 432-1084
 <br/>E-mail: <a href="mailto:Common_Ground@yale.edu">Common_Ground@yale.edu</a>
-<br/>World Wide Web: <a href="./../../">http://www.cis.yale.edu/ynhti</a>
+<br/>World Wide Web: <a href="/">http://teachersinstitute.yale.edu</a>
 </p><p>
 Executive Editor, James R. Vivian
 <br/>Production Associate, Margaret M. Davey

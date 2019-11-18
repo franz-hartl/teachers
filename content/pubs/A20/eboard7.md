@@ -1,6 +1,6 @@
 ---
 layout: "page"
-title: ""
+title: "Editorial Board"
 path: "/pubs/A20/eboard7.html"
 ---
 <main>

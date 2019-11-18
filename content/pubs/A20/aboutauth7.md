@@ -1,6 +1,6 @@
 ---
 layout: "page"
-title: ""
+title: "About the Authors"
 path: "/pubs/A20/aboutauth7.html"
 ---
 <main>

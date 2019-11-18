@@ -1,6 +1,6 @@
 ---
 layout: "page"
-title: ""
+title: "On the Debate Over Multiculturalism"
 path: "/pubs/A20/brodhead2.html"
 ---
 <main> <center><h2>On the Debate Over

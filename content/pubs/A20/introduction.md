@@ -1,6 +1,6 @@
 ---
 layout: "page"
-title: ""
+title: "From the New Haven Experience: Introduction"
 path: "/pubs/A20/introduction.html"
 ---
 <main>
