@@ -7,6 +7,5 @@ public
 .vscode/
 .env
 *.bkup*
-package-lock.json
 .netlify
 backup-files
