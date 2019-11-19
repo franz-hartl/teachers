@@ -5,6 +5,7 @@ import Footer from 'components/Footer/footer'
 import Logo from 'components/Logo'
 import Index from 'components/react-icons/backtoTop.js'
 import Search from 'components/Search/index.js'
+import Favicon from 'react-favicon';
 
 // const searchIndices = [
 //   { name: `dev_teachers_units`, title: `Units`, hitComp: `PageHit` }
@@ -16,6 +17,7 @@ class Layout extends React.Component {
     const { children } = this.props
     return (
       <div>
+        <Favicon url="../images/NHTI-logo-icon.png" />
         <div className="container"><a className="sr-only sr-only-focusable" href="#content">Skip to main content</a></div>
         <header className="container">
           <div className="row">
