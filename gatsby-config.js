@@ -1,8 +1,5 @@
 // const queries = require('./src/utils/algolia')
-
 // require('dotenv').config()
-
-
 module.exports = {
   siteMetadata: {
     title: "Teacher's Institute",
@@ -39,33 +36,6 @@ module.exports = {
         name: 'content',
       },
     },
-    // {
-    //   resolve: 'gatsby-plugin-sitemap',
-    //   options: {
-    //     output: `/sitemap2.xml`,
-    //     sitemapSize:1000,
-    //     // Exclude specific pages or groups of pages using glob parameters
-    //     // See: https://github.com/isaacs/minimatch
-    //     // The example below will exclude the single `path/to/page` and all routes beginning with `category`
-    //     exclude: ['/curriculum/units/*'],
-    //     query: `
-    //       {
-    //         site {
-    //           siteMetadata {
-    //             siteUrl
-    //           }
-    //         }
-  
-    //         allSitePage {
-    //           edges {
-    //             node {
-    //               path
-    //             }
-    //           }
-    //         }
-    //     }`
-    //   }
-    // },
     {
       resolve: 'gatsby-source-filesystem',
       options: {
@@ -99,52 +69,22 @@ module.exports = {
               wrapperStyle: 'margin-bottom: 1.0725rem',
             },
           },
-          // 'gatsby-remark-prismjs',
-          // 'gatsby-remark-copy-linked-files',
-          // 'gatsby-remark-smartypants',
         ],
       },
+      
     },
-    // {
-    //   resolve: `gatsby-plugin-manifest`,
-    //   options: {
-    //     name: 'Teachers Institute',
-    //     short_name: 'Teachers Institute',
-    //     description: 'Yale University Teacher Institute',
-    //     homepage_url: '/',
-    //     start_url: '/',
-    //     background_color: '#fff',
-    //     theme_color: '#2a52a1',
-    //     display: 'standalone',
-    //     icon: 'src/components/images/NHTI-logo-icon.png'
-    //   },
-    // },
-    // {
-    //   resolve: 'gatsby-plugin-google-analytics',
-    //   options: {
-    //     trackingId: '',
-    //   },
-    // },
-    // {
-    //   resolve: 'gatsby-plugin-netlify',
-    //   options: {
-    //     mergeSecurityHeaders: true,
-    //     mergeLinkHeaders: true,
-    //     mergeCachingHeaders: true,
-    //   },
-    // },
     'gatsby-plugin-catch-links',
     'gatsby-plugin-react-helmet',
     'gatsby-plugin-sharp',
-    // 'gatsby-plugin-sitemap',
     'gatsby-transformer-sharp',
     'gatsby-plugin-meta-redirect',
-    // {
-    //   resolve: 'gatsby-plugin-s3',
-    //   options: {
-    //       bucketName: 'test-teachers-institute',
-    //       acl: ''
-    //   },
-    // },
+    {
+      resolve: `gatsby-transformer-remark`,
+      options: {
+        plugins: [
+          `gatsby-remark-mathjax`,
+        ],
+      },
+    },
   ],
 }
