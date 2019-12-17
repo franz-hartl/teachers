@@ -7,21 +7,21 @@ path: "/brochures/CenterManual/ElectronicResources.html"
 <font size="+1">Index of all Curriculum Units, 1978-2003</font>
 <center>Select a letter to jump to the subjects beginning with that letter:
 <br/>
-<a href="a.x.html">A</a> | <a href="b.x.html">B</a> |
-<a href="c.x.html">C</a> | <a href="d.x.html">D</a> |
-<a href="e.x.html">E</a> | <a href="f.x.html">F</a> |
-<a href="g.x.html">G</a> | <a href="h.x.html">H</a> |
-<a href="i.x.html">I</a> | <a href="j.x.html">J</a> |
-<a href="k.x.html">K</a> | <a href="l.x.html">L</a> |
-<a href="m.x.html">M</a> | <a href="n.x.html">N</a> |
-<a href="o.x.html">O</a> | <a href="p.x.html">P</a> |
-<a href="q.x.html">Q</a> | <a href="r.x.html">R</a> |
-<a href="s.x.html">S</a> | <a href="t.x.html">T</a> |
-<a href="u.x.html">U</a> | <a href="v.x.html">V</a> |
-<a href="w.x.html">W</a> | <a href="x.x.html">X</a> |
-<a href="y.x.html">Y</a> | <a href="z.x.html">Z</a><br/>
-<font size="-1"><a href="../units/">Directory of Volumes</a> |
-<a href="..\..\">Yale-New Haven Teachers Institute</a></font></center>
+<a href="/curriculum/indexes/a.x.html">A</a> | <a href="/curriculum/indexes/b.x.html">B</a> |
+<a href="/curriculum/indexes/c.x.html">C</a> | <a href="/curriculum/indexes/d.x.html">D</a> |
+<a href="/curriculum/indexes/e.x.html">E</a> | <a href="/curriculum/indexes/f.x.html">F</a> |
+<a href="/curriculum/indexes/g.x.html">G</a> | <a href="/curriculum/indexes/h.x.html">H</a> |
+<a href="/curriculum/indexes/i.x.html">I</a> | <a href="/curriculum/indexes/j.x.html">J</a> |
+<a href="/curriculum/indexes/k.x.html">K</a> | <a href="/curriculum/indexes/l.x.html">L</a> |
+<a href="/curriculum/indexes/m.x.html">M</a> | <a href="/curriculum/indexes/n.x.html">N</a> |
+<a href="/curriculum/indexes/o.x.html">O</a> | <a href="/curriculum/indexes/p.x.html">P</a> |
+<a href="/curriculum/indexes/q.x.html">Q</a> | <a href="/curriculum/indexes/r.x.html">R</a> |
+<a href="/curriculum/indexes/s.x.html">S</a> | <a href="/curriculum/indexes/t.x.html">T</a> |
+<a href="/curriculum/indexes/u.x.html">U</a> | <a href="/curriculum/indexes/v.x.html">V</a> |
+<a href="/curriculum/indexes/w.x.html">W</a> | <a href="/curriculum/indexes/x.x.html">X</a> |
+<a href="/curriculum/indexes/y.x.html">Y</a> | <a href="/curriculum/indexes/z.x.html">Z</a><br/>
+<font size="-1"><a href="/curriculum/units/">Directory of Volumes</a> |
+<a href="/">Yale-New Haven Teachers Institute</a></font></center>
 <hr/>
 <p>In the Index above copied from the Web site, you are able to search an alphabetical list of topics.  Simply click on the letter that is the first letter of the desired topic.  This will give you a list of topics that begin with the selected letter.  Scroll down through this list to find the topic you are seeking.
 </p>
@@ -51,7 +51,7 @@ Only</td>
 </tr>
 <tr>
 <td align="CENTER" bgcolor="#CCCCCC" colspan="2">visit the
-<a href="map.x.html">Navigation
+<a href="/curriculum/map.x.html">Navigation
 Page</a> for complete search and site map</td>
 </tr>
 </tbody></table>

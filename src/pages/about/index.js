@@ -61,7 +61,7 @@ const aboutPage = () => (
             </div>
             <div className="br-cell py-2">
               <h2 className="br-title">
-                <Link to="transcripts/25thTranscript.html">
+                <Link to="articles/index.html">
                   Published Essays{' '}
                   <i className="fas fa fa-arrow-circle-right" />
                 </Link>

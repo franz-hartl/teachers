@@ -14,17 +14,17 @@ path: "/brochures/CenterManual/InstituteResources.html"
 </p>
 <p>Printed Materials 
 </p><ul>
-1. Complete Set of <a href="../../curriculum/units/">Curriculum Unit Volumes (1978-2003)</a>
-<br/>2. Complete set of <a href="../../curriculum/">Curriculum Unit Guides</a> (compiled in large 3-ring binder)
-<br/>3. Most recent <a href="../../curriculum/indexes/">Curriculum Unit Index</a>
+1. Complete Set of <a href="/curriculum/units/">Curriculum Unit Volumes (1978-2003)</a>
+<br/>2. Complete set of <a href="/curriculum/">Curriculum Unit Guides</a> (compiled in large 3-ring binder)
+<br/>3. Most recent <a href="/curriculum/indexes/">Curriculum Unit Index</a>
 <br/>4. <a href="index.html">Center Manual</a>
 <br/>5. Center Log (3-ring binder) — containing most recent version of Log
 <br/>6. Institute Center <!--A HREF="../ProgramDocument/Poster.html"-->posters<!--/A-->
-<br/>7. Issues of <a href="../../pubs/backissues.html"><i>On Common Ground</i></a>
-<br/>8. Institute publications: <a href="../../pubs/A4/"><i>Teaching in America: The Common Ground</i></a> and <a href="../../pubs/A5/"><i>Teaching in New Haven: The Common Challenge</i></a>
+<br/>7. Issues of <a href="/pubs/backissues.html"><i>On Common Ground</i></a>
+<br/>8. Institute publications: <a href="/pubs/A4/"><i>Teaching in America: The Common Ground</i></a> and <a href="/pubs/A5/"><i>Teaching in New Haven: The Common Challenge</i></a>
 <br/>9. Institute videos:  “Teaching on Common Ground,” and “Excellence in Teaching: Agenda for Partnership”
-<br/>10. Institute <a href="../A1/">annual brochure</a>
-<br/>11. Reference Lists of curriculum units developed by teachers, for teachers: <a href="../../curriculum/referencelists/elementary/"><i>Teaching in the Elementary School Classroom</i></a> and <a href="../../curriculum/referencelists/high/"><i>Teaching Connecticut Academic Performance Test Skills in High School Classrooms</i></a>
+<br/>10. Institute <a href="brochures/A1/">annual brochure</a>
+<br/>11. Reference Lists of curriculum units developed by teachers, for teachers: <a href="/curriculum/referencelists/elementary/"><i>Teaching in the Elementary School Classroom</i></a> and <a href="/curriculum/referencelists/high/"><i>Teaching Connecticut Academic Performance Test Skills in High School Classrooms</i></a>
 </ul>
 <p>Computer Hardware and Supplies (optional)
 </p><ul>
