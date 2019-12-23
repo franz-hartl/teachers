@@ -10,9 +10,7 @@ module.exports = {
   },
   pathPrefix: '/',
   plugins: [
-    {
-      resolve: 'gatsby-plugin-zopfli'
-    },
+    'gatsby-plugin-zopfli',
     // {
     //   resolve: 'gatsby-plugin-algolia',
     //   options: {
@@ -77,14 +75,6 @@ module.exports = {
     'gatsby-plugin-react-helmet',
     'gatsby-plugin-sharp',
     'gatsby-transformer-sharp',
-    'gatsby-plugin-meta-redirect',
-    {
-      resolve: `gatsby-transformer-remark`,
-      options: {
-        plugins: [
-          `gatsby-remark-mathjax`,
-        ],
-      },
-    },
+//    'gatsby-plugin-meta-redirect',
   ],
 }

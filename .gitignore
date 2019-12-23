@@ -5,7 +5,7 @@ public
 .intermediate-representation/
 .cache/
 .vscode/
-.env
+.env*
 *.bkup*
 .netlify
 backup-files
