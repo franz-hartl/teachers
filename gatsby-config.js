@@ -73,8 +73,8 @@ module.exports = {
     },
     'gatsby-plugin-catch-links',
     'gatsby-plugin-react-helmet',
-    'gatsby-plugin-sharp',
-    'gatsby-transformer-sharp',
-//    'gatsby-plugin-meta-redirect',
+    // 'gatsby-plugin-sharp',
+    // 'gatsby-transformer-sharp',
+    // 'gatsby-plugin-meta-redirect',
   ],
 }
