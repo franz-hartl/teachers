@@ -39,15 +39,14 @@ to Yale University.
   history and literature, thematic approaches to literature, and
   approaches to teaching writing.
 
-- <h3><a href="/articles/C8.html">Issues in Establishing and Developing an Educational Collaboration,
-  1986</a></h3>
+- <h3><a href="/articles/C6.html">Issues in Establishing and Developing an Educational Collaboration, 1986</a></h3>
 
   An essay by James R. Vivian addressing some of the issues raised by
   individuals considering how they might adapt the Institute's program
   to their own educational settings. An earlier version of this essay
   appeared in "Education and Urban Society," November 1986.
 
-- <h3><a href="/articles/C6.html">Partnerships and the Community, 1987</a></h3>
+- <h3><a href="/articles/C8.html">Partnerships and the Community, 1987</a></h3>
 
   In a panel at the State University of New York in 1987, James R.
   Vivian spoke about the principles of the Institute's program in New

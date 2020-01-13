@@ -23,9 +23,9 @@ path: "/brochures/CenterManual/"
         <li><a href="/brochures/CenterManual/CenterPolicies.html#e">Institute Property/Inventory</a></li>
         <li><a href="/brochures/CenterManual/CenterPolicies.html#f">Authorization Request Form</a></li>
     </ul>
-    <li><a href="/brochures/CenterManul/CenterSites.html">Center Sites</a></li>
-    <li><a href="/brochures/CenterManul/InstituteResources.html">Institute Resources</a></li>
-    <li><a href="/brochures/CenterManul/ElectronicResources.html">Electronic Resources</a></li>
+    <li><a href="/brochures/CenterManual/CenterSites.html">Center Sites</a></li>
+    <li><a href="/brochures/CenterManual/InstituteResources.html">Institute Resources</a></li>
+    <li><a href="/brochures/CenterManual/ElectronicResources.html">Electronic Resources</a></li>
     <ul>
         <li><a href="/brochures/CenterManual/ElectronicResources.html#a">Using the Center Computer: Some Do's and Don'ts</a></li>
         <li><a href="/brochures/CenterManual/ElectronicResources.html#b">NT on the YNHTI Center Computer</a></li>

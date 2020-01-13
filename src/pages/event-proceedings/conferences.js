@@ -30,7 +30,7 @@ const conPage = () => (
               </li>
               <li>
                 <strong>
-                  <Link to="transcripts/F14a.html">
+                  <Link to="brochures/A7/">
                     School-College Collaboration: Preparing Teachers and
                     Curricula, 1991
                   </Link>
@@ -39,7 +39,7 @@ const conPage = () => (
                   In 1991 teams of teachers and administrators from educational
                   partnerships across the United States attended a conference
                   focused on the content, process, and products of their
-                  collaborative efforts. A <Link to="">report</Link> on and{' '}
+                  collaborative efforts. A <Link to="brochures/A7/report.html">report</Link> on and{' '}
                   <Link to="transcripts/F14a.html">transcript</Link> of the
                   conference are available.
                 </p>
@@ -47,7 +47,7 @@ const conPage = () => (
               <ul>
               <li>
                 <strong>
-                  <Link to="transcripts/F14a.html">
+                  <Link to="transcripts/F14d.html">
                     Address by Fred M. Hechinger on “The University's Neglected
                     Task,” 1991
                   </Link>
@@ -122,7 +122,7 @@ const conPage = () => (
                 </p>
               </li>
               <li>
-                <Link to="transcripts/C2.html">
+                <Link to="transcripts/F4.html">
                   <strong>
                     Excellence in Teaching: A Common Goal, February 16-18, 1983
                   </strong>
