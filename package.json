@@ -45,6 +45,7 @@
     "react-helmet": "^5.2.0",
     "react-icons": "^3.3.0",
     "react-instantsearch-dom": "^5.5.0",
+    "react-mathjax-preview": "^0.1.16",
     "react-router": "^2.3.0 || ^3.2.1 || ^4.3.0",
     "react-router-sitemap": "^1.2.0",
     "react-scroll-up-button": "^1.6.4",

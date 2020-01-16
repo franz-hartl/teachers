@@ -18,7 +18,7 @@ class React_icons extends React.Component {
       <div className="main_content">
         <span>Tools for this {dlUnitPaths.echoUnit}:</span>
         <IconContext.Provider value={{ color: '#2B50A3', size: '3em' }}>
-          <p class="my-2 mb-3">
+          <p className="my-2 mb-3">
             <div>
               <a href={'mailto:?subject=' + 'Yale-New Haven Teacher Institute ' + 'http://teachersinstitute.yale.edu' + this.props.unitPath}
                 className="share_btn"

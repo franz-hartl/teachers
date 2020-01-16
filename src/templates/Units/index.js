@@ -5,8 +5,20 @@ import Layout from 'components/layout'
 import React_icons from 'components/react-icons'
 import Survey_feedback from 'components/Feedback'
 import NavControls from 'components/Nav-controls'
+import MathJax from 'react-mathjax-preview'
 
 class UnitTemplate extends React.Component {
+  constructor(props) {
+    super(props);
+    this.state = {
+      math: this.props.pageContext.pageHtml
+    }
+    this.renderMath.bind(this);
+  }
+
+  renderMath = e => {
+    this.setState({ math: this.props.pageContext.pageHtml });
+  };
 
   render() {
     // const { unitNav, unitPage, unitVol } = this.props.data
@@ -17,6 +29,7 @@ class UnitTemplate extends React.Component {
     const unitVolume = this.props.pageContext.unitVolume
     const isGuide = pageIndex == 0
     const isMissingPage = frontmatter.isMissingPage == true
+    const isMathPage = this.props.pageContext.isMathPage
 
     return (
       <Layout>
@@ -39,7 +52,9 @@ class UnitTemplate extends React.Component {
                       className="guide-title"
                       dangerouslySetInnerHTML={{ __html: pageHtml.title }}
                     />
-                    <div dangerouslySetInnerHTML={{ __html: pageHtml.html }} />
+
+                    {!isMathPage ? <div dangerouslySetInnerHTML={{ __html: pageHtml.html }} /> : <MathJax math={pageHtml.html} /> }
+
                     <NavControls navData={navData} pageIndex={pageIndex} />
                   </div>
                 </div>
