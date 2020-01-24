@@ -9,3 +9,4 @@ public
 *.bkup*
 .netlify
 backup-files
+yarn.lock
