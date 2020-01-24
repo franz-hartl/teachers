@@ -11,8 +11,7 @@ render() {
       <div className="main_content m-4">
         <h1 className="page-title mb-3">Search Results</h1>
         <span dangerouslySetInnerHTML={{
-        __html: `<script async src="https://cse.google.com/cse.js?cx=014177378021644155909:u_pjrcixyzi"></script>
-        <div class="gcse-searchresults-only"></div>`
+        __html: `<script async src="https://cse.google.com/cse.js?cx=014177378021644155909:u_pjrcixyzi"></script><div class="gcse-searchresults-only" data-queryParameterName="q"></div>`
       }}></span>
       </div>
       </main>
