@@ -19,6 +19,16 @@ const timePage = () => (
         public schools. The timeline includes documents, photographs, and video
         programs from throughout the Teachers Institute’s history.
       </p>
+      <strong>VIEWING AND NAVIGATING THE TIMELINE</strong>
+      <p>
+        <i>NB: This timeline is best viewed by maximizing the window of your browser. 
+        Also, due to the large number of entries, not all individual entries can be
+        seen in the timeline navigator window below. Therefore, navigating this timeline
+        is best done by using the mouse to click on the navigator window and drag the entries,
+        which move chronologically left to right throughout all of the categories below. 
+        You may also use the left-right arrow keys on your keyboard or those on either side 
+        of the main window to move left or right.</i>
+      </p>
       {/* <div className="row mt-4">
           <div className="col-sm-11 left-panel"> */}
       <iframe
