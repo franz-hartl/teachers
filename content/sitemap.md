@@ -50,12 +50,12 @@ path: /map.x.html
                     <li class="sitemap_list"><a class="sitemap_link" href="/pdfs/ar/1992-annual-report.pdf">1992 Annual Report</a></li>
                     <li class="sitemap_list"><a class="sitemap_link" href="/pdfs/ar/1991-annual-report.pdf">1991 Annual Report</a></li>
                     <li class="sitemap_list"><a class="sitemap_link" href="/pdfs/ar/1990-annual-report.pdf">1990 Annual Report</a></li>
-                    <li class="sitemap_list"><a class="sitemap_link" href="/pdfs/ar/1989-annual-report-transcript.pdf">1989 Annual Report</a></li>
-                    <li class="sitemap_list"><a class="sitemap_link" href="/pdfs/ar/1988-annual-report-transcript.pdf">1988 Annual Report</a></li>
-                    <li class="sitemap_list"><a class="sitemap_link" href="/pdfs/ar/1987-annual-report-transcript.pdf">1987 Annual Report</a></li>
-                    <li class="sitemap_list"><a class="sitemap_link" href="/pdfs/ar/1986-annual-report-transcript.pdf">1986 Annual Report</a></li>
-                    <li class="sitemap_list"><a class="sitemap_link" href="/pdfs/ar/1985-annual-report-transcript.pdf">1985 Annual Report</a></li>
-                    <li class="sitemap_list"><a class="sitemap_link" href="/pdfs/ar/1984-annual-report-transcript.pdf">1984 Annual Report</a></li>
+                    <li class="sitemap_list"><a class="sitemap_link" href="/pdfs/ar/1989-annual-report-typescript.pdf">1989 Annual Report</a></li>
+                    <li class="sitemap_list"><a class="sitemap_link" href="/pdfs/ar/1988-annual-report-typescript.pdf">1988 Annual Report</a></li>
+                    <li class="sitemap_list"><a class="sitemap_link" href="/pdfs/ar/1987-annual-report-typescript.pdf">1987 Annual Report</a></li>
+                    <li class="sitemap_list"><a class="sitemap_link" href="/pdfs/ar/1986-annual-report-typescript.pdf">1986 Annual Report</a></li>
+                    <li class="sitemap_list"><a class="sitemap_link" href="/pdfs/ar/1985-annual-report-typescript.pdf">1985 Annual Report</a></li>
+                    <li class="sitemap_list"><a class="sitemap_link" href="/pdfs/ar/1984-annual-report-typescript.pdf">1984 Annual Report</a></li>
                 </ul>
             <li class="sitemap_list"><a class="sitemap_link" href="/brochures/nationdemonstrationpj">National Demonstration Project</a></li>
                 <ul>
