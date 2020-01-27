@@ -5,8 +5,10 @@ path: /brochures/A9.html
 ---
 <h2>Awards and Recognition </h2>
 
-"Principal Recognition Accorded to the Institute by individuals and
- organizations since 1978"
+"Principal Recognition Accorded to the Institute by individuals and organizations since 1978"
+
+
+During the 2019 Annual Conference, James Forman, Jr., Professor of Law at Yale University, sat down with **2019 National Teacher of the Year Rodney A. Robinson** to discuss his experience as a three-time National Fellow. Describing his participation in the Yale National Initiative, Robinson said, "It really made me who I am. There were three times I considered leaving education: 2011, 2014, and 2018. Each time I came up here to the seminar and I got rejuvenated, reenergized to stay in the classroom and to stay focused and to keep doing the work. But each time I saw a need within my students and coming up here allowed for me to fulfill that need. The best thing about it is that my kids are using the lessons.” [See video](https://youtu.be/Q_-VS1XLvdQ)
 
 In 2015, Yale hosted "A Conversation with **Ted Mitchell**," the **U. S.
 Under Secretary of Education**, as part of a conference on supporting

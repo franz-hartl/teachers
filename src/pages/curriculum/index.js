@@ -11,9 +11,9 @@ const HomePage = () => (
             <div className="cr_row my-3 pr-3">
               <h1 className="page-title">Curricular Resources</h1>
               <p>
-                Each curriculum unit is the product of the Fellow’s seminar
-                experience and designed to teach their own students about the
-                seminar subject. Each contains: content objectives – a clear
+                Curriculum units, the product of the Fellows' seminar experience, 
+                are designed to teach their own students about the
+                seminar subject. Each curriculum unit contains: content objectives – a clear
                 statement of the subject matter the unit seeks to cover;
                 teaching strategies – a unified, coherent teaching plan for
                 those objectives; classroom activities; resources for teachers
@@ -26,8 +26,9 @@ const HomePage = () => (
               <p>
                 Thousands of curriculum units written since 1978 are a treasure
                 trove of ideas and procedures for teaching subjects in the
-                humanities and in STEM fields in grades K-12. Each teaching unit
-                is designated by three two-digit numbers (e.g. 99.01.01). The Index does not
+                humanities and in STEM fields in grades K-12. Each unit is 
+                designated by three two-digit numbers (e.g. 99.01.01), 
+                which represent the year, seminar volume, and unit. The Index does not
                 indicate whether the units are primarily for elementary or
                 secondary school grades because a great many of the units,
                 whatever their original audience, are readily adaptable for use

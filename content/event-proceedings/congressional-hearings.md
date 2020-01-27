@@ -16,12 +16,18 @@ Senator Bumpers. Vivian offered testimony at hearings also in 1985, 1990,
 
 <div class="col-sm-12 hearing left-panel">
 
-**<ul><li><p class="px-2"><a href="/pdfs/senate-edu-arts-humanities-oct85.pdf" target="_blank">Hearings on Reauthorization of the Higher Education Act, 1985</a></p></li></ul>**
+**<ul><li><p class="px-2"><a href="/pdfs/senate-edu-arts-humanities-labor-sept92.pdf" target="_blank">Field Hearing on School Reform in Connecticut, 1992</a></p></li></ul>**
 
-James R. Vivian testified before the Subcommittee on Education,
-Arts, and Humanities regarding reauthorization of the Higher Education
-Act at the invitation of Senator Robert T. Stafford of Vermont, Chairman
-of the Subcommittee.
+Testimony of James R. Vivian, Director, at a Field Hearing of the
+Subcommittee on Education, Arts and Humanities on School Reform in
+Connecticut: <i>Lessons for Our Nation,</i> held at Yale University in New Haven, Connecticut on September 3, 1992.
+
+**<ul><li><p class="px-2"><a href="/pdfs/house-arts-appropriations-interior-mar91.pdf" target="_blank">Hearings on Strengthening Arts through Arts Education, 1991</a></p></li></ul>**
+
+Written Testimony of James R. Vivian, Director, the Yale-New Haven
+Teachers Institute, before the United States House of Representatives
+Appropriations Subcommittee on Interior and Related Agencies, April
+19, 1991.
 
 **<ul><li><p class="px-2"><a href="/pdfs/house-edu-labor-Mar90.pdf" target="_blank">Hearings on the Twenty-First Century Teachers Act, 1990</a></p></li></ul>**
 
@@ -31,17 +37,11 @@ Twenty-First Century Teachers Act" (H.R. 4130). The bill would have
 authorized the creation of Teachers Institutes throughout the country
 and provided funding for five years.
 
-**<ul><li><p class="px-2">Hearings on Strengthening Arts through Arts Education, 1991</p></ul></li>**
+**<ul><li><p class="px-2"><a href="/pdfs/senate-edu-arts-humanities-oct85.pdf" target="_blank">Hearings on Reauthorization of the Higher Education Act, 1985</a></p></li></ul>**
 
-Written Testimony of James R. Vivian, Director, the Yale-New Haven
-Teachers Institute, before the United States House of Representatives
-Appropriations Subcommittee on Interior and Related Agencies, April
-19, 1991.
-
-**<ul><li><p class="px-2">Field Hearing on School Reform in Connecticut, 1992</p></ul></li>**
-
-Testimony of James R. Vivian, Director, at a Field Hearing of the
-Subcommittee on Education, Arts and Humanities on School Reform in
-Connecticut: <i>Lessons for Our Nation,</i> held at Yale University in New Haven, Connecticut on September 3, 1992.
+James R. Vivian testified before the Subcommittee on Education,
+Arts, and Humanities regarding reauthorization of the Higher Education
+Act at the invitation of Senator Robert T. Stafford of Vermont, Chairman
+of the Subcommittee.
 
 </div>

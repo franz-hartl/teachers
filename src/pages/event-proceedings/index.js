@@ -57,7 +57,7 @@ const conPage = () => (
             <div className="br-cell py-2">
               <h2 className="br-title">
                 <Link to="event-proceedings/endowment">
-                  Endowment Announcement<i className="fas fa fa-arrow-circle-right" />
+                  Endowment Celebrations<i className="fas fa fa-arrow-circle-right" />
                 </Link>
               </h2>
               <p>

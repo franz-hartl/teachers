@@ -94,7 +94,7 @@ import {
                     Conferences
                   </DropdownItem>
                   <DropdownItem href="/event-proceedings/endowment">
-                    Endowment Announcement
+                    Endowment Celebrations
                   </DropdownItem>
                   <DropdownItem href="/event-proceedings/news-conferences">
                     News Conferences
@@ -119,6 +119,9 @@ import {
                 <DropdownMenu right>
                   <DropdownItem href="/brochures/annual-brochure.html">
                       Annual Brochure
+                  </DropdownItem>
+                  <DropdownItem href="/participate">
+                    Participate
                   </DropdownItem>
                   <DropdownItem href="/about/policies-structure-procedures">
                     Policies, Structure, and Procedures

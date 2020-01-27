@@ -6,7 +6,7 @@ const conPage = () => (
   <Layout>
     <main>
       <div className="container px-5 region-content">
-        <h1 className="page-title">Endowment Announcement</h1>
+        <h1 className="page-title">Endowment Celebrations</h1>
         <p>
           At the completion of endowment challenge grants awarded in 1990 by the
           DeWitt Wallace-Reader's Digest Fund and in 1991 by the National
@@ -16,15 +16,6 @@ const conPage = () => (
         <div className="row mt-4">
           <div className="col-sm-11 left-panel">
             <ul>
-              <li>
-                <strong>
-                  <Link to="brochures/A2.html">...and for New Haven</Link>
-                </strong>
-                <p>
-                  A brochure describes the initiative to meet the endowment
-                  challenge grants awarded to the Institute.
-                </p>
-              </li>
               <li>
                 <strong>
                   <Link to="transcripts/F16.html">
@@ -53,7 +44,7 @@ const conPage = () => (
               </li>
               <li>
                 <strong>
-                  <Link to="transcripts/F14a.html">
+                  <Link to="transcripts/F12.html">
                     Celebration of the Permanence and Promise of the Teachers
                     Institute, 1991{' '}
                   </Link>
@@ -69,6 +60,15 @@ const conPage = () => (
                   resting on so many years of dedicated work and experience,
                   would become a permanent part” of the Yale-New Haven
                   partnership.
+                </p>
+              </li>
+              <li>
+                <strong>
+                  <Link to="brochures/A2.html">...and for New Haven</Link>
+                </strong>
+                <p>
+                  A brochure describes the initiative to meet the endowment
+                  challenge grants awarded to the Institute.
                 </p>
               </li>
             </ul>

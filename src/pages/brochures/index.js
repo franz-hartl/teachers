@@ -34,7 +34,7 @@ const HomePage = () => (
                 </Link>
               </h2>
               <p>
-                From its inception, the Institute has prepared Annual Reports that
+                From its inception, the Institute prepared Annual Reports that
                 describe the program’s operation in New Haven by drawing heavily
                 on the evaluations written by Fellows and seminar leaders at the
                 conclusion of their participation. Many reports also contain material on
@@ -53,7 +53,7 @@ const HomePage = () => (
                 </Link>
               </h2>
               <p>
-              After exploring during 1997 the feasibility and desirability of establishing new Teachers Institutes at other locations, the Teachers Institute undertook a National Demonstration Project to demonstrate the potential for adapting at other sites the approach to teachers’ professional development that had been followed for more than two decades by the Yale-New Haven Teachers Institute.{' '}
+              After exploring during 1997 the feasibility and desirability of establishing new Teachers Institutes at other locations, the Teachers Institute undertook a National Demonstration Project to demonstrate the potential for adapting at other sites the approach to teachers professional development that had been followed for more than two decades by the Yale-New Haven Teachers Institute.{' '}
               </p>
             </div>
           </div>

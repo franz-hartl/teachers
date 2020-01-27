@@ -21,11 +21,11 @@ const HomePage = () => (
           <div className="col-sm-6 left-panel">
             <div className="br-cell py-2">
               <h2 className="br-title">
-                Fellow Questionnaire Results, 1992-2018: Overview{' '}
+                Fellow Questionnaire Results, 1992-2019: Overview{' '}
                 <i className="fas fa fa-arrow-circle-right" />
               </h2>
               <p>
-                From 1992-2018, 533 different New Haven teachers participated at
+                From 1992-2019, 544 different New Haven teachers participated at
                 least once. All Fellows completed a questionnaire each time they
                 participated. A longitudinal analysis of questionnaire data
                 showed a notable consistency over time in the experiences of
@@ -76,7 +76,7 @@ const HomePage = () => (
                 <i className="fas fa fa-arrow-circle-right" />
               </h2>
               <p>
-                The study of curriculum units completed in 2014 and 2015 in
+                The study of curriculum units developed in 2014 and 2015 in
                 Teachers Institute seminars in New Haven and elsewhere – and in
                 the Yale National Initiative – found that most curriculum units
                 are clearly written, accurate, and usable by another teacher.

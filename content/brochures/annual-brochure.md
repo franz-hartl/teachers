@@ -6,8 +6,8 @@ path: /brochures/annual-brochure.html
 
 <h2>Annual Brochure</h2>
 
-The Institute's annual brochure describes its local program and
-schedule; contains lists of school teachers and faculty members in the
+The brochure describes the Institute's local program and schedule; 
+contains lists of school teachers and faculty members in the
 Institute's leadership; and provides participating teachers, named
 Institute Fellows, Guidelines for development of curriculum units.
 

@@ -51,11 +51,7 @@ const NewHavenPage = () => (
                 </Link>
               </li>
               <li>
-                <a
-                  target="_blank"
-                  target="_blank"
-                  href="/pdfs/ar/ar2004-full.pdf"
-                >
+                <a target="_blank" target="_blank" href="/pdfs/ar/ar2004-full.pdf">
                   2004 Annual Report
                 </a>
               </li>
@@ -102,6 +98,48 @@ const NewHavenPage = () => (
                 <Link target="_blank" to="brochures/A3/1996/">
                   1996 Annual Report
                 </Link>
+              </li>
+              <li>
+                <a target="_blank" target="_blank" href="/pdfs/ar/ar2004-full.pdf">
+                  2004 Annual Report
+                </a>
+              </li>
+
+              <li>
+                <a target="_blank" target="_blank" href="/pdfs/ar/1995-annual-report.pdf">1995 Annual Report</a>
+              </li>
+              <li>
+                <a target="_blank" target="_blank" href="/pdfs/ar/1994-annual-report.pdf">1994 Annual Report</a>
+              </li>
+              <li>
+                <a target="_blank" target="_blank" href="/pdfs/ar/1993-annual-report.pdf">1993 Annual Report</a>
+              </li>
+              <li>
+                <a target="_blank" target="_blank" href="/pdfs/ar/1992-annual-report.pdf">1992 Annual Report</a>
+              </li>
+              <li>
+                <a target="_blank" target="_blank" href="/pdfs/ar/1991-annual-report.pdf">1991 Annual Report</a>
+              </li>
+              <li>
+                <a target="_blank" target="_blank" href="/pdfs/ar/1990-annual-report.pdf">1990 Annual Report</a>
+              </li>
+              <li>
+                <a target="_blank" target="_blank" href="/pdfs/ar/1989-annual-report-transcript.pdf">1989 Annual Report</a>
+              </li>
+              <li>
+                <a target="_blank" target="_blank" href="/pdfs/ar/1988-annual-report-transcript.pdf">1988 Annual Report</a>
+              </li>
+              <li>
+                <a target="_blank" target="_blank" href="/pdfs/ar/1987-annual-report-transcript.pdf">1987 Annual Report</a>
+              </li>
+              <li>
+                <a target="_blank" target="_blank" href="/pdfs/ar/1986-annual-report-transcript.pdf">1986 Annual Report</a>
+              </li>
+              <li>
+                <a target="_blank" target="_blank" href="/pdfs/ar/1985-annual-report-transcript.pdf">1985 Annual Report</a>
+              </li>
+              <li>
+                <a target="_blank" target="_blank" href="/pdfs/ar/1984-annual-report-transcript.pdf">1984 Annual Report</a>
               </li>
             </ul>
           </div>

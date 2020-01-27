@@ -25,6 +25,6 @@ Ground®</i><br /><a href="mailto:common.ground@yale.edu">common.ground@yale.edu
   </tr>
 </table>
 
-Comments and suggestions concerning this site or the Institute may
+Comments and suggestions concerning the Institute or this site may
 also be submitted through our [Guestbook
 form](https://yalesurvey.ca1.qualtrics.com/jfe/form/SV_2lYNllUbWwcheuh).

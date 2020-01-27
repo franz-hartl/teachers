@@ -1,11 +1,16 @@
 import React from 'react'
 import { Link } from 'gatsby'
-// import path from 'path'; const { parse } = path;
-const path = require('path')
+
+// UnitPath:
+//  Preface:      /curriculum/units/2019/3/
+//  Intro:        /curriculum/units/2019/3/19.03.intro.x.html
+//  Guide:        /curriculum/guides/2019/3/19.03.01.x.html
+//  Unit pg 1:    /curriculum/units/2019/3/19.03.01.x.html
+//  Unit pg > 1:  /curriculum/units/2019/3/19.03.01/2
 
 class Breadcrumb extends React.Component {
   render() {
-    const unitPaths = getUnitPaths(this.props.unitPath)
+//    const unitPaths = getUnitPaths(this.props.unitPath)
 
     return (
       <div className="tr_breadcrumb mt-2">
@@ -13,14 +18,9 @@ class Breadcrumb extends React.Component {
           <Link to="/curriculum/">Curricular Resources</Link>
         </span>
         {' > '}
-        <span>
-          <Link
-            to={`/curriculum/units/${String(unitPaths.year)}/${String(unitPaths.volume)}`}
-          > {unitPaths.year} Volume {`${isNaN(unitPaths.volume) ? unitPaths.volume : romanNumber(parseInt(unitPaths.volume))}`}
-          </Link>
-        </span>
+        <VolumeBreadcrumb unitPath={this.props.unitPath} />
         {' > '}
-        <VolumeUnitBreadcrumbs unitPaths={unitPaths} />
+        <SectionBreadcrumb unitPath={this.props.unitPath} />
       </div>
     )
   }
@@ -30,95 +30,88 @@ export default Breadcrumb
 
 function romanNumber(i) {
   
-  var volumeRom= [" ", "I", "II", "III", "IV", "V", "VI", "VII", "VIII", "IX", 
-  "X", "XI", "XII"];
+  var volumeRom= [" ", "I", "II", "III", "IV", "V", "VI", "VII", "VIII", "IX", "X", "XI", "XII"];
 
   return volumeRom[i];
 }
 
 
+const VolumeBreadcrumb = ({ unitPath }) => {
+  // need year (string),
+  // volume (int or string 'cthistory'),
+  // is it a Preface page?
+  // path for a preface page is /curriculum/units/2019/3/  -or-   /curriculum/units/1980/cthistory/
+  
+  var pathSplit = unitPath.replace(/^\/|\/$/g, '').split('/')     // remove leading and trailing '/' and split the unit path
+  var year = pathSplit[2]
+  var volume = pathSplit[3]
 
-const VolumeUnitBreadcrumbs = ({ unitPaths }) => {
-  // var pattern = /\d\d\.\d\d$/g
-  var pattern = /intro|preface/g
-  var patternUnit = /(ch|\d\d).\d\d$/g
-
-  if (pattern.test(unitPaths.unitName)) { // check if it is an intro or preface
+  if (pathSplit.length < 5) {        // if pathSplit is < 5 then this is a preface page 
     return (
       <span>
-        {`${/(intro)/.test(unitPaths.unitName) ? 'Introduction' : 'Preface'}`}
-      </span>
-    )
-  } else if (patternUnit.test(unitPaths.unitName)) { // will print section number or unit guide
-    return (
-      <span>
-        <span>
-          <Link to={`${String(unitPaths.unitGuidePath)}`}>
-            Unit {unitPaths.unitNum} ({unitPaths.unitName}) 
-          </Link>
-        </span>
-        {' > '}
-        <span>
-          {`Section ${unitPaths.pageNum ? unitPaths.pageNum : 'Unit Guide'}`}
-        </span>
-      </span>
+        {year} Volume {`${isNaN(volume) ? volume : romanNumber(parseInt(volume))}`}
+      </span>  
     )
   } else {
     return (
-      <span>Preface</span>
+      <span>
+        <Link to={`/curriculum/units/${String(year)}/${String(volume)}`} >
+          {year} Volume {`${isNaN(volume) ? volume : romanNumber(parseInt(volume))}`}
+        </Link>
+      </span>
     )
   }
 }
 
-// UnitPath =  curriculum/guides/2018/2/18.02.01.x.html
 
-function getUnitPaths(unitPath) {
+const SectionBreadcrumb = ({ unitPath }) => {
+  // is it an intro or preface or guide or unit ?
+  // if it is a unit:
+  //    unit number
+  //    page number
+  //    unit name
+  //    unit path
+  
+  var patternIntro = /intro/g
+  var pathSplit = unitPath.replace(/^\/|\/$/g, '').split('/')
+  var isGuide = pathSplit[1] === 'guides'
+  var isPreface = pathSplit.length < 5
 
-  var dirname = path.dirname(unitPath) // dirname = /curriculum/guides/2018/2
-  var basename = path.basename(unitPath) // basename = 18.02.01.x.html
-  var pageNum = 0
-  var pathSplit = (dirname + '/' + basename).split('/')
-
-  // unitPath = /curriculum/units/1998/1/98.01.01/3/     (unit 98.01.01 page 3)
-  // if this is a page then save the number in pageNum and then remove page number from url
-  if (pathSplit.length > 5 && basename.match(/^[0-9]+$/) != null) {
-    pageNum = parseInt(basename)
-    basename = path.basename(dirname)
-    dirname = path.dirname(dirname)
-    pathSplit = (dirname + '/' + basename).split('/')
-  } 
-  else {   // otherwise if it is a unit (not a guide) then it is the 1st page (section)
-    // unitPath = /curriculum/guides/1998/1/98.01.01.x.html
-    // unitPath = /curriculum/units/1998/1/98.01.01.x.html
-    if (pathSplit[2] === 'units') {
-      pageNum = 1
+  if (isPreface) {
+    return (
+      <span>Preface</span>
+    )
+  } else if (patternIntro.test(pathSplit[4])) {     // check if it is an intro
+    return (
+      <span>Introduction</span>
+    )
+  } else {    // unit pages other than 1st page
+    let unitSplit = pathSplit[4].split('.')
+    let unitNum = parseInt(unitSplit[2])
+    let unitName = pathSplit[4].split('.x.html')[0]
+    if (isGuide || pathSplit.length > 5) {
+      var pageNum = isGuide ? 'Unit Guide' : pathSplit[5]
+      if (pathSplit.length > 5) {
+        pathSplit.pop()
+        pathSplit[4] += '.x.html'
+      }
+      pathSplit[1] = 'units'
+      let unitPathPg1 = '/' + pathSplit.join('/') + '/'
+      return (
+        <span>
+          <span><Link to={`${String(unitPathPg1)}`}>Unit {unitNum} ({unitName})</Link></span>
+          {' > '}
+          <span>Section {pageNum}</span>
+        </span>
+      )
+    } else {      // unit page 1
+      return (
+        <span>
+          <span>Unit {unitNum} ({unitName})</span>
+          {' > '}
+          <span>Section 1</span>
+        </span>
+      )
     }
   }
-
-  var sectionNum = unitPath.split('/')[6];
-
-  // section is the page number or if it is a guide, preface or intro page
-  // print section to the url if there is a section otherwise print null
-  if(sectionNum === "" || sectionNum === undefined){
-    var sectionNum = ""
-  }
-  else {
-    var sectionNum = "/" + sectionNum;
-  }
-
-  pathSplit[2] = 'units'
-  var unitGuidePath = pathSplit.join('/')
-  // if unitGuidePath ends with .x.html then remove it
-  unitGuidePath = unitGuidePath.split('.x.html')[0]
-
-  return {
-    pageNum: pageNum,
-    sectionNum : sectionNum,
-    year: pathSplit[3],
-    volume: pathSplit[4],
-    unitNum: parseInt(basename.split('.')[2]),
-    unitName: basename.split('.x.html')[0],
-    unitGuidePath: unitGuidePath + '.x.html',
-  }
-
 }

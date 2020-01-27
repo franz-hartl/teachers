@@ -7,7 +7,8 @@ const HomePage = () => (
   <Layout>
     <main>
       <div className="banner mb-3 container">
-        <img src={banner} class="img-fluid" alt="New Haven Green" title="New Haven Green"/>
+        <img src={banner} className="img-fluid" alt="New Haven Green" title="New Haven Green"/>
+        <figcaption style={{fontSize: 'smaller'}}>View of the New Haven Green and Yale Campus</figcaption>
       </div>
       <div className="container region-content">
         <div className="row">
@@ -33,15 +34,14 @@ const HomePage = () => (
             <p>
               Each teacher participating as a Fellow in an Institute seminar
               with a Yale faculty member studies the seminar subject and
-              prepares a curriculum unit to be taught in the following year. In
+              prepares a curriculum unit to be taught during the following year. In
               this way teachers deepen their knowledge of the subjects they
               teach and develop new curricular material to engage and educate
               the students in their school courses.
             </p>
             <p>
-              You can view the curriculum units in the{' '}
-              <Link to="curriculum/indexes/">topical index</Link> or in 
-              the <Link to="curriculum/units/">volumes of units</Link> published each year.
+              You can view the curriculum units by searching the{' '}
+              <Link to="curriculum/indexes/">topical index</Link> or the <Link to="curriculum/units/">volumes of units</Link> published each year.
             </p>
           </div>
           <div className="col-sm-4">
@@ -63,7 +63,7 @@ const HomePage = () => (
                   Browse by Topic
                 </Link>
               </div>
-              <div className="p-3 mt-4 accent block-block">
+              <div className="p-3 mt-4 block-block">
                 <h2 className="block-title">National Program</h2>
                 <p>
                   For more information about the Institute's work nationally,

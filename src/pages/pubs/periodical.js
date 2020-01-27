@@ -131,9 +131,12 @@ const periodicalPage = () => (
               </li>
               <li>
                 <strong>
-                  <Link to="pubs/A22/ ">
+                  <a
+                    target="_blank"
+                    href="/pdfs/ocg/ocg9.pdf"
+                  >
                     On Common Ground® - Number 9, Fall 2001{' '}
-                  </Link>
+                  </a>
                 </strong>
                 <p>
                   Secretary of Education Rod Paige contributed the feature
@@ -142,9 +145,12 @@ const periodicalPage = () => (
               </li>
               <li>
                 <strong>
-                  <Link to="pubs/A21/">
+                  <a
+                    target="_blank"
+                    href="/pdfs/ocg/ocg8.pdf"
+                  >
                     On Common Ground® - Number 8, Winter 1998{' '}
-                  </Link>
+                  </a>
                 </strong>
                 <p>
                   Number 8 focused on “Building Partnerships for Our Children.”{' '}
@@ -152,9 +158,12 @@ const periodicalPage = () => (
               </li>
               <li>
                 <strong>
-                  <Link to="pubs/A20/">
+                  <a
+                    target="_blank"
+                    href="/pdfs/ocg/ocg7.pdf"
+                  >
                     On Common Ground® - Number 7, Fall 1996{' '}
-                  </Link>
+                  </a>
                 </strong>
                 <p>
                   Number 7 was devoted to “Diversity, Partnership and
@@ -163,9 +172,12 @@ const periodicalPage = () => (
               </li>
               <li>
                 <strong>
-                  <Link to="pubs/A19/">
+                  <a
+                    target="_blank"
+                    href="/pdfs/ocg/ocg6.pdf"
+                  >
                     On Common Ground® - Number 6, Spring 1996{' '}
-                  </Link>
+                  </a>
                 </strong>
                 <p>
                   Number 6 addressed “Educational Organization and Change.”{' '}
@@ -173,17 +185,23 @@ const periodicalPage = () => (
               </li>
               <li>
                 <strong>
-                  <Link to="pubs/A18/">
+                  <a
+                    target="_blank"
+                    href="/pdfs/ocg/ocg5.pdf"
+                  >
                     On Common Ground® - Number 5, Fall 1995{' '}
-                  </Link>
+                  </a>
                 </strong>
                 <p> Number 5 explored “Partnership and the Arts.” </p>
               </li>
               <li>
                 <strong>
-                  <Link to="pubs/A17/">
+                  <a
+                    target="_blank"
+                    href="/pdfs/ocg/ocg4.pdf"
+                  >
                     On Common Ground® - Number 4, Spring 1995{' '}
-                  </Link>
+                  </a>
                 </strong>
                 <p>
                   Number 4 was devoted to “Partnerships in Science and
@@ -194,9 +212,12 @@ const periodicalPage = () => (
               </li>
               <li>
                 <strong>
-                  <Link to="pubs/A16/">
+                  <a
+                    target="_blank"
+                    href="/pdfs/ocg/ocg3.pdf"
+                  >
                     On Common Ground® - Number 3, Fall 1994{' '}
-                  </Link>
+                  </a>
                 </strong>
                 <p>
                   Number 3 featured an essay by Robert Reich, Secretary of
@@ -206,9 +227,12 @@ const periodicalPage = () => (
               </li>
               <li>
                 <strong>
-                  <Link to="pubs/A15/">
+                  <a
+                    target="_blank"
+                    href="/pdfs/ocg/ocg2.pdf"
+                  >
                     On Common Ground® - Number 2, Summer 1994{' '}
-                  </Link>
+                  </a>
                 </strong>
                 <p>
                   Number 2 featured an essay by Vito Perrone on the historical
@@ -217,9 +241,12 @@ const periodicalPage = () => (
               </li>
               <li>
                 <strong>
-                  <Link to="pubs/A14/">
+                  <a
+                    target="_blank"
+                    href="/pdfs/ocg/ocg1.pdf"
+                  >
                     On Common Ground® - Number 1, Fall 1993{' '}
-                  </Link>
+                  </a>
                 </strong>
                 <p>
                   Number 1 featured an essay by Secretary of Education Richard

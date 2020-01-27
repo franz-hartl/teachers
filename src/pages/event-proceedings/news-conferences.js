@@ -33,7 +33,7 @@ const conPage = () => (
               </li>
               <li>
                 <strong>
-                  <Link to="transcripts/F13.html">
+                  <Link to="transcripts/F3.html">
                     News Conference on November 8, 1982{' '}
                   </Link>
                 </strong>

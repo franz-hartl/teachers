@@ -16,7 +16,7 @@ const aboutPage = () => (
                 </Link>
               </h2>
               <p>
-                The Institute’s annual brochure describes its local program and
+                The brochure describes the Institute’s local program and
                 schedule; contains lists of school teachers and faculty members
                 in the Institute’s leadership; and provides participating
                 teachers, named Institute Fellows, Guidelines for development of
@@ -25,30 +25,18 @@ const aboutPage = () => (
             </div>
             <div className="br-cell py-2">
               <h2 className="br-title">
-                <Link to="brochures/video-programs.html">
-                  Video Programs <i className="fas fa fa-arrow-circle-right" />
-                </Link>
-              </h2>
-              <p>Video programs depict the annual seminar process and results of the Yale-New Haven Teachers Institute.</p>
-              <p />
-            </div>
-            <div className="br-cell py-2">
-              <h2 className="br-title">
-                <Link to="brochures/A9.html">
-                  Awards and Recognition{' '}
+                <Link to="/participate">
+                  Participate{' '}
                   <i className="fas fa fa-arrow-circle-right" />
                 </Link>
               </h2>
               <p>
-                “Principal Recognition Accorded to the Institute” by individuals
-                and organizations since 1978.
+                The Institute accepts as Fellows teachers of English, history, languages, arts, science, and mathematics from New Haven's public elementary and secondary schools. Interested teachers discuss their potential eligibility with a School Representative or a Steering Committee member who works closely with those teachers who then submit an online application. To learn more about participating in the Institute, speak with your School Representative or Contact, or a member of the Steering Committee.
               </p>{' '}
             </div>
-          </div>
-          <div className="col-sm-6 right-panel">
             <div className="br-cell py-2">
               <h2 className="br-title">
-                <Link to="about/policies-structure-procedures">
+                <Link to="/about/policies-structure-procedures">
                   Policies, Structure, and Procedures{' '}
                   <i className="fas fa fa-arrow-circle-right" />
                 </Link>
@@ -59,9 +47,32 @@ const aboutPage = () => (
                 Institute as a permanent unit of the University.{' '}
               </p>
             </div>
+          </div>
+          <div className="col-sm-6 right-panel">
             <div className="br-cell py-2">
               <h2 className="br-title">
-                <Link to="articles/index.html">
+                <Link to="/brochures/A9.html">
+                  Awards and Recognition{' '}
+                  <i className="fas fa fa-arrow-circle-right" />
+                </Link>
+              </h2>
+              <p>
+                “Principal Recognition Accorded to the Institute” by individuals
+                and organizations since 1978
+              </p>{' '}
+            </div>
+            <div className="br-cell py-2">
+              <h2 className="br-title">
+                <Link to="/brochures/video-programs.html">
+                  Video Programs <i className="fas fa fa-arrow-circle-right" />
+                </Link>
+              </h2>
+              <p>Video programs depict the annual seminar process and results of the Yale-New Haven Teachers Institute.</p>
+              <p />
+            </div>
+            <div className="br-cell py-2">
+              <h2 className="br-title">
+                <Link to="/articles/index.html">
                   Published Essays{' '}
                   <i className="fas fa fa-arrow-circle-right" />
                 </Link>
@@ -75,7 +86,7 @@ const aboutPage = () => (
             </div>
             <div className="br-cell py-2">
               <h2 className="br-title">
-                <Link to="about/advisory">
+                <Link to="/about/advisory">
                   University Advisory Council{' '}
                   <i className="fas fa fa-arrow-circle-right" />
                 </Link>

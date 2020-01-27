@@ -156,7 +156,7 @@ const conPage = () => (
                       State of North Carolina.{' '}
                       </p>
                       <p>
-                      A video and <Link to="transcripts/F4.html">transcript</Link> of
+                      A <a href='https://www.youtube.com/embed/OlWOeScEWs8?'  target='_blank'>video</a> and <Link to="transcripts/F4.html">transcript</Link> of
                       the video recording are available.
                     </p>
 

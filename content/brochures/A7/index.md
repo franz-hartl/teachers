@@ -4,7 +4,7 @@ title: ""
 path: "/brochures/A7/"
 ---
 <main>
-<center><h2>"School­College Collaboration: Preparing Teachers and
+<center><h2>"School-­College Collaboration: Preparing Teachers and
 Curricula for Public Schools"
 <br/>A Report on the Conference
 <br/>1992</h2>
@@ -26,7 +26,7 @@ Conference Sessions
 <li><a href="/brochures/A7/report.html#e">Opening Sessions</a></li>
 <li><a href="/brochures/A7/report.html#f">Panel Discussion on <i>Teaching in New Haven: The Common Challenge</i></a></li>
 <li><a href="/brochures/A7/report.html#g">Remarks by President Schmidt</a></li>
-<li><a href="/brochures/A7/report.html#h" plenary="" session<=""></a></li>
+<li><a href="/brochures/A7/report.html#h">Plenary Session</a></li>
 <li><a href="/brochures/A7/report.html#i">Academic Content of Programs in Science and Mathematics</a></li>
 <li><a href="/brochures/A7/report.html#j">Academic Content of Programs in the Humanities</a></li>
 <li><a href="/brochures/A7/report.html#k">Teacher Leadership and Administrative Structure</a></li>

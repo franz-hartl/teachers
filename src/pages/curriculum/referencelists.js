@@ -16,6 +16,20 @@ const HomePage = () => (
                 various grade levels in New Haven’s public schools.{' '}
               </p>
               <ul>
+              <li>
+                  <strong>
+                    <Link to="curriculum/referencelists/diversity/">
+                      Teaching about Diversity and Community, 2004
+                    </Link>
+                  </strong>
+                  <p>
+                    This list identifies 578
+                    curriculum units developed in the Institute from 1978
+                    through 2004 that correlate with academic standards
+                    concerning diversity in disciplines including English,
+                    history, foreign languages, and arts.
+                  </p>
+                </li>
                 <li>
                   <strong>
                     <Link to="curriculum/referencelists/elementary/">
@@ -23,8 +37,7 @@ const HomePage = () => (
                     </Link>
                   </strong>
                   <p>
-                    Teaching in the Elementary School Classroom identifies six
-                    hundred curriculum units developed in the Institute from
+                    This list identifies 600 curriculum units developed in the Institute from
                     1978 through 1999 that teachers believe are suitable for use
                     in an elementary classroom and for adaptation to
                     middle-school classrooms.
@@ -33,7 +46,7 @@ const HomePage = () => (
                 <li>
                   <strong>
                     <Link to="curriculum/referencelists/high/">
-                      Teaching Connecticut Academic Performance Test Skills in
+                      Teaching Connecticut Academic Performance Test (CAPT) Skills in
                       High School, 2001
                     </Link>
                   </strong>
@@ -43,20 +56,6 @@ const HomePage = () => (
                     seven subjects developed in the Institute from 1978 through
                     1999 that can assist in teaching literacy skills and in
                     preparing students for the CAPT.{' '}
-                  </p>
-                </li>
-                <li>
-                  <strong>
-                    <Link to="curriculum/referencelists/diversity/">
-                      Teaching about Diversity and Community, 2004
-                    </Link>
-                  </strong>
-                  <p>
-                    Teaching about Diversity and Community identifies 578
-                    curriculum units developed in the Institute from 1978
-                    through 2004 that correlate with academic standards
-                    concerning diversity in disciplines including English,
-                    history, foreign languages, and arts.
                   </p>
                 </li>
               </ul>

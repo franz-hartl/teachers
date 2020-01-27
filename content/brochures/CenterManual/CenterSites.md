@@ -28,7 +28,7 @@ path: "/brochures/CenterManual/CenterSites.html"
 </td>
 <td>
 <br/>Media Center
-<br/><a href="mailto:beecher@ynhti.yale.edu">beecher@ynhti.yale.edu</a>
+<br/>beecher@ynhti.yale.edu
 <br/>Jean E. Sutherland
 <br/>
 </td>
@@ -42,7 +42,7 @@ path: "/brochures/CenterManual/CenterSites.html"
 </td>
 <td>
 <br/>Library
-<br/><a href="mailto:columbus@ynhti.yale.edu">columbus@ynhti.yale.edu</a>
+<br/>columbus@ynhti.yale.edu
 <br/>Kathleen Rende
 <br/>
 </td>
@@ -56,7 +56,7 @@ path: "/brochures/CenterManual/CenterSites.html"
 </td>
 <td>
 <br/>Library Media Center
-<br/><a href="mailto:davis@ynhti.yale.edu">davis@ynhti.yale.edu</a>
+<br/>davis@ynhti.yale.edu
 <br/>Waltrina D. Kirkland-Mullins
 <br/>
 </td>
@@ -76,7 +76,7 @@ path: "/brochures/CenterManual/CenterSites.html"
 </td>
 <td>
 <br/>Second Floor
-<br/><a href="mailto:fairhaven@ynhti.yale.edu">fairhaven@ynhti.yale.edu</a>
+<br/>fairhaven@ynhti.yale.edu
 <br/>Mnikesa Whitaker
 <br/>
 </td>
@@ -90,7 +90,7 @@ path: "/brochures/CenterManual/CenterSites.html"
 </td>
 <td>
 <br/>Center room adjacent to library
-<br/><a href="mailto:clemente@ynhti.yale.edu">clemente@ynhti.yale.edu</a>
+<br/>clemente@ynhti.yale.edu
 <br/>Ray Brooks
 <br/>
 </td>
@@ -112,7 +112,7 @@ path: "/brochures/CenterManual/CenterSites.html"
 <td>
 <br/>
 <br/>Third Floor
-<br/><a href="mailto:coop@ynhti.yale.edu">coop@ynhti.yale.edu</a>
+<br/>coop@ynhti.yale.edu
 <br/>Peter N. Herndon
 <br/>
 </td>
@@ -126,7 +126,7 @@ path: "/brochures/CenterManual/CenterSites.html"
 </td>
 <td>
 <br/>Teachers Lounge
-<br/><a href="mailto:career@ynhti.yale.edu">career@ynhti.yale.edu</a>
+<br/>career@ynhti.yale.edu
 <br/>Justin Boucher and Mary Donahue
 <br/>
 </td>
@@ -140,7 +140,7 @@ path: "/brochures/CenterManual/CenterSites.html"
 </td>
 <td>
 <br/>Room in Media Center
-<br/><a href="mailto:cross@ynhti.yale.edu">cross@ynhti.yale.edu</a>
+<br/>cross@ynhti.yale.edu
 <br/>David DeNaples
 <br/>
 </td>
@@ -154,7 +154,7 @@ path: "/brochures/CenterManual/CenterSites.html"
 </td>
 <td>
 <br/>Faculty Room
-<br/><a href="mailto:sound@ynhti.yale.edu">sound@ynhti.yale.edu</a>
+<br/>sound@ynhti.yale.edu
 <br/>Dina K.Secchiaroli and John Buell
 <br/>
 </td>
@@ -167,7 +167,7 @@ path: "/brochures/CenterManual/CenterSites.html"
 </td>
 <td>
 <br/>First Floor
-<br/><a href="mailto:hillhouse@ynhti.yale.edu">hillhouse@ynhti.yale.edu</a>
+<br/>hillhouse@ynhti.yale.edu
 <br/>Jason Todd
 </td>
 </tr>

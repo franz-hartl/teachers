@@ -41,9 +41,6 @@ const Footer = () => (
                 <a href="https://yalesurvey.ca1.qualtrics.com/jfe/form/SV_2lYNllUbWwcheuh">Guestbook</a>
               </div>
               <div className="ft-menu-list">
-                <Link to="participate">Participate</Link>
-              </div>
-              <div className="ft-menu-list">
                 <Link to="/comments.html">Contact Us</Link>
               </div>
             </div>
