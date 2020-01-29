@@ -96,6 +96,15 @@ const NewHavenPage = () => (
               <li>
                 <a target="_blank" target="_blank" href="/pdfs/ar/1984-annual-report-typescript.pdf">1984 Annual Report</a>
               </li>
+              <li>
+                <a target="_blank" target="_blank" href="/pdfs/ar/1980-annual-report-typescript.pdf">1980 Annual Report</a>
+              </li>
+              <li>
+                <a target="_blank" target="_blank" href="/pdfs/ar/1979-annual-report-typescript.pdf">1979 Annual Report</a>
+              </li>
+              <li>
+                <a target="_blank" target="_blank" href="/pdfs/ar/1978-annual-report-typescript.pdf">1978 Annual Report</a>
+              </li>
             </ul>
           </div>
           <div className="row" />

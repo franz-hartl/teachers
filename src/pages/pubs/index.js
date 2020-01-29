@@ -59,7 +59,7 @@ const pubsPage = () => (
                 </Link>
               </h2>
               <p>
-                A first book on the Institute was published in 1984 by the College Board. A second book published in 1991 contained a 
+                A first book on the Institute was published in 1984 by the College Board. A second book, published in 1991, contained a 
                 collection of exemplary curriculum units produced in the Institute.
               </p>
             </div>

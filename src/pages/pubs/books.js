@@ -9,9 +9,26 @@ const periodicalPage = () => (
         <h1 className="page-title">Books</h1>
         <div className="row">
           <div className="col-sm-11 left-panel">
-            <p>A first book on the Institute was published in 1984 by the College Board. A second book 
-              published in 1991 contained a collection of exemplary curriculum units produced in the Institute.
+            <p>A first book on the Institute was published in 1984 by the College Board. A second book, 
+              published in 1991, contained a collection of exemplary curriculum units produced in the Institute.
             </p>
+            <h2>Teaching in New Haven: The Common Challenge, 1991</h2>
+            <p>
+              <i>Teaching in New Haven: The Common Challenge </i>(1991) is a
+              collection of exemplary curriculum units produced in the
+              Institute. According to editor Thomas R. Whitaker, “They stand as
+              examples of the distinctive process of individual curriculum
+              development in which the Fellows of the Institute have been
+              engaged.”
+            </p>
+            <ul>
+            <li>
+              <Link className="" to="pubs/A5/">
+                Teaching in New Haven: The Common Challenge
+              </Link>
+            </li>
+            </ul>
+            <hr />
             <h2>Teaching in America: The Common Ground, 1984</h2>
             <p>
               The first book on the Institute,{' '}
@@ -30,23 +47,6 @@ const periodicalPage = () => (
             <li>
               <Link className="" to="pubs/A4/">
                 Teaching in America: The Common Ground
-              </Link>
-            </li>
-            </ul>
-            <hr />
-            <h2>Teaching in New Haven: The Common Challenge, 1991</h2>
-            <p>
-              <i>Teaching in New Haven: The Common Challenge </i>(1991) is a
-              collection of exemplary curriculum units produced in the
-              Institute. According to editor Thomas R. Whitaker, “They stand as
-              examples of the distinctive process of individual curriculum
-              development in which the Fellows of the Institute have been
-              engaged.”
-            </p>
-            <ul>
-            <li>
-              <Link className="" to="pubs/A5/">
-                Teaching in New Haven: The Common Challenge
               </Link>
             </li>
             </ul>

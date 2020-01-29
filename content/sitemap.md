@@ -15,7 +15,7 @@ path: /map.x.html
             <li class="sitemap_list"><a class="sitemap_link" href="/curriculum/referencelists">Reference Lists</a></li>
                 <ul>
                     <li class="sitemap_list"><a class="sitemap_link" href="/curriculum/referencelists/diversity">Teaching about Diversity and Community</a></li>
-                    <li class="sitemap_list"><a class="sitemap_link" href="/curriculum/referencelists/elementary">Teaching in the Elementary School classroom</a></li>
+                    <li class="sitemap_list"><a class="sitemap_link" href="/curriculum/referencelists/elementary">Teaching in the Elementary School Classroom</a></li>
                     <li class="sitemap_list"><a class="sitemap_link" href="/curriculum/referencelists/high">Teaching Connecticut Academic Performance Test Skills in High School</a></li>
                 </ul>
         </ul>
@@ -56,6 +56,9 @@ path: /map.x.html
                     <li class="sitemap_list"><a class="sitemap_link" href="/pdfs/ar/1986-annual-report-typescript.pdf">1986 Annual Report</a></li>
                     <li class="sitemap_list"><a class="sitemap_link" href="/pdfs/ar/1985-annual-report-typescript.pdf">1985 Annual Report</a></li>
                     <li class="sitemap_list"><a class="sitemap_link" href="/pdfs/ar/1984-annual-report-typescript.pdf">1984 Annual Report</a></li>
+                    <li class="sitemap_list"><a class="sitemap_link" href="/pdfs/ar/1980-annual-report.pdf">1980 Annual Report</a></li>
+                    <li class="sitemap_list"><a class="sitemap_link" href="/pdfs/ar/1979-annual-report.pdf">1979 Annual Report</a></li>
+                    <li class="sitemap_list"><a class="sitemap_link" href="/pdfs/ar/1978-annual-report.pdf">1978 Annual Report</a></li>
                 </ul>
             <li class="sitemap_list"><a class="sitemap_link" href="/brochures/nationdemonstrationpj">National Demonstration Project</a></li>
                 <ul>
@@ -103,7 +106,7 @@ path: /map.x.html
                     <li class="sitemap_list"><a class="sitemap_link" href="transcripts/C2.html">Building Integrated Teacher Education Systems Statewide, 1985 </a></li>
                     <li class="sitemap_list"><a class="sitemap_link" href="transcripts/F4.html">Excellence in Teaching: A Common Goal, February 16-18, 1983 </a></li>
                 </ul>
-            <li class="sitemap_list"><a class="sitemap_link" href="/event-proceedings/endowment">Endowment</a></li>
+            <li class="sitemap_list"><a class="sitemap_link" href="/event-proceedings/endowment">Endowment Celebrations</a></li>
                 <ul>
                     <li class="sitemap_list"><a class="sitemap_link" href="/transcripts/F16.html">A Celebration of the Teachers Institute: Completing the Challenges, 1995</a></li>
                     <li class="sitemap_list"><a class="sitemap_link" href="/transcripts/F12.html">Celebration of the Permanence and Promise of the Teachers Institute, 1991</a></li>

@@ -51,8 +51,7 @@ const HomePage = () => (
                     </Link>
                   </strong>
                   <p>
-                    Teaching Connecticut Academic Performance Test (CAPT) Skills
-                    in High School Classrooms identifies 407 curriculum units in
+                    This list identifies 407 curriculum units in
                     seven subjects developed in the Institute from 1978 through
                     1999 that can assist in teaching literacy skills and in
                     preparing students for the CAPT.{' '}
