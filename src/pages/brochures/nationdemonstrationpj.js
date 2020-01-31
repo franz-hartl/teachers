@@ -11,7 +11,7 @@ const NationalDePage = () => (
           After exploring during 1997 the feasibility and desirability of
           establishing new Teachers Institutes at other locations, the Teachers
           Institute undertook a National Demonstration Project to demonstrate
-          the potential for adapting at other sites the approach to teachers
+          the potential for adapting at other sites the approach to teacher
           professional development that had been followed for more than two
           decades by the Yale-New Haven Teachers Institute.
         </p>

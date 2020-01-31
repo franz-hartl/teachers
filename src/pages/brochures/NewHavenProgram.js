@@ -31,7 +31,7 @@ const NewHavenPage = () => (
                 <Link to="brochures/A3/2006/">2006 Annual Report</Link>
               </li>
               <li>
-                <a target="_blank" target="_blank" href="/pdfs/ar/ar2004-full.pdf">2004 Annual Report</a>
+                <a target="_blank" href="/pdfs/ar/ar2004-full.pdf">2004 Annual Report</a>
               </li>
               <li>
                 <Link to="brochures/A3/2003/">2003 Annual Report</Link>
@@ -58,52 +58,52 @@ const NewHavenPage = () => (
                 <Link to="brochures/A3/1996/">1996 Annual Report</Link>
               </li>
               <li>
-                <a target="_blank" target="_blank" href="/pdfs/ar/ar2004-full.pdf">2004 Annual Report</a>
+                <a target="_blank" href="/pdfs/ar/ar2004-full.pdf">2004 Annual Report</a>
               </li>
               <li>
-                <a target="_blank" target="_blank" href="/pdfs/ar/1995-annual-report.pdf">1995 Annual Report</a>
+                <a target="_blank" href="/pdfs/ar/1995-annual-report.pdf">1995 Annual Report</a>
               </li>
               <li>
-                <a target="_blank" target="_blank" href="/pdfs/ar/1994-annual-report.pdf">1994 Annual Report</a>
+                <a target="_blank" href="/pdfs/ar/1994-annual-report.pdf">1994 Annual Report</a>
               </li>
               <li>
-                <a target="_blank" target="_blank" href="/pdfs/ar/1993-annual-report.pdf">1993 Annual Report</a>
+                <a target="_blank" href="/pdfs/ar/1993-annual-report.pdf">1993 Annual Report</a>
               </li>
               <li>
-                <a target="_blank" target="_blank" href="/pdfs/ar/1992-annual-report.pdf">1992 Annual Report</a>
+                <a target="_blank" href="/pdfs/ar/1992-annual-report.pdf">1992 Annual Report</a>
               </li>
               <li>
-                <a target="_blank" target="_blank" href="/pdfs/ar/1991-annual-report.pdf">1991 Annual Report</a>
+                <a target="_blank" href="/pdfs/ar/1991-annual-report.pdf">1991 Annual Report</a>
               </li>
               <li>
-                <a target="_blank" target="_blank" href="/pdfs/ar/1990-annual-report.pdf">1990 Annual Report</a>
+                <a target="_blank" href="/pdfs/ar/1990-annual-report.pdf">1990 Annual Report</a>
               </li>
               <li>
-                <a target="_blank" target="_blank" href="/pdfs/ar/1989-annual-report-typescript.pdf">1989 Annual Report</a>
+                <a target="_blank" href="/pdfs/ar/1989-annual-report-typescript.pdf">1989 Annual Report</a>
               </li>
               <li>
-                <a target="_blank" target="_blank" href="/pdfs/ar/1988-annual-report-typescript.pdf">1988 Annual Report</a>
+                <a target="_blank" href="/pdfs/ar/1988-annual-report-typescript.pdf">1988 Annual Report</a>
               </li>
               <li>
-                <a target="_blank" target="_blank" href="/pdfs/ar/1987-annual-report-typescript.pdf">1987 Annual Report</a>
+                <a target="_blank" href="/pdfs/ar/1987-annual-report-typescript.pdf">1987 Annual Report</a>
               </li>
               <li>
-                <a target="_blank" target="_blank" href="/pdfs/ar/1986-annual-report-typescript.pdf">1986 Annual Report</a>
+                <a target="_blank" href="/pdfs/ar/1986-annual-report-typescript.pdf">1986 Annual Report</a>
               </li>
               <li>
-                <a target="_blank" target="_blank" href="/pdfs/ar/1985-annual-report-typescript.pdf">1985 Annual Report</a>
+                <a target="_blank" href="/pdfs/ar/1985-annual-report-typescript.pdf">1985 Annual Report</a>
               </li>
               <li>
-                <a target="_blank" target="_blank" href="/pdfs/ar/1984-annual-report-typescript.pdf">1984 Annual Report</a>
+                <a target="_blank" href="/pdfs/ar/1984-annual-report-typescript.pdf">1984 Annual Report</a>
               </li>
               <li>
-                <a target="_blank" target="_blank" href="/pdfs/ar/1980-annual-report-typescript.pdf">1980 Annual Report</a>
+                <a target="_blank" href="/pdfs/ar/1980-annual-report.pdf">1980 Annual Report</a>
               </li>
               <li>
-                <a target="_blank" target="_blank" href="/pdfs/ar/1979-annual-report-typescript.pdf">1979 Annual Report</a>
+                <a target="_blank" href="/pdfs/ar/1979-annual-report.pdf">1979 Annual Report</a>
               </li>
               <li>
-                <a target="_blank" target="_blank" href="/pdfs/ar/1978-annual-report-typescript.pdf">1978 Annual Report</a>
+                <a target="_blank" href="/pdfs/ar/1978-annual-report.pdf">1978 Annual Report</a>
               </li>
             </ul>
           </div>
