@@ -10,6 +10,16 @@ module.exports = {
   },
   pathPrefix: '/',
   plugins: [
+    // Make sure this plugin is first in the array of plugins
+    {
+      resolve: `gatsby-plugin-google-analytics`,
+      options: {
+        trackingId: "UA-8762042-2",
+        // this option places the tracking script into the head of the DOM
+        head: true,
+        // other options
+      },
+    },
     'gatsby-plugin-zopfli',
     // {
     //   resolve: 'gatsby-plugin-algolia',
