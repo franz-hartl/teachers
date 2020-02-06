@@ -28,175 +28,175 @@ Institute, 1978-1991</center></h3>
 <i>(Select Seminar title to go to the volume of Curriculum Units written
 by teachers participating in the Seminar)</i>
 <h4>1978</h4>
-</a><a href="../../curriculum/units/1978/1/">Language and Writing</a><br/>
-<a href="../../curriculum/units/1978/2/">20th Century Afro-American
+</a><a href="/curriculum/units/1978/1/">Language and Writing</a><br/>
+<a href="/curriculum/units/1978/2/">20th Century Afro-American
 Culture</a><br/>
-<a href="../../curriculum/units/1978/3/">20th Century American History and
+<a href="/curriculum/units/1978/3/">20th Century American History and
 Literature</a><br/>
-<a href="../../curriculum/units/1978/4/">Colonial American History and
+<a href="/curriculum/units/1978/4/">Colonial American History and
 Material Culture</a>
 <h4>1979</h4>
-<a href="../../curriculum/units/1979/1/">The Stranger and Modern Fiction:
+<a href="/curriculum/units/1979/1/">The Stranger and Modern Fiction:
 A Portrait in Black and White</a><br/>
-<a href="../../curriculum/units/1979/2/">Themes in Twentieth Century
+<a href="/curriculum/units/1979/2/">Themes in Twentieth Century
 American Culture</a><br/>
-<a href="../../curriculum/units/1979/3/">Remarkable City: Industrial New
+<a href="/curriculum/units/1979/3/">Remarkable City: Industrial New
 Haven and the Nation, 1800-1900</a><br/>
-<a href="../../curriculum/units/1979/4/">Language and Writing</a><br/>
-<a href="../../curriculum/units/1979/5/">Strategies for Teaching
+<a href="/curriculum/units/1979/4/">Language and Writing</a><br/>
+<a href="/curriculum/units/1979/5/">Strategies for Teaching
 Literature</a><br/>
-<a href="../../curriculum/units/1979/6/">Natural History and
+<a href="/curriculum/units/1979/6/">Natural History and
 Biology</a>
 <h4>1980</h4>
-<a href="../../curriculum/units/1980/1/">Adolescence and Narrative:
+<a href="/curriculum/units/1980/1/">Adolescence and Narrative:
 Strategies for Teaching Fiction</a><br/>
-<a href="../../curriculum/units/1980/2/">Art, Artifacts, and Material
+<a href="/curriculum/units/1980/2/">Art, Artifacts, and Material
 Culture</a><br/>
-<a href="../../curriculum/units/1980/3/">Drama</a><br/>
-<a href="../../curriculum/units/1980/4/">Language and Writing</a><br/>
-<a href="../../curriculum/units/1980/5/">Man and the Environment<br/>
-</a><a href="../../curriculum/units/1980/6/">The Present as History</a><br/>
-<a href="../../curriculum/units/1980/7/">Problem Solving</a>
+<a href="/curriculum/units/1980/3/">Drama</a><br/>
+<a href="/curriculum/units/1980/4/">Language and Writing</a><br/>
+<a href="/curriculum/units/1980/5/">Man and the Environment<br/>
+</a><a href="/curriculum/units/1980/6/">The Present as History</a><br/>
+<a href="/curriculum/units/1980/7/">Problem Solving</a>
 <h4>1981</h4>
-<a href="../../curriculum/units/1981/1/">The City in American Literature
+<a href="/curriculum/units/1981/1/">The City in American Literature
 and Culture</a><br/>
-<a href="../../curriculum/units/1981/2/">An Interdisciplinary Approach to
+<a href="/curriculum/units/1981/2/">An Interdisciplinary Approach to
 British Studies</a><br/>
-<a href="../../curriculum/units/1981/3/">Human Sexuality and Human
+<a href="/curriculum/units/1981/3/">Human Sexuality and Human
 Society</a><br/>
-<a href="../../curriculum/units/1981/4/">Writing Across the Curriculum<br/>
-</a><a href="../../curriculum/units/1981/5/">The Human Environment:
+<a href="/curriculum/units/1981/4/">Writing Across the Curriculum<br/>
+</a><a href="/curriculum/units/1981/5/">The Human Environment:
 Energy</a><br/>
-<a href="../../curriculum/units/1981/6/">Computing</a><br/>
+<a href="/curriculum/units/1981/6/">Computing</a><br/>
 <h4>1982</h4>
-<a href="../../curriculum/units/1982/1/">Society and the Detective
+<a href="/curriculum/units/1982/1/">Society and the Detective
 Novel</a><br/>
-<a href="../../curriculum/units/1982/2/">Autobiography</a><br/>
-<a href="../../curriculum/units/1982/3/">The Constitution in American
+<a href="/curriculum/units/1982/2/">Autobiography</a><br/>
+<a href="/curriculum/units/1982/3/">The Constitution in American
 History and American Life</a><br/>
-<a href="../../curriculum/units/1982/4/">An Unstable World: The West in
+<a href="/curriculum/units/1982/4/">An Unstable World: The West in
 Decline?</a><br/>
-<a href="../../curriculum/units/1982/5/">Society and Literature in Latin
+<a href="/curriculum/units/1982/5/">Society and Literature in Latin
 America</a><br/>
-<a href="../../curriculum/units/1982/6/">The Changing American Family:
+<a href="/curriculum/units/1982/6/">The Changing American Family:
 Historical and Comparative Perspectives</a><br/>
-<a href="../../curriculum/units/1982/7/">Human Fetal Development</a>
+<a href="/curriculum/units/1982/7/">Human Fetal Development</a>
 <h4>1983</h4>
-<a href="../../curriculum/units/1983/1/">Elements of Architecture</a><br/>
-<a href="../../curriculum/units/1983/2/">Greek and Roman Mythology</a><br/>
-<a href="../../curriculum/units/1983/3/">Reading the Twentieth Century
+<a href="/curriculum/units/1983/1/">Elements of Architecture</a><br/>
+<a href="/curriculum/units/1983/2/">Greek and Roman Mythology</a><br/>
+<a href="/curriculum/units/1983/3/">Reading the Twentieth Century
 Short Story</a><br/>
-<a href="../../curriculum/units/1983/4/">America in the Sixties: Culture
+<a href="/curriculum/units/1983/4/">America in the Sixties: Culture
 and Counter-Culture</a><br/>
-<a href="../../curriculum/units/1983/5/">Drama</a><br/>
-<a href="../../curriculum/units/1983/6/">Cross-Cultural Variation in
+<a href="/curriculum/units/1983/5/">Drama</a><br/>
+<a href="/curriculum/units/1983/6/">Cross-Cultural Variation in
 Children and Families</a><br/>
-<a href="../../curriculum/units/1983/7/">Medical Imaging</a>
+<a href="/curriculum/units/1983/7/">Medical Imaging</a>
 <h4>1984</h4>
-<a href="../../curriculum/units/1984/1/">Elements of Architecture, Part
+<a href="/curriculum/units/1984/1/">Elements of Architecture, Part
 II</a><br/>
-<a href="../../curriculum/units/1984/2/">Greek Civilization</a><br/>
-<a href="../../curriculum/units/1984/3/">Hispanic Minorities in the United
+<a href="/curriculum/units/1984/2/">Greek Civilization</a><br/>
+<a href="/curriculum/units/1984/3/">Hispanic Minorities in the United
 States</a><br/>
-<a href="../../curriculum/units/1984/4/">The Oral Tradition</a><br/>
-<a href="../../curriculum/units/1984/5/">American Adolescents in the
+<a href="/curriculum/units/1984/4/">The Oral Tradition</a><br/>
+<a href="/curriculum/units/1984/5/">American Adolescents in the
 Public Eye</a><br/>
-<a href="../../curriculum/units/1984/6/">Geology and the Industrial
+<a href="/curriculum/units/1984/6/">Geology and the Industrial
 History of Connecticut</a>
 <h4>1985</h4>
-<a href="../../curriculum/units/1985/1/">Poetry</a><br/>
-<a href="../../curriculum/units/1985/2/">American Musical Theater</a><br/>
-<a href="../../curriculum/units/1985/3/">Twentieth Century American
+<a href="/curriculum/units/1985/1/">Poetry</a><br/>
+<a href="/curriculum/units/1985/2/">American Musical Theater</a><br/>
+<a href="/curriculum/units/1985/3/">Twentieth Century American
 Fiction, Biography, and Autobiography</a><br/>
-<a href="../../curriculum/units/1985/4/">History as Fiction in Central and
+<a href="/curriculum/units/1985/4/">History as Fiction in Central and
 South America</a><br/>
-<a href="../../curriculum/units/1985/5/">Odysseys: Nineteenth- and
+<a href="/curriculum/units/1985/5/">Odysseys: Nineteenth- and
 Twentieth-Century African-American History
 Through 
 Personal Narrative</a><br/>
-<a href="../../curriculum/units/1985/6/">Time Machines: Artifacts and
+<a href="/curriculum/units/1985/6/">Time Machines: Artifacts and
 Culture</a><br/>
-<a href="../../curriculum/units/1985/7/">Skeletal
+<a href="/curriculum/units/1985/7/">Skeletal
 Materials-Biomineralization</a><br/>
-<a href="../../curriculum/units/1985/8/">The Measurement of
+<a href="/curriculum/units/1985/8/">The Measurement of
 Adolescents</a>
 <h4>1986</h4>
-<a href="../../curriculum/units/1986/1/">The Family in Literature</a><br/>
-<a href="../../curriculum/units/1986/2/">Writings and Re-Writings of the
+<a href="/curriculum/units/1986/1/">The Family in Literature</a><br/>
+<a href="/curriculum/units/1986/2/">Writings and Re-Writings of the
 Discovery and Conquest of America</a><br/>
-<a href="../../curriculum/units/1986/3/">Topics in Western Civilization:
+<a href="/curriculum/units/1986/3/">Topics in Western Civilization:
 Ideals of Community and the Development
 of Urban Life</a><br/>
-<a href="../../curriculum/units/1986/4/">The Process of Writing</a><br/>
-<a href="../../curriculum/units/1986/5/">The Measurement of Adolescents,
+<a href="/curriculum/units/1986/4/">The Process of Writing</a><br/>
+<a href="/curriculum/units/1986/5/">The Measurement of Adolescents,
 II</a><br/>
-<a href="../../curriculum/units/1986/6/">Engineering and Science at Work:
+<a href="/curriculum/units/1986/6/">Engineering and Science at Work:
 Coal Combustion and Nuclear Fission as
 Sources of Electricity</a>
 <h4>1987</h4>
-<a href="../../curriculum/units/1987/1/">The Modern Short Story in Latin
+<a href="/curriculum/units/1987/1/">The Modern Short Story in Latin
 America</a><br/>
-<a href="../../curriculum/units/1987/2/">Epic, Romance and the American
+<a href="/curriculum/units/1987/2/">Epic, Romance and the American
 Dream</a><br/>
-<a href="../../curriculum/units/1987/3/">Writing About American
+<a href="/curriculum/units/1987/3/">Writing About American
 Culture</a><br/>
-<a href="../../curriculum/units/1987/4/">The Writing of History: Writing
+<a href="/curriculum/units/1987/4/">The Writing of History: Writing
 as History</a><br/>
-<a href="../../curriculum/units/1987/5/">Human Nature, Biology, and Social
+<a href="/curriculum/units/1987/5/">Human Nature, Biology, and Social
 Structure: A Critical Look at What
 Science Can Tell Us About Society</a><br/>
-<a href="../../curriculum/units/1987/6/">Science, Technology, and
+<a href="/curriculum/units/1987/6/">Science, Technology, and
 Society</a>
 <h4>1988</h4>
-<a href="../../curriculum/units/1988/1/">Courts, Congress and the
+<a href="/curriculum/units/1988/1/">Courts, Congress and the
 Constitution</a><br/>
-<a href="../../curriculum/units/1988/2/">Immigrants and American
+<a href="/curriculum/units/1988/2/">Immigrants and American
 Identity</a><br/>
-<a href="../../curriculum/units/1988/3/">Autobiography in America</a><br/>
-<a href="../../curriculum/units/1988/4/">Writing About American
+<a href="/curriculum/units/1988/3/">Autobiography in America</a><br/>
+<a href="/curriculum/units/1988/4/">Writing About American
 Fiction</a><br/>
-<a href="../../curriculum/units/1988/5/">Hormones and Reproduction</a><br/>
-<a href="../../curriculum/units/1988/6/">Aerodynamics: Its Science,
+<a href="/curriculum/units/1988/5/">Hormones and Reproduction</a><br/>
+<a href="/curriculum/units/1988/6/">Aerodynamics: Its Science,
 Applications, Recent History, and its Impact on
 Transportation</a>
 <h4>1989</h4>
-<a href="../../curriculum/units/1989/1/">American Communities,
+<a href="/curriculum/units/1989/1/">American Communities,
 1880-1980</a><br/>
-<a href="../../curriculum/units/1989/2/">Poetry</a><br/>
-<a href="../../curriculum/units/1989/3/">Family Ties in Latin American
+<a href="/curriculum/units/1989/2/">Poetry</a><br/>
+<a href="/curriculum/units/1989/3/">Family Ties in Latin American
 Fiction</a><br/>
-<a href="../../curriculum/units/1989/4/">Detective Fiction: Its Use as
+<a href="/curriculum/units/1989/4/">Detective Fiction: Its Use as
 Literature and History</a><br/>
-<a href="../../curriculum/units/1989/5/">America as Myth</a><br/>
-<a href="../../curriculum/units/1989/6/">Crystals in Science and
+<a href="/curriculum/units/1989/5/">America as Myth</a><br/>
+<a href="/curriculum/units/1989/6/">Crystals in Science and
 Technology</a><br/>
-<a href="../../curriculum/units/1989/7/">Electrical Technologies: Light
+<a href="/curriculum/units/1989/7/">Electrical Technologies: Light
 at Night, Microelectronics,
 Superconductivity?</a>
 <h4>1990</h4>
-<a href="../../curriculum/units/1990/1/">The Autobiographical Mode in
+<a href="/curriculum/units/1990/1/">The Autobiographical Mode in
 Latin American Literature</a><br/>
-<a href="../../curriculum/units/1990/2/">Contemporary American Drama:
+<a href="/curriculum/units/1990/2/">Contemporary American Drama:
 Scripts and Performance</a><br/>
-<a href="../../curriculum/units/1990/3/">The U.S. National Parks
+<a href="/curriculum/units/1990/3/">The U.S. National Parks
 Movement</a><br/>
-<a href="../../curriculum/units/1990/4/">American Family Portraits</a><br/>
-<a href="../../curriculum/units/1990/6/">Genetics</a><br/>
-<a href="../../curriculum/units/1990/7/">What Makes Airplanes Fly?
+<a href="/curriculum/units/1990/4/">American Family Portraits</a><br/>
+<a href="/curriculum/units/1990/6/">Genetics</a><br/>
+<a href="/curriculum/units/1990/7/">What Makes Airplanes Fly?
 History, Science and Applications of
 Aerodynamics</a>
 <h4>1991</h4>
-<a href="../../curriculum/units/1991/1/">Multi-disciplinary Studies in
+<a href="/curriculum/units/1991/1/">Multi-disciplinary Studies in
 American Regions and Regionalism</a><br/>
-<a href="../../curriculum/units/1991/2/">The Family in Art and Material
+<a href="/curriculum/units/1991/2/">The Family in Art and Material
 Culture</a><br/>
-<a href="../../curriculum/units/1991/3/">Afro-American
+<a href="/curriculum/units/1991/3/">Afro-American
 Autobiography</a><br/>
-<a href="../../curriculum/units/1991/4/">Recent American Poetry: Expanding
+<a href="/curriculum/units/1991/4/">Recent American Poetry: Expanding
 the Canon</a><br/>
-<a href="../../curriculum/units/1991/5/">Adolescence/Adolescents'
+<a href="/curriculum/units/1991/5/">Adolescence/Adolescents'
 Health</a><br/>
-<a href="../../curriculum/units/1991/6/">Global Environmental
+<a href="/curriculum/units/1991/6/">Global Environmental
 Change</a>
 <center><div align="right"><p>
 <a href="#top">to the top of the Appendix</a></p></div></center>
