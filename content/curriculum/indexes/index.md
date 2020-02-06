@@ -20,15 +20,15 @@ path: "/curriculum/indexes/"
 <a href="u.x.html">U</a> | <a href="v.x.html">V</a> |
 <a href="w.x.html">W</a> | <a href="x.x.html">X</a> |
 <a href="y.x.html">Y</a> | <a href="z.x.html">Z</a><br/>
-<font size="-1"><a href="../units/">Directory of Volumes</a> |
-<a href="..\..\">Yale-New Haven Teachers Institute</a></font></center>
+<font size="-1"><a href="/curriculum/units/">Directory of Volumes</a> |
+<a href="/">Yale-New Haven Teachers Institute</a></font></center>
 <hr/>
 <p>
 <b>Foreword</b>
 </p><p>Since the Yale-New Haven Teachers Institute began its work in 1978, thousands of teaching units have been prepared by hundreds of 
 teachers on scores of themes.  The volumes containing the teaching units are a treasure trove of 
 ideas and procedures for teaching English, History, Social Studies, the Languages, the Arts, Mathematics, and Science in elementary, middle, and high schools.  A list of these volumes appears on the
-<a href="../units/">Directory of Volumes</a> page of this website.
+<a href="/curriculum/units/">Directory of Volumes</a> page of this website.
 The very bulk of the material, however, made it somewhat tiresome to search through all the volumes to unearth the gems of special 
 interest to the searcher.  Therefore, in the summer of 1985, James Vivian, Director of the Institute, 
 commissioned the preparation of a topical index to all units written from 1978 through 1985.  
@@ -44,7 +44,7 @@ original commission and the subsequent updates appear in this online index.
 <font color="#ffffff" style="visibility:hidden;">........................</font>
 <font size="-1"><b><i>Brown v. Board of Education</i></b></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................................</font>
-<font size="-1"><a href="../guides/2004/1/04.01.09.x.html">04.01.09</a></font><br/>
+<font size="-1"><a href="/curriculum/guides/2004/1/04.01.09.x.html">04.01.09</a></font><br/>
 </p><p>Some major categories are lengthy.  Therefore the reader may sometimes need to scroll through preceding entries to find the major heading.
 </p><p>Now a suggestion.  No index can be prepared to everyone's satisfaction, especially with regard to the number of specific topical entries and with regard to cross-referencing.  The index that follows has assumed an open and explorative reader. Take only one example. The number of entries under "Connecticut" may seem surprisingly low; however, there are relevant entries under "New Haven CT" and under several disciplinary headings (e.g. Ecology).  We urge the users of the index to take an open attitude in searching the index for units of interest to them. The alternative, the indexers feared, would be an index so long and cumbersome as seriously to reduce its usefulness. For instance, almost all units present exercises on Reading, Writing, and Teaching Methods, but we have refrained from listing all units under those encompassing headings.
 </p><p>New approaches to subjects along with their new terminologies somewhat complicate the search process. The 1996 index, for example, introduced the major heading of "Multiculturalism," then an increasingly common term in a variety of contexts. As all the units under that heading date from 1996, a hasty search may give the impression that the Institute had produced no units pertaining to multiculturalism prior to 1996, which is most definitely not the case.  Consider, for example the Reference List updated in 2004 that listed over 400 Institute units on teaching about diversity and community.  Many older units which would be indexed under "Multiculturalism" today can be found by searching the appropriate subheadings under "Art," "Ethnicity," "History," and "Literature," among others. Again, we recommend that users of this index should search under several key words and be alert to the shifting of terminologies over time. Because the index is a constantly growing document, we invite all comments to help the indexers continue to build the most useful list they can. 
