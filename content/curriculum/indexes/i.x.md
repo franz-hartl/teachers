@@ -352,7 +352,7 @@ Self-Awareness<br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
 <i>Drama and</i><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
-<font size="-1">98.           </font></a><font size="-1"><a href="../guides/2004/10/">04.10</a></font><br/>
+<font size="-1"><a href="../guides/1998/4/98.04.10.x.html">98.04.10</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
 <i>Privacy and</i><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
