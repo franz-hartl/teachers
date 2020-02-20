@@ -58,9 +58,6 @@ const NewHavenPage = () => (
                 <Link to="brochures/A3/1996/">1996 Annual Report</Link>
               </li>
               <li>
-                <a target="_blank" href="/pdfs/ar/ar2004-full.pdf">2004 Annual Report</a>
-              </li>
-              <li>
                 <a target="_blank" href="/pdfs/ar/1995-annual-report.pdf">1995 Annual Report</a>
               </li>
               <li>
