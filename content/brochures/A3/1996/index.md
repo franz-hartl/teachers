@@ -51,4 +51,6 @@ Content of the Seminars Offered
 </ul>
 <p><a href="/brochures/A3/1996/acknowledgments.html">Acknowledgments</a></p>
 <p><a href="/brochures/A3/1996/info.html">Contact Information</a></p>
+<p><a href="/pdfs/ar/1996-annual-report.pdf" target="_blank">Download PDF version of the report</a></p>
+<hr/>© 1997 by the <a href="/">Yale-New Haven Teachers Institute</a>
 </main>

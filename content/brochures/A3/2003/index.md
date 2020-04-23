@@ -64,5 +64,7 @@ path: "/brochures/A3/2003/"
 </ul>
 </p><p><a href="acknowledgements.html">Acknowledgements</a>
 <br/>
-</p><hr/>© 2004 by the <a href="/">Yale-New Haven Teachers Institute</a>
+</p>
+<p><a href="/pdfs/ar/2003-annual-report.pdf" target="_blank">Download PDF version of the report</a></p>
+<hr/>© 2004 by the <a href="/">Yale-New Haven Teachers Institute</a>
 </main>

@@ -81,7 +81,8 @@ path: "/brochures/A3/2000/"
     <li><a href="appendixb.html#a">Committees, Council, and Boards of the Institute</a></li>
     <li><a href="appendixb.html#b">Selected Bibliography</a></li>
 </ul>
-</p><p><a href="acknowledgements.html">Acknowledgements</a>
-</p><hr/>
+</p><p><a href="acknowledgements.html">Acknowledgements</a></p>
+<p><a href="/pdfs/ar/2000-annual-report.pdf" target="_blank">Download PDF version of the report</a></p>
+<hr/>
 © 2001 by the <a href="/">Yale-New Haven Teachers Institute</a>
 </main>

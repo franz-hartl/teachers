@@ -80,5 +80,7 @@ path: "/brochures/A3/1999/"
     <li><a href="appendixb.html#c">Selected Bibliography</a></li>
 </ul>    
 <br/>
-</p><hr/>© 2000 by the <a href="/">Yale-New Haven Teachers Institute</a>
+</p>
+<p><a href="/pdfs/ar/1999-annual-report.pdf" target="_blank">Download PDF version of the report</a></p>
+<hr/>© 2000 by the <a href="/">Yale-New Haven Teachers Institute</a>
 </main>
