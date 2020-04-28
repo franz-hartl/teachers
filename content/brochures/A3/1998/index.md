@@ -83,5 +83,6 @@ path: "/brochures/A3/1998/"
 </ul>    
 <br/>
 </p>
+<p><a href="/pdfs/ar/1998-annual-report.pdf" target="_blank">Download PDF version of the report</a></p>
 <hr/>© 1999 by the <a href="/">Yale-New Haven Teachers Institute</a>
 </main>
