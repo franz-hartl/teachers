@@ -28,13 +28,13 @@ const Advisory = () => (
               <h3>Honorary Chair</h3>
               <p>Howard R. Lamar</p>
               <h3>Co-Chair</h3>
-              <p>Paul H. Fry</p>
+              <p>Jessica C. Brantley</p>
               <p>Paul E. Turner</p>
               <h3>Executive Committee</h3>
-              <p>Jessica C. Brantley</p>
               <p>Gary W. Brudvig</p>
               <p>W. Mark Saltzman</p>
-              <ul className="member_names"><h3>Members</h3>
+              <h3>Members</h3>
+              <ul className="member_names">
               <li>Rolena Adorno</li>
               <li>Sarbani Basu</li>
               <li>Ned Blackhawk</li>

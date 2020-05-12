@@ -10,3 +10,4 @@ public
 .netlify
 backup-files
 yarn.lock
+report.*.json
