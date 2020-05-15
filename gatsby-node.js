@@ -232,7 +232,6 @@ exports.createPages = ({ graphql, actions }) => {
             context: {
               navPath: navPath, //`/curriculum/units/1998/1/98.01.preface.x.html`,
               pageNode: node,
-              frontmatter: frontmatter
             },
           })
 
