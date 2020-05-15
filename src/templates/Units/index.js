@@ -32,7 +32,7 @@ class UnitTemplate extends React.Component {
     const isMathPage = this.props.pageContext.isMathPage
 
     return (
-      <Layout>
+      <Layout title={frontmatter.title}>
         <main>
           <div className="region-content units">
             <Breadcrumb unitPath={navData[pageIndex].path} />

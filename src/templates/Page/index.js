@@ -8,8 +8,9 @@ class PageTemplate extends React.Component {
 
     return (
       <Layout>
-        <main><div className="container region-content" dangerouslySetInnerHTML={{ __html: html }} />
-</main>
+        <main>
+          <div className="container region-content" dangerouslySetInnerHTML={{ __html: html }} />
+        </main>
       </Layout>
     )
   }

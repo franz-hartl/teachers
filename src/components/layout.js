@@ -6,17 +6,21 @@ import Logo from 'components/Logo'
 import Index from 'components/react-icons/backtoTop.js'
 import Search from 'components/Search/index.js'
 import Favicon from 'react-favicon';
+import {Helmet} from 'react-helmet'
 
 // const searchIndices = [
 //   { name: `dev_teachers_units`, title: `Units`, hitComp: `PageHit` }
 // ] 
 
 class Layout extends React.Component {
-
   render() {
-    const { children } = this.props
+    const { children, title } = this.props
+
     return (
       <div>
+        <Helmet>
+          <title>{title ? title : "Yale-New Haven Teachers Institute"}</title>
+        </Helmet>
         <Favicon url="../images/NHTI-logo-icon.png" />
         <div className="container"><a className="sr-only sr-only-focusable" href="#content">Skip to main content</a></div>
         <header className="container">

@@ -2,8 +2,8 @@
 // require('dotenv').config()
 module.exports = {
   siteMetadata: {
-    title: "Teacher's Institute",
-    description: "Yale New Haven Teacher's Intitute Site",
+    title: "Yale-New Haven Teachers Institute",
+    description: "Yale New Haven Teachers Intitute Site",
     siteUrl: 'http://teachersinstitute.yale.edu/',
     author: '',
     twitter: ''

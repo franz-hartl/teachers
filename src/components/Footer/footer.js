@@ -53,7 +53,7 @@ const Footer = () => (
           >
             Accessibility at Yale
           </a>{' '}
-          &middot; <Link to="terms.html">Terms of Use</Link> &copy;{' '}
+          &middot; <Link to="/terms.html">Terms of Use</Link> &copy;{' '}
           {new Date().getFullYear()}, Yale-New Haven Teachers Institute, Yale
           University, All Rights Reserved
           <br />
