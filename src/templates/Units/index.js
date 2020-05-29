@@ -47,7 +47,7 @@ class UnitTemplate extends React.Component {
                     <h2 className="unit-title">{frontmatter.unitTitle}</h2>
                     <p className="unit-author">{frontmatter.unitAuthor}</p>
                     {!isMissingPage && <React_icons unitPath={navData[pageIndex].path}/>}
-                    {!isGuide && <Survey_feedback />}
+                    {!isGuide && <Survey_feedback navData={navData}/>}
                     <h2
                       className="guide-title"
                       dangerouslySetInnerHTML={{ __html: pageHtml.title }}

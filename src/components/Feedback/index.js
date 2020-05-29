@@ -1,7 +1,11 @@
 import React from 'react'
+const path = require('path')
 
 class Survey_feedback extends React.Component {
   render() {
+	const { navData } = this.props
+	const unitName = path.basename(navData[1].path, '.x.html')
+	const survey_link = "https://yalesurvey.ca1.qualtrics.com/jfe/form/SV_82laE4orr3rVY0J?UnitID=" + unitName
     return (
       <div className="p-3 feedback">
         <div className="fbwrap">
@@ -13,7 +17,7 @@ class Survey_feedback extends React.Component {
         </div>
         <a
           className="givefeedback"
-          href="https://yalesurvey.ca1.qualtrics.com/jfe/form/SV_ctCQjtaTDWxNCHr"
+          href={survey_link}
           target="_blank"
         >
           Give Feedback
