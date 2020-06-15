@@ -18,7 +18,7 @@ class VolumeTemplate extends React.Component {
     const isMissingPage = page.frontmatter.isMissingPage == true
 
     return (
-      <Layout title={page.frontmatter.title}>
+      <Layout title={page.frontmatter.title} path={x}>
         <main>
           <div className="region-content">
             <Breadcrumb unitPath={navData[pageIndex].path} />

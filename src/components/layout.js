@@ -14,13 +14,12 @@ import {Helmet} from 'react-helmet'
 
 class Layout extends React.Component {
   render() {
-    const { children, title } = this.props
+    const { children, title, path } = this.props
 
     return (
       <div>
-        <Helmet>
-          <title>{title ? title : "Yale-New Haven Teachers Institute"}</title>
-        </Helmet>
+        <HelmetComponent title={title} path={path} />
+
         <Favicon url="../images/NHTI-logo-icon.png" />
         <div className="container"><a className="sr-only sr-only-focusable" href="#content">Skip to main content</a></div>
         <header className="container">
@@ -40,3 +39,24 @@ class Layout extends React.Component {
 }
 
 export default Layout
+
+const HelmetComponent = ({ title, path }) => {
+  if (path && title) {
+    var pathArry = path.replace(/^\/|\/$/g, '').split('/')
+    if (pathArry.length > 4 && pathArry[0] == 'curriculum') {
+      const year = pathArry[2]
+      const formattedDate = year + "-09"
+      return (
+        <Helmet>
+          <title>{title ? title : "Yale-New Haven Teachers Institute"}</title>
+          <meta itemprop="datePublished" content={formattedDate} />
+        </Helmet>
+      )
+    }
+  }
+  return (
+    <Helmet>
+      <title>{title ? title : "Yale-New Haven Teachers Institute"}</title>
+    </Helmet>
+  )
+}

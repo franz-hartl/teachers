@@ -24,6 +24,7 @@ class UnitTemplate extends React.Component {
     // const { unitNav, unitPage, unitVol } = this.props.data
     const pageIndex = this.props.pageContext.pageIndex
     const navData = this.props.pageContext.navData
+    const x = navData[1].path
     const pageHtml = this.props.pageContext.pageHtml
     const frontmatter = this.props.pageContext.frontmatter
     const unitVolume = this.props.pageContext.unitVolume
@@ -32,7 +33,7 @@ class UnitTemplate extends React.Component {
     const isMathPage = this.props.pageContext.isMathPage
 
     return (
-      <Layout title={frontmatter.title}>
+      <Layout title={frontmatter.title} path={x}>
         <main>
           <div className="region-content units">
             <Breadcrumb unitPath={navData[pageIndex].path} />
