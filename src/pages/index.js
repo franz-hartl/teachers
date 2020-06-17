@@ -4,7 +4,7 @@ import banner from 'components/images/nhgreensm.jpg'
 import Layout from 'components/layout'
 
 const HomePage = () => (
-  <Layout>
+  <Layout title="Home | Yale-New Haven Teachers Institute">
     <main>
       <div className="banner mb-3 container">
         <img src={banner} className="img-fluid" alt="New Haven Green" title="New Haven Green"/>

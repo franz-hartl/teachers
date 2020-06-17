@@ -3,7 +3,7 @@ import Layout from 'components/layout'
 import { Link } from 'gatsby'
 
 const HomePage = () => (
-  <Layout>
+  <Layout title="Reference lists of curriculum units, 2001 and 2004">
     <main>
       <div className="container region-content">
         <div className="row">

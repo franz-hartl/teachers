@@ -2,7 +2,7 @@ import React from 'react'
 import Layout from 'components/layout'
 
 const Advisory = () => (
-  <Layout>
+  <Layout title="University Advisory Council">
     <main>
       <div className="container px-5 region-content">
         <h1 className="page-title">University Advisory Council</h1>

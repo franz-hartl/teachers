@@ -2,7 +2,7 @@ import React from 'react'
 import Layout from 'components/layout'
 
 const timePage = () => (
-  <Layout>
+  <Layout title="Timeline of the Yale-New Haven Teachers Institute® and Yale National Initiative®">
     <div class="container px-5 region-content">
       {/* <div className="container px-5 region-content"> */}
       <h1 className="page-title">

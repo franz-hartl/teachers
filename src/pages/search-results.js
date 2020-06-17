@@ -6,7 +6,7 @@ class searchResults extends React.Component {
 render() {
 
     return (
-    <Layout>
+    <Layout title="Search Results">
       <main>
       <div className="main_content m-4">
         <h1 className="page-title mb-3">Search Results</h1>

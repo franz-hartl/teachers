@@ -3,7 +3,7 @@ import Layout from 'components/layout'
 import { Link } from 'gatsby'
 
 const VolumeIndexPage = () => (
-  <Layout>
+  <Layout title="Curriculum Units by Fellows of the Yale-New Haven Teachers Institute">
     <main>
       <div className="px-5 region-content">
         <h1 className="page-title">

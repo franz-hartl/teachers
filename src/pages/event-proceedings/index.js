@@ -3,7 +3,7 @@ import Layout from 'components/layout'
 import { Link } from 'gatsby'
 
 const conPage = () => (
-  <Layout>
+  <Layout title="Event Proceedings">
     <main>
       <div className="container px-5 region-content">
         <h1 className="page-title">Event Proceedings</h1>

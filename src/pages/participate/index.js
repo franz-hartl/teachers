@@ -2,7 +2,7 @@ import React from 'react'
 import Layout from 'components/layout'
 
 const part = () => (
-  <Layout>
+  <Layout title="Participate">
     <main>
       <div className="container px-5 region-content">
         <h1 className="page-title">Participate</h1>

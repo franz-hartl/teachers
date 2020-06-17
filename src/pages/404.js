@@ -7,7 +7,7 @@ class error404Page extends React.Component {
 render() {
 
     return (
-    <Layout>
+    <Layout title="Page not found">
       <main>
       <div className="main_content m-4">
         <h1 className="page-not-found">Page not found</h1>

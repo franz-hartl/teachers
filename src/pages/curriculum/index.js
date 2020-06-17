@@ -3,7 +3,7 @@ import Layout from 'components/layout'
 import { Link } from 'gatsby'
 
 const HomePage = () => (
-  <Layout>
+  <Layout title="Curricular Resources">
     <main>
       <div className="container region-content">
         <div className="row">
