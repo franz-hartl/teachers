@@ -35,16 +35,13 @@ const Advisory = () => (
               <p>W. Mark Saltzman</p>
               <h3>Members</h3>
               <ul className="member_names">
-              <li>Rolena Adorno</li>
               <li>Sarbani Basu</li>
               <li>Ned Blackhawk</li>
               <li>Jeff Brock*</li>
               <li>Jill Campbell</li>
               <li>Marvin M. Chun*</li>
               <li>Lynn Cooley*</li>
-              <li>Tarek Fahmy</li>
               <li>James Forman, Jr.</li>
-              <li>Bryan Garsten</li>
               <li>Heather Gerken</li>
               <li>Susan L. Gibbons*</li>
               <li>Larry Gladney</li>
@@ -53,7 +50,6 @@ const Advisory = () => (
               <li>Langdon L. Hammer</li>
               <li>Daniel HoSang</li>
               <li>Matthew Jacobson</li>
-              <li>Mary T. Y. Lui</li>
               <li>John MacKay</li>
               <li>Jordan Peccia</li>
               <li>Brigitte Peucker</li>
@@ -64,7 +60,6 @@ const Advisory = () => (
               <li>Margretta R. Seashore</li>
               <li>Ian Shapiro</li>
               <li>C. Megan Urry</li>
-              <li>John P. Wargo</li>
               <li>Stephanie Wiles*</li>
               <li>Anders Winroth</li>
               </ul>
