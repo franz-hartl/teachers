@@ -875,3 +875,6 @@ div.gsc-cursor-current-page {
   text-align: left;
   vertical-align: top;
 }
+.units table {
+    margin-bottom: 10px;
+}

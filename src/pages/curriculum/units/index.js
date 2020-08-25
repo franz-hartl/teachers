@@ -19,11 +19,57 @@ const VolumeIndexPage = () => (
                 <td>
                   <font size="+1">
                     <b>
+                      <i>2020</i>
+                    </b>
+                  </font>
+                </td>
+                <td />
+              </tr>
+              <tr>
+                <td colspan="3" style={{padding: "0 20px"}}>
+                  <Link to="/curriculum/guides/2020/">Guide to Curriculum Units</Link>
+                </td>
+              </tr>
+
+              <tr valign="top">
+                <td nowrap="nowrap">Volume I</td>
+                <td />
+                <td>
+                  <Link to="/curriculum/units/2020/1/">
+                    The Place of Woman: Home, Economy, and Politics
+                  </Link>
+                </td>
+              </tr>
+              <tr valign="top">
+                <td nowrap="nowrap">Volume II</td>
+                <td />
+                <td>
+                  <Link to="/curriculum/units/2020/2/">
+                    The Chemistry of Food and Cooking
+                  </Link>
+                </td>
+              </tr>
+              <tr>
+                <td>&nbsp;</td>
+                <td width="75" />
+                <td />
+              </tr>
+
+              <tr>
+                <td />
+                <td>
+                  <font size="+1">
+                    <b>
                       <i>2019</i>
                     </b>
                   </font>
                 </td>
                 <td />
+              </tr>
+              <tr>
+                <td colspan="3" style={{padding: "0 20px"}}>
+                  <Link to="/curriculum/guides/2019/">Guide to Curriculum Units</Link>
+                </td>
               </tr>
 
               <tr valign="top">

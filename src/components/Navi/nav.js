@@ -41,7 +41,7 @@ import {
                 <DropdownToggle href="/curriculum" caret>
                   Curricular Resources
                 </DropdownToggle>
-                <DropdownMenu left>
+                <DropdownMenu>
                   <DropdownItem href="/curriculum/indexes/">
                     View Topical Index of Units
                   </DropdownItem>
@@ -57,7 +57,7 @@ import {
                 <DropdownToggle href="/brochures" caret>
                   Reports and Evaluation
                 </DropdownToggle>
-                <DropdownMenu left>
+                <DropdownMenu>
                   <DropdownItem href="/brochures/studies">
                     Studies
                   </DropdownItem>
@@ -73,7 +73,7 @@ import {
                 <DropdownToggle href="/pubs" caret>
                   Publications
                 </DropdownToggle>
-                <DropdownMenu left>
+                <DropdownMenu>
                   <DropdownItem href="/pubs/periodical">
                     Periodical
                   </DropdownItem>
@@ -89,7 +89,7 @@ import {
                 <DropdownToggle href="/event-proceedings" caret>
                   Event Proceedings
                 </DropdownToggle>
-                <DropdownMenu left>
+                <DropdownMenu>
                   <DropdownItem href="/event-proceedings/conferences">
                     Conferences
                   </DropdownItem>

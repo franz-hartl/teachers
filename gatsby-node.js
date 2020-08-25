@@ -4,6 +4,7 @@ const path = require('path')
 const VolumeTemplate = path.resolve('./src/templates/Volume/index.js')
 const UnitTemplate = path.resolve('./src/templates/Units/index.js')
 const PageTemplate = path.resolve('./src/templates/Page/index.js')
+const YearGuideTemplate = path.resolve('./src/templates/YearGuide/index.js')
 const ChildProcess = require('child_process');
 
 // add the following to try to fix Netlify exceeded build time of 30 minutes
@@ -57,6 +58,21 @@ exports.createPages = ({ graphql, actions }) => {
               }
             }
 
+            yearGuides: allMarkdownRemark(
+              filter: { frontmatter: { layout: { eq: "yearguide" } } }
+              sort: { fields: [frontmatter___path], order: ASC }
+            ) {
+              edges {
+                node {
+                  html
+                  frontmatter {
+                    title
+                    path
+                  }
+                }
+              }
+            }
+
             nonUnitPages: allMarkdownRemark(
               filter: { frontmatter: { layout: { eq: "page" } } }
             ) {
@@ -84,6 +100,7 @@ exports.createPages = ({ graphql, actions }) => {
         const unitItems = data.unitPages.edges
         const nonUnitItems = data.nonUnitPages.edges
         const volumeItems = data.volumePages.edges
+        const yearGuides = data.yearGuides.edges
 
         var noPageNode = {
           html:
@@ -248,6 +265,32 @@ exports.createPages = ({ graphql, actions }) => {
           //     pagePath + p[3].substring(2, 4) + '.' + v + '.preface.x.html'
           //   createRedirect({ fromPath: prefacePath, toPath: pagePath })
           // }
+        })
+
+        //=========================
+        // Create Year Guide pages.
+        //=========================
+        //console.log('yearguides')
+        each(yearGuides, ({ node }) => {
+          const pagePath = path.resolve(node.frontmatter.path)
+          const {title} = node.frontmatter
+          //console.log(title)
+          const introPathPrefix = new RegExp("^\/curriculum\/units\/"+ title + "\/")
+          const guidePathPrefix = new RegExp("^\/curriculum\/guides\/"+ title + "\/")
+          const requiredVolumes = volumeItems.filter(vol => /intro.x.html$/.test(vol.node.frontmatter.path) && introPathPrefix.test(vol.node.frontmatter.path))
+          const requiredUnitItems = unitItems.filter(unit => guidePathPrefix.test(unit.node.frontmatter.path))
+          //const requiredUnitItems = unitItems.slice(0,5)
+          //console.log(requiredUnitItems.length)
+          createPage({
+            path: pagePath,
+            component: YearGuideTemplate,
+            context: {
+              node: node,
+              volumeItems: requiredVolumes,
+              unitItems: requiredUnitItems,
+            },
+          })
+          console.log('Year guide created ' + '/curriculum/guides/' + title + '/')
         })
 
         //=======================

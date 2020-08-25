@@ -84,6 +84,14 @@ function getdlUnitPaths(dlUnitPath){
     pdfDownload = pdfDownload + '_guide';
   }
 
+  if (pathSplit.length == 4 &&
+        pathSplit[0] === "" &&
+        pathSplit[3] === "" &&
+        pathSplit[1] == "guides"){
+    pdfDownload = pathSplit[2] + "_guide";
+    echoUnit = "guide";
+  }
+
   return{
     pdfDownload : pdfDownload,
     echoUnit : echoUnit
