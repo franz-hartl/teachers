@@ -19,7 +19,7 @@ class yearguideTemplate extends React.Component {
       <Layout title={fullTitle}>
         <main>
           <div className="container region-content">
-            <h1 className="page-title">Guide to Curriculum Units <br/>by Fellows of the Yale-New Haven Teachers Institute <br/>{title}</h1>
+            <h1 className="page-title">Synopses of the Curriculum Units <br/>by Fellows of the Yale-New Haven Teachers Institute <br/>{title}</h1>
             <React_icons unitPath={unitPath} />
             <br />
             <h2>Contents</h2>
@@ -29,8 +29,8 @@ class yearguideTemplate extends React.Component {
                 <li key={index}>
                   <a href={"#" + romanNumbers[index]}>{romanNumbers[index]}. {vol.node.frontmatter.unitVolume}</a>
                   <ul>
-                    <li><a href={"#" + romanNumbers[index] + "-introduction"}>Introduction</a></li>
-                    <li><a href={"#" + romanNumbers[index] + "-curriculum-units"}>Guide Entries to Curriculum Units</a></li>
+                    <li><a href={"#" + romanNumbers[index] + "-introduction"}>Introduction by {vol.node.frontmatter.unitAuthor}</a></li>
+                    <li><a href={"#" + romanNumbers[index] + "-curriculum-units"}>Synopses of the Curriculum Units</a></li>
                   </ul>
                 </li>
               ))}
@@ -44,7 +44,7 @@ class yearguideTemplate extends React.Component {
                 <h3 id={romanNumbers[index] + "-introduction"}>Introduction by {vol.node.frontmatter.unitAuthor}</h3>
                 <div dangerouslySetInnerHTML={{ __html: vol.node.html }} />
                   {/* <p>{vol.node.frontmatter.unitAuthor}</p> */}
-                <br/><h3 id={romanNumbers[index] + "-curriculum-units"}>Guide Entries to Curriculum Units</h3>
+                <br/><h3 id={romanNumbers[index] + "-curriculum-units"}>Synopses of the Curriculum Units</h3>
                 <UnitItemsDisplay units={unitItems} volumeNumber={index} title={title}/>
               </div>
             ))}
@@ -70,6 +70,7 @@ const UnitItemsDisplay = ({units, volumeNumber, title}) => {
         <div key={index}>
           <p><strong><Link to={unit.node.frontmatter.path}>{unit.node.frontmatter.title.replace(/[^0-9.]/g,"")}</Link></strong></p>
           <p><strong><Link to={unit.node.frontmatter.path}>{unit.node.frontmatter.unitTitle}</Link></strong></p>
+          <p>by {unit.node.frontmatter.unitAuthor}</p>
           <div dangerouslySetInnerHTML={{ __html: unit.node.html }} />
         </div>
       ))}
