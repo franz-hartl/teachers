@@ -4,7 +4,7 @@ title: "Index of Curricular Material"
 path: "/curriculum/indexes/"
 ---
 <main>
-<font size="+1">Index of all Curriculum Units, 1978-2019</font>
+<font size="+1">Index of all Curriculum Units, 1978-2020</font>
 <center>Select a letter to jump to the subjects beginning with that letter:
 <br/>
 <a href="a.x.html">A</a> | <a href="b.x.html">B</a> |

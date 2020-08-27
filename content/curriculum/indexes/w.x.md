@@ -298,6 +298,8 @@ Literature<br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
 <i>as Authors</i><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2020/1/20.01.02.x.html">20.01.02</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
 Twentieth Century<br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
 <font size="-1"><a href="../guides/1978/3/78.03.09.x.html">78.03.09</a></font><br/>
@@ -311,6 +313,8 @@ Twentieth Century<br/>
 <font size="-1"><a href="../guides/1997/3/97.03.06.x.html">97.03.06</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 <font size="-1"><a href="../guides/2000/1/00.01.02.x.html">00.01.02</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2020/1/20.01.01.x.html">20.01.01</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
 <i>Hispanic</i><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
@@ -325,6 +329,8 @@ Latin American<br/>
 <i>History</i><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 <font size="-1"><a href="../guides/1997/3/97.03.06.x.html">97.03.06</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2020/1/20.01.07.x.html">20.01.07</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 China<br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
@@ -349,6 +355,14 @@ World War II<br/>
 <i>in Literature</i><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 <font size="-1"><a href="../guides/2017/1/17.01.04.x.html">17.01.04</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2020/1/20.01.10.x.html">20.01.10</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">........</font>
+<i>Economics</i><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2020/1/20.01.08.x.html">20.01.08</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2020/1/20.01.09.x.html">20.01.09</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
 <i>as Mothers</i><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
@@ -461,6 +475,10 @@ Creative<br/>
 <font size="-1"><a href="../guides/1998/4/98.04.06.x.html">98.04.06</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 <font size="-1"><a href="../guides/1998/5/98.05.10.x.html">98.05.10</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">........</font>
+<i>Biography</i><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2020/1/20.01.01.x.html">20.01.01</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
 <i>Composition</i><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
@@ -629,6 +647,8 @@ Photography<br/>
 <font size="-1"><a href="../guides/1996/1/96.01.02.x.html">96.01.02</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 <font size="-1"><a href="../guides/2013/4/13.04.05.x.html">13.04.05</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2020/1/20.01.01.x.html">20.01.01</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
 <i>Greek Myths</i><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>

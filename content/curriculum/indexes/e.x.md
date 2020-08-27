@@ -1050,7 +1050,17 @@ Inequality<br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
 <i>Consumerism</i><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
-<font size="-1"><a href="../guides/1979/2/79.02.06.x.html">79.02.06</a></font><br/>
+<font size="-1"><a href="../guides/1979/2/79.02.06.x.html">79.02.06</a></font><br/>\
+<font color="#ffffff" style="visibility:hidden;">........</font>
+<i>Gender and</i><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2020/1/20.01.08.x.html">20.01.08</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2020/1/20.01.09.x.html">20.01.09</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">........</font>
+<i>Globalization and</i><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2020/1/20.01.08.x.html">20.01.08</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
 <i>Home and</i><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
@@ -1132,6 +1142,10 @@ Integrated<br/>
 <i>Gender and</i><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 <font size="-1"><a href="../guides/1996/1/96.01.06.x.html">96.01.06</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2020/1/20.01.07.x.html">20.01.07</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2020/1/20.01.08.x.html">20.01.08</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
 <i>General</i><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
@@ -1345,6 +1359,9 @@ Static Electricity<br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 <font size="-1"><a href="../guides/2015/3/15.03.05.x.html">15.03.05</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
+<i>Thermal</i><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2020/2/20.02.02.x.html">20.02.02</a></font><br/>
 <i>Use of</i><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 in Cities<br/>
@@ -1452,8 +1469,8 @@ Process of Design<br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 <font size="-1"><a href="../guides/2006/4/06.04.01.x.html">06.04.01</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
-<i>Systems Engineerings</i><br/>&lt;
-FONT COLOR=#ffffff&gt;................
+<i>Systems Engineerings</i><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
 <font size="-1"><a href="../guides/2019/3/19.03.10.x.html">19.03.10</a></font><br/>
 <a name="england"><font size="+1"><b></b></font></a></p><p><a name="england"><font size="+1"><b>England (see also </b></font></a><font size="+1"><b><a href="h.x.html#history">History</a>, British; <a href="l.x.html#literature">Literature</a>, British; <a href="d.x.html#drama">Drama</a>; <a href="p.x.html#poetry">Poetry</a>)</b></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>

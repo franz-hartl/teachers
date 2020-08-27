@@ -175,6 +175,12 @@ Identity<br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
 <font size="-1"><a href="../guides/2019/2/19.02.06.x.html">19.02.06</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
+<font size="-1"><a href="../guides/2020/1/20.01.04.x.html">20.01.04</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">........................</font>
+<font size="-1"><a href="../guides/2020/1/20.01.05.x.html">20.01.05</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">........................</font>
+<font size="-1"><a href="../guides/2020/1/20.01.06.x.html">20.01.06</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">........................</font>
 <font size="-1"><i><b>Puerto Rican</b></i></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................................</font>
 <font size="-1"><a href="../guides/2001/4/01.04.08.x.html">01.04.08</a></font><br/>
@@ -196,6 +202,12 @@ Literature of<br/>
 <font size="-1"><a href="../guides/1999/1/99.01.08.x.html">99.01.08</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
 <font size="-1"><a href="../guides/2008/2/08.02.04.x.html">08.02.04</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">........................</font>
+<font size="-1"><a href="../guides/2020/1/20.01.04.x.html">20.01.04</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">........................</font>
+<font size="-1"><a href="../guides/2020/1/20.01.05.x.html">20.01.05</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">........................</font>
+<font size="-1"><a href="../guides/2020/1/20.01.06.x.html">20.01.06</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 Moral Reasoning<br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
@@ -461,6 +473,8 @@ Masks<br/>
 <i>Colonization of</i><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 <font size="-1"><a href="../guides/1982/4/82.04.01.x.html">82.04.01</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2020/1/20.01.03.x.html">20.01.03</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
 <i>Culture</i><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
@@ -527,6 +541,10 @@ of Kenya<br/>
 <font size="-1"><a href="../guides/1983/2/83.02.08.x.html">83.02.08</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 <font size="-1"><a href="../guides/1998/2/98.02.03.x.html">98.02.03</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">........</font>
+<i>South Africa</i><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2020/1/20.01.03.x.html">20.01.03</a></font><br/>
 <a name="africanamericans"><font size="+1"><b></b></font></a></p><p><a name="africanamericans"><font size="+1"><b>African Americans (see also </b></font></a><font size="+1"><b><a href="h.x.html#harlemrenaissance">Harlem Renaissance</a>; <a href="h.x.html#history">History</a>, African American; <a href="l.x.html#literature">Literature</a>, African American; <a href="p.x.html#poetry">Poetry</a>, African American)</b></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
 <i>Art</i><br/>
@@ -822,6 +840,8 @@ Famous Trials<br/>
 <font size="-1"><a href="../guides/2005/2/05.02.03.x.html">05.02.03</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 <font size="-1"><a href="../guides/2019/2/19.02.09.x.html">19.02.09</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2020/1/20.01.11.x.html">20.01.11</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 Afrofuturism<br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>

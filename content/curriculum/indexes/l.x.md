@@ -198,6 +198,14 @@ Caribbean Authors<br/>
 Writers<br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
 <font size="-1"><a href="../guides/2000/1/00.01.03.x.html">00.01.03</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">........................</font>
+<font size="-1"><a href="../guides/2020/1/20.01.04.x.html">20.01.04</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">........................</font>
+<font size="-1"><a href="../guides/2020/1/20.01.05.x.html">20.01.05</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">........................</font>
+<font size="-1"><a href="../guides/2020/1/20.01.06.x.html">20.01.06</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">........................</font>
+<font size="-1"><a href="../guides/2020/1/20.01.07.x.html">20.01.07</a></font><br/>
 <a name="law"><font size="+1"><b></b></font></a></p><p><a name="law"><font size="+1"><b>Law</b></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
 <i>Adoption</i><br/>
@@ -648,6 +656,12 @@ Identity and Moral Development<br/>
 <font size="-1"><a href="../guides/2019/2/19.02.06.x.html">19.02.06</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
 <font size="-1"><a href="../guides/2019/2/19.02.10.x.html">19.02.10</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">........................</font>
+<font size="-1"><a href="../guides/2020/1/20.01.04.x.html">20.01.04</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">........................</font>
+<font size="-1"><a href="../guides/2020/1/20.01.05.x.html">20.01.05</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">........................</font>
+<font size="-1"><a href="../guides/2020/1/20.01.06.x.html">20.01.06</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 Life's Journey<br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
@@ -834,6 +848,8 @@ Novels<br/>
 <font size="-1"><a href="../guides/2016/2/16.02.09.x.html">16.02.09</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
 <font size="-1"><a href="../guides/2019/2/19.02.09.x.html">19.02.09</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">........................</font>
+<font size="-1"><a href="../guides/2020/1/20.01.11.x.html">20.01.11</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 Oral Tradition<br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
@@ -928,6 +944,8 @@ Women in<br/>
 <font size="-1"><a href="../guides/1997/3/97.03.09.x.html">97.03.09</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
 <font size="-1"><a href="../guides/2015/2/15.02.08.x.html">15.02.08</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">........................</font>
+<font size="-1"><a href="../guides/2020/1/20.01.10.x.html">20.01.10</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
 <i>American</i><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
@@ -1311,6 +1329,14 @@ Women Authors<br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
 <font size="-1"><a href="../guides/2012/2/12.02.08.x.html">12.02.08</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
+<font size="-1"><a href="../guides/2020/1/20.01.02.x.html">20.01.02</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">........................</font>
+<font size="-1"><a href="../guides/2020/1/20.01.05.x.html">20.01.04</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">........................</font>
+<font size="-1"><a href="../guides/2020/1/20.01.05.x.html">20.01.05</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">........................</font>
+<font size="-1"><a href="../guides/2020/1/20.01.06.x.html">20.01.06</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">........................</font>
 <font size="-1"><i><b>Morrison, Toni</b></i></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................................</font>
 <font size="-1"><a href="../guides/2003/3/03.03.06.x.html">03.03.06</a></font><br/>
@@ -1364,6 +1390,8 @@ Young Adult<br/>
 <font size="-1"><a href="../guides/1986/1/86.01.02.x.html">86.01.02</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 <font size="-1"><a href="../guides/1998/2/98.02.09.x.html">98.02.09</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2020/1/20.01.10.x.html">20.01.10</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
 <i>Autobiography</i><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
@@ -1390,6 +1418,8 @@ Diaries<br/>
 <font size="-1"><a href="../guides/2016/2/16.02.05.x.html">16.02.05</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
 <i>British</i><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2020/1/20.01.10.x.html">20.01.10</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 Comparative<br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
@@ -1672,6 +1702,12 @@ Writing and Reading of by Teens<br/>
 <font size="-1"><a href="../guides/2009/2/09.02.08.x.html">09.02.08</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 <font size="-1"><a href="../guides/2016/2/16.02.01.x.html">16.02.01</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2020/1/20.01.04.x.html">20.01.04</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2020/1/20.01.05.x.html">20.01.05</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2020/1/20.01.06.x.html">20.01.06</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
 <i>Comic Books</i> (see also <a href="c.x.html#comicbooks">Comic Books</a>)<br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
@@ -2094,6 +2130,8 @@ Poetry<br/>
 <i>Gender</i><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 <font size="-1"><a href="../guides/2016/1/16.01.05.x.html">16.01.05</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2020/1/20.01.11.x.html">20.01.11</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
 <i>Gothic</i><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
@@ -2794,6 +2832,8 @@ Special Education<br/>
 <font size="-1"><a href="../guides/2008/2/08.02.07.x.html">08.02.07</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
 <i>Women</i> (see also <a href="w.x.html#women">Women</a>)<br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2020/1/20.01.10.x.html">20.01.10</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 Authors/Poets<br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>

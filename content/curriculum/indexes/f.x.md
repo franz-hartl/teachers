@@ -104,6 +104,12 @@ in Children's Literature<br/>
 <font size="-1"><a href="../guides/2000/4/00.04.09.x.html">00.04.09</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
 <font size="-1"><a href="../guides/2002/1/02.01.10.x.html">02.01.10</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">........................</font>
+<font size="-1"><a href="../guides/2020/1/20.01.04.x.html">20.01.04</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">........................</font>
+<font size="-1"><a href="../guides/2020/1/20.01.05.x.html">20.01.05</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">........................</font>
+<font size="-1"><a href="../guides/2020/1/20.01.06.x.html">20.01.06</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 History of<br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
@@ -877,12 +883,24 @@ Latin America<br/>
 Science<br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
 <font size="-1"><a href="../guides/2009/3/">09.03</a>  (all 12 units)</font><br/>
+<font color="#ffffff" style="visibility:hidden;">........................</font>
+<font size="-1"><a href="../guides/2020/2/20.02.01.x.html">20.02.01</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">........................</font>
+<font size="-1"><a href="../guides/2020/2/20.02.02.x.html">20.02.02</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">........................</font>
+<font size="-1"><a href="../guides/2020/2/20.02.03.x.html">20.02.03</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">........................</font>
+<font size="-1"><a href="../guides/2020/2/20.02.04.x.html">20.02.04</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">........................</font>
+<font size="-1"><a href="../guides/2020/2/20.02.05.x.html">20.02.05</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
 <i>and Energy</i><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 <font size="-1"><a href="../guides/2004/4/04.04.08.x.html">04.04.08</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 <font size="-1"><a href="../guides/2011/4/11.04.05.x.html">11.04.06</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2020/2/20.02.02.x.html">20.02.02</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
 <i>Food Pyramid</i><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>

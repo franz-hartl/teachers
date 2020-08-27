@@ -262,6 +262,8 @@ HIV/AIDS<br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 <font size="-1"><a href="../guides/2015/4/15.04.04.x.html">15.04.04</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2020/2/20.02.01.x.html">20.02.01</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
 Vegetables<br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
 <font size="-1"><a href="../guides/2007/5/07.05.05.x.html">07.05.05</a></font><br/>
@@ -285,6 +287,8 @@ Vegetables<br/>
 <font size="-1"><a href="../guides/2019/3/19.03.07.x.html">19.03.07</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 <font size="-1"><a href="../guides/2019/3/19.03.10.x.html">19.03.10</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2020/2/20.02.01.x.html">20.02.01</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
 <i>Tobacco and</i><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
@@ -345,6 +349,8 @@ Media<br/>
 <font size="-1"><a href="../guides/2001/2/01.02.10.x.html">01.02.10</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 <font size="-1"><a href="../guides/2003/1/03.01.02.x.html">03.01.02</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2020/1/20.01.03.x.html">20.01.03</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 Decolonization<br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
@@ -501,6 +507,8 @@ Civil Rights<br/>
 <font size="-1"><a href="../guides/2014/3/14.03.05.x.html">14.03.05</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
 <font size="-1"><a href="../guides/2014/3/14.03.10.x.html">14.03.10</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">........................</font>
+<font size="-1"><a href="../guides/2020/1/20.01.03.x.html">20.01.03</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
 <font size="-1"><i><b>Civil Disobedience</b></i></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................................</font>
@@ -729,6 +737,8 @@ Women (see also <a href="w.x.html#women">Women</a>)<br/>
 <font size="-1"><a href="../guides/1997/3/97.03.07.x.html">97.03.07</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
 <font size="-1"><a href="../guides/2001/2/01.02.10.x.html">01.02.10</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">........................</font>
+<font size="-1"><a href="../guides/2020/1/20.01.03.x.html">20.01.03</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
 <i>American</i><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
@@ -1589,6 +1599,8 @@ Public Health<br/>
 <font size="-1"><a href="../guides/2009/5/09.05.05.x.html">09.05.05</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
 <font size="-1"><a href="../guides/2015/2/15.02.07.x.html">15.02.07</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">........................</font>
+<font size="-1"><a href="../guides/2020/1/20.01.10.x.html">20.01.10</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 Racism<br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
@@ -1605,6 +1617,8 @@ Racism<br/>
 <font size="-1"><a href="../guides/2015/2/15.02.01.x.html">15.02.01</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
 <font size="-1"><a href="../guides/2019/2/19.02.05.x.html">19.02.05</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">........................</font>
+<font size="-1"><a href="../guides/2020/1/20.01.03.x.html">20.01.03</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 Reconstruction<br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
@@ -1867,6 +1881,10 @@ Women (see also <a href="w.x.html#women">Women</a>)<br/>
 <font size="-1"><a href="../guides/1998/4/98.04.06.x.html">98.04.06</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
 <font size="-1"><a href="../guides/2016/3/16.03.04.x.html">16.03.04</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">........................</font>
+<font size="-1"><a href="../guides/2020/1/20.01.03.x.html">20.01.03</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">........................</font>
+<font size="-1"><a href="../guides/2020/1/20.01.07.x.html">20.01.07</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
 <font size="-1"><i><b>Wars, Impact of </b></i></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................................</font>

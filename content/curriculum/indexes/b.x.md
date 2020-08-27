@@ -325,10 +325,16 @@ Women<br/>
 <font size="-1"><a href="../guides/2012/2/12.02.09.x.html">12.02.09</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 <font size="-1"><a href="../guides/2012/2/12.02.10.x.html">12.02.10</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2020/1/20.01.01.x.html">20.01.01</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
 <i>Whitney, Eli</i><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 <font size="-1"><a href="../guides/1979/3/79.03.03.x.html">79.03.03</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">........</font>
+<i>Women</i><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2020/1/20.01.01.x.html">20.01.01</a></font><br/>
 <a name="biology"><font size="+1"><b></b></font></a></p><p><a name="biology"><font size="+1"><b>Biology (see also </b></font></a><font size="+1"><b><a href="e.x.html#ecologyandenvironmentalscience">Ecology and Environmental Science</a>; <a href="g.x.html#geology">Geology</a>; <a href="h.x.html#health">Health</a>)</b></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
 <i>Animals</i><br/>

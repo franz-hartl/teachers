@@ -184,6 +184,8 @@ Cell Phones<br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 <font size="-1"><a href="../guides/2016/4/16.04.03.x.html">16.04.03</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2020/2/20.02.04.x.html">20.02.04</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
 Basic Principles of<br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
 <font size="-1"><a href="../guides/1981/5/81.05.09.x.html">81.05.09</a></font><br/>
@@ -199,6 +201,10 @@ Nuclear<br/>
 <font size="-1"><a href="../guides/2011/4/11.04.04.x.html">11.04.05</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
 <font size="-1"><a href="../guides/2012/4/12.04.04.x.html">12.04.04</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+Thermal<br/>
+<font color="#ffffff" style="visibility:hidden;">........................</font>
+<font size="-1"><a href="../guides/2020/2/20.02.02.x.html">20.02.02</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........</font>
 <i>General</i><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>

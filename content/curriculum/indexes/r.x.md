@@ -81,6 +81,8 @@ Civil Rights (see also <a href="c.x.html#civilrights">Civil Rights</a>)<br/>
 <font size="-1"><a href="../guides/2011/1/11.01.09.x.html">11.01.09</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
 <font size="-1"><a href="../guides/2019/2/19.02.05.x.html">19.02.05</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">........................</font>
+<font size="-1"><a href="../guides/2020/1/20.01.03.x.html">20.01.03</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 and Haitian<br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
@@ -286,6 +288,8 @@ Ethnic<br/>
 <font size="-1"><a href="../guides/2012/2/12.02.05.x.html">12.02.05</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 <font size="-1"><a href="../guides/2012/2/12.02.06.x.html">12.02.06</a></font><br/>
+<font color="#ffffff" style="visibility:hidden;">................</font>
+<font size="-1"><a href="../guides/2020/1/20.01.01.x.html">20.01.01</a></font><br/>
 <font color="#ffffff" style="visibility:hidden;">................</font>
 Carson, Rachel<br/>
 <font color="#ffffff" style="visibility:hidden;">........................</font>
