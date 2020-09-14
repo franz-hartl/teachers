@@ -19,7 +19,7 @@ class yearguideTemplate extends React.Component {
       <Layout title={fullTitle}>
         <main>
           <div className="container region-content">
-            <h1 className="page-title">Synopses of the Curriculum Units <br/>by Fellows of the Yale-New Haven Teachers Institute <br/>{title}</h1>
+            <h1 className="page-title">Guide to Curriculum Units <br/>by Fellows of the Yale-New Haven Teachers Institute <br/>{title}</h1>
             <React_icons unitPath={unitPath} />
             <br />
             <h2>Contents</h2>
