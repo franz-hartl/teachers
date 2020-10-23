@@ -299,10 +299,19 @@ exports.createPages = ({ graphql, actions }) => {
         const pages = nonUnitItems.filter(({ node }) =>
           /page/.test(node.frontmatter.layout)
         )
+        const indexPagesPath = new RegExp("^\/curriculum\/indexes\/[a-z]\.x\.html$")
+        // Create an array of unit id & title mapping.
+        const unitIdTitles = new Array();
+        each(unitNodes, ({ node }) => {
+            unitIdTitles[node.frontmatter.path.substr(-15, 8)] = node.frontmatter.unitTitle
+        })
         each(pages, ({ node }) => {
           // if (!node.remark) return
           const pagePath = path.resolve(node.frontmatter.path)
-          // const PageTemplate = path.resolve(node.frontmatter.path)
+          if(indexPagesPath.test(pagePath)) {
+              console.log(pagePath);
+              node.html = updateIndexLinks(unitIdTitles, node);
+          }
           createPage({
             path: pagePath,
             component: PageTemplate,
@@ -529,4 +538,12 @@ const getPageHtml = (pageIndex, pagePath, html) => {
     // console.log(page)
   }
   return page
+}
+const updateIndexLinks = (unitIdTitles, node) => {
+    var updatedHtml = node.html;
+    for (var index in unitIdTitles) {
+        var fregex = new RegExp('>' + index + '</a>', 'g')
+        updatedHtml = updatedHtml.replace(fregex, '>' + index + ' ' + unitIdTitles[index] + '</a>');
+    }
+    return updatedHtml;
 }
