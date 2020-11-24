@@ -14,6 +14,7 @@ const VolumeIndexPage = () => (
             <hr />
 
             <table width="100%" border="0">
+            <tbody>
               <tr>
                 <td />
                 <td>
@@ -26,7 +27,7 @@ const VolumeIndexPage = () => (
                 <td />
               </tr>
               <tr>
-                <td colspan="3" style={{padding: "0 20px"}}>
+                <td colSpan="3" style={{padding: "0 20px"}}>
                   <Link to="/curriculum/guides/2020/">Guide to Curriculum Units</Link>
                 </td>
               </tr>
@@ -67,7 +68,7 @@ const VolumeIndexPage = () => (
                 <td />
               </tr>
               <tr>
-                <td colspan="3" style={{padding: "0 20px"}}>
+                <td colSpan="3" style={{padding: "0 20px"}}>
                   <Link to="/curriculum/guides/2019/">Guide to Curriculum Units</Link>
                 </td>
               </tr>
@@ -120,6 +121,11 @@ const VolumeIndexPage = () => (
                 </td>
 
                 <td />
+              </tr>
+              <tr>
+                <td colSpan="3" style={{padding: "0 20px"}}>
+                  <Link to="/curriculum/guides/2018/">Guide to Curriculum Units</Link>
+                </td>
               </tr>
 
               <tr valign="top">
@@ -3693,7 +3699,7 @@ const VolumeIndexPage = () => (
               <tr>
                 <td />
 
-                <td colspan="2">
+                <td colSpan="2">
                   <font size="+1">
                     <b>
                       <i>Connecticut History</i>
@@ -3725,6 +3731,7 @@ const VolumeIndexPage = () => (
                   </Link>
                 </td>
               </tr>
+              </tbody>
             </table>
           </div>
         </div>
