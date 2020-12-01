@@ -43,25 +43,20 @@ const Advisory = () => (
               <li>Lynn Cooley*</li>
               <li>James Forman, Jr.</li>
               <li>Heather Gerken</li>
-              <li>Susan L. Gibbons*</li>
               <li>Larry Gladney</li>
               <li>Kimberly Goff-Crews*</li>
               <li>Anjelica Gonzalez</li>
               <li>Langdon L. Hammer</li>
-              <li>Daniel HoSang</li>
+              <li>Daniel Martinez HoSang</li>
               <li>Matthew Jacobson</li>
               <li>John MacKay</li>
               <li>Jordan Peccia</li>
-              <li>Brigitte Peucker</li>
               <li>Stephen J. Pitti</li>
-              <li>Joseph R. Roach</li>
               <li>Peter Salovey*</li>
               <li>Edwin C. Schroeder*</li>
-              <li>Margretta R. Seashore</li>
               <li>Ian Shapiro</li>
               <li>C. Megan Urry</li>
               <li>Stephanie Wiles*</li>
-              <li>Anders Winroth</li>
               </ul>
 
               <i>* ex officio</i>
