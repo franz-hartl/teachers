@@ -19,4 +19,4 @@ path: "/curriculum/guides/2015/"
 <p>The Yale-New Haven Teachers Institute is a permanently endowed academic unit of Yale University. The New Haven Public Schools, Yale's partner in the Institute, has supported the program annually since its inception.</p>
 <p>James R. Vivian<br/>
 New Haven<br/>
-August 2016</p>
+August 2015</p>
