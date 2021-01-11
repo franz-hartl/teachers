@@ -6,20 +6,7 @@ path: "/curriculum/indexes/"
 <main>
 <font size="+1">Index of all Curriculum Units, 1978-2020</font>
 <center>Select a letter to jump to the subjects beginning with that letter:
-<br/>
-<a href="a.x.html">A</a> | <a href="b.x.html">B</a> |
-<a href="c.x.html">C</a> | <a href="d.x.html">D</a> |
-<a href="e.x.html">E</a> | <a href="f.x.html">F</a> |
-<a href="g.x.html">G</a> | <a href="h.x.html">H</a> |
-<a href="i.x.html">I</a> | <a href="j.x.html">J</a> |
-<a href="k.x.html">K</a> | <a href="l.x.html">L</a> |
-<a href="m.x.html">M</a> | <a href="n.x.html">N</a> |
-<a href="o.x.html">O</a> | <a href="p.x.html">P</a> |
-<a href="q.x.html">Q</a> | <a href="r.x.html">R</a> |
-<a href="s.x.html">S</a> | <a href="t.x.html">T</a> |
-<a href="u.x.html">U</a> | <a href="v.x.html">V</a> |
-<a href="w.x.html">W</a> | <a href="x.x.html">X</a> |
-<a href="y.x.html">Y</a> | <a href="z.x.html">Z</a><br/>
+<br><a href="/curriculum/indexes/a.x.html">A</a> | <a href="/curriculum/indexes/b.x.html">B</a> | <a href="/curriculum/indexes/c.x.html">C</a> | <a href="/curriculum/indexes/d.x.html">D</a> | <a href="/curriculum/indexes/e.x.html">E</a> | <a href="/curriculum/indexes/f.x.html">F</a> | <a href="/curriculum/indexes/g.x.html">G</a> | <a href="/curriculum/indexes/h.x.html">H</a> | <a href="/curriculum/indexes/i.x.html">I</a> | <a href="/curriculum/indexes/j.x.html">J</a> | <a href="/curriculum/indexes/k.x.html">K</a> | <a href="/curriculum/indexes/l.x.html">L</a> | <a href="/curriculum/indexes/m.x.html">M</a> | <a href="/curriculum/indexes/n.x.html">N</a> | <a href="/curriculum/indexes/o.x.html">O</a> | <a href="/curriculum/indexes/p.x.html">P</a> | <a href="/curriculum/indexes/q.x.html">Q</a> | <a href="/curriculum/indexes/r.x.html">R</a> | <a href="/curriculum/indexes/s.x.html">S</a> | <a href="/curriculum/indexes/t.x.html">T</a> | <a href="/curriculum/indexes/u.x.html">U</a> | <a href="/curriculum/indexes/v.x.html">V</a> | <a href="/curriculum/indexes/w.x.html">W</a> | <a href="/curriculum/indexes/x.x.html">X</a> | <a href="/curriculum/indexes/y.x.html">Y</a> | <a href="/curriculum/indexes/z.x.html">Z</a><br>
 <font size="-1"><a href="/curriculum/units/">Directory of Volumes</a> |
 <a href="/">Yale-New Haven Teachers Institute</a></font></center>
 <hr/>
@@ -38,13 +25,11 @@ original commission and the subsequent updates appear in this online index.
 </p><p>Each teaching unit is designated by three two-digit numbers.  For example, the form "04.01.09" refers to the year the unit was written (2004), the volume number (1) for the seminar in which the unit was developed, and the chapter (9) in that volume where the unit appears. The indexers decided not to indicate whether the units were primarily for elementary school, middle school, or for high school classes. It has seemed - and teachers have often said - that a great many of the units, regardless of their originally intended audience, are readily adaptable for use across a wide range of grades. 
 </p><p>To make the index easier to use, four typefaces differentiate among main categories and their subheadings. Major headings appear in large boldface type; minor headings are in italics; first subheadings are in standard typeface; and second subheadings are in bold italic type.  An example is provided below:
 </p><p> 
-<font size="+1"><b>History</b></font><br/>
-<font color="#ffffff" style="visibility:hidden;">........</font><i>American</i><br/>
-<font color="#ffffff" style="visibility:hidden;">................</font>Civil Rights<br/>
-<font color="#ffffff" style="visibility:hidden;">........................</font>
-<font size="-1"><b><i>Brown v. Board of Education</i></b></font><br/>
-<font color="#ffffff" style="visibility:hidden;">................................</font>
-<font size="-1"><a href="/curriculum/guides/2004/1/04.01.09.x.html">04.01.09</a></font><br/>
+<span class="index-heading">History</span><br/>
+<span class="index-level-2">American</span><br/>
+<span class="index-level-3">Civil Rights</span><br/>
+<span class="index-level-4">Brown v. Board of Education</span><br/>
+<a style="margin-left: 80px; display: inline-block;" href="/curriculum/guides/2004/1/04.01.09.x.html">04.01.09</a><br/>
 </p><p>Some major categories are lengthy.  Therefore the reader may sometimes need to scroll through preceding entries to find the major heading.
 </p><p>Now a suggestion.  No index can be prepared to everyone's satisfaction, especially with regard to the number of specific topical entries and with regard to cross-referencing.  The index that follows has assumed an open and explorative reader. Take only one example. The number of entries under "Connecticut" may seem surprisingly low; however, there are relevant entries under "New Haven CT" and under several disciplinary headings (e.g. Ecology).  We urge the users of the index to take an open attitude in searching the index for units of interest to them. The alternative, the indexers feared, would be an index so long and cumbersome as seriously to reduce its usefulness. For instance, almost all units present exercises on Reading, Writing, and Teaching Methods, but we have refrained from listing all units under those encompassing headings.
 </p><p>New approaches to subjects along with their new terminologies somewhat complicate the search process. The 1996 index, for example, introduced the major heading of "Multiculturalism," then an increasingly common term in a variety of contexts. As all the units under that heading date from 1996, a hasty search may give the impression that the Institute had produced no units pertaining to multiculturalism prior to 1996, which is most definitely not the case.  Consider, for example the Reference List updated in 2004 that listed over 400 Institute units on teaching about diversity and community.  Many older units which would be indexed under "Multiculturalism" today can be found by searching the appropriate subheadings under "Art," "Ethnicity," "History," and "Literature," among others. Again, we recommend that users of this index should search under several key words and be alert to the shifting of terminologies over time. Because the index is a constantly growing document, we invite all comments to help the indexers continue to build the most useful list they can. 

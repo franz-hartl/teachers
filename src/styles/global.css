@@ -878,3 +878,64 @@ div.gsc-cursor-current-page {
 .units table {
     margin-bottom: 10px;
 }
+table.all-units-table tr td:nth-child(1), table.all-units-table tr td:nth-child(2) {
+    width:100px;
+}
+table.all-units-table, table.all-units-table th, table.all-units-table td {
+    border:1px solid #504d49;
+    vertical-align:top;
+}
+span.index-heading {
+	font-weight: bold;
+	font-size: 1.2em;
+}
+span.index-level-2 {
+	font-style: italic;
+	margin-left: 20px;
+	display: inline-block;
+}
+span.index-level-3 {
+	margin-left: 40px;
+	display: inline-block;
+}
+span.index-level-4 {
+	margin-left: 60px;
+	display: inline-block;
+	font-size: 0.85em;
+	font-style: italic;
+	font-weight: bold;
+}
+span.index-level-5 {
+	margin-left: 80px;
+	display: inline-block;
+	font-size: 0.85em;
+	font-style: italic;
+	font-weight: bold;
+}
+span.adjusted-hash-link-span {
+	visibility: hidden;
+	display: inline-block;
+	position: relative;
+	/*top: -150px;*/
+    height: 25px;
+}
+a.margin-left-100 {
+	margin-left: 100px;
+	display: inline-block;
+}
+a.margin-left-80 {
+	margin-left: 80px;
+	display: inline-block;
+}
+a.margin-left-60 {
+	margin-left: 60px;
+	display: inline-block;
+}
+a.margin-left-40 {
+	margin-left: 40px;
+	display: inline-block;
+}
+a.margin-left-20 {
+	margin-left: 20px;
+	display: inline-block;
+}

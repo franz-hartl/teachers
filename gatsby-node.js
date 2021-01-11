@@ -300,10 +300,15 @@ exports.createPages = ({ graphql, actions }) => {
           /page/.test(node.frontmatter.layout)
         )
         const indexPagesPath = new RegExp("^\/curriculum\/indexes\/[a-z]\.x\.html$")
+        const allUnitsPagePath = new RegExp("^\/all-units-meta$")
         // Create an array of unit id & title mapping.
         const unitIdTitles = new Array();
+        const unitIdGuideTitles = new Array();
         each(unitNodes, ({ node }) => {
             unitIdTitles[node.frontmatter.path.substr(-15, 8)] = node.frontmatter.unitTitle
+        })
+        each(guideNodes, ({ node }) => {
+            unitIdGuideTitles[node.frontmatter.path.substr(-15, 8)] = node.frontmatter.unitTitle
         })
         each(pages, ({ node }) => {
           // if (!node.remark) return
@@ -311,6 +316,9 @@ exports.createPages = ({ graphql, actions }) => {
           if(indexPagesPath.test(pagePath)) {
               console.log(pagePath);
               node.html = updateIndexLinks(unitIdTitles, node);
+          }
+          if(allUnitsPagePath.test(pagePath)) {
+              node.html = node.html + getAllUnitsPage(unitNodes, unitIdGuideTitles)
           }
           createPage({
             path: pagePath,
@@ -546,4 +554,19 @@ const updateIndexLinks = (unitIdTitles, node) => {
         updatedHtml = updatedHtml.replace(fregex, '>' + index + ' ' + unitIdTitles[index] + '</a>');
     }
     return updatedHtml;
+}
+const getAllUnitsPage = (unitNodes, unitIdGuideTitles) => {
+    var metaHtml = '<table class="all-units-table">'
+    metaHtml += "<thead><tr><th class='p-1'>Unit Code</th><th class='p-1'>Fellow Name</th><th class='p-1'>Title</th><th class='p-1'>Unit Title</th><th class='p-1'>Guide Unit Title</th></tr></thead>"
+    metaHtml += "<tbody>"
+    var tableMarktup = ""
+    for (var i in unitNodes) {
+        tableMarktup = "<tr><td class='p-1'>" + unitNodes[i].node.frontmatter.path.substr(-15, 8) + "</td><td class='p-1'>" +
+            unitNodes[i].node.frontmatter.unitAuthor + "</td><td class='p-1'>" +
+            unitNodes[i].node.frontmatter.title + "</td><td class='p-1'>" +
+            unitNodes[i].node.frontmatter.unitTitle + "</td><td class='p-1'>" +
+            unitIdGuideTitles[unitNodes[i].node.frontmatter.path.substr(-15, 8)] + "</td></tr>" + tableMarktup
+    }
+    metaHtml += tableMarktup + "</tbody></table>"
+    return metaHtml
 }
