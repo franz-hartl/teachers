@@ -12,6 +12,7 @@ class yearguideTemplate extends React.Component {
     const {volumeItems, unitItems} = this.props.pageContext
     const romanNumbers = ['I', 'II', 'III', 'IV', 'V', 'VI', 'VII', 'VIII', 'IX', 'X', 'XI', 'XII', 'XIII', 'XIV', 'XV', 'XVI', 'XVII', 'XVIII', 'XIX', 'XX']
     const unitPath = "/curriculum/guides/" + title + "/"
+    const volumeIntroductionBadImage = new RegExp("src=\"\.\.\/\.\.\/\.\.\/images", 'g')
     //console.log(volumeItems)
     //console.log(unitItems)
 
@@ -42,7 +43,7 @@ class yearguideTemplate extends React.Component {
               <div key={index}>
                 <br/><h2 id={romanNumbers[index]}><Link to={vol.node.frontmatter.path}>{romanNumbers[index]}. {vol.node.frontmatter.unitVolume}</Link></h2>
                 <h3 id={romanNumbers[index] + "-introduction"}>Introduction by {vol.node.frontmatter.unitAuthor}</h3>
-                <div dangerouslySetInnerHTML={{ __html: vol.node.html }} />
+                <div dangerouslySetInnerHTML={{ __html: vol.node.html.replace(volumeIntroductionBadImage, 'src="../../images') }} />
                   {/* <p>{vol.node.frontmatter.unitAuthor}</p> */}
                 <br/><h3 id={romanNumbers[index] + "-curriculum-units"}>Synopses of the Curriculum Units</h3>
                 <UnitItemsDisplay units={unitItems} volumeNumber={index} title={title}/>
