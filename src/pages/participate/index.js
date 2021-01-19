@@ -13,28 +13,28 @@ const part = () => (
                     “The Social Struggles of Contemporary Black Art,” led by Roderick Ferguson<br/>
                     <ul>
                         <li><a href="/seminars/2021/Ferguson%2C%20Roderick%20Seminar%20Description.pdf" target="_blank">Description</a></li>
-                        <li><a href="https://youtu.be/--qDJjHY06M" target="_blank">Video</a></li>
+                        <li><a href="https://youtu.be/bPmooMXNpJo" target="_blank">Video</a></li>
                     </ul>
                 </li>
                 <li>
                     “Developing Anti-Racist Curriculum and Pedagogy,” led by Daniel Martinez HoSang<br/>
                     <ul>
                         <li><a href="/seminars/2021/HoSang%2C%20Dan%20Seminar%20Description.pdf" target="_blank">Description</a></li>
-                        <li><a href="https://youtu.be/7PxntUc9_2Y" target="_blank">Video</a></li>
+                        <li><a href="https://youtu.be/p9PIVKbJvCE" target="_blank">Video</a></li>
                     </ul>
                 </li>
                 <li>
                     “How to Do Things with Maps,” led by Ayesha Ramachandran<br/>
                     <ul>
                         <li><a href="/seminars/2021/Ramachandran%2C%20Ayesha%20Seminar%20Description.pdf" target="_blank">Description</a></li>
-                        <li><a href="https://youtu.be/0M1ZxsFHAUg" target="_blank">Video</a></li>
+                        <li><a href="https://youtu.be/BB9YgnTAdh8" target="_blank">Video</a></li>
                     </ul>
                 </li>
                 <li>
                     “The Earth’s Greenhouse and Global Warming,” led by Peter Raymond<br/>
                     <ul>
                         <li><a href="/seminars/2021/Raymond%2C%20Peter%20Seminar%20Description.pdf" target="_blank">Description</a></li>
-                        <li><a href="https://youtu.be/Cq2USfJUt5E" target="_blank">Video</a></li>
+                        <li><a href="https://youtu.be/ggOTEp3N9k8" target="_blank">Video</a></li>
                     </ul>
                 </li>
             </ul>
