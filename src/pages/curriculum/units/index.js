@@ -602,6 +602,11 @@ const VolumeIndexPage = () => (
 
                 <td />
               </tr>
+              <tr>
+                <td colSpan="3" style={{padding: "0 20px"}}>
+                  <Link to="/curriculum/guides/2011/">Guide to Curriculum Units</Link>
+                </td>
+              </tr>
 
               <tr valign="top">
                 <td nowrap="nowrap">Volume I</td>
