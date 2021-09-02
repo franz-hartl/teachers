@@ -6,6 +6,7 @@ import React_icons from 'components/react-icons'
 import Survey_feedback from 'components/Feedback'
 import NavControls from 'components/Nav-controls'
 import MathJax from 'react-mathjax-preview'
+import DOMPurify from 'dompurify';
 
 class UnitTemplate extends React.Component {
   constructor(props) {
@@ -45,7 +46,8 @@ class UnitTemplate extends React.Component {
                 </div>
                 <div className="col-sm-8 mt-3 main_content pl-2">
                   <div className="unit-row">
-                    <h2 className="unit-title">{frontmatter.unitTitle}</h2>
+                    {/*<h2 className="unit-title">{frontmatter.unitTitle}</h2>*/}
+                    <h2 className="unit-title" dangerouslySetInnerHTML={{ __html: DOMPurify.sanitize(frontmatter.unitTitle) }} />
                     <p className="unit-author">{frontmatter.unitAuthor}</p>
                     {!isMissingPage && <React_icons unitPath={navData[pageIndex].path}/>}
                     {!isGuide && <Survey_feedback navData={navData}/>}

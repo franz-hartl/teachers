@@ -20,6 +20,63 @@ const VolumeIndexPage = () => (
                 <td>
                   <font size="+1">
                     <b>
+                      <i>2021</i>
+                    </b>
+                  </font>
+                </td>
+              </tr>
+              <tr>
+                <td colSpan="3" style={{padding: "0 20px"}}>
+                  <Link to="">Guide to Curriculum Units</Link>
+                </td>
+              </tr>
+              <tr valign="top">
+                <td nowrap="nowrap">Volume I</td>
+                <td />
+                <td>
+                  <Link to="/curriculum/units/2021/1/">
+                    The Social Struggles of Contemporary Black Art
+                  </Link>
+                </td>
+              </tr>
+              <tr valign="top">
+                <td nowrap="nowrap">Volume II</td>
+                <td />
+                <td>
+                  <Link to="/curriculum/units/2021/2/">
+                    Developing Anti-Racist Curriculum and Pedagogy
+                  </Link>
+                </td>
+              </tr>
+              <tr valign="top">
+                <td nowrap="nowrap">Volume III</td>
+                <td />
+                <td>
+                  <Link to="/curriculum/units/2021/3/">
+                    How to Do Things with Maps
+                  </Link>
+                </td>
+              </tr>
+              <tr valign="top">
+                <td nowrap="nowrap">Volume IV</td>
+                <td />
+                <td>
+                  <Link to="/curriculum/units/2021/4/">
+                    The Earth’s Greenhouse and Global Warming
+                  </Link>
+                </td>
+              </tr>
+              <tr>
+                <td>&nbsp;</td>
+                <td width="75" />
+                <td />
+              </tr>
+
+              <tr>
+                <td />
+                <td>
+                  <font size="+1">
+                    <b>
                       <i>2020</i>
                     </b>
                   </font>
