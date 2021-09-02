@@ -1,5 +1,6 @@
 import React from 'react'
 import { Link } from 'gatsby'
+{/*import DOMPurify from 'dompurify'*/}
 const path = require('path')
 
 class Table_content extends React.Component {
@@ -56,7 +57,9 @@ const NavLinks = ({ navData, activeIndex }) => {
           value={parseInt(item.path.split(".")[2], 10)}
           className={`tc_lists_guide ${activeIndex == i ? 'tc_active' : ''}`}
         >
+          {/*Link commented out below is the original link line that would prevent HTML from being used on the unit titles when displayed - uncomment to revert back and delete the current Link line*/}
           <Link to={item.path}>{item.title}</Link>
+          {/*<Link to={item.path} dangerouslySetInnerHTML={{ __html: DOMPurify.sanitize(item.title)}} />*/}
         </li>
       )
     }
