@@ -19,5 +19,5 @@ path: "/curriculum/guides/2007/"
 
 <p>James R. Vivian</p>
 <p>New Haven</p>
-<p>August 2008</p>
+<p>August 2007</p>
 </main>
