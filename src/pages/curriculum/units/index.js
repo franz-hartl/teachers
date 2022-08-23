@@ -15,6 +15,54 @@ const VolumeIndexPage = () => (
 
             <table width="100%" border="0">
             <tbody>
+            <tr>
+              <td />
+              <td>
+                <font size="+1">
+                  <b>
+                    <i>2022</i>
+                  </b>
+                </font>
+              </td>
+            </tr>
+            <tr>
+              <td colSpan="3" style={{padding: "0 20px"}}>
+                <Link to="/curriculum/guides/2022/">Guide to Curriculum Units</Link>
+              </td>
+            </tr>
+            <tr valign="top">
+              <td nowrap="nowrap">Volume I</td>
+              <td />
+              <td>
+                <Link to="/curriculum/units/2022/1/">
+                  Writing about Nature
+                </Link>
+              </td>
+            </tr>
+            <tr valign="top">
+              <td nowrap="nowrap">Volume II</td>
+              <td />
+              <td>
+                <Link to="/curriculum/units/2022/2/">
+                  The Long Fight for a Free Caribbean, 1700s-1959
+                </Link>
+              </td>
+            </tr>
+            <tr valign="top">
+              <td nowrap="nowrap">Volume III</td>
+              <td />
+              <td>
+                <Link to="/curriculum/units/2022/3/">
+                  Ethnic Studies: Theory, Practice, and Pedagogy
+                </Link>
+              </td>
+            </tr>
+            <tr>
+              <td>&nbsp;</td>
+              <td width="75" />
+              <td />
+            </tr>
+
               <tr>
                 <td />
                 <td>
