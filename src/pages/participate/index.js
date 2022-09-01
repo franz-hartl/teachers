@@ -6,9 +6,9 @@ const part = () => (
     <main>
       <div className="container px-5 region-content">
         <h1 className="page-title">Participate</h1>
-            <p>The Institute accepts as Fellows teachers of English, history, languages, arts, science, and mathematics from New Haven's public elementary and secondary schools. Interested teachers discuss their potential eligibility with a School Representative or a Steering Committee member who works closely with those teachers who then submit an online application. To learn more about participating in the Institute, see our <a href="/brochures/A1/Brochure-2022.pdf">2022 Annual Brochure</a> and <a href="/brochures/A1/seminar-descriptions-2022.pdf">Seminar Descriptions.</a></p>
+            <p>The Institute accepts as Fellows teachers of English, history, languages, arts, science, and mathematics from New Haven's public elementary and secondary schools. Interested teachers discuss their potential eligibility with a School Representative or a Steering Committee member who works closely with those teachers who then submit an online application. To learn more about participating in the Institute, see our <a href="/brochures/A1/Brochure-2022.pdf">2022 Annual Brochure</a>. {/*and <a href="/brochures/A1/seminar-descriptions-2022.pdf">Seminar Descriptions.</a>*/}</p>
             {/*<p>New Haven Public Schools teachers and administrators were invited to register to attend our Virtual Open House at 4:15 p.m. on Tuesday, January 5, 2021, when seminar leaders described and answered questions about the seminars they will lead in 2021:<br/>*/}
-            <ul>
+            {/*<ul>
                 <li>
                     “Writing About Nature,” led by Jill Campbell, Professor of English<br/>
                     <ul>
@@ -31,7 +31,7 @@ const part = () => (
                     </ul>
                 </li>
             </ul>
-            {/*</p>*/}
+            </p>*/}
        </div>
           <div className="row" />
     </main>
