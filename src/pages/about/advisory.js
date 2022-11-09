@@ -35,21 +35,26 @@ const Advisory = () => (
               <p>W. Mark Saltzman</p>
               <h3>Members</h3>
               <ul className="member_names">
+              <li>Timothy Barringer</li>
               <li>Sarbani Basu</li>
+              <li>David Bercovici</li>
               <li>Ned Blackhawk</li>
-              <li>Jeff Brock*</li>
+              <li>Jeffrey F. Brock</li>
               <li>Jill Campbell</li>
-              <li>Marvin M. Chun*</li>
               <li>Lynn Cooley*</li>
+              <li>David C. Engerman</li>
+              <li>Roderick A. Ferguson</li>
               <li>James Forman, Jr.</li>
-              <li>Larry Gladney</li>
+              <li>Larry D. Gladney*</li>
               <li>Kimberly Goff-Crews*</li>
               <li>Anjelica Gonzalez</li>
               <li>Daniel Martinez HoSang</li>
-              <li>Matthew Jacobson</li>
+              <li>Matthew F. Jacobson</li>
+              <li>Pericles Lewis*</li>
               <li>John MacKay</li>
+              <li>Feisal G. Mohammed</li>
               <li>Jordan Peccia</li>
-              <li>Stephen J. Pitti</li>
+              <li>Ayesha Ramachandran</li>
               <li>Peter Raymond</li>
               <li>Peter Salovey*</li>
               <li>Ian Shapiro</li>
