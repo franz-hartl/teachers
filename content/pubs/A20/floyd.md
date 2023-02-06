@@ -14,14 +14,14 @@ teachers, Linda San Miguel, Suzanne Kirk, and Mary Ann Stange, in three
 different disciplines, Language Arts, Science, and Social Studies, have
 joined together to develop a unique program that they have entitled, "Your
 Hood is the World:  Culture, Conflict, Change, Survival Skills." <p>
-The students in the "Hood" stay together for three class periods. 
+The students in the "Hood" stay together for three class periods.
 Students change classes, disciplines, and teachers but the theme rings
 true for three hours.  The teachers meet daily in a scheduled "lab" hour
 to plan and prepare daily lessons.  Because of the sense of community that
 has been established, teachers notice that class attendance and grades
 have improved.  At the end of a recent marking period, the students
 applauded superior achievement in the classroom.</p><p>
-A good example of the method used to help students in the "Hood" 
+A good example of the method used to help students in the "Hood"
 understand culture, conflict, and change involves a short story called
 "The Most Dangerous Game."  The protagonist finds himself shipwrecked on
 an island pursued by a killer.  The students focused on the changes this
@@ -53,7 +53,7 @@ development center is assigned to assist the teachers in their team
 effort.  Her efforts and expertise are counted as essential in helping the
 program to flow smoothly.  The school administration also supports the
 team effort with assistance as needed.  </p><p>
-One purpose of the "Hood" is to create a unified study zone for students. 
+One purpose of the "Hood" is to create a unified study zone for students.
 It makes them feel like they belong to the group, instead of the huge
 population of Saginaw High.  Field trips are taken; community speakers are
 invited in; additional planning has
@@ -67,7 +67,7 @@ waned.  Even though there are teachers who make a concerted effort to work
 together, most find the additional work load too stressful to attempt
 without released time.  
 </p><hr/>
-<h4><a href=".\">Back to
+<h4><a href="/pubs/A20/">Back to
 Table of Contents of the Fall 1996 Issue of <i>On Common
 Ground</i></a>
 </h4>

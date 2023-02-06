@@ -11,7 +11,7 @@ const conPage = () => (
           <div className="col-sm-6 left-panel">
             <div className="br-cell py-2">
               <h2 className="br-title">
-                <Link to="event-proceedings/conferences">
+                <Link to="/event-proceedings/conferences">
                   Conferences <i className="fas fa fa-arrow-circle-right" />
                 </Link>
               </h2>
@@ -23,7 +23,7 @@ const conPage = () => (
             </div>
             <div className="br-cell py-2">
               <h2 className="br-title">
-                <Link to="event-proceedings/news-conferences">
+                <Link to="/event-proceedings/news-conferences">
                   News Conferences{' '}
                   <i className="fas fa fa-arrow-circle-right" />
                 </Link>
@@ -36,7 +36,7 @@ const conPage = () => (
             </div>
             <div className="br-cell py-2">
               <h2 className="br-title">
-                <Link to="congressional.html">
+                <Link to="/congressional.html">
                   Congressional Hearings{' '}
                   <i className="fas fa fa-arrow-circle-right" />
                 </Link>
@@ -56,7 +56,7 @@ const conPage = () => (
           <div className="col-sm-6 right-panel">
             <div className="br-cell py-2">
               <h2 className="br-title">
-                <Link to="event-proceedings/endowment">
+                <Link to="/event-proceedings/endowment">
                   Endowment Celebrations<i className="fas fa fa-arrow-circle-right" />
                 </Link>
               </h2>
@@ -70,14 +70,14 @@ const conPage = () => (
             </div>
             <div className="br-cell py-2">
               <h2 className="br-title">
-                <Link to="transcripts/25thTranscript.html">
+                <Link to="/transcripts/25thTranscript.html">
                   25th Anniversary{' '}
                   <i className="fas fa fa-arrow-circle-right" />
                 </Link>
               </h2>
               <p>
-                A <Link to="brochures/25th.html">program</Link> for and{' '}
-                <Link to="transcripts/25thTranscript.html">transcript</Link> of
+                A <Link to="/brochures/25th.html">program</Link> for and{' '}
+                <Link to="/transcripts/25thTranscript.html">transcript</Link> of
                 the Institute’s 25th Anniversary Gala on November 13, 2002,
                 “Celebrating Teachers,” describe the Institute’s mission and
                 history and lists its participants and supporters between 1978

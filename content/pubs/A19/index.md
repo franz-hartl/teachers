@@ -38,7 +38,7 @@ Schools</a><br/>
 Educational Reform</a><br/>
 <font color="white" style="visibility:hidden;">______</font>By Jay L. Robinson
 </td></tr><tr valign="top"><td align="right">
-</td><td> Superintendents' and Principals' Forum: 
+</td><td> Superintendents' and Principals' Forum:
 <br/>
 <font color="white" style="visibility:hidden;">______</font>
 <a href="/pubs/A19/spintro.html">Introduction
@@ -102,7 +102,7 @@ Editorial Board</a>
 Contact Information</a>
 </td></tr></tbody></table>
 </p>
-<center><font size="-1"><a href="..\">Publications</a> | 
-<a href="..\..\">Yale-New Haven Teachers
+<center><font size="-1"><a href="/pubs/">Publications</a> |
+<a href="/">Yale-New Haven Teachers
 Institute</a></font></center>
 </main>

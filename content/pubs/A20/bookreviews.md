@@ -3,9 +3,9 @@ layout: "page"
 title: "Book Reviews"
 path: "/pubs/A20/bookreviews.html"
 ---
-<main> 
+<main>
 <center><h2>Book
-Reviews</h2> 
+Reviews</h2>
 <font size="+1">bell hooks, <i>Teaching to Transgress</i> (New York:
 Routledge, 1994), 216 pages, $15.95; and Ronald Takaki, <i>A Different
 Mirror: A History of Multicultural America</i> (New York: Little, Brown &amp;
@@ -17,7 +17,7 @@ content.  hooks asserts that teaching and learning occur within a
 community in which there is "shared commitment"­"a commitment to 'the
 desire to learn'" that allows for "education as the practice of
 freedom"(40).  Similarly, hooks attempts to create a community within her
-text, collecting voices and voicing different experiences and viewpoints. 
+text, collecting voices and voicing different experiences and viewpoints.
 She relies on a dialectical structure in which to open up a discourse
 about teaching
 that includes rather than marginalizes feminist criticism, the teacher as
@@ -41,7 +41,7 @@ of her courses on African American critical thought, she admits that
 sincerely believe that I would have learned even more from a progressive
 black professor, because this individual would have brought to the class
 that unique mixture of experiential and analytical ways of
-knowing­that is, a privileged standpoint" 
+knowing­that is, a privileged standpoint"
 (91).  hooks' simultaneous assertion that literature and theory are not
 the property of one group or another is problematized through hooks' own
 struggle to authorize herself and other Black women.
@@ -51,7 +51,7 @@ theoretical terrain hooks transits.  The snags that she encounters testify
 to the depth of hooks' commitment to the praxis of education.  The
 efficacy of this text lies,
 then, in its potential to provide a link between educators who wish to
-continue the questioning that hooks' text begs.</p><p> 
+continue the questioning that hooks' text begs.</p><p>
 Ronald Takaki begins <i>A Different Mirror</i> with the assertion that
 "[r]ace...has been a social construction that has historically set apart
 racial minorities from European immigrant groups" (10).  He goes on to
@@ -103,7 +103,7 @@ this book excites such curiosity, then Takaki has fulfilled the ideal of
 scholarship.  We cannot ask for more from such a competent and
 comprehensive scholar.
 </p><hr/>
-<h4><a href=".\">Back to
+<h4><a href="/pubs/A20/">Back to
 Table of Contents of the Fall 1996 Issue of <i>On Common
 Ground</i></a>
 </h4>

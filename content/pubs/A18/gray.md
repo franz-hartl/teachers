@@ -220,7 +220,7 @@ It is in the classroom that the ultimate test of reform will  take place,
 and, if changes are to succeed, they must be embraced by  our strongest
 and best teachers.  Otherwise reform will go nowhere.
 </p><hr/>
-<h4><a href=".\">Back to
+<h4><a href="/pubs/A18/">Back to
 Table of Contents of the Fall 1995 Issue of <i>On Common
 Ground</i></a>
 </h4>

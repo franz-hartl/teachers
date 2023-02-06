@@ -33,7 +33,7 @@ what they said about teacher education. . . . There was very little  in
 them about teacher education in any direct sense. So, I examined  what
 they said about teachers, what they assumed teachers to be  like, to learn
 whether in some collective sense I could find that  information and relate
-it to teacher education. . . . 
+it to teacher education. . . .
 </p><p>
 "In summary, my analysis of the reports revealed eight factors  related to
 teachers: (1) a teacher is, first, a well-educated person;  (2) he or she
@@ -46,12 +46,12 @@ should know about children­how they  develop, how they learn, and the
 contexts in which they live; (6) a  teacher should 'coach' or 'manage'
 learning and be a decision-maker  in the pedagogical sense; (7) a teacher
 should be a continuous  learner; and, finally, (8) a teacher should be
-able to have a career in  teaching, one that is varied and rewarding. 
+able to have a career in  teaching, one that is varied and rewarding.
 </p><p>
 "Currently, there is much ferment about the preparation of new  teachers
 for the schools. . . . Clearly, we will need teachers who  know what is
 needed to be known and learned, who will know  students and how to help
-them learn, and, therefore, who will be  able to teach effectively. 
+them learn, and, therefore, who will be  able to teach effectively.
 </p><p>
 "At the very least, the colleges and universities that prepare  teachers
 will need to view the preparation of teachers as a priority  and use all
@@ -65,7 +65,7 @@ schools need to be more formally  arranged and prepared to be a partner
 (perhaps the dominant partner)  in this aspect of teacher preparation. We
 will need arrangements in  the schools that foster clinical training, and
 we will need teachers  in the schools who have the capacity and the time,
-and the support,  to work with those being trained to teach. 
+and the support,  to work with those being trained to teach.
 </p><p>
 "Further, once a person is inducted into teaching . . . the
 responsibility of college or university is not finished as is currently
@@ -75,7 +75,7 @@ grow academically and intellectually as well as  pedagogically. After all,
 school teachers and college professors are,  in many ways, engaged in the
 same business. They are peers, and the  collaboration of both­during
 teacher preparation and after it­ought  to strengthen both schools
-and colleges. 
+and colleges.
 </p><p>
 "Where does this all lead to for teacher preparation? Does it lead  again
 to the M.A.T.? Perhaps. Does it lead to teacher preparation  taking
@@ -89,7 +89,7 @@ any first-rate college graduate  who has a sensible 'mix' of knowledge of
 content­the real and  fundamental stuff of the fields in which they
 will teach­along with  that knowledge which undergirds a teacher's
 craft, and with clinical  training on a par with the best now offered by
-other humanserving  professions. 
+other humanserving  professions.
 </p><p>
 "Still, all of this kind of preparation will be of little consequence
 unless the schools in which these new teachers teach are,  themselves,
@@ -105,14 +105,14 @@ that accountability by  teachers has become more important than trust in
 teachers is  wrong, just wrong. We need teachers in schools where there
 are  opportunities to grow, to have a career, and to be rewarded
 accordingly as teachers who continue to teach, rather than having  them
-seek growth and reward by leaving teaching. 
+seek growth and reward by leaving teaching.
 </p><p>
 "For this society to find such a talent for teaching, to educate and
 train it for teaching, and to allow it to properly serve the children  and
 adolescents in our schools is no small task. It will require a new
-vision, a new understanding, and a new commitment by all of us." 
+vision, a new understanding, and a new commitment by all of us."
 </p><hr/>
-<h4><a href=".\">Back to
+<h4><a href="/pubs/A15/">Back to
 Table of Contents of the Summer 1994 Issue of <i>On Common
 Ground</i></a>
 </h4>

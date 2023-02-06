@@ -35,7 +35,7 @@ Environments at Harvard University's Graduate School of Education.
 <b>Charles S. Serns </b>is Principal of Hubert Humphrey Elementary School
 in Albuquerque, New Mexico.
 </p><hr/>
-<h4><a href=".\">Back to
+<h4><a href="/pubs/A15/">Back to
 Table of Contents of the Summer 1994 Issue of <i>On Common
 Ground</i></a>
 </h4>

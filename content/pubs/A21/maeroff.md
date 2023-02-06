@@ -29,5 +29,5 @@ path: "/pubs/A21/maeroff.html"
 <p>The synergy derived from collaborations between school districts and institutions of higher education could strengthen these attempts immeasurably.  School districts alone are unlikely to be able to give teachers and administrators the assistance they require to succeed in these challenging assignments.  This means that colleges and universities must enter the fray with more enthusiasm and vigor than most of them have shown until now.  It does not matter whether or not the institution has a teacher education program and, even if it does, the burden should not be borne by the teacher education program alone.</p>
 <p>The story that is written about these efforts 15 years from now may very well be the story of whether or not America is to survive as the democracy that we have known until now.  That, increasingly, is what is at stake in the schools of this country.</p>
 <hr/>
-<p><a href=".\">Back to Table of Contents</a></p>
+<p><a href="/pubs/A21/">Back to Table of Contents</a></p>
 </main>

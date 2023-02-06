@@ -22,8 +22,8 @@ path: "/pubs/A5/taylor.html"
 <a href="#j"></a></li><li><a href="#j">Annotated Bibliography</a>
 </li></ul>
 <h4>
-<a href=".\">Teaching in New Haven: Table of Contents</a> |
-<a href="..\..\">Yale-New Haven Teachers Institute</a>
+<a href="/pubs/A5/">Teaching in New Haven: Table of Contents</a> |
+<a href="/">Yale-New Haven Teachers Institute</a>
 </h4>
 <hr/>
 <a name="a">
@@ -102,7 +102,7 @@ briefly, to the beginnings of the earth. Current theory maintains that as
 the earth cooled, hydrogen and oxygen—water’s components—formed water
 vapor. As the earth’s crust continued
 to cool this vapor began to rain—for centuries, creating the lakes,
-rivers, and oceans of the earth. 
+rivers, and oceans of the earth.
 <p>
 Today, every drop of this original water is still in use. The cycle begins
 as water vapor which, moved by air currents and changing temperatures,
@@ -173,7 +173,7 @@ This means that the imaginary person at the beginning of this writing who
 lives in the midst of a vast desert may be unable to obtain edible fish or
 to vacation near the ocean. He may find his skies raining poison rather
 than clean water, or that man’s interference may have rerouted the air
-currents preventing any water at all from reaching his isolated home. 
+currents preventing any water at all from reaching his isolated home.
 Because of usurpation of our underground water reserves, our hypothetical
 man may even discover that the water table has dropped so low that he
 cannot obtain enough clean water to sustain himself. The need for everyone
@@ -190,7 +190,7 @@ show an already well-developed seacraft. Common sense dictates that people
 who live near large bodies of water, be they lakes, rivers, or oceans,
 must of necessity learn to cope with them. Failure to understand the seas
 leads to tragedy. Mastery of the seas, on the other hand, brings many
-rewards: food, drink, transportation, recreation, wealth, and power. 
+rewards: food, drink, transportation, recreation, wealth, and power.
 The first requirement of any sea-going craft, as Thor Heyerdahl points
 out, must be that it float. Suppose, therefore, that the first boat was a
 log. Lash a few logs together and you have created a raft capable of
@@ -275,7 +275,7 @@ also dominated China’s tea and opium trade and outlived its Dutch rival.</p><p
 In addition to the Dutch, the Scandinavians to the north also enjoyed the
 prosperity of a booming fur trade and whaling industry. The Americans, not
 to be outdone, perfected the art of whaling and developed a shipbuilding
-industry along the Eastern shore. 
+industry along the Eastern shore.
 </p><p>
 America entered sailing in the eighteenth century and remained competitive
 for many decades. Americans designed the fastest sailing ships abroad for
@@ -337,7 +337,7 @@ were not just a whim on the part of early seamen. These observations were
 often central to a ship’s survival. Before discovery of accurate ways to
 determine longitude, many captains’ logs were kept secret because of the
 information they contained about tides, winds, currents, hidden reefs, and
-other dangers. 
+other dangers.
 <p>
 A log forces the writer to be more careful observer of things around him
 as well as his inner life. In order to derive the benefits of a log, it is
@@ -357,21 +357,21 @@ but with pictures or colors or things students feel give an honest presentation 
 important to them. For example: What would you like to do with your
 future? Are people pushing you in directions you don’t want to go? How?
 Why? Can you change this situation? How do you feel about selected people
-in your life? Would you like to change them? Yourself? In what way? 
+in your life? Would you like to change them? Yourself? In what way?
 </dt><dt>3. Students can use the log to write new ideas, those that just pop
 into the head or those which require careful development. Students may
 also write new ideas that they’ve read or heard about. The student may
-wish to expand these ideas or perhaps create a fantasy. 
+wish to expand these ideas or perhaps create a fantasy.
 </dt><dt>4. The student may write snatches of conversations he or she thinks
 clever, funny, or dramatic. Many writers use this technique to preserve
 ideas, and a student may find something he or she wishes to use in a
 future story. Students can jot down jokes, family stories. the latest
-rhyme or poem. 
+rhyme or poem.
 </dt><dt>5. Vocabulary is a very important tool for a writer. Write down new
 words and their meanings, make puzzles of the words, or put down the new
-words in sentences. 
+words in sentences.
 </dt><dt>6. Describe people, things, a favorite room, the cafeteria at lunch
-time, a best friend, a favorite grandparent, the lake on a rainy morning. 
+time, a best friend, a favorite grandparent, the lake on a rainy morning.
 </dt><dt>7. Put real items in the log: photographs of good friends or of a
 happy trip, past theater ticket stubs for a terrific time, a postcard from
 a foreign land or a cartoon the student enjoyed. Use rubber cement as the
@@ -384,7 +384,7 @@ students examples from logs or diaries. Following are some brief examples
 from previously printed writings.<p>
 Below is a sample from Dove by Robin Graham, just a few days after the
 start of his trip:</p>
-<blockquote>“Just took down the mainsail . . . because of a squall. 
+<blockquote>“Just took down the mainsail . . . because of a squall.
 Enjoyed seawater bath—poured buckets of brine over my head. Gosh it’s good
 to feel clean. The smell in the cabin had disappeared, so it must have
 been me that caused it and not the cats.”
@@ -426,7 +426,7 @@ students to continue their logs long after they’ve left the classroom.</p>
 There is no best way to present the elements of this unit. This unit
 begins with short fiction because most students are already familiar with
 the short story and because a suspenseful story can draw students into
-reading information about the sea. 
+reading information about the sea.
 <p>
 Additionally it is important that an English unit be flexible enough to
 blend with other units in a marine studies environment. If, for example,
@@ -478,7 +478,7 @@ Discuss stories: Why did you choose to travel there? Why do you want to
 go? Do we sometimes want to do things without knowing why?</p><p>
 On a transparency, present the following:</p>
 <blockquote>
-a. Kenichi Horie sailed alone from Osaka, Japan to San Francisco in 1962. 
+a. Kenichi Horie sailed alone from Osaka, Japan to San Francisco in 1962.
 He was 23 years old at the time. When asked, “Why did you do it?” he
 responded in his book, <i>Kodoku:</i> “Well, I crossed it just because I
 wanted
@@ -499,7 +499,7 @@ Assignment: Why is it hard for a person to explain why they want to go to
 the sea? Are they hiding something from others? From themselves? Why would
 going to sea help Ishmael? Did you ever want to change the routine of your
 life? If so, what were your reasons for desiring a change? Did you get a
-chance to get away? Where did you go? Did the experience change you? How? 
+chance to get away? Where did you go? Did the experience change you? How?
 Ask students to express their feelings about these questions, then to
 write about a time they wanted to go away. Students may choose an
 alternate experience of explaining why Ishmael yearns for the sea. Length:
@@ -591,7 +591,7 @@ nailed a board (d) held in place
 (d) to
 be happy
 </dt></dl>
-<i>Project:</i> Locate information about the ray described in this story. 
+<i>Project:</i> Locate information about the ray described in this story.
 Draw a picture and describe the ray’s habits. Are there other members of
 this family? Are they as frightening as this story depicts them? Design a
 bulletin board using the information you’ve collected.<p>
@@ -606,7 +606,7 @@ portraying the anemone as a woman.</p><p>
 <dl><dt>1. Why is the speaker horrified to see the anemone eat the crab?
 </dt><dt>2. What aspect of this occurrence makes the speaker afraid?
 </dt></dl>
-<i>Log Assignment:</i> Have you ever seen anything that frightened you? 
+<i>Log Assignment:</i> Have you ever seen anything that frightened you?
 Describe what you saw. Describe the colors, sizes, shapes, smells, and
 feelings of the time. How did you feel as you watched? What did you do
 afterward? When did you first realize you were afraid? Did this experience
@@ -648,7 +648,7 @@ World War II erupts and Rhayader attempts to enlist but is rejected due to
 his deformity. Then in 1940 British men are stranded along the shore in
 the Battle of Dunkirk. A general call is issued for anyone possessed of a
 boat to go in under fire and rescue the stranded soldiers. Rhayader goes,
-despite Fritha’s protestations, valiantly rescues many men, and is killed. 
+despite Fritha’s protestations, valiantly rescues many men, and is killed.
 The snow goose returns to Canada, and Fritha continues to care for
 Rhayader’s birds until the lighthouse is bombed by the Germans. The sea
 regains the land and the estuary becomes barren and desolate.</p><p>
@@ -893,9 +893,9 @@ school, adults, love, and the world that most students have.</p><p>
 </dt><dt>5. Did Robin grow as a person through this experience? Why?
 </dt></dl> <i>Projects</i>
 <dl><dt>1. Design a model of Dove I or Dove II.
-Label the important parts of the ship. 
+Label the important parts of the ship.
 </dt><dt>2. Select one of the countries Robin visited. Go to the library and
-find out as much as you can about the country. 
+find out as much as you can about the country.
 </dt><dt>3. Have you visited any of the places where Robin stopped? Tell about
 your experiences in that country. If you have slides or pictures, include
 them as part of your report. You can design a slide-tape show if you wish
@@ -903,7 +903,7 @@ by recording your feelings about
 each slide or picture.
 </dt><dt>4. One of the places Robin visited was the Galapagos Islands. Much
 study and research have been devoted to the wildlife there. Read about it
-and make a report. 
+and make a report.
 </dt><dt>5. Plot Robin’s course on a large map or design the map yourself, plotting his course.
 </dt><dt>6. Read about other people who have circled the world alone. Compare their voyages with Robin’s. Write about the things that were the same and those which were different.
 </dt><dt>7. If you were to circle the world, not necessarily alone or by sailboat, where would you stop and why?
@@ -948,9 +948,9 @@ When the sentences are finished, the teacher selects a word and each
 student writes his sentence for that word on a transparency. The following
 day, the class examines all the sentences for a given word and decides
 which are good sentences. Students then select good sentences to put in
-their logs for vocabulary study. 
+their logs for vocabulary study.
 </dt><dt>2. A student makes a line drawing of a ketch or a sloop. Students
-then label parts of the diagram using words from the vocabulary. 
+then label parts of the diagram using words from the vocabulary.
 </dt></dl>
 Matching Exercise: Match the letters on the right side with the correct
 words on the left.<p>
@@ -1001,12 +1001,12 @@ people involved are rather eccentric individuals:</p>
 Armstrong, James. <i>Voyages of Discovery.</i> New York: John Wiley and
 Sons,
 1972. Selections from Kodoku, by Kenichi Horie and other sea lore can be
-found in the anthology. 
+found in the anthology.
 <p>
 Bass, George F., ed. <i>A History of Seafaring.</i> New York: Walker and
 Company,
 1972. This is a wonderful book about the history of seacraft. This book
-contains many photographs and illustrations. 
+contains many photographs and illustrations.
 </p><p>
 Carson, Rachel.<i> The Sea Around Us.</i> New York: Oxford University
 Press, 1961. Explains poetically and dramatically the dangers to our seas.
@@ -1014,28 +1014,28 @@ Press, 1961. Explains poetically and dramatically the dangers to our seas.
 Chichester, Francis. <i>Gipsy Moth Circles the World.</i> New York:
 Coward-McCann, 1968. Chichester sailed around the world and became a hero.
 This is a most detailed account of his preparations and travels. The book
-is long, but not difficult to read. 
+is long, but not difficult to read.
 </p><p>
 Commission of Marine Science, Engineering, and Resources. <i>Our Nation
 and
 the Sea.</i> Washington, DC: U.S. Government Printing Office, 1969. This
 book
-presents clear explanations of the importance of the oceans as a resource. 
+presents clear explanations of the importance of the oceans as a resource.
 </p><p>
 Dugan, James. <i>World Beneath the Sea.</i> Washington, DC: National
 Geographic
 Society, 1967. This publication contains many colorful photographs and
-clear explanations of the oceans and their resources. 
+clear explanations of the oceans and their resources.
 </p><p>
 Freuchen, Peter. <i>Book of the Seven Seas.</i> New York: Julian Messner,
 1957.
 Another delightful book which includes much about the sea: history, sea
 tales, lone voyages, and philosophy. This is a wonderful book for
-everyone. 
+everyone.
 </p><p>
 Gallico, Paul. <i>Three Legends.</i> New York: Doubleday and Company,
 1966.<i> The
-Snow Goose</i> can be found in this volume. 
+Snow Goose</i> can be found in this volume.
 </p><p>
 Graham, Robin. <i>The Boy Who Sailed Around the World Alone.</i> New York:
 Golden
@@ -1046,7 +1046,7 @@ This is a wonderful book for students to browse through.
 ——<i>—. Do</i>ve. New York: Bantam Books, 1973</p><p>
 Headrick, Daniel. <i>The Tools of Empire.</i> New York: Oxford University
 Press, 1981. Are boats tools of empire? You bet! This is a good reference
-for teachers. 
+for teachers.
 </p><p>
 Heyerdahl, Thor. <i>Early Man and the Ocean.</i> New York: Doubleday and
 Company, 1979. This volume explores the beginnings of navigation. It is
@@ -1054,66 +1054,66 @@ highly informative for good readers. </p><p> ———. <i>Kon-Tiki.</i> New Yor
 Pocket
 Books, 1956. This tells the story of Heyerdahl’s ocean-going expedition on
 a raft. Delightful to read and a must for anyone interested in the origins
-of seacraft. 
+of seacraft.
 </p><p>
 Lansing, Alfred. <i>Shackleton’s Valiant Voyage.</i> New York: McGraw-Hill
 Book
-Company, 1960. Easy reading version of Endurance, by the same author. 
+Company, 1960. Easy reading version of Endurance, by the same author.
 Tells the exciting story of Shackletons’s Antarctic expedition whose boat
 foundered on the ice. They survived to tell the story. Good reading for
-students interested in survival adventures. 
+students interested in survival adventures.
 </p><p>
 Mandry, Robert.<i> Tinkerbelle.</i> New York: Harper and Row, 1966.
 </p><p>
 Marx, Wesley.<i> The Protected Ocean.</i> New York: Coward, McCann, and
 Geoghegan, 1972. This is easy to read. The book clearly explains the
-importance of protecting the seas from destruction. 
+importance of protecting the seas from destruction.
 </p><p>
 McFarland, Philip, ed. <i>Viewpoints.</i> Boston: Houghton Mifflin
 Company, 1981.
 The story, “Sea Devil,” and the poems, “Carmel Point” and “First Lesson,”
-may be located in this anthology. 
+may be located in this anthology.
 </p><p>
 Redman, Crosby E., ed. <i>Designs in Drama.</i> New York: MacMillan
 Publishing
 Company, 1974. “The Caine Mutiny Court Martial,” by Herman Wouk, can be
-found in this anthology. 
+found in this anthology.
 </p><p>
-U.S. Department of the Interior. <i>River of Life.</i> Washington, DC: 
+U.S. Department of the Interior. <i>River of Life.</i> Washington, DC:
 U.S.  Government Printing Office, 1970. Booklet contains a clear
 explanation of the world’s water supply. </p><p>
 Severin, Tim. <i>The Brendan Voyage.</i> New York: McGraw-Hill Book
 Company,
 1978. Tim Severin and his crew set out across the North Atlantic in a
 leather boat and made it. Students who liked Kon-Tiki will enjoy this
-book, although it is a bit harder to read. 
+book, although it is a bit harder to read.
 </p><p>
 Slocum, Joshua, Captain. <i>Sailing Alone Around the World.</i> New York:
 Dover,
-1956. 
+1956.
 </p><p>
 Trumbull, Robert.<i> The Raft.</i> New York: Holt and Company, 1942. Easy
 to read
-true story of three Navy fliers downed in the Pacific who survived. 
+true story of three Navy fliers downed in the Pacific who survived.
 </p><p>
 Victor, Paul Emile. <i>Man and the Conquest of the Poles.</i> New York:
 Simon and
 Schuster, 1963. The search for the Northeast and Northwest passages is
-explained in this book. Well written, but for history buffs only. 
+explained in this book. Well written, but for history buffs only.
 </p><p>
 Villers, Alan. <i>Men, Ships, and the Sea.</i> Washington, DC: National
 Geographic Society, 1962. Beautiful illustrations and photographs adorn
-this history of seacraft. 
+this history of seacraft.
 </p><p>
 Weiss, Harvey. <i>Sailing Small Boats.</i> New York: Young Scott Books,
 1967.
 This is a wonderful, easy to read book which explains how sailboats work.
-It even explains how to make your own model of the Kon-Tiki raft. 
+It even explains how to make your own model of the Kon-Tiki raft.
 </p><p>
 Wibberley, Leonard.<i> Toward a Distant Island.</i> New York: Ives,
 Washburn,
 1966. Delightfully amusing account of Wibberley’s travels around the
-Pacific. Unlike Kon-Tiki, fish did not jump aboard his boat! 
+Pacific. Unlike Kon-Tiki, fish did not jump aboard his boat!
 </p><p>
 Wouk, Herman. <i>The Caine Mutiny.</i> Garden City, NY: Doubleday, 1951.
 ——<i>—. The Caine Mutiny Court-Mart.</i> Garden City, NY: Doubleday,

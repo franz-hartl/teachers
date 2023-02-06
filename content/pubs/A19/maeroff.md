@@ -193,7 +193,7 @@ urged on any particular sector of education  can be seen to extend into
 the warp and woof of the entire  enterprise. The nature of the changes
 often transcends differences in  the ages and sophistication of learners.
 </p><hr/>
-<h4><a href=".\">Back to
+<h4><a href="/pubs/A19/">Back to
 Table of Contents of the Spring  1996 Issue of <i>On Common
 Ground</i></a>
 </h4>

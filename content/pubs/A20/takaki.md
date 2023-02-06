@@ -71,7 +71,7 @@ Blacks:  "[The bosses] yell at the girls and 'call them down' even worse
 than I imagine the Negro slaves were in the South".</p><p>
 But, we ask ourselves, is there something more than the economy that makes
 all of us one people?  America's very history as a nation has been
-multicultural.  Blacks fought beside whites in the War for Independence. 
+multicultural.  Blacks fought beside whites in the War for Independence.
 During the Civil War, 186,000 Blacks served in the Union Army.  During
 World War II, the defenders of our nation included Navajos from the
 reservations, Chicanos from the barrios, African Americans from the
@@ -97,7 +97,7 @@ assimilationists and shrill separatists.  For indeed, there is a third
 way, offering us a more accurate history as well as a more complete
 comprehension of who we are as Americans.  
 </p><hr/>
-<h4><a href=".\">Back to
+<h4><a href="/pubs/A20/">Back to
 Table of Contents of the Fall 1996 Issue of <i>On Common
 Ground</i></a>
 </h4>

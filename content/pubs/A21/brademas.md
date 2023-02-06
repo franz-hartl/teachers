@@ -41,5 +41,5 @@ path: "/pubs/A21/brademas.html"
 <p>The power of the arts and the humanities to develop creativity, help close the "opportunity gap," and prepare all children for productive futures is well documented in the Committee's report, <i>Coming up Taller:  Arts and Humanities Programs for Children and Youth at Risk</i>.  This study reveals the often heroic work that many arts, humanities and community organizations perform to serve at-risk youth.  More public and private investment in these programs can provide creative alternatives to destructive behavior and divert some young people from gangs, drug use, crime and other anti-social behavior.</p>
 <p>One sure way of achieving this objective is to encourage communities throughout the United States to establish the kind of partnerships pioneered by the Yale-New Haven Teachers Institute.</p>
 <hr/>
-<p><a href=".\">Back to Table of Contents</a></p>
+<p><a href="/pubs/A21/">Back to Table of Contents</a></p>
 </main>

@@ -59,9 +59,9 @@ appear to be real!
 </p><p>
 These pieces are truly mixed media works as they combine art  materials,
 mass media imagery, drama, and student collaboration to  yield striking,
-original statements. 
+original statements.
 </p><hr/>
-<h4><a href=".\">Back to
+<h4><a href="/pubs/A18/">Back to
 Table of Contents of the Fall 1995 Issue of <i>On Common
 Ground</i></a>
 </h4>

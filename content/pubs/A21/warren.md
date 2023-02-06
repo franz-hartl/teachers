@@ -45,5 +45,5 @@ path: "/pubs/A21/warren.html"
 <p>The vast majority of independent colleges and universities with partnerships—nine of ten—are satisfied with their programs and would expand them if the resources were available, or would increase the number of partnerships that they already have.  Their experience has encouraged them to expand their commitment.  Even institutions that do not currently have a partnership overwhelmingly support establishing one.  If the resources were available, three-quarters of these colleges would become involved in a partnership with elementary/secondary schools.</p>
 <p>It is clear that partnerships are working—for colleges, for schools, for students, and for teachers.  Independent colleges and universities have accepted the challenge given to all of us—to work together to improve the quality of life for our nation's children.  </p>
 <hr/>
-<p><a href=".\">Back to Table of Contents</a></p>
+<p><a href="/pubs/A21/">Back to Table of Contents</a></p>
 </main>

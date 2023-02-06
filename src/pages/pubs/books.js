@@ -9,7 +9,7 @@ const periodicalPage = () => (
         <h1 className="page-title">Books</h1>
         <div className="row">
           <div className="col-sm-11 left-panel">
-            <p>A first book on the Institute was published in 1984 by the College Board. A second book, 
+            <p>A first book on the Institute was published in 1984 by the College Board. A second book,
               published in 1991, contained a collection of exemplary curriculum units produced in the Institute.
             </p>
             <h2>Teaching in New Haven: The Common Challenge, 1991</h2>
@@ -23,7 +23,7 @@ const periodicalPage = () => (
             </p>
             <ul>
             <li>
-              <Link className="" to="pubs/A5/">
+              <Link className="" to="/pubs/A5/">
                 Teaching in New Haven: The Common Challenge
               </Link>
             </li>
@@ -45,7 +45,7 @@ const periodicalPage = () => (
             </p>
             <ul>
             <li>
-              <Link className="" to="pubs/A4/">
+              <Link className="" to="/pubs/A4/">
                 Teaching in America: The Common Ground
               </Link>
             </li>

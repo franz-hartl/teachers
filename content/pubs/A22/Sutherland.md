@@ -23,27 +23,27 @@ as the application period neared in January. Correctly anticipating the number o
 these teacher coordinators who were able, with some compromises, to successfully accommodate all applicants. Among the new Fellows, two, four teacher, teams were accepted with four members each from two different schools. Though each member of a team wri
 tes an individual unit, a team applies to a seminar both separately and as a group. They coordinate their units so that teachers from different grade levels or disciplines can work together, sharing projects and presenting a joint culminating activity, th
 us maximizing the effect of each unit, often drawing in non-Institute staff members. This year there were also at least two informal teams whose work should yield the similar results.</p>
-<p>Often the work of a seminar team grows from and is encouraged by a school’s 
-Center for Curriculum and Professional Development, now located in eleven schools, including three high schools, three middle schools, two K-8 schools and three elementary schools, with another high school ready to come on board. Linked to their school’s 
-comprehensive plan, and approved by the school’s SPMT and the Institiute steering committee, these Centers provide teachers with a workspace, furniture, a Yale computer, all available Institute resources, and often the assistance of 
+<p>Often the work of a seminar team grows from and is encouraged by a school’s
+Center for Curriculum and Professional Development, now located in eleven schools, including three high schools, three middle schools, two K-8 schools and three elementary schools, with another high school ready to come on board. Linked to their school’s
+comprehensive plan, and approved by the school’s SPMT and the Institiute steering committee, these Centers provide teachers with a workspace, furniture, a Yale computer, all available Institute resources, and often the assistance of
 mini-grants, along with encouragement to pursue projects which expand Institute activities beyond the scope of a single unit.
 </p>
-<p>This year, in conjunction with the teacher steering committee, our Centers have, along with a variety of individual school projects, participated in and helped to 
-plan a series of Institute related computer workshops, two Center Forums, our first Institute retreat, and a two-week, very 
+<p>This year, in conjunction with the teacher steering committee, our Centers have, along with a variety of individual school projects, participated in and helped to
+plan a series of Institute related computer workshops, two Center Forums, our first Institute retreat, and a two-week, very
 successful Summer Academy involving students from Center schools.
 </p>
 <p>Also, this year a group of three elementary teachers working from their Center completed a curriculum document in which they identified all units suitable, at least in part, for use in an elementary classroom. These units were then classified according
 to the subjects listed on most elementary report cards. On the high school level, a document linking units with the Connecticut Academic Performance Test is about to be finalized. They join a third document created four years ago in which approximately 4
-00 units related to diversity were linked with New Havens standards on diversity. All of these are 
+00 units related to diversity were linked with New Havens standards on diversity. All of these are
 of practical use to most teachers as they align their curriculum with the goals of the New Haven system.
 </p>
 <p><b>Looking Forward</b></p>
 <p>Looking forward, as an Institute, we continued to work on strengthening our ties to the New Haven district, to further our coordination of Institute units with District goals, to increase our emphasis on New Haven’s focus on improving student literacy,
 and, finally, to explore more ways of using Institute materials to aid the development of new teachers.</p>
-<p>Through it all, we continue to recognize that the foundation of this year’s Institute and all of its related activities remains 
+<p>Through it all, we continue to recognize that the foundation of this year’s Institute and all of its related activities remains
 the seminar experience, an experience whose success, like that of all other phases of our program, is grounded in genuine teacher leadership and participation. We sincerely look forward to learning from and sharing with all of you who represent your indiv
 idual Institutes.
 </p>
 <hr/>
-<p><a href=".\">Back to Table of Contents</a></p>
+<p><a href="/pubs/A22/">Back to Table of Contents</a></p>
 </main>

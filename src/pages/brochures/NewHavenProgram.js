@@ -28,34 +28,34 @@ const NewHavenPage = () => (
                 <a target="_blank" href="/pdfs/ar/ar2007-full.pdf ">2007 Annual Report</a>
               </li>
               <li>
-                <Link to="brochures/A3/2006/">2006 Annual Report</Link>
+                <Link to="/brochures/A3/2006/">2006 Annual Report</Link>
               </li>
               <li>
                 <a target="_blank" href="/pdfs/ar/ar2004-full.pdf">2004 Annual Report</a>
               </li>
               <li>
-                <Link to="brochures/A3/2003/">2003 Annual Report</Link>
+                <Link to="/brochures/A3/2003/">2003 Annual Report</Link>
               </li>
               <li>
-                <Link to="brochures/A3/2002/">2002 Annual Report</Link>
+                <Link to="/brochures/A3/2002/">2002 Annual Report</Link>
               </li>
               <li>
-                <Link to="brochures/A3/2001/">2001 Annual Report</Link>
+                <Link to="/brochures/A3/2001/">2001 Annual Report</Link>
               </li>
               <li>
-                <Link to="brochures/A3/2000/">2000 Annual Report</Link>
+                <Link to="/brochures/A3/2000/">2000 Annual Report</Link>
               </li>
               <li>
-                <Link to="brochures/A3/1999/">1999 Annual Report</Link>
+                <Link to="/brochures/A3/1999/">1999 Annual Report</Link>
               </li>
               <li>
-                <Link to="brochures/A3/1998/">1998 Annual Report</Link>
+                <Link to="/brochures/A3/1998/">1998 Annual Report</Link>
               </li>
               <li>
                 <a target="_blank" href="/pdfs/ar/ar1997.pdf">1997 Annual Report</a>
               </li>
               <li>
-                <Link to="brochures/A3/1996/">1996 Annual Report</Link>
+                <Link to="/brochures/A3/1996/">1996 Annual Report</Link>
               </li>
               <li>
                 <a target="_blank" href="/pdfs/ar/1995-annual-report.pdf">1995 Annual Report</a>

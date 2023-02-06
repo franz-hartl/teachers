@@ -19,7 +19,7 @@ are inextricably linked has been substituted for philosophical engagement
 with the complex dynamics of educational partnerships.  Within our best
 intentions have been planted the seeds of our failure to produce
 educational change on a large scale.  And in the process, we are beginning
-to lose our faith.<p> 
+to lose our faith.<p>
 It is all too tempting to lose faith in education right now.  It is all
 too tempting to take the low road, the path of least resistance, or the
 well-worn path and euphemistically "opt out" of the whole business.  As it
@@ -33,7 +33,7 @@ broken promises for equality‹I. O. U.'s which litter the American
 conscience.  It is a difficult time to keep the faith.</p><p>
 We have seen many cogent and incisive critiques of American education, and
 yet we still lack the descriptive vocabulary and the conceptual framework
-in which to promote change effectively, efficiently, and consistently. 
+in which to promote change effectively, efficiently, and consistently.
 Terms like <i>equity</i>, <i>excellence</i>, <i>empowerment</i>, <i>shared
 governance</i>, and even <i>partnership </i>have been slowly emptied out
 of value through their conspicuous consumption by the "education market."
@@ -56,7 +56,7 @@ and increase student achievement against a growing chorus of voices which
 elide merit and ethnicity.  As Christopher Lasch puts it, "meritocracy is
 a parody of democracy" (41).  Individuals considered meritorious are often
 those who have access to more cultural and financial capital, which still
-largely distributes itself along racial, class, and gender lines. </p><p> 
+largely distributes itself along racial, class, and gender lines. </p><p>
 The increased stratification of American society and the backlash against
 legislative intervention on behalf of diversity have compounded feelings
 of isolation and alienation between educational sectors.  Accusations that
@@ -76,7 +76,7 @@ education are intrinsically linked:  ensuring the efficacy of
 representative democracy requires a progressive education system, and the
 progression of democracy depends on sustaining a diverse culture.  Within
 this matrix, it seems as if educational partnerships would naturally
-evolve in the construction of a democratic national community. 
+evolve in the construction of a democratic national community.
 Yet we know that this is not the case.  Institutions have often
 jealously protected their autonomy over and against egalitarian
 collaboration.  Higher education has relied on outreach programs which are
@@ -88,7 +88,7 @@ mainstreaming.  We know that the homogenization of values and ideas
 results in societal stagnation and political
 narrowness.  Yet many argue that increased diversity threatens the
 coherence of national identity and the ability to reach political
-consensus.</p><p> 
+consensus.</p><p>
 Educators have struggled to find the balance between exclusiveness and
 inclusiveness, autonomy and community, diversity and homogeneity.  Schools
 have been influenced by the demands of a Cold War mentality that confused
@@ -117,7 +117,7 @@ education are varied and complex, they engage one another on the question
 of diversity, both racial and cultural.  As Sarason argues, "It is a
 cliché to say that we are a nation of immigrants, but it is not a
 cliché to say that few people realize how the pluralism of our
-society has made schools frequent scenes of ideological battle" (24). 
+society has made schools frequent scenes of ideological battle" (24).
 Despite the national rhetoric of multi-culturalism, there remains a
 deeply-rooted suspicion in America that identity ultimately devolves to an
 irreducible category like race or gender.  However, such reasoning ignores
@@ -125,7 +125,7 @@ the arguments of many historians, including Theodore Allen and Ronald
 Takaki, who argue that race, like culture, is socially constructed, not
 intrinsic and transcendental.  If this is true, then identity is much more
 fluid and flexible, and differences can be seen as circumstantial rather
-than essential. </p><p> 
+than essential. </p><p>
 One of the stumbling blocks to the acceptance of
 our actual diversity is a misconception that diversity is an external
 rather than internal phenomenon.  It is, in fact, both.  In a society that
@@ -159,7 +159,7 @@ often reflect corresponding interests and goals.  Consequently, I have
 found that focusing on the common interests of communities in order to
 form coalitions dedicated to cooperative action offers the best strategy
 for social and political change.  It is, in fact, on this basis that
-American democracy is preserved and renewed.</p><p> 
+American democracy is preserved and renewed.</p><p>
 In terms of education, partnership is the means by which we can renew a
 national
 commitment to the health of American democracy.  As bell hooks has said,
@@ -175,9 +175,9 @@ simultaneously realize that programs to increase representation of
 underrepresented groups can lead to a similar isolation and intellectual
 narrowness.  In short, we must understand the ethical imperative of
 partnership as one which seeks a balance between assimilation and
-separatism.</p><p> 
+separatism.</p><p>
 Essential to the fulfillment of this promise is a
-reinvigoration of intellectual development at all levels of education. 
+reinvigoration of intellectual development at all levels of education.
 Above raising academic standards, beyond the recent attempts to fortify
 critical reading, thinking, and writing skills among students ,
 intellectual development requires a liberal arts emphasis which values
@@ -191,7 +191,7 @@ intelligence seeks to grasp, manipulate,
 re-order, adjust, intellect examines, ponders, wonders, theorizes,
 criticizes, imagines.  Intelligence will seize the immediate meaning in a
 situation and evaluate it.  Intellect evaluates evaluations, and looks for
-the meanings of situations as a whole. 
+the meanings of situations as a whole.
 (25)
 </blockquote>
 For Hofstadter, intellect is associated primarily with "human dignity" and
@@ -246,7 +246,7 @@ the stability of a democratic community depends.  If educators cannot
 model the ideal of a collaborative, egalitarian community, how can we
 expect our students to participate actively in the democratic process? How
 can we criticize efforts to incorporate education for capitalizing on our
-failure to intellectually engage students in the educational process? 
+failure to intellectually engage students in the educational process?
 Although things seem bleak, we should not be too quick to signal our
 defeat.  In fact, the abrupt political changes now underway may ironically
 serve to strengthen the interests of educational collaboration.  Nothing
@@ -260,29 +260,29 @@ Barzun, J.  (1959). <i> The House of Intellect.</i>  New York: Harper &amp;
 Brothers Publishers.</p><p>
 Dewey, J.  (1916/1966).  <i>Democracy and Education.</i>  New York:  The
 Free
-Press.</p><p> 
+Press.</p><p>
 Hofstadter, R.  (1963). <i> Anti-Intellectualism in American
-Life. </i> New York: Alfred A. Knopf.</p><p> 
+Life. </i> New York: Alfred A. Knopf.</p><p>
 hooks, b.  (1994). <i> Teaching to Transgress:  Education as the Practice
 of
-Freedom. </i> New York: 
-Routledge.</p><p> 
+Freedom. </i> New York:
+Routledge.</p><p>
 Lasch, C.  (1995).  <i>The Revolt of the Elites and the
 Betrayal of Democracy. </i> New York: W.W. Norton &amp; Company.</p><p>
 Ravitch,D.  (1983).  <i>The Troubled Crusade: American Education,
 1945-1980.</i> New
-York: Basic Books, Inc.</p><p> 
+York: Basic Books, Inc.</p><p>
 Sarason, S. B. (1982). <i>The Culture of the School and the Problem of
 Change.</i> (2nd ed.). Boston: Allyn and Bacon.</p><p>
 Sirotnik, K., &amp; Goodlad, J. (Eds.).  (1988). <i> School-University
-Partnerships in Action:  Concepts, Cases, and Concerns.</i>  New York: 
-Teachers College Press. </p><p> 
+Partnerships in Action:  Concepts, Cases, and Concerns.</i>  New York:
+Teachers College Press. </p><p>
 Takaki, R. T. (1993). <i>A Different
 Mirror:  A History of Multicultural America.</i> (1st ed.). Boston:
 Little,
 Brown &amp; Co.</p>
 <hr/>
-<h4><a href=".\">Back to
+<h4><a href="/pubs/A20/">Back to
 Table of Contents of the Fall 1996 Issue of <i>On Common
 Ground</i></a>
 </h4>

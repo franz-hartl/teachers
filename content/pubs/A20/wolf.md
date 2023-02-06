@@ -4,14 +4,14 @@ title: "Entering Multiculturalism"
 path: "/pubs/A20/wolf.html"
 ---
 <main>
-<center><h2>Entering Multiculturalism</h2> 
+<center><h2>Entering Multiculturalism</h2>
 <font size="+1">By Bryan J.
-Wolf</font> </center><hr/> 
+Wolf</font> </center><hr/>
 Over the past decade, I have led a variety of seminars for the Yale-New
 Haven Teachers Institute that have focused on issues of race and
 ethnicity.  I did so in part because the New Haven school system, like its
 counterparts across the nation, has been reluctant to develop a curriculum
-that reflects the needs and histories of the urban populations it serves. 
+that reflects the needs and histories of the urban populations it serves.
 And I did so for the most selfish of reasons, for my own sake, so that I
 could have a truer, wider vision of my world.<p>
 It was not always so.  The first seminar I taught for the Teachers
@@ -26,7 +26,7 @@ Something was missing.  That first seminar addressed an array of
 teaching needs of New Haven public school teachers.  Their working (and
 often non-working) hours were filled with questions for which Ralph Waldo
 Emerson and Jackson Pollock were not the answers.</p><p>
-In retrospect, I suspect the seminar lacked what you might call "soul." 
+In retrospect, I suspect the seminar lacked what you might call "soul."
 It had spirit and energy in abundance.  But that is not the same as
 "soul," a term that I use here to suggest the richness of racial and
 ethnic cultural traditions in the United States.  To teach a class with
@@ -79,20 +79,20 @@ efforts at cultural recovery.</p><p>
 Eventually this new knowledge made its way into my Yale teaching.  I
 created an undergraduate seminar on the topic of "Ethnicity and Dissent"
 in American art and literature, and then converted the seminar into a
-lecture course that I will teach for the first time in the spring of 1997. 
+lecture course that I will teach for the first time in the spring of 1997.
 My research interests similarly shifted, and I now devote increasing
 amounts of my time to writing about multiculturalism in contemporary
 literature and art.<br/>
 Why did this exploratory teaching and learning occur in the Teachers
 Institute before it happened in my regular instruction with Yale
 undergraduate and graduate students?  I have been pondering this question
-for a while now, and I think I know the answer. 
+for a while now, and I think I know the answer.
 But to understand that answer, we need to detour for a moment to an
 arresting sculpture by Martin Puryear, an African-American artist who
 works with marvelously crafted, often bio-morphic forms, constructed in
 wood and metal.  To understand the relation
 of the Teachers Institute to the year-round curriculum at Yale, we need
-to consider first Puryear's <i>To Transcend</i>.</p><p> 
+to consider first Puryear's <i>To Transcend</i>.</p><p>
 Puryear's sculpture looks a bit like an ungainly elephant's trunk reaching
 up the wall.  It consists of two blocks of wood united by a lean wooden
 tether.  The tether emerges from a kidney-shaped block evocative of the
@@ -113,7 +113,7 @@ block of wood, at ground level.  They remain incomplete until we learn to
 cast a glance upwards, beyond ourselves.  For then and only then do we
 learn to measure who we are by what we might become.</p><p>
 The Yale-New Haven Teachers Institute is one place for measuring what we
-might become.  It resembles that disk crowning Puryear_s lean arc of wood. 
+might become.  It resembles that disk crowning Puryear_s lean arc of wood.
 It echoes the world around it at the same time as it attempts to alter,
 rethink, that world.  Like Puryear's rounded disk, the Teachers Institute
 provides a space where everyday life may be reimagined, where the
@@ -135,7 +135,7 @@ history.  It is also our saving truth.  W.E.B. Dubois was right: race is
 the central issue of the twentieth century.  And all of us are part of
 that saga.</p><p>
 To say this is to stop defending the arts as repositories of universal
-truth.  That leaves them like Dickens' Marley: dead as a doornail. 
+truth.  That leaves them like Dickens' Marley: dead as a doornail.
 Instead we need to see the arts as actors, fighters, in a contest over
 cultural values, a struggle to legitimate particular social visions.  I no
 longer measure a work of art by its "beauty."  That term‹and the
@@ -161,7 +161,7 @@ provides its participants, both Yale professors and New Haven public
 school teachers, with a small taste of utopia, where knowledge, like
 mangoes, ripens in the heat of a new day.  
 </p><hr/>
-<h4><a href=".\">Back to
+<h4><a href="/pubs/A20/">Back to
 Table of Contents of the Fall 1996 Issue of <i>On Common
 Ground</i></a>
 </h4>

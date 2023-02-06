@@ -67,5 +67,5 @@ path: "/pubs/A21/edgerton.html"
 <p>Will this kind of university ever come to be?  Probably not if our motivation is only of service . . . of making a contribution to the reform of the schools.  But gradually, I think, we are coming to realize that the game we have been playing may not work for our own league either.</p>
 <p>In the game we have been playing, the faculty are the players and the students, all too often, are in the stands.  In the 21st century university, the students will be the players, and the faculty will be the coaches.  It's not yet clear whether the public will be in the stands, or down on the field as umpires.  The sooner, and the faster, that we can learn to play this new game, the more we will do for the schools.</p>
 <hr/>
-<p><a href=".\">Back to Table of Contents</a></p>
+<p><a href="/pubs/A21/">Back to Table of Contents</a></p>
 </main>

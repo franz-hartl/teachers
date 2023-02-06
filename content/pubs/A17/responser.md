@@ -151,9 +151,9 @@ cannot assume that the connections will just happen without structured
 opportunities to make them happen. That's what the NEH projects are doing
 for Kellogg Community College. Further, the administration and faculty see
 these projects as a beginning and are eager to collaborate in other ways
-and to encourage similar projects at other community colleges. 
+and to encourage similar projects at other community colleges.
 </p><hr/>
-<h4><a href=".\">Back to
+<h4><a href="/pubs/A17/">Back to
 Table of Contents of the Spring 1995 Issue of <i>On Common
 Ground</i></a>
 </h4>

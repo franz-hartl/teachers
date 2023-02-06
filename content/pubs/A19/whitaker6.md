@@ -265,7 +265,7 @@ possibly adverse waters, a difficult voyage. We have been privileged  in
 the collaborative movement to have had Fred M. Hechinger and  Ernest L.
 Boyer, along with many others, as part of the crew.
 </p><hr/>
-<h4><a href=".\">Back to
+<h4><a href="/pubs/A19/">Back to
 Table of Contents of the Spring  1996 Issue of <i>On Common
 Ground</i></a>
 </h4>

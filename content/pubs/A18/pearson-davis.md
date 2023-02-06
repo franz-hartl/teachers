@@ -78,7 +78,7 @@ that workshop.  Teachers who have  served as portfolio competition judges
 also earn the right to attend.   In addition, guest writers give a talk
 for all teachers, students, and  parents of students in participating
 classrooms.  Madeleine L'Engle  was this year's guest writer.  Last year's
-was Newbery Award  winner, Paul Fleischman. 
+was Newbery Award  winner, Paul Fleischman.
 </p><p>
 We designed the third component, the performance troupe, for  teachers who
 want an intensive immersion in drama.  We select up  to twelve teachers
@@ -115,7 +115,7 @@ professional production either by college  actors at UNM or by
 accomplished child and teenage actors.  In some  cases, the directors will
 work with the young playwrights on any  necessary revisions so they learn
 what a collaborative art form  theatre is.  This link to community
-theatres as well as to schools  significantly enriches the collaboration. 
+theatres as well as to schools  significantly enriches the collaboration.
 </p><p>
 Thus far, the project has reached approximately  55 teachers and  nearly
 2000 students from a wide variety of cultural and linguistic  backgrounds.
@@ -168,7 +168,7 @@ More  lines of communication are opening up between the Department of
 Theatre and Dance and the College of Education. The  intergenerational
 nature of the project has had a profound effect on  all of us.  
 </p><hr/>
-<h4><a href=".\">Back to
+<h4><a href="/pubs/A18/">Back to
 Table of Contents of the Fall 1995 Issue of <i>On Common
 Ground</i></a>
 </h4>

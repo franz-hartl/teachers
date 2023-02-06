@@ -11,7 +11,7 @@ class Survey_feedback extends React.Component {
         <div className="fbwrap">
           <p className="fdback">Your feedback is important to us!</p>
           <p>
-          After viewing our curriculum units, please take a few minutes to help us understand how 
+          After viewing our curriculum units, please take a few minutes to help us understand how
           the units, which were created by public school teachers, may be useful to others.
           </p>
         </div>

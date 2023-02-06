@@ -20,8 +20,8 @@ path: "/pubs/A5/wright.html"
 <a href="#h"></a></li><li><a href="#h">Annotated Bibliography</a>
 </li></ul>
 <h4>
-<a href=".\">Teaching in New Haven: Table of Contents</a> |
-<a href="..\..\">Yale-New Haven Teachers Institute</a>
+<a href="/pubs/A5/">Teaching in New Haven: Table of Contents</a> |
+<a href="/">Yale-New Haven Teachers Institute</a>
 </h4>
 <hr/>
 <a name="a">
@@ -31,7 +31,7 @@ variety of Biology courses during the first or second year of high school.
 This unit is aimed primarily at students in the upper grades of high
 school for whom an interdisciplinary setting might provide rich interplay
 between scientific evidence and broad reaching ideas and questions about
-evolution. 
+evolution.
 <p>
 In my school, a magnet public high school of about 240 students, I have
 undertaken the development of just such an interdisciplinary science and
@@ -105,7 +105,7 @@ science or philosophy or religion, they wrestle with the profound question
 of whether some ultimate purpose lies behind the world. Is all existence
 the result of a creator—God, or of self-directed forces of happenstance
 (or, perhaps, to some combination of “first cause” and random
-after-effect)? 
+after-effect)?
 <p>
 At the heart of wisdom is the search for an answer to that question. If
 stars “only just happened,” then nature can be seen as merely due to
@@ -154,7 +154,7 @@ scientist is quick to admit, is not one that science is capable of
 solving.”5 For many students, however, the two sets of questions (“how”
 versus “why”) appear confused and entangled.</p><p>
 Scientific knowledge keeps expanding and thus students must always be
-taught some things that were unknown when their parents went to school. 
+taught some things that were unknown when their parents went to school.
 But good science teaching means more than conveying information about what
 scientists have learned. A more vital task is teaching the particular way
 that scientists look at the world. The fact that this way may not be fully
@@ -181,7 +181,7 @@ identified in the myths, they have in common the attempt to explain human
 interactions and foibles, interdependence and relationships among living
 things, relation of life to earth, or purposes of life. The heart of
 religion is searching for meaning and in this quest curiosity about what
-came before as well as what might follow is often addressed. 
+came before as well as what might follow is often addressed.
 <p>
 In biology, evolution is often presented historically as an idea or concept which gradually replaced the early 19th-century concept of a “static” creation in which not much had changed since “the beginning.” Geological evidence accumulated during the 18th
 and 19th centuries to such an extent that scientists became convinced
@@ -344,9 +344,9 @@ tide.11</blockquote>
 In 1977, William V. Mayer, director of the Biological Sciences Curriculum
 Study, could make the above claim with no dispute from the scientific
 community and strong reaction only from religious special interest groups
-within the larger population. This was not always the case, however. 
+within the larger population. This was not always the case, however.
 <p>
-The publication in 1859 of Charles Darwin’s <i>Origin of Species</i> 
+The publication in 1859 of Charles Darwin’s <i>Origin of Species</i>
 touched off
 such broad debate and publicity about evolution that it still echoes in
 the public press and popular culture today—overshadowing, unfortunately,
@@ -364,7 +364,7 @@ finches] as today’s quantum physics holds to Newton [and his apple].”12</p><
 Attempts to explain the origin of life and the diversity of living things
 are as old as human history itself. In ancient myths can be found the
 strands of searching for answers to evolutionary questions. But not only
-myths reflect the roots of this quest. 
+myths reflect the roots of this quest.
 Students will possibly be interested in tracing the line of scientific
 theorizing about life as sketched in the time line below.13</p><p>
 The earliest written records of the Greeks reveal formulation of
@@ -378,7 +378,7 @@ origin of life.</blockquote>
 <i>Anaximander</i> conceived the idea of gradual evolution from a formless
 chaotic condition to ordered, organic life. He even held a view of
 adaption and transformation of aquatic species to land.</blockquote>
-<b>495-435 B.C.</b><br/> 
+<b>495-435 B.C.</b><br/>
 <blockquote> <i>Empedocles</i> outlined a concept of
 gradual evolution—plant species preceding animals and better adapted forms
 replacing others. (William Mayer makes a case for Empedocles as a more
@@ -404,7 +404,7 @@ the biblical account of creation as allegoric.</blockquote>
 <b>1225-1274 A.D.</b><br/> <blockquote> <i>Thomas Aquinas,</i> an
 Augustinian scholar, supported his views and suggested that the earth had
 received the power to produce organisms, further questioning the Genesis
-creation ordering and time fame. </blockquote> 
+creation ordering and time fame. </blockquote>
 By the late 16th century, scientific and philosophical thinking in the
 west was no longer under total control of religious authorities. Alongside
 a rising movement for reform within the Christian Church came an upsurge
@@ -451,7 +451,7 @@ Darwin/Wallace theory of evolution by natural selection.)</blockquote>
 <i>Charles Lyell,</i> another British geologist, developed the theory of
 “uniformitarianism” regarding natural phenomena. “The present,” he said,
 “is key to the past”—natural forces that created the world are still at
-work and change is a slow, unending process. 
+work and change is a slow, unending process.
 Although speaking directly in reference to development of physical
 features of the earth, Lyell had a great influence on Charles Darwin’s
 thoughts about plant and animal evolution.
@@ -633,7 +633,7 @@ in
 the DNA; </i>
 </dt><dt>3. Faithful <i>reproduction of DNA</i> from generation to generation
 causes
-“like to beget like”; 
+“like to beget like”;
 </dt><dt>4. The programmed instructions in the genetic endowment in DNA
 underlie the development of every new plant or animal.20
 </dt></dl>
@@ -657,7 +657,7 @@ that mutations occur across millennia at a steady rate, establishing a
 kind of “molecular evolutionary clock.”22 By studying genetic differences
 and calculating backwards in time with their clock, Sarich and Wilson
 establish dates of divergence among species and within the hominid family,
-the emergence of modern humans. 
+the emergence of modern humans.
 <p>
 On the other hand, paleoanthropologists use field evidence—bones, tool
 fragments, fossils—and geologic or radiocarbon dating techniques (assuming
@@ -746,7 +746,7 @@ Four groups of macromolecules are present in living systems:</p>
 </dt><dt>2.<i> lipids</i> (e.g., fats and oils)
 </dt><dt>3. <i>proteins</i> (several thousand types exist made by the linking
 of
-amino acids with peptide bonds; the type, number, and sequence of amino acids distinguishes one protein from another. Specialized proteins, called “enzymes,” serve as catalysts to lower 
+amino acids with peptide bonds; the type, number, and sequence of amino acids distinguishes one protein from another. Specialized proteins, called “enzymes,” serve as catalysts to lower
 the energy required for reactions to proceed within the living cell.)
 4. <i>nucleic acids</i> (passed from one generation to another, it is
 nucleic
@@ -791,7 +791,7 @@ ribosomes.)</p><p>
 <i>Figure 3.3 Replication of DNA by “unzipping” of the modecule and
 attachment
 of free nucleotides to each strand (based upon diagrams in</i> Mapping Our
-Genes—The Genome Projects) 
+Genes—The Genome Projects)
 </p><p>
 <b><i>The Genome</i></b>
 </p><p>
@@ -799,7 +799,7 @@ The genome is the total genetic material (DNA) present in a single cell
 nucleus. Each of an adult human’s 10 trillion cells, except for
 reproductive cells (gametes) and red blood cells, contains essentially the
 same DNA—3 billion basepairs (bp) divided into 23 pairs of physically
-distinct units called chromosomes. 
+distinct units called chromosomes.
 </p><p>
 Each chromosome has a single compressed DNA molecule whose bases average
 150 million—that would be 2 inches long if released from the cells and
@@ -861,7 +861,7 @@ organisms. There are, however, interesting exceptions, such as the
 salamander which has DNA content more than 30 times greater than that of
 humans, even though it is a smaller, less complex organism. Even the cells
 of some species of plants have more DNA than human cells as shown in the
-table below: 
+table below:
 <p>
 <table><tbody><tr>
 <td>(Haploid) Amounts of DNA in Various Organisms28
@@ -927,7 +927,7 @@ relationships among species. Today, new methods of genetic analysis are
 challenging morphology as the key to determining family trees. The
 potential power of genetic techniques for evolutionary studies lies in the
 growing acceptance that the driving force behind structural changes in
-organisms is the constant minuscule molecular mutation of DNA. 
+organisms is the constant minuscule molecular mutation of DNA.
 <p>
 The human genome as we are coming to know it is but one brief chemical
 moment in evolutionary time. However, it is our moment; and the scientific
@@ -955,7 +955,7 @@ next decade.</p>
 </dt></dl>
 <b><i>Previewing Activities</i></b><br/>
 <dl><dt>1. Brainstorm characteristics that define what it means to be a fully modern human. List responses, have students divide them into two categories: physical and cultural.
-</dt><dt>2. Discuss: What do the characteristics say about <i>Homo sapiens</i> 
+</dt><dt>2. Discuss: What do the characteristics say about <i>Homo sapiens</i>
 in
 comparison with other animal species? (Prior lecture on genus, species classification will be needed—students need to know we are genus Homo, species sapiens, subspecies sapiens to sepa
 rate us from an earlier, now extinct group, <i>Homo sapiens
@@ -972,10 +972,10 @@ species?<p>
 </dt><dt>2. Why have people in every culture created origin myths? What does this tradition of creation stories say about how humans view themselves?
 </dt><dt>3. How do science and mythology differ in their approach to the unknown? How does each explain natural phenomena? Do science and mythology ever overlap? Explain.
 </dt><dt>4. Divide into groups. Have each group read a different creation myth and then present it to the class as a story or skit with interpretation of its meaning.
-</dt><dt>5. Bipedal walking, versatile hands with opposable thumbs, binocular vision, and large brain distinguish humans from other animals. To demonstrate how changing just two of these attributes changes the way we live, have each student tape his thumbs to 
+</dt><dt>5. Bipedal walking, versatile hands with opposable thumbs, binocular vision, and large brain distinguish humans from other animals. To demonstrate how changing just two of these attributes changes the way we live, have each student tape his thumbs to
 the palms of his hands and put a patch over one of his eyes. Let them spend a few minutes in regular classroom activities. What activities are particularly difficult? What behavior adaptations are necessary?
 </dt><dt>6. Construct a wall chart of the hominid timeline. (Research may be
-needed—see Lambert’s <i>Field Guide to Early Man.</i>) 
+needed—see Lambert’s <i>Field Guide to Early Man.</i>)
 </dt></dl>
 <h4>Lesson Plan 2: “The Children of Eve”</h4>
 <b><i>Materials</i></b>
@@ -1008,11 +1008,11 @@ to present to the class summarizing key themes in their article.</p><p>
 <b><i>Recommended Reading</i></b>
 </p><dl><dt>1. Shreeve, J. “Argument Over a Woman.” In <i>Discover,</i> v. 11,
 no. 8
-(Aug. 1990): 52-59. 
+(Aug. 1990): 52-59.
 </dt><dt>2. Gould, S.J. “Where We First Stood.” In <i>Discover,</i> v. 7, no. 5
 (May 1986): 52.
 </dt><dt>3. Pfeiffer, J. “Cro-Magnon Hunters Were Really Us, Working out
-Strategies for Survival.” In <i>Smithsonian</i> (Oct. 1986): 75. 
+Strategies for Survival.” In <i>Smithsonian</i> (Oct. 1986): 75.
 </dt><dt>4. “The Search for Adam and Eve.” In <i>Newsweek</i> (Jan. 11, 1988):
 46-52.
 </dt></dl>
@@ -1022,7 +1022,7 @@ Strategies for Survival.” In <i>Smithsonian</i> (Oct. 1986): 75.
 </dt><dt>Stapler, scissors, masking tape for each group
 </dt><dt>8 different colors of construction paper to cut to about 3” x 5”
 pieces (for consistency in the room, assign colors to A, C, T, G, U,
-phosphate, ribose sugar, and deoxyribose sugar) 
+phosphate, ribose sugar, and deoxyribose sugar)
 </dt></dl>
 <b><i>Objectives</i></b><br/>
 <dl><dt>1. Students will practice cooperative learning in small task groups.
@@ -1054,7 +1054,7 @@ simulated ribosomes.</p>
 <h4>Lesson Plan 4: Lecture Notes: Comparative Scale of Genome</h4>
 A full page illustration (in miniature below) can be easily converted into
 an overhead transparency to assist students in grasping the scale of the
-genome mapping project. 
+genome mapping project.
 <p>
 “Mapping” the human genome is a huge task which involves determining the
 sequence of some 3 billion base pairs in a single cell. The number of base
@@ -1073,7 +1073,7 @@ Using the single cellÐearth and base pairsÐpeople scales, chromosomes (50
 to 250 million base pairs each) are analogous to countries, and genes
 (thousands to millions of base pairs) to towns. Between chromosomes and
 genes in size are chromosome fragments (1-50 million bp) and on the
-comparative scale a fragment is analogous to a county. 
+comparative scale a fragment is analogous to a county.
 </p><p>
 If students can begin to grasp the scope of the genome project in these
 terms, they may understand why it will take so long and why emerging
@@ -1096,7 +1096,7 @@ make an appealing substitute), following of directions to construct a
 letter-color “code,” removing a short sequence of code, and figuring out
 how to attach a portion of DNA strands to a plasmid ring may provide
 graphic illustration which will lead to further curiosity and inquiry as
-the cognitive understanding develops. And besides, it is fun! 
+the cognitive understanding develops. And besides, it is fun!
 <p>
 Complete instructions for this lesson, far too extensive to be printed in
 this unit, are available in the flyer, “National Science and Technology
@@ -1111,7 +1111,7 @@ lesson is highly recommended.</p>
 <a name="f">
 <h3>Notes</h3>
 1Gilbert and M.D. Lemonick, “Greatest Unanswered Questions of the 20th
-Century,” 34-61. 
+Century,” 34-61.
 <p>
 2Mark Twain, <i>Adventures of Huckleberry Finn,</i> 121.
 </p><p>
@@ -1119,7 +1119,7 @@ Century,” 34-61.
 </p><p>
 4R. L. Herrmann, “Coping With Creation/ Evolution,” in <i>Teaching Science
 in
-a Climate of Controversy,</i> 9-12. 
+a Climate of Controversy,</i> 9-12.
 </p><p>
 5P. Dunne, <i>op. cit.</i>
 </p><p>
@@ -1151,7 +1151,7 @@ by Robert Wright,<i> The New York Times Book Review</i> (July 29, 1990):
 </p><p>
 16See bibliography for recent Newsweek and <i>Discover</i> articles.
 </p><p>
-17M. Edey and D. Johanson, “Lucy,” in <i>The Beginnings of Mankind,</i> 
+17M. Edey and D. Johanson, “Lucy,” in <i>The Beginnings of Mankind,</i>
 51-54.
 </p><p>
 18W. Mayer, <i>op. cit.</i>
@@ -1169,14 +1169,14 @@ by Robert Wright,<i> The New York Times Book Review</i> (July 29, 1990):
 24<i> Human Genome 1989-90 Program Report,</i> 122.
 </p><p>
 25M. Seashore, “The Human Genome,” (Lecture) Yale-New Haven Teachers
-Institute, April 3, 1990. 
+Institute, April 3, 1990.
 </p><p>
 26<i>Human Genome Program Report,</i> p. 124.
 </p><p>
 27U.S. Congress, Office of Technology Assessment,<i> Mapping Our Genes—The
 Genome Projects: How Big, How Fast?</i>, OTA-BA-373, U.S. Government
 Printing
-Office, Washington, DC. April, 1988. 
+Office, Washington, DC. April, 1988.
 </p><p>
 28<i>Ibid.</i>
 </p><p>
@@ -1197,19 +1197,19 @@ be obtained through public library loan systems. The Hawkhill Videos can
 be rented or purchased from Hawkhill Associates, Inc., 125 East Gilman
 Street, Madison, Wisconsin 53703. Both the feature films—“Inherit the
 Wind” and “Race for the Double Helix”—can now be obtained from several of
-the larger chains of video rental stores.) 
+the larger chains of video rental stores.)
 <p>
 “Tales of the Human Dawn.” Smithsonian World, 60 min., 1990. Search for
 human origins, chiefly through fossil and bone studies; excellent timeline
-of hominid ancestors. 
+of hominid ancestors.
 </p><p>
 “Children of Eve.” NOVA, 60 min., 1990. The case for human and ape
 divergence based on DNA studies; review of Sarich’s and Wilson’s molecular
-clock hypothesis. 
+clock hypothesis.
 </p><p>
 “The Gene.” Hawkhill Videos, 60 min., 1989. Two 30 minute segments, one on
 the history of genetics, the other on genes and how they work. Good basic
-information and illustrations of DNA and genetic engineering. 
+information and illustrations of DNA and genetic engineering.
 </p><p>
 God, Darwin, and Dinosaurs.” NOVA, 60 min., 1989. Documents the
 creation-evolution controversy and uses the debate to explore the
@@ -1217,17 +1217,17 @@ question, “What is science?”
 </p><p>
 “Evolution.” Hawkhill Videos, 60 min., 1989. Human evolution and family
 trees as seen primarily by paleoanthropologists. Interviews with Louis
-Leaky, Jane Goodall, and others on their field studies. 
+Leaky, Jane Goodall, and others on their field studies.
 </p><p>
 “Decoding the Book of Life.” NOVA, 60 min., 1989. Explanation of DNA as
 the code for all life; excellent graphics showing unwinding of DNA
-molecule to examine and explain base pair sequences. 
+molecule to examine and explain base pair sequences.
 </p><p>
 “Inherit the Wind.” (feature movie) 120 min. Two versions of this movie
 have been made based on the play about the famous 1925 Scopes Trial. The
 original starring Spencer Tracy is excellent, but students may prefer the
 somewhat more recent remake. Good entertainment for those interested in
-the trial and its dramatic development. 
+the trial and its dramatic development.
 </p><p>
 “Race for the Double Helix.” A&amp;E Films, 106 min., 1987. First produced by
 BBC as “Life Story,” this film portrays the discovery of the structure of
@@ -1236,7 +1236,7 @@ plays Francis Crick. In reviewing the film himself, Crick said that “it
 certainly gets [across] the obvious fact that scientific research is
 performed by human beings, with all their virtues and weaknesses.”
 Enjoyable, but students are apt to find it a bit slow paced and heavily
-laced with science dialogues. 
+laced with science dialogues.
 </p>
 </a><center><a name="g"></a><div align="right"><a name="g"></a><p><a name="g">
 </a><a href="#top">to the top of this chapter</a></p></div></center>
@@ -1249,16 +1249,16 @@ laced with science dialogues.
 York: William Morrow and Company, 1984. Provides an overview of gene
 therapy and the technology which will literally shape human futures. Conveys the drama of men and women at the frontiers of science.
 </p><p>
-¥ <i>Biological Science—A Molecular Approach,</i> Sixth Edition. 
+¥ <i>Biological Science—A Molecular Approach,</i> Sixth Edition.
 Lexington:  D.C.  Heath, 1990. Produced by the Biological Sciences
 Curriculum Study (BSCS), this should be in every classroom as a reference
 if not the standard high school text. It is readable, well -illustrated,
 and filled with a wealth of valuable teaching ideas and research
-suggestions. 
+suggestions.
 </p><p>
-Bowler, P. J. <i>Evolution—The History of an Idea.</i> Berkeley: 
+Bowler, P. J. <i>Evolution—The History of an Idea.</i> Berkeley:
 University of California Press, 1984. History of science, good information
-about Darwin and the impact of his ideas on later scientists and thinkers. 
+about Darwin and the impact of his ideas on later scientists and thinkers.
 </p><p>
 ¥ Bramwell, M. <i>Understanding Evolution.</i> London: Usborne Publishing
 Limited, 1983. Simply written summary of historical facts about evolution.
@@ -1270,7 +1270,7 @@ and
 B. J. Barnhart, 11-28. New York: Plenum Press, 1988. One of the best
 articles in this collection; provides excellent overview of the genome
 mapping project scope, goals, implications for the future. Technical, but
-worth having students struggle with. 
+worth having students struggle with.
 </p><p>
 Crick, F. <i>What Mad Pursuit. </i>New York: Basic Books, 1988. Crick’s
 account
@@ -1278,23 +1278,23 @@ of the discovery of DNA, a companion piece to Watson’s earlier version.
 Filled with amusing anecdotes and quotable quotes as he reflects on the
 nature of the discovery and its significance. If you are more interested
 in the story than the scientific details, he even tells you which chapters
-to skip! (But don’t!) 
+to skip! (But don’t!)
 </p><p>
-Darnell, J., Lodish, H., and Baltimore, D. <i>Molecular Cell Biology.</i> 
+Darnell, J., Lodish, H., and Baltimore, D. <i>Molecular Cell Biology.</i>
 New
 York: Scientific American Books, 1990. Used as a graduate text, this book
 provides a brief history of molecular biology and very detailed
-information along with excellent color illustrations. 
+information along with excellent color illustrations.
 </p><p>
 ¥ Dawkins, R. <i>The Selfish Gene.</i> New York: Oxford University Press,
 1976.
 Explanation of animal behavior and morphology by postulating the role of
 genes. An early attempt to bridge the old morphological and new molecular
-thinking in evolution. 
+thinking in evolution.
 </p><p>
 ¥ Dunne, P. “Dissent, Dogma, and Darwin’s Dog.” In <i>Time</i> (15 January
 1990):
-84. 
+84.
 </p><p>
 ¥ Dyson, F. <i>Origins of Life.</i> New York: Cambridge University Press,
 1985.
@@ -1302,113 +1302,113 @@ Delivered as a lecture series, this brief text is first a history of
 theories and experiments concerned with the origin of life and second the
 attempt of a new hypothesis that “life began twice”—once with
 nonreplicating cells, and later with genes which originated as parasites
-infecting the cells. 
+infecting the cells.
 </p><p>
-Edey, M. A. and Johanson, D. “Lucy.” <i>In The Beginnings of Mankind,</i> 
+Edey, M. A. and Johanson, D. “Lucy.” <i>In The Beginnings of Mankind,</i>
 Edey
 and Johanson, 51-54. New York: Simon and Schuster, 1981. The thrill and
-excitement of finding a unique hominid fossil is told in a lively story. 
+excitement of finding a unique hominid fossil is told in a lively story.
 </p><p>
 Eiseley, L. <i>Darwin’s Century.</i> New York: Doubleday, 1961. A classic
 historical treatment of evolutionary developments in geology, biology,
-anthropology, and Western intellectual thought. 
+anthropology, and Western intellectual thought.
 </p><p>
 Eldredge, N. Time <i>Frames.</i> New York: Simon and Schuster, 1985. Very
 readable account of how a modem paleontologist views evolution. Eldredge
 works with trilobite fossils and draws his conclusions from field and lab
-research wholly different from that of molecular biologists. 
+research wholly different from that of molecular biologists.
 </p><p>
 ¥ Gilbert, S. and Lemonck, M. D., “Greatest Unanswered Questions of the
 20th Century.” In <i>Science Digest,</i> v. 93, no.10 (1985): 34-61.
 Twenty
-questions and short, provocative articles. 
+questions and short, provocative articles.
 </p><p>
 ¥ Gould, S. J. “Evolution, Extinction and the Movies.” In Time (14 May
-1990), 19. Interview with the renowned paleontologist. 
+1990), 19. Interview with the renowned paleontologist.
 </p><p>
 ¥ Gould, S. J., <i>Wonderful Life.</i> New York: W.W. Norton and Company,
 1989.  Discusses the nature of history and evolution using Burgess shale
 formation in Canadian Rockies as his reference point. Fossils from this
 shale reveal a whole diverse line of organisms which reached an
 evolutionary dead end. Reflections on Darwinian theory of selection by the
-foremost Darwinist of the present in America. 
+foremost Darwinist of the present in America.
 </p><p>
-Herrmann, R. L., <i>Teaching Science in a Climate of Controversy.</i> 
+Herrmann, R. L., <i>Teaching Science in a Climate of Controversy.</i>
 Ipswich:
 American Scientific Affiliation, 1986. Published by a dedicated group of
-“Christian scientists” seeking open dialogue on evolution and creation. 
+“Christian scientists” seeking open dialogue on evolution and creation.
 </p><p>
 ¥ Hsu, K. J., <i>The Great Dying.</i> New York: Harcourt Brace Jovanovich,
 1986.
 Presents the theory of cosmic collision 65 million years ago which caused
 dinosaurs and nearly all plant and animal organisms on earth to perish.
 Implications for evolution are dramatic. Hsu does fleld research in deep
-sea beds and geologic sites. 
+sea beds and geologic sites.
 </p><p>
 Judson, H. F., <i>The Eighth Day of Creation.</i> New York: Simon and
 Schuster, 1979. Extensive, detailed account of the development of
 molecular biology with emphasis on discoveries and the remarkable
-scientists who made them. 
+scientists who made them.
 </p><p>
 ¥ Keller, E. F., <i>A Feeling for the Organism.</i> New York: W. H.
 Freeman,
 1983. Excellent scientific biography of the life and accomplishments of
 Barbara McClintock, a female scientist who won a Nobel Prize for her study
 of corn chromosomes, leading to breakthroughs in understanding of
-inheritance. 
+inheritance.
 </p><p>
 ¥ Lambert, D.<i> Field Guide to Early Man.</i> New York: Facts on File
 Publications, 1987. Excellent diagrams and sketches of human family tree.
 For fossil finders and bone enthusiasts, this text provides morphological
-data in simple form. 
+data in simple form.
 </p><p>
 Lewin, B. <i>Genes IV.</i> New York: Oxford University Press, 1990. Latest
 version of the text used in many graduate school courses on genetics.
-Thorough, detailed information and illustrations. 
+Thorough, detailed information and illustrations.
 </p><p>
 ¥ Lewin, R. <i>Human Evolution—An Illustrated Introduction.</i> New York:
 W. H.
 Freeman, 1984. Collected essays, well illustrated, on the theories and
 fossil evidence for human evolution. More technical than Lambert’s Field
-Guide, superior graphics. 
+Guide, superior graphics.
 </p><p>
 ¥ Shreeve, J. “Argument Over a Woman.” In <i>Discover,</i> v. 11, no. 8
 (Aug.
 1990): 54. Update on the bones versus genes controversy about traces of
-human origins. 
+human origins.
 </p><p>
 ¥ Twain, Mark. <i>Huckleberry Finn</i>. New York: Signet Books, 1959. The
 classic
-Twain with philosophical Huck. 
+Twain with philosophical Huck.
 </p><p>
 ¥ Wambaugh, J. <i>The Bloodling.</i> New York: Bantam Books, 1989.
 Dramatic true
 story of the first murder case solved (in England) by use of “genetic
 fingerprinting.” The pace lags a bit and DNA fingerprints are not
 adequately explained, but this is a classic tale with significance for
-modern forensics and law enforcement. 
+modern forensics and law enforcement.
 </p><p>
 ¥ Watson, J.D. <i>The Double Helix.</i> New York: Signet Books, 1968.
 Watson’s
 personal account of the discovery of the structure of DNA. Lively, brash,
 opinionated, this account will make scientists come alive for students.
-Crick’s version, 20 years later, is a much more reasoned and mellowed one. 
+Crick’s version, 20 years later, is a much more reasoned and mellowed one.
 </p><p>
 <i>Mapping Our Genes—The Genome Projects: How Big, How Fast?</i> U.S.
 Congress,
-Office of Technology Assessment, OTA-BA-373, Washington, D.C.: 1990. 
+Office of Technology Assessment, OTA-BA-373, Washington, D.C.: 1990.
 </p><p>
 <i>The Human Genome, 1989-90 Program Report.</i> U.S. Department of
 Energy,
 Office of Energy Research and Office of Health and Environmental Research,
-Washington, D.C.: 1990. 
+Washington, D.C.: 1990.
 </p><p>
 These last are two excellent reports on the progress of the
 government-sponsored genome mapping effort. These first reports provide a
 great deal of educational material and superb, usually non-copyrighted
 illustrations. Regular reports are mailed out on t he project free to
 those who request them—it is worth getting on the list if you expect to
-teach topics in biology or genetics in the next few years. 
+teach topics in biology or genetics in the next few years.
 </p></a><center><a name="h"></a><div align="right"><a name="h"></a><p><a name="h">
 </a><a href="#top">to the top of this chapter</a></p></div></center>
 </main>

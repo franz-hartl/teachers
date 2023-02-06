@@ -135,7 +135,7 @@ their future lives.  We don't have to do this in an  exploitative way.
 With the right kind of planning and collaboration,  we can make it a
 creative learning experience.  
 </p><hr/>
-<h4><a href=".\">Back to
+<h4><a href="/pubs/A16/">Back to
 Table of Contents of the Fall 1994 Issue of <i>On Common
 Ground</i></a>
 </h4>

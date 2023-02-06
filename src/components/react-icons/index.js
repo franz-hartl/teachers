@@ -78,7 +78,7 @@ function getdlUnitPaths(dlUnitPath){
       echoUnit = 'intro';
     }
   }
-  
+
   if (pathSplit[1] == "guides"){
     echoUnit = 'guide';
     pdfDownload = pdfDownload + '_guide';

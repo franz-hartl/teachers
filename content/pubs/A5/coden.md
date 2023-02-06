@@ -24,8 +24,8 @@ path: "/pubs/A5/coden.html"
 <a href="#l"></a></li><li><a href="#l">Student Readings</a>
 </li></ul>
 <h4>
-<a href=".\">Teaching in New Haven: Table of Contents</a> |
-<a href="..\..\">Yale-New Haven Teachers Institute</a>
+<a href="/pubs/A5/">Teaching in New Haven: Table of Contents</a> |
+<a href="/">Yale-New Haven Teachers Institute</a>
 </h4>
 <hr/>
 <a name="a">
@@ -143,9 +143,9 @@ riod of class time, they meet as this group only once a week.
 It’s been necessary to make alterations in the unit, most of which are dictated by time-structure. What were formerly lead-up activities are now done as follow-ups in the afternoon; greater emphasis is now placed on writing and on including a wider variet
 y of literature; arts activities have been abbreviated. For the most part, each “lesson” is begun and completed in one weekly class session.</p><p>
 While this is less than ideal and certainly different from what I’d intended, the writings produced and thoughts expressed continue to encourage my belief in the value of autobiography in the classroom. New material continues to present itself, as I conti
-nue to become more aware of autobiography, the many forms it can take, and the richness it can bring into the classroom. Over the course of the years, some ideas were scrapped; they were too dated or too difficult or too facile. Many more ideas, however, 
+nue to become more aware of autobiography, the many forms it can take, and the richness it can bring into the classroom. Over the course of the years, some ideas were scrapped; they were too dated or too difficult or too facile. Many more ideas, however,
 were generated and added to the unit.</p><p>
-I have participated in two other Yale-New Haven Teachers Institute seminars on autobiography and have written two more units. While I believe each unit, written to respond to a specific need or to explore a certain approach, could be taught on its own, I 
+I have participated in two other Yale-New Haven Teachers Institute seminars on autobiography and have written two more units. While I believe each unit, written to respond to a specific need or to explore a certain approach, could be taught on its own, I
 am most comfortable combining elements from each.</p><p>
 <i>I Am</i> . . . (1988, vol. 3, 56-59) centered on journal-writing as a
 way of
@@ -154,7 +154,7 @@ give them responsibility and ownership for their writing.2 Though the majority o
 oems and fictions, photographs, and slave narratives. Discussion, rather than the reading journal described in the unit, proved to be of more value as a lead-in to personal journal writing.</p><p>
 <i>Remember </i>(1990, vol. 1, 21-31) is an attempt to make our reading
 and
-writing program more representative of our school system’s cultural diversity. Rethinking the practice of the two previous units afforded me the chance to strike a finer balance between 
+writing program more representative of our school system’s cultural diversity. Rethinking the practice of the two previous units afforded me the chance to strike a finer balance between
 the universal and the unique. The unit offers an overview of the history of Hispanic-American literature as well as Chicano literature, a literature of self-search and social protest. The unit focuses on the work of Lorna Dee Cervantes, a Chicana poet who
 se voice speaks of her roles as Chicana, poet, and scribe. Writing suggestions given in the lesson plans emphasize poetry but could easily be treated in prose.</p><p>
 The following overview contains the selections and suggestions written in 1982; they have been reordered so that they move from the general to the specific; from the non-threatening to the more intimate; from the universal to the unique, as perceived by m
@@ -233,7 +233,7 @@ tokens of love they’ve been given; love poems are read and discussed;
 symbols of affection—the heart, Cupid—are discussed.  </dt></dl> </dt><dt> VI.
 Responsibility <dl> <dt> A. Lead-up: Airport: this is a theater game which
 stresses giving and receiving directions; accepting and giving over
-responsibility. See <i>Bananas</i> for a full explanation. 
+responsibility. See <i>Bananas</i> for a full explanation.
 </dt><dt>  		B. Literature: <i>I Know Why The Caged Bird Sings,</i> pp.
 142-56
 <dl>
@@ -264,7 +264,7 @@ pp. 40-45
 </dt><dt>  		B. Literature:<i> To Be Young, Gifted, and Black,</i> pp.
 259-63
 <dl>
-<dt>    		<i>	Anne Frank: The Diary Of A Young Girl,</i> 
+<dt>    		<i>	Anne Frank: The Diary Of A Young Girl,</i>
 pp.
 80, 233-37.
 </dt><dt>    		<i>	Manchild In The Promised Land,</i> pp.
@@ -300,7 +300,7 @@ sense of her uniqueness? What makes you unique? In what ways are the memories of
 Select one of the memories from the list you worked on earlier. Expand it: give it a beginning, a middle, and an end. Feel free to invent details which would enrich the story. (The group could later discuss the criteria used in making choices: drama, happ
 iness, tragedy, appeal to the senses, etc.)
 <h4>Follow-up</h4>
-Try to reconstruct the place of the memory you chose to write about. Can you see the place in your mind’s eye? Using paints, inks, crayons—any of our art materials—give a representation of the place. (The activity could be done in conjunction with an art 
+Try to reconstruct the place of the memory you chose to write about. Can you see the place in your mind’s eye? Using paints, inks, crayons—any of our art materials—give a representation of the place. (The activity could be done in conjunction with an art
 teacher. Group discussion could center around what was most important about the place: color, size, students’ feelings, etc. The representations should be displayed in the classroom.)
 </a><center><a name="g"></a><div align="right"><a name="g"></a><p><a name="g">
 </a><a href="#top">to the top of this chapter</a></p></div></center>
@@ -374,7 +374,7 @@ multi-arts activities based on theater activities and practices. I’ve
 found it an invaluable source of ideas. </p><p> Burns, Marilyn. <i>I Am Not A
 Short Adult!</i> Boston: Little, Brown and Company, 1977. Deals with
 aspects of childhood: school, legal rights, money, work, TV, the body and
-its language. Emphasis on making the most of yourself. 
+its language. Emphasis on making the most of yourself.
 </p><p>
 Canfield, Jack and Harold C. Wells. <i>100 Ways to Enhance Self-concept in
 the Classroom.</i> Englewood Cliffs, N.J.: Prentice-Hall, Inc., 1976. A
@@ -384,41 +384,41 @@ a positive self-image and a caring environment.
 DeMille, Richard. <i>Put Your Mother on the Ceiling.</i> New York: Penguin
 Books,
 1977. Imagination games designed to increase children’s belief in their
-own effectiveness. Especially successful with fifth- and sixth-graders. 
+own effectiveness. Especially successful with fifth- and sixth-graders.
 </p><p>
 Dunning, Stephen, Edward Leuders and Hugh Smith. <i>Reflections on a Gift
 of
 Watermelon Pickle.</i> Glenview, Illinois: Scott, Foresman and Company,
-1966. 
+1966.
 </p><p>
 ---. <i>Some Haystacks Don’t Even Have Any Needle.</i> Glenview, Illinois:
 Scott, Foresman and Company, 1969.
 </p><p>
 Both of Dunning’s books are fine collections of thematically arranged
-poems which appeal especially to fifth- through eighth-graders. 
+poems which appeal especially to fifth- through eighth-graders.
 Jaffe, Charlotte. <i>Discovery Unlimited: Thinking Through the
 Humanities.</i> Phoenix, Arizona: THINK INK Publications, 1981. Activities
 using critical thinking skills as an approach to the areas of art,
 literature, music, and architecture. Sections on music and literature are
 very good. The unique angles of approach to “creative” areas tie in with
-the concept of “re-conceiving” in the unit. 
+the concept of “re-conceiving” in the unit.
 </p><p>
 Thomas, Frank P.<i> How To Write The Story of Your Life.</i> Cincinnati:
 Writers’
 Digest Books, 1984. Written by a teacher and journalist, this book offers
 many research/writing suggestions. The chance to review your life and gain
-new insights is stressed. 
+new insights is stressed.
 </p><p>
 Van de Bogart, Doris. <i>Introduction to the Humanities.</i> New York:
 Barnes and
 Noble, Inc., 1968. Ideas about incorporating the Humanities into your
-curriculum. Helpful. 
+curriculum. Helpful.
 </p><p>
 Weitzman, David. <i>My Backyard History Book.</i> Boston: Little, Brown
 and
 Company, 1975. The main contention of the book — learning about the past
 begins at home — is vital to the unit. Many fine activities and projects
-are suggested. 
+are suggested.
 </p>
 </a><center><a name="k"></a><div align="right"><a name="k"></a><p><a name="k">
 </a><a href="#top">to the top of this chapter</a></p></div></center>
@@ -438,25 +438,25 @@ focus on details.
 Baez, Joan. “My Father.” Baez presents a physical, social, and
 moral
 portrait of her father. The clustering of memories is a technique students
-may wish to use in their writing. 
+may wish to use in their writing.
 </p><p>
 Baldwin, James. <i>Notes of a Native Son.</i> New York: Bantam Books,
 1964. A
 grave, solemn tone is chosen and established. Autobiography as crisis.
-Powerful. 
+Powerful.
 </p><p>
 Brown, Claudia. <i>Manchild in the Promised Land.</i> New York: Macmillan
 Company, 1965. Sections on education, future. “Strong” language might
 dictate use of anthologized versions of passages from the original. </p><p>
 Chisholm, Shirley. “Back to Brooklyn.” Chisholm reminisces about being
 kept on a tight rein by her parents, who wanted her to grow up to be
-something. The opening section is a good example of place memories. 
+something. The opening section is a good example of place memories.
 </p><p>
 Douglass, Frederick. <i>Narrative of the Life of Frederick Douglass.</i>
 Garden
 City, N.Y.: Dolphin Books, 1963. Powerful sections on education—the
 ability to read, write, think. Freedom expressed through the act of
-speaking. Sense of community is expressed. 
+speaking. Sense of community is expressed.
 </p><p>
 Frank, Anne. <i>The Diary of a Young Girl.</i> New York: Pocket Books,
 Inc.,
@@ -466,13 +466,13 @@ on “future.”
 </p><p>
 Gibson, William. <i>A Mass for the Dead.</i> New York: Antheneum, 1968.
 Autobiography as a search for origins. Chronicle of family relationships.
-I’ve concentrated on early memories. 
+I’ve concentrated on early memories.
 </p><p>
 Hansberry, Lorraine. <i>To Be Young, Gifted, and Black.</i> New York:
 Signet
 Books, 1970. Her works—drama, poetry, art, articles, and
 interviews—present her life. Especially helpful for “family” and “future”
-sections of unit. 
+sections of unit.
 </p><p>
 Hurston, Zora Neale. <i>I Love Myself When I Am Laughing</i> . . . Old
 Westbury, New York: The Feminist Press, 1979. Autobiographical section has
@@ -488,7 +488,7 @@ Inc.,
 Parks, Gordon. <i>A Choice of Weapons.</i> New York: Berkley Medallion
 Books,
 1966. A quiet, terse recounting of the efforts to create a life.
-Engrossing rather than flashy, heavyhanded. 
+Engrossing rather than flashy, heavyhanded.
 </p><p>
 Sanchez, Roberto and Oscar Lewis. “The Time I Ran Away.” Sanchez describes
 the first time he ran away from home, prompted by a need for adventure and
@@ -499,13 +499,13 @@ Thomas, Piri. <i>Down These Mean Streets.</i> New York: Vintage Books,
 1967.
 The
 “strong” language in the original might make widely-anthologized sections
-more palatable. 
+more palatable.
 </p><p>
 Walker, Alice. “To Hell With Dying.” Walker presents a loving picture of Mr. Sweet, an elderly neighbor she later realizes was her first love. A humorous recounting of a “revival” from one of Mr. Sweet’s many encounters with dying segues into the recognit
 ion of loss, aging, and love.
 Wright, Richard. <i>Black Boy.</i> New York: Harper and Row, 1966.
 Autobiography
-as crisis—eloquently told. Sections of the book appear in many anthologies. 
+as crisis—eloquently told. Sections of the book appear in many anthologies.
 <i>The Autobiography of Malcolm X.</i> New York: Grove Press, 1965. I’ve
 chosen
 to concentrate on early memories and family. A powerful oratorical voice comes through in the readings.

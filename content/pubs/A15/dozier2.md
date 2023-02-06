@@ -87,7 +87,7 @@ what they say.
 <i> For a copy of the final report from the Goals 2000 Teacher Forum,
 please call 1-800-USA-LEARN. </i>
 </p><hr/>
-<h4><a href=".\">Back to
+<h4><a href="/pubs/A15/">Back to
 Table of Contents of the Summer 1994 Issue of <i>On Common
 Ground</i></a>
 </h4>

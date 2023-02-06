@@ -36,7 +36,7 @@ const NationalDePage = () => (
                   Yale-New Haven Teachers Institute that became the guiding
                   principle for each of the new Teachers Institutes.{' '}
                 </p>
-              </li>              
+              </li>
               <li>
                 <strong>
                   <Link to="/ndp/ndp1999.html">

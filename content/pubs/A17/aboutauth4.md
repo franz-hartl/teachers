@@ -42,7 +42,7 @@ California State University at Fullerton.
 <b>Robert G. Wheeler</b> is Professor of Applied Physics and Physics at
 the Becton Center at Yale University.
 </p><hr/>
-<h4><a href=".\">Back to
+<h4><a href="/pubs/A17/">Back to
 Table of Contents of the Spring 1995 Issue of <i>On Common
 Ground</i></a>
 </h4>

@@ -4,10 +4,10 @@ title: "On Common Ground: Diversity, Partnership, and Community"
 path: "/pubs/A20/whitaker.html"
 ---
 <main>
-<center><h2> 
+<center><h2>
 On Common Ground:
-Diversity, Partnership, and Community</h2> 
-<font size="+1">By Thomas R. Whitaker</font> 
+Diversity, Partnership, and Community</h2>
+<font size="+1">By Thomas R. Whitaker</font>
 </center><hr/>
 The
 image on our cover seems a delicate abstraction, a subtle study in tones
@@ -45,12 +45,12 @@ rights.  But, as Christopher Lasch has passionately contended in his book
 heard
 too
 little about the community participation that is also inherent in our very
-nature, and about the responsibilities that it lays upon us. 
+nature, and about the responsibilities that it lays upon us.
 School-university partnerships will hardly gain a sure foothold in this
 country if not accompanied by some vision of the community that will
 sustain our diversity.  To that end we offer these
 essays.</p>
-<h3>The Essays:  Some Connections</h3> 
+<h3>The Essays:  Some Connections</h3>
 The possibilities adumbrated in Byron Kim's design, of course, are yet to
 be fully realized
 in American democracy and in the education it provides for its young
@@ -77,7 +77,7 @@ side of mind, which can become the
 civic virtues," it requires that educators "model the ideal of a
 collaborative, egalitarian community."  Only by moving
 in that direction, he says, can we find a sound basis for our educational
-partnerships.  That vision requires our leap of faith.<p> 
+partnerships.  That vision requires our leap of faith.<p>
 We turn then to three essays from the New Haven experience which may
 bolster our
 faith.  Each is by a member of the Yale faculty who has worked with the
@@ -93,12 +93,12 @@ community.  And Bryan Wolf tells how, through working with school teachers
 and their students, he discovered ways in which he might refocus his own
 university teaching so that it does ampler justice to the richness of
 racial and ethnic communities in America.
-</p><p> 
+</p><p>
 Janet Ray Edwards then
 deals with the impelling national need of building educational communities
 around issues of ethnic and cultural diversity.  She summarizes the work
 of several collaboratives among the many that have been sponsored by the
-National Endowment for the Humanities.  There is "Texts and Traditions: 
+National Endowment for the Humanities.  There is "Texts and Traditions:
 the Common Ground," which brings English faculty at the University of
 Houston together with high school English teachers from six metropolitan
 school districts.  There is "Joining Hands in the
@@ -111,19 +111,19 @@ there is "Texts and Teachers:  Themes in Comparative Literature," which
 brings to Brown University teams of high school and college teachers from
 local sites selected from across the nation.  Edwards suggests how
 adaptable is the approach of the Yale-New Haven Teachers Institute to an
-array of different settings and thematic emphases.</p><p> 
+array of different settings and thematic emphases.</p><p>
 James W.
 Pipkin gives us a closer look at the detailed structure and accomplishment
 of the Houston project, stressing the ways in which its multicultural
 curriculum has avoided a sentimental insistence that "we're really all
 alike" and has also understood
-that difference and division are not the ultimate facts of our situation. 
+that difference and division are not the ultimate facts of our situation.
 In doing so, he offers yet another definition of an educational "community
 of peers" in relation to a "community of books."  The books constitute a
 community, he says, "not in the sense of a monolithic or monovocal entity
 but in the sense of a dynamic process in which the texts constantly
 interact, allow for exchange of ideas, and exert a reciprocal influence on
-one another."</p><p> 
+one another."</p><p>
 We turn then to a pair of essays that deal with the
 question of a multicultural curriculum at the university level.  While not
 speaking directly of partnerships, they suggest, as Janet Ray Edwards has
@@ -133,7 +133,7 @@ of
 Multicultural America</i>, offers a brief account of the much-debated ways
 in
 which teachers at the University of California, Berkeley, have addressed
-the need to provide students with comparative multicultural experience. 
+the need to provide students with comparative multicultural experience.
 Richard Brodhead extends this theme with some thoughtful comments on the
 advantages and problems inherent in an "inclusionistic" curriculum.  He
 also provides an account (in some ways rather like
@@ -144,12 +144,12 @@ relevance indeed to the concerns of schools that serve multicultural
 constituencies‹and also to schools that need to open their students'
 minds and imaginations to the cultural diversity that surrounds them.
 </p><p> We round out this issue with a series of essays about partnerships
-that have engaged a variety of ethnic, racial, or regional communities. 
+that have engaged a variety of ethnic, racial, or regional communities.
 First of all, Patricia McGrath and Felix Galaviz describe the Puente
 Project, focusing on the Mexican-American/Latino community, which is now
 operating in 31 community colleges and 18 high schools throughout
 California.  
-</p><p> 
+</p><p>
 Carol Booth Olson then offers an account of acollaboration that has
 brought together Teacher/Consultants from the University of California,
 Irvine, site of the National Writing Project.  The participants, who
@@ -159,7 +159,7 @@ and on multicultural literature that they have judged appropriate to the
 needs of their students in various schools.  The result: a higher level of
 understanding for the teachers, an increase in both pride and tolerance in
 the students, and renewed inspiration for reading, writing, and
-thinking.</p><p> 
+thinking.</p><p>
 Richard Simonelli then discusses the holistic focus of
 "indigenous education," as grounded in the traditions of Indian cultures
 on this continent, and its incorporation in partnerships based at Cornell
@@ -169,7 +169,7 @@ Rural-Urban Teacher Education Program developed at the University of New
 Mexico, which, working with the Bureau of Indian Affairs, places
 non-Indian student teachers in schools on rural Indian
 reservations­under the guidance of Indian partners.
-</p><p> 
+</p><p>
 Dixie
 Goswami then sets forth the work of the Bread Loaf Rural Teacher Network,
 which recruits rural teachers from six states­Alaska, Arizona,
@@ -178,7 +178,7 @@ Bread Loaf School in Vermont and to remain in contact through the computer
 network, BreadNet, as well as face-to-face meetings in various parts of
 the country.  These partnerships have led to substantial rethinking of
 educational and curricular organization in the cooperating schools.  
-</p><p> 
+</p><p>
 We reprint here an essay by one of the members of the Rural Teacher
 Network, Phil Sittnick.  He describes his work at the Laguna Pueblo Indian
 Reservation in New Mexico, in a middle school designed, built, and
@@ -200,7 +200,7 @@ usual political rhetoric of bi-polar opposition.  In a complementary piece
 in "Voices from the Classroom," Sharon Floyd tells us how a Saginaw High
 program is meeting some of the needs specified by Rev.  Streets for a
 curriculum that will affirm the individual, the group, andthe larger
-community.</p><p> 
+community.</p><p>
 In our review department, Manuel Gómez calls to
 our attention two remarkably different books.  <i>Teaching to
 Transgress,</i>
@@ -211,7 +211,7 @@ what has too often been excluded.  Ronald Takaki's
 multicultural contributions to the life of this nation.  As Gómez
 indicates, both of these works should provoke us to further thought and
 action.</p>
-<h3>The Images:  Some Perspectives</h3> 
+<h3>The Images:  Some Perspectives</h3>
 Another
 image for diversity, partnership, and community is provided by Romare
 Bearden's vivid and subtle collage entitled <i>Conjunction,</i> which
@@ -223,7 +223,7 @@ calligraphy and landscapes, by Persian prints, Zen Buddhism, and much
 more.  His effective community was both local and international.  Much of
 its import is summarized by Conjunction, an image of human meeting that
 also depicts and enacts a meeting of many kinds of shapes, patterns,
-textures, materials, directions, and spaces.<p> 
+textures, materials, directions, and spaces.<p>
 With Manuel Gómez's essay, on page 5, we include a mural from the
 Cross-Cultural Center at the University of California at Irvine.  This
 mural, commissioned by the National Institute of Mental Health for the
@@ -232,7 +232,7 @@ and undertaken as a class project by UCI students, depicts the "silent
 suffering" of Asian/Vietnamese and Latino/Central American refugee
 communities.  But its symbols of traditional and modern healing arts and
 faith (given us with something of José Orozco's power) point beyond
-this suffering toward a new American community.</p><p> 
+this suffering toward a new American community.</p><p>
 Bryan Wolf
 discusses Martin Puryear's sculpture <i>To Transcend,</i> depicted on page
 12, as a powerful image for the experience of a university faculty-member
@@ -241,7 +241,7 @@ surrounding cultural diversity.  And the other images in this number of
 <i>On
 Common Ground </i>will bring to mind certain aspects of that
 diversity­both social and artistic­and the perspectives upon
-community that are possible within it.</p><p> 
+community that are possible within it.</p><p>
 To accompany the essays by James Pipkin and Ronald Takaki, with their
 emphasis on "One and Yet Many"
 and "E Pluribus Unum,"  we include <i>4-B,</i> a heart-warming painting of
@@ -251,23 +251,23 @@ site of diversity and community.  Rönnebeck was the wife of the
 sculptor Arnold Rönnebeck, director of the Denver Art Museum.  In the
 attic of their Denver home, next door to Steck Elementary School (which
 was attended by their two children), she painted
-many scenes of school children.</p><p> 
+many scenes of school children.</p><p>
 <i>Aged Tutor and Young Students,</i> by Harrison Begay, on page 24, which
 accompanies Richard Simonelli's essay on indigenous education, is one of
 several paintings in which this Navajo artist has depicted with modern
 stylization the traditional scene of instruction.  The symbolic content of
 that instruction is laid out before us in the floating background­as
-if in a beautiful sand-painting that has become vertical.</p><p> 
+if in a beautiful sand-painting that has become vertical.</p><p>
 The
 intensely registered forms in the painting on page 28 by Jennifer
 Paytiamo, a student at Laguna Middle School, not only represent her New
 Mexico landscape but also suggest to us­in those dark plateaus so
 sharply and ominously divided by a river gorge, and in the sun-drenched
 horizon&amp;#`73;another figure for our present divisions and the need to
-bridge them.</p><p> 
+bridge them.</p><p>
 Faith Ringgold, in the delightful quilt fantasy on
 page 29, <i>Double Dutch on the Golden Gate Bridge</i>, offers from her
-African-American perspective a symbolic resolution of this predicament: 
+African-American perspective a symbolic resolution of this predicament:
 we must look to the children!  Though technology has enabled the
 construction of our most famous bridges, this bridge-effect seems to be
 provided by playful children who float eerily above the horizon of
@@ -275,7 +275,7 @@ skyscrapers even as they are doing Double-Dutch on a street in front of
 their apartment houses.  But this visionary bridging, of course, has also
 been constructed by an artist who has turned a traditional woman's craft
 into a subtle aesthetic and social medium­and who reminds us of that
-conjunction in her frame of floral prints.</p><p> 
+conjunction in her frame of floral prints.</p><p>
 Finally, on the back
 cover, we include <i>Bicentennial</i>, by the Menominee/Winnebago artist
 Anthony
@@ -283,9 +283,9 @@ Gauthier, which forcefully and deftly employs the techniques of the
 political poster to alert us to the collaboration required by our
 unfinished business as a nation.  Chief Joseph and Martin Luther King join
 here, above reminders of a history of violence and slavery, to point
-toward a better way.<br/> 
+toward a better way.<br/>
 </p><hr/>
-<h4><a href=".\">Back to
+<h4><a href="/pubs/A20/">Back to
 Table of Contents of the Fall 1996 Issue of <i>On Common
 Ground</i></a>
 </h4>

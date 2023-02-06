@@ -15,8 +15,8 @@ Plessy v. Ferguson and Justice Harlan’s Dissent</a> <a href="#g"></a></li><li>
 Education of Topeka, Kansas</a> <a href="#i"></a></li><li><a href="#i">Week 5: Working for
 Desegregated Schools</a> <a href="#j"></a></li><li><a href="#j">Week 6: Busing and Forced
 Desegregation: I Believe</a> <a href="#k"></a></li><li><a href="#k">Sample Lesson Plans</a> <a href="#l"></a></li><li><a href="#l">Annotated Teacher Bibliography</a> <a href="#m"></a></li><li><a href="#m">Annotated Film Bibliography</a> <a href="#n"></a></li><li><a href="#n">Annotated
-Student Bibliography</a> </li></ul> <h4> <a href=".\">Teaching in New Haven:
-Table of Contents</a> | <a href="..\..\">Yale-New Haven Teachers
+Student Bibliography</a> </li></ul> <h4> <a href="/pubs/A5/">Teaching in New Haven:
+Table of Contents</a> | <a href="/">Yale-New Haven Teachers
 Institute</a> </h4>
 <hr/> <a name="a"> Stories of racial tension and
 racial violence abound in the news. The controversy over forced
@@ -72,7 +72,7 @@ the decision, however, the Court raised questions as to how much authority
 it had and how to proceed toward getting compliance. In the brief summary
 of events that follows, I have drawn primarily from Kluger’s study,
 <i>Simple
-Justice.</i> 
+Justice.</i>
 <p>
 The Brown decision was a landmark because it overturned the legal policies
 established by the <i>Plessy v. Ferguson</i> decision that legalized the
@@ -193,7 +193,7 @@ legal thinking and argumentation.</p>
 <hr/>
 <a name="d">
 <h3>Strategies</h3>
-Primary sources will be used extensively in this class. 
+Primary sources will be used extensively in this class.
 <p>
 Understanding them and interpreting their meaning in different historical
 contexts will help students see how history shapes thinking and influences
@@ -229,7 +229,7 @@ have engaged in a rebellion against the federal government. The government
 is not responsible for debts accrued by state governments during a
 rebellion—this includes the costs involved in the loss of emancipated
 slaves. It is also clearly stated that the Congress shall have the power
-to enforce this amendment by appropriate legislation. 
+to enforce this amendment by appropriate legislation.
 <p>
 We will also look into the distinctions made between the three post-Civil
 War Amendments. While the 13th abolished slavery and the 15th established
@@ -367,7 +367,7 @@ critic of the policy who pointed out the absurdity of the legislation, he
 reviews the major restrictions passed in this period. These laws
 restricted travel, housing, use of private and public facilities,
 amusement parks and other recreational areas, and of course schools and
-institutions of higher learning. 
+institutions of higher learning.
 <p>
 The second reading is an excerpt from Richard Wright’s <i>Uncle Tom’s
 Children.</i> In “The Ethics of Living Jim Crow”, Wright describes how he
@@ -402,7 +402,7 @@ reaction
 of a group of dissenting Southern congressmen. In this decision the
 Supreme Court concluded that in the field of education, the doctrine of
 “separate but equal” was unacceptable. Segregation is a denial of equal
-protection of the laws as defined in the 14th Amendment. 
+protection of the laws as defined in the 14th Amendment.
 <p>
 After hearing a series of cases brought on behalf of Black students in
 segregated schools, the Court reviewed the circumstances surrounding the
@@ -454,7 +454,7 @@ schools. It should be noted that although the Chancellor of the Delaware
 Court maintained that segregation itself resulted in an inferior education
 for Black children, he did not base his decision on this finding.</p><p>
 A group of Southern politicians declared their feelings about the <i>Brown
-v. 
+v.
 Board of Education </i>decision in the Southern Manifesto, the second
 reading
 for this week. Essentially they declared that it represents a clear abuse
@@ -706,7 +706,7 @@ Judge Ferguson’s decision on Louisiana
 <dl><dt>Does separate but equal necessarily imply inferiority?
 </dt><dt>How can equal facilities be determined?
 </dt><dt>Should the government make rules that tell people how to live or make
-rules that reflect how they do live? 
+rules that reflect how they do live?
 </dt></dl><h4>Week 6: My position paper—Outline form</h4>
 <i>Title:</i><p>
 <i>I believe:</i> (State clearly and precisely your opinion about the
@@ -725,17 +725,17 @@ in paragraph form to be handed in to the teacher.</p>
 Bates, Daisy. <i>Thee Long Shadow of Little Rock.</i> New York: David
 McKay
 company, 1962. Personal account of events in Little Rock, Arkansas in 1957
-around the desegregation struggle. 
+around the desegregation struggle.
 <p>
 Clandinen, Dudley. “Rulings on School Integration Key Target for
 Conservatives.” <i>The New York Times</i> (May 17, 1982): A1:1-2. An
 article
 about recent growth of conservatives’ control of the executive branch, the
-Senate and the House and their attack on the federal courts. 
+Senate and the House and their attack on the federal courts.
 </p><p>
 Coles, Robert. <i>Children of Crisis.</i> New York: A Delta Book, 1967. A
 psychiatrist’s personal account of the effects of the desegregation
-struggle on both Black and White children. A warm, humane discussion. 
+struggle on both Black and White children. A warm, humane discussion.
 </p><p>
 ———. <i>Farewell to the South.</i> Boston: Little Brown and Co., 1972. A
 further
@@ -744,38 +744,38 @@ discussion on the effects of desegregation on the people of the South.
 Grant, Joanne (ed.). <i>Black Protest.</i> Greenwich, Connecticut: A
 Fawcett
 Premier Book, 1968. An interesting collection of primary sources on Black
-history—both documents and analysis. 
+history—both documents and analysis.
 </p><p>
 Greenhouse, Linda. “Justices Rule Mandatory Busing May Go, Even If Races
-Stay Apart.” <i>The New York Times</i> (January 16, 1991): A1+. 
+Stay Apart.” <i>The New York Times</i> (January 16, 1991): A1+.
 Gunther, Gerald. <i>Cases and Materials on Constitutional Law,</i> 10th
 Edition.
 Mineola, N.Y.: The Foundation Press, 1980. Basic collection of important
 Supreme Court cases used in law school classes dealing with constitutional
-law. It contains both the decisio ns and extensive commentary. 
+law. It contains both the decisio ns and extensive commentary.
 </p><p>
 Kluger, Richard. <i>Simple Justice.</i> New York: Vintage Books, 1975. An
 extremely detailed and fascinating history of the century long struggle
 for equal rights that led to the <i>Brown v. Board of Education of Topeka,
-Kansas,</i> decision. 
+Kansas,</i> decision.
 </p><p>
 Lewis, Anthony. <i>The Second American Revolution.</i> New York: Random
 House,
 1964. A The New York Times’ reporter’s first hand account of the civil
-rights struggle in the South. 
+rights struggle in the South.
 </p><p>
 Miller, Loran.  <i>The Petitioners.</i> New York: The World Publishing
 Co., 1966.
 A fascinating history of the Supreme Court of the United States and Black
-America. 
+America.
 </p><p>
 Woodward, C. Vann. <i>The Strange Career of Jim Crow.</i> New York: Oxford
 University Press, 1966. An historical description and analysis of the
-growth of Jim Crow legislation and life style in the South. 
+growth of Jim Crow legislation and life style in the South.
 </p><p>
 Wright, Richard. <i>Uncle Tom’s Children.</i> New York: Harper and Row,
 1937. A
-collection of stories about growing up Black in the Jim Crow South. 
+collection of stories about growing up Black in the Jim Crow South.
 </p>
 </a><center><a name="l"></a><div align="right"><a name="l"></a><p><a name="l">
 </a><a href="#top">to the top of this chapter</a></p></div></center>
@@ -796,17 +796,17 @@ go up though the late sixties.
 Bates, Daisy. <i>Thee Long Shadow of Little Rock.</i> New York: David
 McKay
 Company, 1962. Personal account of events in Little Rock, Arkansas in 1957
-around the desegregation struggle. 
+around the desegregation struggle.
 <p>
 Clandinen, Dudley. “Ruling on School Integration Key Target For
 Conservatives.” <i>The New York Times</i> (May 17, 1982): A1:1-2. An
 article
 about the recent growth of the Conservatives’ control of the executive
-branch, the Senate and the House and their attack on the Federal Courts. 
+branch, the Senate and the House and their attack on the Federal Courts.
 </p><p>
 Coles, Robert. <i>Children of Crisis.</i> New York: A Delta Book, 1967. A
 psychiatrist’s personal account of the effects of the desegregation
-struggle on both Black and White children. A warm, humane discussion. 
+struggle on both Black and White children. A warm, humane discussion.
 </p><p>
 ———. <i>Farewell to the South.</i> Boston: Little Brown and Co., 1972. A
 further
@@ -816,22 +816,22 @@ DuBois, W.E.B. <i>The Souls of Black Folk in Three Negro Classics.</i> New
 York:
 Avon Books, 1965. Sensitive presentation of the issues for Blacks at the
 turn of the century. DuBois fought for equal rights and opportunities for
-people of color as the leader of t he NAACP. 
+people of color as the leader of t he NAACP.
 Johnson, James Weldon. <i>Autobiography of an ex-colored man in Three
 Negro
 Classics.</i> New York: Avon Books, 1965. The life of a Black man who
 “passed”
-in the America of the 1920s and ’30s. Easy to read and very powerful. 
+in the America of the 1920s and ’30s. Easy to read and very powerful.
 </p><p>
 Terkel, Studs. <i>Hard Times.</i> New York: Avon Books, 1970. Collection
 of
 interviews with people about their lives during the depression.
-Interesting and personal. 
+Interesting and personal.
 </p><p>
 Washington, Booker T. <i>Up From Slavery in Three Negro Classics.</i> New
 York:  Avon Books, 1965. Washington’s presentation of his view of the need
 for Blacks to work for economic opportunities before the political
-struggle can be realized. 
+struggle can be realized.
 </p><p>
 Wright, Richard. <i>Black Boy.</i> New York: Harper and Row, 1966.
 Wright’s

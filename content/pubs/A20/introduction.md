@@ -36,7 +36,7 @@ found a space for his own version of an experimental classroom, through
 which he learned how to address the richness of racial and ethnic cultural
 traditions in the United States.
 </p><hr/>
-<h4><a href=".\">Back to
+<h4><a href="/pubs/A20/">Back to
 Table of Contents of the Fall 1996 Issue of <i>On Common
 Ground</i></a>
 </h4>

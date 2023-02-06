@@ -118,9 +118,9 @@ played an important role in our "extended"  seminar, so did the
 "amateurs," who came to realize that a small  architectural project could
 be as celebrative as it was practical.   Surely our public architecture
 would be more exciting and pervasive  if it were linked to a constituency
-cultivated in the subject. 
+cultivated in the subject.
 </p><hr/>
-<h4><a href=".\">Back to
+<h4><a href="/pubs/A18/">Back to
 Table of Contents of the Fall 1995 Issue of <i>On Common
 Ground</i></a>
 </h4>

@@ -256,7 +256,7 @@ Conference to share their experiences.
 </p><p><i>(image available in print form)</i>
 </p><p><i><font size="-1">Panel Discussion at the First Annual Conference in
 New Haven, October 1999</font>.</i>
-</p><div align="right"><a href="#b">to the top of Establishing the Project</a> 
+</p><div align="right"><a href="#b">to the top of Establishing the Project</a>
 | <a href="#top">to the top of A National Demonstration
 Project</a>
 <hr width="100%"/></div>
@@ -359,7 +359,7 @@ English).
 </tr>
 <tr>
 <td>Web site:</td>
-<td><a href="/">/</a></td>
+<td><a href="/">https://teachersinstitute.yale.edu</a></td>
 </tr>
 </tbody></table>
 </p><p><i>(image available in print form)</i>

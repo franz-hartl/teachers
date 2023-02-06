@@ -68,7 +68,7 @@ seminar I gave most recently  on "The Family in Art and Material Culture"
 was structured around  the analysis of images of the family and, to a
 lesser extent, objects of  everyday life. Emphasis was placed on key
 stages of family life­ birth, childhood, marriage, parenthood, aging,
-and death. 
+and death.
 </p><p>
 With the emphasis on methodology, the seminars seem to have been
 particularly useful to teachers in developing <i>practical</i> aspects of
@@ -82,7 +82,7 @@ that contains sanctioned objects of beauty and value,  but as a training
 ground for learning to extract understanding from  things. This affective
 way of learning works for non-literate as well  as literate students, and
 offers opportunities for students who may  seem backward to excel through
-visual acuity or creativity in  executing projects in the curriculum unit. 
+visual acuity or creativity in  executing projects in the curriculum unit.
 </p><p>
 Units developed in the material culture seminars promise an  extraordinary
 range and variety of classroom experiences.  They  have included "The
@@ -105,7 +105,7 @@ precision;  to make value judgments and decisions. The curriculum units
 are  intended to convert the theory of the seminar into the practice of
 the  New Haven classroom.
 </p><hr/>
-<h4><a href=".\">Back to
+<h4><a href="/pubs/A18/">Back to
 Table of Contents of the Fall 1995 Issue of <i>On Common
 Ground</i></a>
 </h4>

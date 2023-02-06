@@ -11,7 +11,7 @@ const HomePage = () => (
           <div className="col-sm-6 left-panel">
             <div className="br-cell py-2">
               <h2 className="br-title">
-                <Link to="brochures/studies">
+                <Link to="/brochures/studies">
                   Studies <i className="fas fa fa-arrow-circle-right" />
                 </Link>
               </h2>
@@ -28,7 +28,7 @@ const HomePage = () => (
             </div>
             <div className="br-cell py-2">
               <h2 className="br-title">
-                <Link to="brochures/NewHavenProgram">
+                <Link to="/brochures/NewHavenProgram">
                  Annual New Haven Program{' '}
                   <i className="fas fa fa-arrow-circle-right" />
                 </Link>
@@ -47,16 +47,16 @@ const HomePage = () => (
           <div className="col-sm-6 right-panel">
             <div className="br-cell py-2">
               <h2 className="br-title">
-                <Link to="brochures/nationdemonstrationpj">
+                <Link to="/brochures/nationdemonstrationpj">
                   National Demonstration Project{' '}
                   <i className="fas fa fa-arrow-circle-right" />
                 </Link>
               </h2>
               <p>
-              After exploring during 1997 the feasibility and desirability of establishing new 
+              After exploring during 1997 the feasibility and desirability of establishing new
               Teachers Institutes at other locations, the Teachers Institute undertook a National
-              Demonstration Project to demonstrate the potential for adapting at other sites the 
-              approach to teacher professional development that had been followed for more than 
+              Demonstration Project to demonstrate the potential for adapting at other sites the
+              approach to teacher professional development that had been followed for more than
               two decades by the Yale-New Haven Teachers Institute.{' '}
               </p>
             </div>

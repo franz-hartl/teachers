@@ -37,5 +37,5 @@ path: "/pubs/A21/polkinghorn.html"
 <p>Most fundamentally, the CSMP would not last if it were not productive.  Building ever-greater capacity for that productivity requires mutual commitment of the various participating institutions:  common vision, reciprocal learning, joint responsibility, and shared authority.  A "partnership" in which one institution wants the other to change but is not capable of examining itself or changing is probably not sustainable.  </p>
 <p>The very factors that sustain the CSMP, however, are always under threat of institutional inertia and political turbulence.  Partnerships that run against convention  require constant attention.  CSMP leaders try to tend the tiller by embedding the foundational principles in internal reviews and network meetings; by cultivating strong relationships across leaders in institutions; and by engaging external evaluators in short- and long-term studies that give ourselves and others no-nonsense information about the magnitude, effectiveness, and quality of CSMP work.</p>
 <hr/>
-<p><a href=".\">Back to Table of Contents</a></p>
+<p><a href="/pubs/A21/">Back to Table of Contents</a></p>
 </main>

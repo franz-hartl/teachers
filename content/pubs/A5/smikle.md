@@ -20,8 +20,8 @@ Application</h2><p>
 <a href="#g"></a></li><li><a href="#g">Bibliography</a>
 </li></ul>
 <h4>
-<a href=".\">Teaching in New Haven: Table of Contents</a> |
-<a href="..\..\">Yale-New Haven Teachers Institute</a>
+<a href="/pubs/A5/">Teaching in New Haven: Table of Contents</a> |
+<a href="/">Yale-New Haven Teachers Institute</a>
 </h4>
 <hr/>
 <a name="a">
@@ -29,7 +29,7 @@ Application</h2><p>
 Today’s mathematics curricula and education goals should reflect the
 importance of mathematical literacy. Therefore this unit will attempt to
 reflect some of these new directions both in the content and the method of
-teaching. 
+teaching.
 <p>
 The new direction can be summarized in the following statements:1</p>
 <dl><dt>Students should learn the value of mathematics.
@@ -61,7 +61,7 @@ for employers in the industrial sector of the future.</p>
 The study of aerodynamics has assisted in providing the world with the
 most efficient mode of transportation. As a result of these achievements a
 large industry has arisen that needs to be kept supplied with qualified
-personnel both skilled and unskilled. 
+personnel both skilled and unskilled.
 <p>
 Most of the high school curriculum today has placed great emphasis on the
 four-year-college-bound student; but there is a growing demand for workers
@@ -109,7 +109,7 @@ The unit will be designed to help students:
 </a><dl><a name="b"><dt>a) To acquire knowledge about the historical development of the
 industry.
 </dt><dt>b) To develop the ability to apply their knowledge in math to the task
-of problem solving. 
+of problem solving.
 </dt><dt>c) To apply specific graphing skills to solving problems.
 </dt><dt>d) To use Graph Theory to solve problems related to paths.
 </dt></a><dt><a name="b">e) Introduce students to Spherical Geometry as a link between Geography and Geometry.
@@ -195,7 +195,7 @@ fifty years.</p>
 <h4>Other landmark discoveries</h4>
 William Samuel Henson (1812-1888): he published a design for a fixed wing
 airplane powered by a steam engine driving two propellers. This was called
-the aerial steam carriage. 
+the aerial steam carriage.
 <p>
 This design was a direct result of Cayley’s ideas and research in
 aeronautics.</p><p>
@@ -217,7 +217,7 @@ These attempts did not satisfy the criteria of sustained flight, but could
 be considered assisted powered takeoffs.</p>
 <h4>B. The age of the glider</h4>
 Otto Lilienthal was one of the giants in aeronautical engineering. He
-designed and flew the first successful controlled glider in history. 
+designed and flew the first successful controlled glider in history.
 <p>
 Because of his interest in flight, he studied the structure and types of
 birds’ wings and applied this information to the design of mechanical
@@ -337,7 +337,7 @@ threshold of a new form of vehicle for public transportation.</p>
 <h4>E. The emergence of the aircraft as a valuable means of transportation</h4>
 During 1909 the aeroplane had become accepted as the world’s new practical
 vehicle. Louis Bleriot’s crossing of the Channel on July 25, and the first
-air meeting at Rheims in August were significant signs. 
+air meeting at Rheims in August were significant signs.
 With the Wrights’ achievements and techniques to follow, European airmen
 came into their own; so during the first half of the 1900s there was a
 growing number of aviators, designers and amateurs, and the forms of their
@@ -347,7 +347,7 @@ the world and the beginnings of an aircraft industry, as well as
 governments’ concerns with aviation, became evident.<p>
 There were some diffficulties to be overcome to make the aeroplane more
 efficient.</p><p>
-l. The development of an engine with enough horse power to lift an aircraft off the ground. This was solved with the development of gasoline fueled internal combustion engines (the Wright brothers were pioneers in this area). The automobile industry then 
+l. The development of an engine with enough horse power to lift an aircraft off the ground. This was solved with the development of gasoline fueled internal combustion engines (the Wright brothers were pioneers in this area). The automobile industry then
 led the development of new engines.
 <br/>
 2. The development and the search for aeroplanes that could fly faster and higher. This problem was solved partly by the introduction of competitions; this prompted and advanced development of high speed aircraft. One notable competition was the Schneider
@@ -557,7 +557,7 @@ the radius of the earth is 6400 km.</p><p>
 </p><p>
 If a plane or ship follows a great circle path, its course is the angle
 the path makes with the meridian of the ship and is measured from north
-through east to the path of the ship. 
+through east to the path of the ship.
 </p><h4>B. An Introduction to Graph Theory</h4>
 The concept of drawing a graph to represent information has been used
 extensively in mathematics. These ideas have been used to plot the routes
@@ -565,7 +565,7 @@ of the mailman, and of various delivery companies. These ideas are also
 extended to the airline industry. They have been used in determining
 routes between cities, and in providing a time line for doing various
 activities that enable the efficient disembarkation and unloading of
-baggage on an aircraft. 
+baggage on an aircraft.
 <p>
 Just as model aircraft are used to represent the real thing, models in
 this section will be used as a representation of something else. The model
@@ -693,7 +693,7 @@ The shortest path from 1 to 3
 </td></tr><tr><td>	Nodes	</td><td>Closest nodes to Node 1	</td><td>Path from Node
 1 to the nth closest node
 </td><td>Length of path
-</td></tr><tr><td>	0	</td><td>1	</td><td>— 	 </td><td>— 
+</td></tr><tr><td>	0	</td><td>1	</td><td>— 	 </td><td>—
 </td></tr><tr>
 <td>	1</td><td>	3</td><td>	1-3</td><td>	3
 </td></tr><tr><td>	2	</td><td>2</td><td>	1-2</td><td> 	4
@@ -705,7 +705,7 @@ The shortest path from 1 to 3
 <td>	5</td><td>	6</td><td>	1-3-5-6 or 1-2-5-6	</td><td>8
 </td></tr></tbody></table>
 The shortest path from node 1 to node 6 is either 1-2-5-6 or 1-3-5-6; both
-have length 8. 
+have length 8.
 </p><p>
 The digraph can also be used to solve complicated problems. Consider this
 problem: We wish to minimize the time an aircraft spends at an airport.
@@ -859,7 +859,7 @@ were:
 </td></tr></tbody></table>
 </p><p>
 Draw an activity analysis digraph for this job. Find the shortest possible
-time that these tasks will take. 
+time that these tasks will take.
 </p>
 <h4>Sample Lesson Plan 3</h4>
 <b><i>Topic</i> </b> Vectors as a means of representing a journey.<p>
@@ -965,7 +965,7 @@ ph paper.
 </dt><dt>e) Give your partner some vectors and have him (her) give your destination.
 </dt></dl>
 <b><i>Extension Activities: Using Bearings and Scale Drawing</i></b><br/>
-<dl><dt>1. A pilot wants to fly from city C to a city B, a distance of 1200 miles. The city B is on a bearing of 082° from C. Due to a pending storm, the pilot makes a detour and refuels at city A. The distance of A from C is 700 miles and the bearing is 
+<dl><dt>1. A pilot wants to fly from city C to a city B, a distance of 1200 miles. The city B is on a bearing of 082° from C. Due to a pending storm, the pilot makes a detour and refuels at city A. The distance of A from C is 700 miles and the bearing is
 175 degrees. Find the distance of A to B, and the bearing the pilot has to take.
 </dt><dt>2. (500 miles, 090°) is a journey taken by an aircraft. Find the single journey represented by (500, 090 degrees) followed by (375, 250 degrees).
 </dt><dt>3. A pilot is to make a round trip from New York calling at three airports (Dulles, Washington International; Atlanta, Georgia; and Cleveland, Ohio.)
@@ -1042,11 +1042,11 @@ Growney, Joanne Simpson. <i>Mathematics In Daily Life.</i> Making
 Decisions and
 Solving Problems. New York: McGraw Hill, 1986. This text presents
 different ways that students can learn to solve problems. It placed
-emphasis on using the graph as a tool for problem solving. 
+emphasis on using the graph as a tool for problem solving.
 </p><p>
 Malkevitch, Joseph and Walter Meyer. <i>Graphs, Models, Finite
 Mathematics.</i>
-Englewood Cliffs, New Jersey: Prentice Hall, Inc. 
+Englewood Cliffs, New Jersey: Prentice Hall, Inc.
 </p><p>
 <i>The School Mathematics Project.</i> Books B, C, and D. Cambridge:
 Cambridge
@@ -1058,29 +1058,29 @@ the reader is encouraged to consult these books.
 Scottish Mathematics Group. <i>Modern Mathematics for School.</i> Book 7.
 Glasgow
 and London: Blackie, 1966. 252-255. This book has presented a section in
-spherical geometry that is suitable for high school students. 
+spherical geometry that is suitable for high school students.
 </p><p>
 Winston, Wayne L. <i>Operation Research: Applications and Algorithms.</i>
 Boston:
-P.W.S. Publishers, 1987. Chapter 7. 
+P.W.S. Publishers, 1987. Chapter 7.
 </p><p>
 <i>History of Flight</i><br/>
 Anderson, John D. Jr. <i>Introduction To Flight.</i> Second edition. New
 York:
 McGraw Hill, 1985. This book gives a concise history of the development of
-flight, along with illustrations. 
+flight, along with illustrations.
 </p><p>
 Deventer, Van C. N. <i>An Introduction to General Aeronautics.</i> Great
 Britain:
-American Technical Society, 1965. 
+American Technical Society, 1965.
 </p><p>
-Gibbs-Smith, Charles Harvard. <i>Aviation: An Historical Survey.</i> 
+Gibbs-Smith, Charles Harvard. <i>Aviation: An Historical Survey.</i>
 London:
 Her
-Majesty’s Stationary Office, 1970. 
+Majesty’s Stationary Office, 1970.
 </p><p>
 Wegener, Peter P. <i>What Makes Airplanes Fly? History, Science and
-Applications of Aerodynamics.</i> New York: Springer Verlag Inc., 1990. 
+Applications of Aerodynamics.</i> New York: Springer Verlag Inc., 1990.
 </p>
 </a><center><a name="g"></a><div align="right"><a name="g"></a><p><a name="g">
 </a><a href="#top">to the top of this chapter</a></p></div></center>

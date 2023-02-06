@@ -55,7 +55,7 @@ const NavLinks = ({ navData, activeIndex }) => {
       )
     } else {
       return (
-        <li 
+        <li
           key={i.toString()}
           className={`tc_lists_guide ${activeIndex == i ? 'tc_active' : ''}`}
         >

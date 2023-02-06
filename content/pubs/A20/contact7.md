@@ -29,7 +29,7 @@ University and the Schools work together in a collegial relationship.
 Founded in 1978, the Institute is the first program of its type to be
 established permanently as a unit of a university.
 </p><hr/>
-<h4><a href=".\">Back to
+<h4><a href="/pubs/A20/">Back to
 Table of Contents of the Fall 1996 Issue of <i>On Common
 Ground</i></a>
 </h4>

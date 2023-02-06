@@ -55,7 +55,7 @@ Director, Center for Educational Improvement through Collaboration<br/>
 University of Michigan
 </p><p>
 Charles S. Serns
-<br/>Principal 
+<br/>Principal
 <br/>Hubert Humphrey Elementary School
 <br/> Albuquerque, New Mexico
 </p><p>
@@ -65,7 +65,7 @@ Frederick W. Hilles, Professor of English
 Professor of Theater Studies
 <br/> Yale University
 </p><hr/>
-<h4><a href=".\">Back to
+<h4><a href="/pubs/A17/">Back to
 Table of Contents of the Spring 1995 Issue of <i>On Common
 Ground</i></a>
 </h4>

@@ -20,7 +20,7 @@ for a much more powerful  global link between local networks led to the
 development of  "Internet," which is a network of networks using a
 standard  communication protocol called TCP/IP. In a sense, the "Internet"
 provides an information superhighway that links the smaller roads  built
-from the simple local networks. 
+from the simple local networks.
 <p>
 The first Internet, ARPANET, arose from research supported by the
 department of defense. Today, the US government spends billions of
@@ -62,7 +62,7 @@ and their teachers into a live global exchange on any  topic. For example,
 such IRC's have taken place during the launching  of several of NASA's
 Explorer missions. KIDLINK enables the  discussion of current topics with
 many different countries. In some  cases, the discussion is occurring
-before the newsmedia can cover  the issue. 
+before the newsmedia can cover  the issue.
 </p><p>
 For example, the historic trek through Antarctica carried out earlier
 this year by Sir Rannulph Fiennes and Dr. Michael Stroud o raise  funds
@@ -110,7 +110,7 @@ assume any  computer literacy. Teachers must feel comfortable with the use
 of  the network before they can effectively pass that information to the
 students (students will pick up the techniques quite fast!). This is a
 particularly important area for future collaboration between  university
-and schools. 
+and schools.
 </p><p>
 Full access to the Internet is still a major problem in applying the  high
 technology to classrooms around the world. Universities, which  in many
@@ -138,7 +138,7 @@ politics,  cultures, and most importantly the students' views of
 themselves  and their world.
 </p>
 <hr/>
-<h4><a href=".\">Back to
+<h4><a href="/pubs/A15/">Back to
 Table of Contents of the Summer 1994 Issue of <i>On Common
 Ground</i></a>
 </h4>

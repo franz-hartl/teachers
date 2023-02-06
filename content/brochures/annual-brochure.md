@@ -12,4 +12,4 @@ Institute's leadership; and provides participating teachers, named
 Institute Fellows, Guidelines for development of curriculum units.
 
 * [Annual Brochure](/brochures/A1/Brochure-2023.pdf)
-* [Seminar Descriptions] (/brochures/A1/seminar-descriptions-2023.pdf)
+* [Seminar Descriptions](/brochures/A1/seminar-descriptions-2023.pdf)

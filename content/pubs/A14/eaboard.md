@@ -29,7 +29,7 @@ Bread Loaf School of English<br/>
 Middlebury
 College
 </p><p>
-Fred M. Hechinger<br/> 
+Fred M. Hechinger<br/>
 Senior Advisor<br/>
 Carnegie Corporation of New York
 Gene I. Maeroff
@@ -54,7 +54,7 @@ University of Maryland at College Park
 <i>U.S. News and World Report</i>
 <br/> Washington, D.C.
 </p><hr/>
-<h4><a href=".\">Back to
+<h4><a href="/pubs/A14/">Back to
 Table of Contents of the Fall 1993 Issue of <i>On Common
 Ground</i></a>
 </h4>

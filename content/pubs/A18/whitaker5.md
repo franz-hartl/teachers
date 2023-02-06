@@ -4,7 +4,7 @@ title: ""
 path: "/pubs/A18/whitaker5.html"
 ---
 <main>
-<center> 
+<center>
 <h2>
 On Common Ground: Learning Through the Arts</h2>
 <font size="+1">by Thomas R. Whitaker</font>
@@ -161,7 +161,7 @@ Michigan's Center for Educational Improvement  through Collaboration.
 Sharon A. Olguin describes her work with  artist-teachers who were
 committed to the view that the arts can  inform the study of other
 subjects, raise the students' self-esteem,  and develop their critical
-thinking and creative abilities. 
+thinking and creative abilities.
 </li><li>
 Finally, the poem by Rosa Citlali Zamora, an eleven-year-old from
 Albuquerque, New Mexico, succinctly traces writing and reading,  painting
@@ -231,7 +231,7 @@ is a shared questing and  teaching, a way of knowledge that leads us into
 the great balancing  harmony of a universe that includes the entire family
 of the Earth's  creatures.
 </p><hr/>
-<h4><a href=".\">Back to
+<h4><a href="/pubs/A18/">Back to
 Table of Contents of the Fall 1995 Issue of <i>On Common
 Ground</i></a>
 </h4>

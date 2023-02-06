@@ -20,11 +20,11 @@ ll as a faculty member and administrator, I shared the Roundtable’s concern ab
 ent, engaged teaching.</p>
 <p>I wanted to make strengthening teacher preparation and the professional development of teachers one of the highest priorities in the College of Arts and Sciences. I began by surveying what we were already doing in this area. I was pleasantly surprised.
 Our participation in the public schools started with individual faculty members working with K-12 students and sharing their expertise: setting up mathematics contests, staging chemistry shows, judging science fairs and discussing their scholarly interes
-ts with students of all 
+ts with students of all
 ages. Our special college facilities — our
 museums, observatory, and laboratories — regularly hosted visits from school children and other community groups. Several of our funded research projects, such as the NASA-sponsored Space Science Education for New Mexico MESA Students project, reached stu
 dents from middle schools and high schools across the state, often drawing on Hispanic and Native American students underrepresented in the sciences. Finally, I was reminded that numerous Arts and Sciences courses are required of education majors.</p>
-<p>These contributions to K-12 education — and many others I could cite — were invisible to the larger public: hence the misperception that our college was indifferent to public education or, as the stereotype had it, interested only in esoteric research 
+<p>These contributions to K-12 education — and many others I could cite — were invisible to the larger public: hence the misperception that our college was indifferent to public education or, as the stereotype had it, interested only in esoteric research
 and graduate students. Although valuable, the efforts I have described depended on the good will and personal interests of individual faculty members. When the opportunity arose to apply for funding to establish the Albuquerque Teachers Institute, it thus
 could not have come at a better time. Such an institute not only built on what was
 already in place, it offered a way of making our participation in K-12 education even more direct and substantive — an institutional commitment on our part that would reinforce the personal initiatives of some of our faculty.
@@ -43,9 +43,9 @@ Education was interested in training pre-service teachers to incorporate technol
 . Putting together our interests resulted in a joint proposal that became the university’s highest priority for the upcoming New Mexico legislative session.</p>
 <p>Although support from within the university has not yet secured funding from the state, it is an excellent start. I measure the considerable success of the Albuquerque Teachers Institute in the partnerships it has made possible, the teachers, classroom
 s, and students it is beginning to transform, and the Arts and Sciences faculty it has attracted — some of the very best faculty members at the university. In addition to providing a public service, these professors are getting something in return. They r
-egularly report learning from the teachers in their seminars. The participants’ enthusiasm for the institute comes through in evaluations like these: “Connecting with other teachers who are excited about what they do and truly love kids and teaching is a 
+egularly report learning from the teachers in their seminars. The participants’ enthusiasm for the institute comes through in evaluations like these: “Connecting with other teachers who are excited about what they do and truly love kids and teaching is a
 shot in the arm.” “Participating in the seminar helped me feel connected to my profession and my commitment to my students while it also helped me grow personally.” One sign of the institute’s success is that assessments like these come equally from Colle
 ge of Arts and Sciences professors as well as from their colleagues in the schools.</p>
 <hr/>
-<p><a href=".\">Back to Table of Contents</a></p>
+<p><a href="/pubs/A22/">Back to Table of Contents</a></p>
 </main>

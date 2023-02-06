@@ -88,7 +88,7 @@ one. There are problems that remain, but they are not insurmountable. I am
 pleased therefore that <i>On Common Ground </i>is dedicated to advancing
 knowledge and information related to our educational partnerships.
 <hr/>
-<h4><a href=".\">Back to
+<h4><a href="/pubs/A14/">Back to
 Table of Contents of the Fall 1993 Issue of <i>On Common
 Ground</i></a>
 </h4>

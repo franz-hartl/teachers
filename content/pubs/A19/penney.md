@@ -204,7 +204,7 @@ teachers between the two is our challenge. If we can  meet it, and I
 believe we must, schools and universities will be one  of the most
 important resources to their cities and regions.
 </p><hr/>
-<h4><a href=".\">Back to
+<h4><a href="/pubs/A19/">Back to
 Table of Contents of the Spring  1996 Issue of <i>On Common
 Ground</i></a>
 </h4>

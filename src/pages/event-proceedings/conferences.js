@@ -17,7 +17,7 @@ const conPage = () => (
             <ul>
               <li>
                 <strong>
-                  <Link to="transcripts/C16.html">
+                  <Link to="/transcripts/C16.html">
                     Exploring Art and Culture in the Yale-New Haven Teachers
                     Institute, 1992{' '}
                   </Link>
@@ -30,7 +30,7 @@ const conPage = () => (
               </li>
               <li>
                 <strong>
-                  <Link to="brochures/A7/">
+                  <Link to="/brochures/A7/">
                     School-College Collaboration: Preparing Teachers and
                     Curricula, 1991
                   </Link>
@@ -39,15 +39,15 @@ const conPage = () => (
                   In 1991 teams of teachers and administrators from educational
                   partnerships across the United States attended a conference
                   focused on the content, process, and products of their
-                  collaborative efforts. A <Link to="brochures/A7/report.html">report</Link> on and{' '}
-                  <Link to="transcripts/F14a.html">transcript</Link> of the
+                  collaborative efforts. A <Link to="/brochures/A7/report.html">report</Link> on and{' '}
+                  <Link to="/transcripts/F14a.html">transcript</Link> of the
                   conference are available.
                 </p>
               </li>
               <ul>
               <li>
                 <strong>
-                  <Link to="transcripts/F14d.html">
+                  <Link to="/transcripts/F14d.html">
                     Address by Fred M. Hechinger on “The University's Neglected
                     Task,” 1991
                   </Link>
@@ -59,7 +59,7 @@ const conPage = () => (
               </li>
               <li>
                 <strong>
-                  <Link to="transcripts/F14a.html">
+                  <Link to="/transcripts/F14a.html">
                     Panel discussion of the Institute's publication,{' '}
                     <i>Teaching in New Haven, 1991</i>{' '}
                   </Link>
@@ -79,7 +79,7 @@ const conPage = () => (
               </ul>
               <li>
                 <strong>
-                  <Link to="transcripts/F13.html">
+                  <Link to="/transcripts/F13.html">
                     Yale Graduate School Education Department/ M.A.T. Program
                     Reunion, 1991
                   </Link>
@@ -94,7 +94,7 @@ const conPage = () => (
               </li>
               <li>
                 <strong>
-                  <Link to="transcripts/F11.html">
+                  <Link to="/transcripts/F11.html">
                     Reaching Each Student: College Faculty An “X” Factor in
                     Educational Reform? 1990
                   </Link>
@@ -109,7 +109,7 @@ const conPage = () => (
               </li>
               <li>
                 <strong>
-                  <Link to="transcripts/C2.html">
+                  <Link to="/transcripts/C2.html">
                     Building Integrated Teacher Education Systems Statewide,
                     1985
                   </Link>
@@ -122,7 +122,7 @@ const conPage = () => (
                 </p>
               </li>
               <li>
-                <Link to="transcripts/F4.html">
+                <Link to="/transcripts/F4.html">
                   <strong>
                     Excellence in Teaching: A Common Goal, February 16-18, 1983
                   </strong>
@@ -135,13 +135,13 @@ const conPage = () => (
                   Officers and College and University Presidents on “Excellence
                   in Teaching: A Common Goal.” By coming to New Haven from 38
                   states the participants made this an unprecedented national
-                  meeting of elementary and secondary and higher education. 
+                  meeting of elementary and secondary and higher education.
                 </p>
-               
+
                 <ul>
                   <li>
                     <strong>
-                    <Link to="transcripts/F6.html">
+                    <Link to="/transcripts/F6.html">
                       Panel of Chiefs and Presidents
                     </Link></strong>
                     <p>
@@ -156,7 +156,7 @@ const conPage = () => (
                       State of North Carolina.{' '}
                       </p>
                       <p>
-                      A <a href='https://www.youtube.com/embed/OlWOeScEWs8?'  target='_blank'>video</a> and <Link to="transcripts/F4.html">transcript</Link> of
+                      A <a href='https://www.youtube.com/embed/OlWOeScEWs8?'  target='_blank'>video</a> and <Link to="/transcripts/F4.html">transcript</Link> of
                       the video recording are available.
                     </p>
 
@@ -172,7 +172,7 @@ const conPage = () => (
                   </li>
                   <li>
                     <strong>
-                    <Link to="transcripts/F5.html">Case Study</Link></strong>
+                    <Link to="/transcripts/F5.html">Case Study</Link></strong>
                     <p>
                       Transcript of a panel at the National Conference, where
                       the Yale-New Haven Teachers Institute was presented as a

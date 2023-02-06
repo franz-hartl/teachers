@@ -80,7 +80,7 @@ It is important to know that there is always the opportunity for an
 apprentice to take the examination and secure an arbiter which is
 necessary for entrance into a University.  Also, many of the owners  of
 small businesses, and CEO's in large business are graduates of the
-apprenticeship system. 
+apprenticeship system.
 </p><p>
 In the United States, the university establishment could play an
 important leadership role by using its influence to persuade business
@@ -143,10 +143,10 @@ However, I list a few references for those who wish to  become further
 involved.
 </p><h3>References</h3>
 The William T. Grant Foundation Commission on Work, Family and
-Citizenship. (November 1988). <i>The Forgotten Half</i>. Washington, D.C. 
+Citizenship. (November 1988). <i>The Forgotten Half</i>. Washington, D.C.
 <p>
 Hamilton, Stephen F. (1990). <i>Apprenticeship for Adulthood</i>. New
-York, New York:  The Free Press. 
+York, New York:  The Free Press.
 </p><p>
 McAlams, Richard P. (1993). <i>Lessons from Abroad. Lancaster</i>,
 Pennsylvania: Technomic Publishing Co.  
@@ -154,7 +154,7 @@ Pennsylvania: Technomic Publishing Co.
 Reich, Robert B. (1991). <i>The Work of Nations</i>. New York, New York:
 Alfred A. Knopf.
 </p><hr/>
-<h4><a href=".\">Back to
+<h4><a href="/pubs/A16/">Back to
 Table of Contents of the Fall 1994 Issue of <i>On Common
 Ground</i></a>
 </h4>

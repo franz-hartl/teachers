@@ -28,7 +28,9 @@ path: "/brochures/CenterManual/ElectronicResources.html"
 <p>The search engine incorporated into the Institute Web page provides another method to search for specific curricular resources.  The search engine can be used to search the entire text of all curriculum units or guides for any word or series of words mentioned in the text.  The search engine functions in the same way that a standard Internet search engine does except that it only searches the pages of the Institute Web site.  If you are having trouble finding information on the site, you can simply enter a keyword for that information and the search engine will scour the Web site for any mention of the keywords.  Your search can also be tailored to search the entire site, the units only, the guides only, or the units and guides together.  To tailor your search, click the circle next to the appropriate field (as seen in the search window below).
 </p>
 <hr/>
-<center><table border="2" cellpadding="0" cellspacing="0">
+<p style="text-align: center;"><img src="/images/old_search.jpg" alt="search"/></p>
+
+<!-- <center><table border="2" cellpadding="0" cellspacing="0">
 <tbody><tr>
 <td>
 <table border="0" cellpadding="5" cellspacing="0">
@@ -56,7 +58,7 @@ Page</a> for complete search and site map</td>
 </tr>
 </tbody></table>
 </td></tr>
-</tbody></table></center>
+</tbody></table></center> -->
 <hr/>
 <p>The results of your search should give you the appropriate links to help you find what you are looking for.
 </p>
@@ -81,22 +83,22 @@ Page</a> for complete search and site map</td>
 <hr/>
 <p><a name="g"></a><b>E-mail on the Center Computer</b>
 </p>
-<p>To promote the use of electronic forms of communication, the Institute provides all Centers with their own Institute group e-mail account.  All Fellows and teachers who are authorized users of the Center computer have access to this account, which can serve as a means to share information with other Center members.  In an effort to facilitate communication among Institute Fellows and seminar leaders, the Institute encourages all Fellows to make use of their public school e-mail accounts also. 
+<p>To promote the use of electronic forms of communication, the Institute provides all Centers with their own Institute group e-mail account.  All Fellows and teachers who are authorized users of the Center computer have access to this account, which can serve as a means to share information with other Center members.  In an effort to facilitate communication among Institute Fellows and seminar leaders, the Institute encourages all Fellows to make use of their public school e-mail accounts also.
 </p>
 <ul>L. W. Beecher School - beecher@ynhti.yale.edu
-<br/>Hill Regional Career High School - career@ynhti.yale.edu 
-<br/>Roberto Clemente Middle School - clemente@ynhti.yale.edu 
+<br/>Hill Regional Career High School - career@ynhti.yale.edu
+<br/>Roberto Clemente Middle School - clemente@ynhti.yale.edu
 <br/>Columbus Family Academy - columbus@ynhti.yale.edu
-<br/>Cooperative Arts &amp; Humanities Magnet High School - cooperative@ynhti.yale.edu 
+<br/>Cooperative Arts &amp; Humanities Magnet High School - cooperative@ynhti.yale.edu
 <br/>Wilbur Cross High School - cross@ynhti.yale.edu  
-<br/>Davis Street Magnet School - davis@ynhti.yale.edu 
-<br/>Hillhouse High School - hillhouse@ynhti.yale.edu 
-<br/>Fair Haven Middle School - fairhaven@ynhti.yale.edu 
-<br/>Sound High School - sound@ynhti.yale.edu 
+<br/>Davis Street Magnet School - davis@ynhti.yale.edu
+<br/>Hillhouse High School - hillhouse@ynhti.yale.edu
+<br/>Fair Haven Middle School - fairhaven@ynhti.yale.edu
+<br/>Sound High School - sound@ynhti.yale.edu
 </ul>
-<p>There are two ways to check and use e-mail on the Center computers, Eudora and Netscape.  Eudora should be used exclusively to access Center group mail.  A copy of Eudora is installed on all of the Center computers and can be found either on the desktop as an icon or by going to the programs folder in the start bar.  Eudora is a simple and user-friendly way to check your Center mail.  It includes a Windows interface that is fairly self-explanatory and automates most of the functions you will be using.  Folders will be set-up in Eudora so that you can save and file all Center mail in an organized manner.  Because Eudora will be used to check and distribute Center and Institute related group e-mails, logging correspondence will serve as Center documentation for future reference.  Personal e-mail may not be saved on Center computers.  Once you have gained access to the Center computer, you automatically have use of the group e-mail account and can start using it by running Eudora. 
+<p>There are two ways to check and use e-mail on the Center computers, Eudora and Netscape.  Eudora should be used exclusively to access Center group mail.  A copy of Eudora is installed on all of the Center computers and can be found either on the desktop as an icon or by going to the programs folder in the start bar.  Eudora is a simple and user-friendly way to check your Center mail.  It includes a Windows interface that is fairly self-explanatory and automates most of the functions you will be using.  Folders will be set-up in Eudora so that you can save and file all Center mail in an organized manner.  Because Eudora will be used to check and distribute Center and Institute related group e-mails, logging correspondence will serve as Center documentation for future reference.  Personal e-mail may not be saved on Center computers.  Once you have gained access to the Center computer, you automatically have use of the group e-mail account and can start using it by running Eudora.
 </p>
-<p>Because of the way that Eudora is configured your personal and public school e-mails cannot be accessed in this application.  However you may use Netscape to access all Web-based e-mail accounts by going to the provider’s Web site. 
+<p>Because of the way that Eudora is configured your personal and public school e-mails cannot be accessed in this application.  However you may use Netscape to access all Web-based e-mail accounts by going to the provider’s Web site.
 </p>
 <p>As always the Institute Computer Assistants will be available to provide support if you have  questions regarding the use of e-mail, please call 432-1097 or e-mail us at <a href="mailto:ynhti-help@yale.edu">ynhti-help@yale.edu</a>.
 </p>

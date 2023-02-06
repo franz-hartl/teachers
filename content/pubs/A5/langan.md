@@ -19,8 +19,8 @@ Students</h2><p>
 <a href="#f"></a></li><li><a href="#f">Teacher Bibliography</a>
 </li></ul>
 <h4>
-<a href=".\">Teaching in New Haven: Table of Contents</a> |
-<a href="..\..\">Yale-New Haven Teachers Institute</a>
+<a href="/pubs/A5/">Teaching in New Haven: Table of Contents</a> |
+<a href="/">Yale-New Haven Teachers Institute</a>
 </h4>
 <hr/>
 <a name="a">
@@ -34,7 +34,7 @@ schools instead of the large, traditional high schools. Long Island Sound
 leads to topics such as marine biology, boats, and navigation. As a
 mathematics teacher I look for problems to share with my students. By
 looking at the methods of solution in one field we may find strategies for
-solving problems in other fields. 
+solving problems in other fields.
 <p>
 One topic I look forward to is naval architecture, the designing of ships.
 If we are going to look at boat design, we need to know some physics. What
@@ -48,7 +48,7 @@ the assistance of a Yale faculty member and the resources of Yale
 University. The Institute runs various seminars related to the subjects
 one teaches. The units are the record of what one accomplished by being in
 the seminar. One applies in February amd finishes by the first week of
-August. 
+August.
 <p>
 When one writes a proposal, one has high expectations. “I’ll write an
 explanation that will make it obvious for any student.” After one has
@@ -71,7 +71,7 @@ to contend with.</p>
 <h4>B. How to Use This Unit</h4>
 I want my students to see uses of mathematics. One way students can see
 uses of mathematics is by reading about engineering projects and their
-solutions. 
+solutions.
 <p>
 I see this unit as something the student can read as a start on the
 subject. The unit may be broken into sections for reading, or the whole
@@ -112,7 +112,7 @@ weights from the Leaning Tower of Pisa. Although historians of science may
 question the accuracy of the stories, there is no doubt that the stories
 help us remember the physical principles involved. The first is buoyancy,
 why boats float, and the seconds tells us that objects fall at a constant
-acceleration that is not dependent on their weight. 
+acceleration that is not dependent on their weight.
 <p>
 What have I learned that I would like to share with my students? There are a number of stories that illustrate physical principles that everyone is supposed to know. Let us tell them.</p><p>
 There are fundamental principles that need to be known as well. Let us
@@ -217,7 +217,7 @@ centimeters. So find X.</p><p>
 <i>(figure available in print form)</i>
 </p><p>
 Consequently the block will float with 5.2 cm of the 8 cm vertical
-dimension submerged. 
+dimension submerged.
 </p><p>
 This is a demonstration of the principle that allows a naval architect to
 determine the water line of a boat before it is built. Of course, the
@@ -245,7 +245,7 @@ of physics called mechanics which includes the study of motion.</p>
 Among the people who contributed to the field of mechanics we find
 Copernicus, Brahe, Kepler, Galileo, and Newton. Yes, those are the names
 associated with the concept of the solar system. Mechanics is the study of
-motion, any kind of motion, even the motion of celestial bodies. 
+motion, any kind of motion, even the motion of celestial bodies.
 Here is a short version of the story. Copernicus said the planets revolved around the sun. Brahe made astronomical observations. Kepler analyzed Brahe’s data and came up with three laws:
 <dl><dt>   1. Planets follow elliptical paths with the sun as a focus.
 </dt><dt>   2. A line from the sun to a planet will sweep out equal areas in equal times.
@@ -255,7 +255,7 @@ proportional to the cube of the major axis of the orbit.
 Some friends went to Isaac Newton (1642-1727) with the idea that
 gravitational attraction between two bodies was inversely proportional to
 the square of the distance between the bodies. The story goes that he had
-the solution already written out for them. 
+the solution already written out for them.
 The law of gravity with Newton’s laws of motion result in proving
 Kepler’s laws as theorems. Newton had used the calculus that he had
 invented to do the problem. His friends induced him to publish his results
@@ -290,7 +290,7 @@ have fluid mechanics.</p>
 <h4>A. The Continuity Equation</h4>
 One reason I participated in the Aerodynamics Seminar was to find examples
 using high school mathematics that I could share with my students. The
-continuity equation is such an example. 
+continuity equation is such an example.
 <p>
 When trying to solve a problem we are told to look for things that stay
 the same. They then can be set equal to each other, giving an equation to
@@ -306,7 +306,7 @@ using the concept of conservation of mass, namely that in nature mas s
 cannot be gained or lost in a system. A simple, characteristic example of
 scientific reasoning. So what can we do with it? Let’s write a formula.</p><p>
 How would you express the rate of flow? If it were a bilge pump you would say so many gallons per hour. What do gallons measure? Volume. Volume is expressed as cubic units, cubic feet, cubic centimeters, and so forth. Time can easily be changed from hours
-to minutes or seconds. So the rate of flow could be expressed as cubic centimeters per second. Cubic centimeters per second could also be expressed as square centimeters times centimeters per second. What do square centimeters and centimeters per second 
+to minutes or seconds. So the rate of flow could be expressed as cubic centimeters per second. Cubic centimeters per second could also be expressed as square centimeters times centimeters per second. What do square centimeters and centimeters per second
 each measure? Area and velocity, respectively. So the rate of incompressible flow could be expressed as volume per time equals area times velocity. The velocity would be an average velocity since we are using the total volume per unit time. The water in the center of the pipe goes faster than the water at the pipe wall. Can you tell what area and what velocity to use? The pipes have cross sectional areas and the water has an average velocity. So we could use the area of the entry or the exit opening. Does
 the argument make sense if we start with the area of the pipe and the
 average velocity of the water? If we multiply the cross sectional area of
@@ -328,7 +328,7 @@ true for any two points in the pipe we could also write
 </p><p>
 where Al and V1 are the area and velocity at one point in the pipe, and A2
 and V2 are the area and velocity at some other second point in the pipe.
-This equation is called the continuity equation. 
+This equation is called the continuity equation.
 </p><p>
 The way I visualize the continuity equation is by thinking of a paper
 wrapper full of pennies. Instead of closing it, fill it full to the ends
@@ -465,7 +465,7 @@ where V is the velocity, L is a representative length such as the diameter
 of a pipe, the length of a ship, or the chord of an airfoil, and v is the
 kinematic viscosity. The Reynolds number is named after Osborne Reynolds
 (1842-1912), a British engineer who did the first work on laminar versus
-turbulent flow in pipes. 
+turbulent flow in pipes.
 </p><p>
 What is the dimension of the Reynolds number? Substitute the dimensions
 for the defining variables of the number and reduce:</p><p>
@@ -473,7 +473,7 @@ for the defining variables of the number and reduce:</p><p>
 </p><p>
 The result is that the dimnesions of the fraction cancel out, they reduce
 to one. The Reynolds number is said to be dimensionless, as would any
-other variable whose dimensions reduce to one. 
+other variable whose dimensions reduce to one.
 </p><p>
 Let us use the Reynolds number in an example. We want to test a 1/3 scale
 model of an automobile in a wind tunnel to determine its aerodynamic drag.
@@ -497,7 +497,7 @@ car. To model 55 mph the wind tunnel will be run at 165 mph. This is a
 reason to use large sized models when keeping the Reynolds numbers of the
 model and the prototype equal. Since the velocity is inversely
 proportional to its size, the smaller the model the faster the wind will
-have to be, perhaps too fast. 
+have to be, perhaps too fast.
 </p><p>
 If the model were small enough we could be required to run the tunnel at
 supersonic speed. Even if we could (there are such tunnels) we would then
@@ -514,7 +514,7 @@ viscous forces are not the only forces that act on other systems. When the
 inertial and gravitational forces predominate then the similarity constant
 of concern is the Froude number. This
 number is also named after its discoverer, William Froude. It is the
-ratio of the inertial forces to the gravitational forces. 
+ratio of the inertial forces to the gravitational forces.
 <p>
 William Froude (1810-1879), a nineteenth century English scientist, was
 one of the first to use a towing tank to test the designs of ships.
@@ -536,7 +536,7 @@ resistance (Rf) was proportional to the wetted surface area of the ship
 </p><p>
 His experiments with the boards were to determine the proportionality
 constant (f), which he called the form factor, and the exponent (n) for
-velocity. 
+velocity.
 </p><p>
 While experimenting with different size scale models he noticed that the
 wave patterns were the same in number along the hull when the ratios of
@@ -547,7 +547,7 @@ dimensionless parameter</p><p>
 where V is the velocity of the boat, g is the acceleration due to gravity,
 and L is the length of the boat. Fn is now called the Froude number, in
 his honor. Froude did his work before Osborne Reynolds, so he did not know
-about the Reynolds number. 
+about the Reynolds number.
 </p><p>
 Let us use dimensional analysis to show that the Froude number is
 dimensionless. Substitute the dimensions of the defining variables (look
@@ -555,7 +555,7 @@ back) and simplify to get</p><p>
 <i>(figure available in print form)</i>
 </p><p>
 So the dimensions reduce to one and the Froude number is indeed
-dimensionless. 
+dimensionless.
 </p><p>
 Froude’s program was to determine the frictional resistances from the
 wetted surface areas of the model and the ship, determine the residual
@@ -607,7 +607,7 @@ that is, if the model is full sized. Does this mean that model testing is
 impossible? No, just that there are limitations to the modeling process;
 they are approximations in some aspects. The engineer needs to know what
 is being modeled and make corrections for the effects that are not being
-modeled. 
+modeled.
 </p><p>
 Whether the Reynolds or the Froude numbers are kept equal depends on which
 effects are considered significant. Waves involve gravity, so if waves are
@@ -625,7 +625,7 @@ use for it. Here is some history of naval a rchitecture related to
 aerodynamics. Aerodynamics and hydrodynamics are both part of one field
 called fluid mechanics. Many of the principles of fluid mechanics were
 known before airplanes existed. These principles had been discovered in
-hydrodynamics. On e apparatus of investigation was the towing tank. 
+hydrodynamics. On e apparatus of investigation was the towing tank.
 Much of the hydrodynamics was motivated by the building and maintenance of
 canals. In fact Benjamin Franklin built a towing tank to test the
 observation he had made on the canals in Holland that boats go slower in
@@ -682,7 +682,7 @@ motions. Since the system is going to move, the balances will need to be
 dampened so the motion of the apparatus does not disturb them.</p>
 <h4>F. The Mach Number</h4>
 The Froude number is of concern when we have gravity waves. When we deal
-with an elastic medium we have pressure waves. Sound is a pressure wave. 
+with an elastic medium we have pressure waves. Sound is a pressure wave.
 The ratio known as the Mach number is<p>
 <i>(figure available in print form)</i>
 </p><p>
@@ -691,7 +691,7 @@ The Mach number, named after the Austrian physicist Ernst Mach
 (1838-1916), is the square root of the ratio of inertial forces to elastic
 forces. The Mach number is of concern when
 the medium is not considered incompressible, as when we assume that at
-high speed an object’s motion will compress the air. 
+high speed an object’s motion will compress the air.
 </p><p>
 The Mach number tells us when we have supersonic speed. If something is
 going faster than the speed of sound we have a Mach number greater than
@@ -772,7 +772,7 @@ ships. The first turbine-powered ship was Sir Charles Parsons’ Turbinia
 built in 1894. Parsons had built the first successful turbine to power a
 dynamo, an electric generator. He had
 done model tests and had great expectations for the ship, since the
-turbine was so powerful. 
+turbine was so powerful.
 <p>
 The results were disappointing. The highest speed recorded was less than
 20 knots. The problem was cavitation, a phenomenon recognized and named by
@@ -791,68 +791,68 @@ bibliography, especially the LIFE book Ships.</p>
 <a name="e">
 <h3>Student Bibliography</h3>
 I claim my students will find these books and articles to be readable. I
-believe the students will also find them interesting. 
+believe the students will also find them interesting.
 <p>
 Chiles, James R. “The Cable Under the Sea.” <i>American Heritage of
 Invention
-&amp; Technology.</i> Vol. 3, No. 2, (1987): 34-41. 
+&amp; Technology.</i> Vol. 3, No. 2, (1987): 34-41.
 </p><p>
 Dugan, James.<i> The Great Iron Ship.</i> New York: Harper and Brothers,
-1953. 
+1953.
 </p><p>
 Gillmer, Thomas C. <i>Modern Ship Design.</i> Annapolis, Maryland: United
 States
-Naval Institute, 1970. 
+Naval Institute, 1970.
 </p><p>
 Guthrie, John. <i>Bizarre Ships of the Nineteenth Century.</i> London:
 Hutchinson
-Scientific and Technical, 1970. 
+Scientific and Technical, 1970.
 </p><p>
 Hanle, Paul A. <i>Bringing Aerodynamics to America.</i> Cambridge,
 Massachusetts:
-The MIT Press, 1982. 
+The MIT Press, 1982.
 </p><p>
 Hogben, Lancelot.<i> The Wonderful World of Energy.</i> Garden City, New
 York:
-Garden City Books, 1957. 
+Garden City Books, 1957.
 </p><p>
 Jackson, David.<i> The Wonderful World of Engineering.</i> Garden City,
 New York:
-Garden City Books, 1960. 
+Garden City Books, 1960.
 </p><p>
 Jenkins, David and Hugh. <i>Isambard Kingdom Brunel, Engineer
 Extraordinary.</i>
-Hove, East Sussex: Wayland Publishers Ltd., 1977. 
+Hove, East Sussex: Wayland Publishers Ltd., 1977.
 </p><p>
 Kinney, Francis S.<i> Skene’s Elements of Yacht Design.</i> New York:
 Dodd, Mead
-&amp; Company, 1981. 
+&amp; Company, 1981.
 </p><p>
 Lewellen, John. <i>The Boy Scientist.</i> New York: Simon and Schuster,
 1955.
 </p><p>
-Lewis, Edward V., O’Brien, Robert, and the Editors of LIFE. <i>Ships.</i> 
+Lewis, Edward V., O’Brien, Robert, and the Editors of LIFE. <i>Ships.</i>
 New
-York: Time, 1965. 
+York: Time, 1965.
 </p><p>
 Naval Historical Foundation Publication. <i>The David Taylor Model Basin,
 A
-Brief History.</i> Washington, D.C.: Naval Historical Foundation, 1971. 
+Brief History.</i> Washington, D.C.: Naval Historical Foundation, 1971.
 </p><p>
 Newman, James R. <i>The World of Mathematics.</i> New York: Simon and
 Schuster,
-1956. 
+1956.
 </p><p>
 Polya, George. <i>Mathematical Methods in Science.</i> The Mathematical
-Association of America, 1977. 
+Association of America, 1977.
 </p><p>
 Rouse, Hunter and Ince, Simon. <i>History of Hydraulics.</i> New York:
 Dover
-Publications, 1963. 
+Publications, 1963.
 </p><p>
 Salvadori, Mario. <i>Why Buildings Stand Up.</i> New York: McGraw-Hill
 Book
-Company, 1980. 
+Company, 1980.
 </p><p>
 Stong, C. L. <i>The Amateur Scientist.</i> New York: Simon and Schuster,
 1960.
@@ -865,31 +865,31 @@ Sutton, O.G. <i>Mathematics in Action.</i> New York: Harper and Brothers,
 <a name="f">
 <h3>Teacher Bibliography</h3>
 These are some of the references I consulted. Some students may find them
-of use too. 
+of use too.
 <p>
 Baumeister, Theodore, Editor. <i>Standard Handbook for Mechanical
 Engineers.</i>
-New York: McGraw Hill Book Company, 1967, Seventh Edition. 
+New York: McGraw Hill Book Company, 1967, Seventh Edition.
 </p><p>
 Baxter, B. <i>Naval Architecture: Examples and Theory.</i> London and High
-Wycombe: Charles Griffin &amp; Company Ltd., 1967, 2nd impression, 1977. 
+Wycombe: Charles Griffin &amp; Company Ltd., 1967, 2nd impression, 1977.
 </p><p>
 Bennett, William Ralph, Jr. <i>Scientific and Engineering Problem-Solving
-with the Computer.</i> Englewood Cliffs, New Jersey: Prentice Hall, 1976. 
+with the Computer.</i> Englewood Cliffs, New Jersey: Prentice Hall, 1976.
 </p><p>
 Duncan, W. J. <i>Physical Similarity and Dimensional Analysis.</i> London:
 Edward
-Arnold and Co., 1953. 
+Arnold and Co., 1953.
 </p><p>
 John, James E. A. and Haberman, William L. <i>Introduction to Fluid
-Mechanics.</i> Englewood Cliffs, New Jersey: Prentice Hall, 1988. 
+Mechanics.</i> Englewood Cliffs, New Jersey: Prentice Hall, 1988.
 </p><p>
 Kaufmann, Walter. <i>Fluid Mechanics.</i> New York: McGraw Hill Book
 Company, 1963.
 </p><p>
 Langhaar, Henry L.<i> Dimensional Analysis and Theory of Models.</i> New
 York:
-John Wiley &amp; Sons, 1951, fourth printing March 1960. 
+John Wiley &amp; Sons, 1951, fourth printing March 1960.
 </p><p>
 Muckle, W. <i>Modern Naval Architecture.</i> New York: Philosophical
 Library, 1956.
@@ -899,25 +899,25 @@ Peabody, Cecil H. <i>Naval Architecture.</i> New York: John Wiley &amp; Sons,
 </p><p>
 Pope, Alan and Harper, John J. <i>Low-Speed Wind Tunnel Testing.</i> New
 York:
-John Wiley &amp; Sons, 1966. 
+John Wiley &amp; Sons, 1966.
 </p><p>
 Prandtl, Ludwig.<i> Essentials of Fluid Dynamics.</i> New York: Hafner
 Publishing
-Company, 1952. 
+Company, 1952.
 </p><p>
 Rouse, Hunter. <i>Elementary Mechanics of Fluids.</i> New York: John Wiley
 &amp;
-Sons, 1946, eleventh printing, October, 1957. 
+Sons, 1946, eleventh printing, October, 1957.
 </p><p>
 Taylor, D. W. <i>Resistance of Ships and Screw Propulsion.</i> New York:
-Macmillan and Co., 1893. 
+Macmillan and Co., 1893.
 </p><p>
 von Kármán, Theodore. <i>Aerodynamics.</i> Ithaca, N.Y.: Cornell
 University
-Press, 1954. 
+Press, 1954.
 </p><p>
 Wegener, Peter P. <i>What Makes Airplanes Fly? History, Science, and
-Applications of Aerodynamics.</i> New York: Springer, 1991. 
+Applications of Aerodynamics.</i> New York: Springer, 1991.
 </p>
 </a><center><a name="f"></a><div align="right"><a name="f"></a><p><a name="f">
 </a><a href="#top">to the top of this chapter</a></p></div></center>

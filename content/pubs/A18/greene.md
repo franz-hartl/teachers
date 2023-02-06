@@ -39,7 +39,7 @@ And they said then, "But play, you must,
 <br/>A tune beyond us, yet ourselves,
 </p><p>
 A tune upon the blue guitar
-<br/>Of things exactly as they are." 
+<br/>Of things exactly as they are."
 </p></blockquote>
 Those who demand a rendering of "things exactly as they are" often  assume
 an objective reality that can and should be precisely  captured.  To use
@@ -260,7 +260,7 @@ metaphorial, that opens to possibilities.  If  university-school
 collaboration is to be significant, this should be  fundamental to what it
 achieves.
 </p><hr/>
-<h4><a href=".\">Back to
+<h4><a href="/pubs/A18/">Back to
 Table of Contents of the Fall 1995 Issue of <i>On Common
 Ground</i></a>
 </h4>

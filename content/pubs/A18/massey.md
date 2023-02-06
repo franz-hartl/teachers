@@ -40,7 +40,7 @@ new economic order is now emerging,  however, and this economic order is
 based on information and  knowledge, not on materials and manufacturing.
 Aware of this,  American corporations have taken a leading role in
 insisting on  restructuring schools to adapt them to the needs of the
-emerging  "knowledge" economy and society. 
+emerging  "knowledge" economy and society.
 </p><p>
 In <i>The Work of Nations</i>, Robert Reich argues that whatever one's job
 title may be, there are now only three job functions that are
@@ -148,7 +148,7 @@ intellectual role in schools of the knowledge society.   The arts as a
 creative process provide, I believe, a unique standpoint  for the
 construction of a new curriculum that addresses the new  "basics" of the
 knowledge society and is true  to the "new typology of  knowledge" to
-which Boyer refers. 
+which Boyer refers.
 </p><p>
 I would add to Boyer's list of tantalizing questions, Wouldn't it be
 exciting to include creative artists in the process of reshaping  schools?
@@ -212,7 +212,7 @@ conceptions of what good teaching and learning look  like."  Developing
 this vision of how new schools will look is perhaps  the most difficult
 barrier to real school reform.  The changes coming  for our economy, our
 society, and our schools are hard to visualize.   But looking from the
-vantage of the arts, let us imagine what schools  could be. 
+vantage of the arts, let us imagine what schools  could be.
 </p><p>
 Imagine schools in which works of art and other "worthy objects of
 study" are made directly available to students as rich and  challenging
@@ -256,7 +256,7 @@ Center.  From this two-year project, a national  network of like-minded
 teachers and schools will be initiated, with  model curricula, assessment
 tools, models for the use of art and  technology, and models for teacher
 professional development and  reflection drawn from the work of these ten
-schools. 
+schools.
 </p><p>
 Leonard Bernstein knew the power of the arts to reach people and to
 stimulate learning­he embodied and symbolizes this power.  The
@@ -268,7 +268,7 @@ Bernstein is the perfect symbol for catalyzing  these forces into a
 coherent vision and action.  The Bernstein Center  is dedicated to this
 mission.
 </p><hr/>
-<h4><a href=".\">Back to
+<h4><a href="/pubs/A18/">Back to
 Table of Contents of the Fall 1995 Issue of <i>On Common
 Ground</i></a>
 </h4>

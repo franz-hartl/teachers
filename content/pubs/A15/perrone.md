@@ -397,7 +397,7 @@ Simon &amp; Schuster.
 Papert, S.  (1980).  <i>Mindstorms.</i>  New York: Basic Books.
 </p>
 <hr/>
-<h4><a href=".\">Back to
+<h4><a href="/pubs/A15/">Back to
 Table of Contents of the Summer 1994 Issue of <i>On Common
 Ground</i></a>
 </h4>

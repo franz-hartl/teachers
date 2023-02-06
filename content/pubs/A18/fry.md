@@ -82,7 +82,7 @@ were in tears, and one poet was so overwhelmed  that she just stood with
 her aunt, unable to speak a word.  The event  lasted nearly the entire
 morning (we adjourned for the food of our  cultures), but all the
 teachers, administrators, children, and parents  were spellbound to the
-end, hardly aware that time was passing. 
+end, hardly aware that time was passing.
 </p><hr/>
 <h3>By Jean E. Sutherland</h3>
 "I cried, but inside I felt proud.  I thought everybody was crying
@@ -97,7 +97,7 @@ the culminating event of curriculum units written and taught by four L.W.
 Beecher classroom teachers representing kindergarten, first, third, and
 fifth grade.  As members of the Yale-New Haven Teachers Institute, we had
 been enrolled in Professor Paul Fry's seminar, "Poems on Pictures, Places,
-and People." 
+and People."
 </p><p>
 The idea of working as a team started about a year and a half before the
 final program. Since the Institute's steering committee had encouraged
@@ -135,7 +135,7 @@ presented a poem, provided martial arts entertainment during the buffet,
 and some, including a hundred year old grandmother, were honored in person
 through their child's original poem.  
 </p><hr/>
-<h4><a href=".\">Back to
+<h4><a href="/pubs/A18/">Back to
 Table of Contents of the Fall 1995 Issue of <i>On Common
 Ground</i></a>
 </h4>

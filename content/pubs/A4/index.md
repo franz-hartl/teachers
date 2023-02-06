@@ -4,7 +4,7 @@ title: "Teaching in America: The Common Ground"
 path: "/pubs/A4/"
 ---
 <main>
-<p><small><a href="..\..\">Main Page</a> : <a href="..\">Periodical Publications and Books</a> : Teaching in America: The Common Ground</small></p>
+<p><small><a href="/">Main Page</a> : <a href="/pubs/">Periodical Publications and Books</a> : Teaching in America: The Common Ground</small></p>
 <hr/>
 <h2 align="CENTER">Teaching in America: The Common Ground</h2>
 <h3 align="CENTER">A Report of the Yale-New Haven Teachers Institute</h3>
@@ -122,5 +122,5 @@ path: "/pubs/A4/"
 <p>ISBN: 0-87447-192-3.</p>
 <p>Printed in the United States of America.</p>
 <hr/>
-<p><small><a href="..\..\">Main Page</a> : <a href="..\">Periodical Publications and Books</a> : Teaching in America: The Common Ground</small></p>
+<p><small><a href="/">Main Page</a> : <a href="/pubs/">Periodical Publications and Books</a> : Teaching in America: The Common Ground</small></p>
 </main>

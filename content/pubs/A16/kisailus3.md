@@ -109,9 +109,9 @@ one­time only  decision.  The university­school­business
 partners' objective should  be to stimulate academic achievement and
 career readiness among  all students. Unlike the division of the past
 between vocational  education and career education, a major objective of
-the partnership  should be to foster lifelong learning for all. 
+the partnership  should be to foster lifelong learning for all.
 </p><hr/>
-<h4><a href=".\">Back to
+<h4><a href="/pubs/A16/">Back to
 Table of Contents of the Fall 1994 Issue of <i>On Common
 Ground</i></a>
 </h4>

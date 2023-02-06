@@ -189,7 +189,7 @@ University Press.
 Lindfors, J.W., and Hudelson, S.J. (1993).  <i>Delicate Balances:
 Collaborative Research in Language Education</i>, Urbana, Ill.: NCTE.
 </p><hr/>
-<h4><a href=".\">Back to
+<h4><a href="/pubs/A18/">Back to
 Table of Contents of the Fall 1995 Issue of <i>On Common
 Ground</i></a>
 </h4>

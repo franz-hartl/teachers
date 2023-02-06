@@ -21,7 +21,7 @@ colleges and universities, humanities scholars have been searching new or
 neglected primary texts and documents, seeking to place them in
 appropriate cultural and intellectual contexts.  To a school-college
 partnership, these searches bring the intellectual resources that can help
-teachers understand the roots and branches of American diversity. 
+teachers understand the roots and branches of American diversity.
 Moreover, as scholars collaborate with teachers, they report a resurgence
 of interest in their own, increasingly diverse classrooms.  In teachers
 they find colleagues who may have lacked the time to specialize in
@@ -123,11 +123,11 @@ reformers for study at a single, national site and returns them to their
 own communities to found particular, local, effective, teacherly
 collaborations.  Invigorated by its ongoing partnership with Providence
 schools that began in l988, a coalition of forces within Brown
-University­Arnold Weinstein of the comparative literature department; 
+University­Arnold Weinstein of the comparative literature department;
 Sharon Lloyd Clark and Laura Mack at the university's Institute for
 Secondary Education; and the Coalition for Essential Schools, headed by
 Theodore Sizer­proposed a collaborative project national in scope but
-local in effect.  "Texts and Teachers:  Themes in Comparative Literature" 
+local in effect.  "Texts and Teachers:  Themes in Comparative Literature"
 brings together teams of four high school and two college teachers from
 four local sites selected from across the nation, from Boston to Whittier,
 California, from Tougaloo, Mississippi, to Chicago.</p><p>
@@ -153,7 +153,7 @@ college classes come together to discuss a shared text.  Already some of
 these local projects are taking root on their own soil, as they adapt the
 texts studied with colleagues from across the country to local conditions
 and needs.</p><p>
-One teacher-participant in the seminar on "Desire in the Marketplace" 
+One teacher-participant in the seminar on "Desire in the Marketplace"
 wrote that in his class at Hope High School in Providence, "we are
 currently finishing up <i>Madame Bovary </i>and will soon read <i>So Long
 a Letter</i> and <i>The Joys of Motherhood</i>." These texts show students
@@ -166,7 +166,7 @@ texts. These texts have helped the students connect to literature."
 Mission Statement and Principles of Professional Development," October 31,
 1994.
 <hr/>
-<h4><a href=".\">Back to
+<h4><a href="/pubs/A20/">Back to
 Table of Contents of the Fall 1996 Issue of <i>On Common
 Ground</i></a>
 </h4>

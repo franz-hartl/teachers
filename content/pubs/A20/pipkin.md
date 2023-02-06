@@ -3,11 +3,11 @@ layout: "page"
 title: "One, and Yet Many"
 path: "/pubs/A20/pipkin.html"
 ---
-<main> 
+<main>
 <center>
 <h2>
-One, and Yet Many</h2> 
-<font size="+1">By James W. Pipkin</font> 
+One, and Yet Many</h2>
+<font size="+1">By James W. Pipkin</font>
 </center><hr/>
 In<i> The Souls of Black Folk</i>, W.E.B. DuBois
 expresses his sense of his "double-consciousness."  Similarly, Nathaniel
@@ -18,8 +18,8 @@ distinctively different ways­typify the approach to multicultural
 studies taken by "Texts and Tradition:  The Common Ground," an educational
 partnership program between the College of Humanities, Fine Arts, and
 Communication at the University of Houston and seven of the largest
-independent school districts in the greater Houston metropolitan area. 
-<p> 
+independent school districts in the greater Houston metropolitan area.
+<p>
 If "The Common Ground," as it is called by its participants, makes a
 contribution to teaching and learning about cultural diversity, it is
 based upon the belief that the study of American literature must recognize
@@ -30,7 +30,7 @@ positive and complementary terms that can stimulate a candid conversation
 about wa ys of defining and understanding the sense of identity and
 community that have shaped the American experience.  The project's
 approach encourages a re-examination of the applicability to our current
-debates of the traditional motto, <i>E Pluribus Unum</i> .</p><p> 
+debates of the traditional motto, <i>E Pluribus Unum</i> .</p><p>
 "America," says the narrator at the end of Ralph Ellison's <i>Invisible
 Man</i>, "is
 woven of many strands; I would recognize them and let it so remain....Our
@@ -40,20 +40,20 @@ America by choosing as its shaping structure the concept of pairings.  The
 various seminars we offer each summer for high school English teachers
 have reading selections that are organized by pairing works that have
 long been included in the "canon" with significant works written by
-minority authors.  For example, we pair such works as:</p><p> 
+minority authors.  For example, we pair such works as:</p><p>
 Benjamin Franklin's <i>Autobiography</i> with Frederick Douglass's
-<i>Narrative of the Life;</i></p><p> 
+<i>Narrative of the Life;</i></p><p>
 Zora Neale Hurston's <i>Their Eyes Were Watching God
-</i>with Kate Chopin's <i>The Awakening</i>;</p><p> 
-Walt Whitman's<i>Song of Myself </i>with Rudolfo Gonzales's <i>I Am 
+</i>with Kate Chopin's <i>The Awakening</i>;</p><p>
+Walt Whitman's<i>Song of Myself </i>with Rudolfo Gonzales's <i>I Am
 Joaquin;</i>
 </p><p> Henry James's <i>The Europeans</i> with Luis Chu's<i> Eat a Bowl of
-Tea;</i></p><p> 
+Tea;</i></p><p>
 Leslie Silko's <i>Ceremony </i>with Willa Cather's <i>My Ántonia;
-</i>and</p><p> 
+</i>and</p><p>
 Harper Lee's <i>To Kill a Mockingbird</i> with Thulani Davis's
 <i>1959.</i></p><p>
-The implications of the pairings run in two directions. 
+The implications of the pairings run in two directions.
 The more obvious point is that the great America experiment in democracy
 has always been, as Catherine Stimpson has discussed it, a "cultural
 democracy" comprised of a diversity of voices.<font size="-1"><b>1</b></font> Although
@@ -83,33 +83,33 @@ the Mohicans</i> and Denise Chavez's <i>The Last of the Menu Girls</i>
 which share an elegiac view of an American past.  The critical thinking
 set in motion by the pairing leads the teachers to focus on what binds
 the works together.  The process affirms the simple truth that the poet
-William Wordsworth once expressed:  "We have, all of us, one human heart." 
+William Wordsworth once expressed:  "We have, all of us, one human heart."
 There is a danger, however, if we come away from the study of
 multicultural literature with only this simple truth.  Truth may be
-simple, but great literature rarely is.</p><p> 
+simple, but great literature rarely is.</p><p>
 American literature reflects two very different impulses.  On the one
 hand, it presents us with overarching myths of America and the American
 experience, myths that bind us together.  It reflects democratic ideals
 that celebrate the values of community and commonality.  It encourages us
 to walk together a common
-ground.</p><p> 
+ground.</p><p>
 But many of our characteristically American works of art are
 written in the spirit of inquiry and questioning.  They challenge the
 myths that no longer match the actualities of experience.  And they also
 challenge the easy and comforting understanding we have of universality by
 reminding us of the case of the individual, by suggesting that to get to
 the universal we usually have to work through the particular and that the
-particular is often different and distinctive rather than common.</p><p> 
+particular is often different and distinctive rather than common.</p><p>
 As a way of introducing this point of view, we sometimes ask participants
 in "The Common Ground" to read Laura Bohannan's essay, "Shakespeare in the
 Bush."<font size="-1"><b>3</b></font> Bohannan, an American anthropologist,
 was invited by members of a West African tribe to join them in telling
-stories.  She chooses as her story the plot of <i>Hamlet</i>. 
+stories.  She chooses as her story the plot of <i>Hamlet</i>.
 She is prepared to explain some details of custom, but she believes that
 great tragedies are universal; their themes and the motivations that drive
 the plot will always be clear anywhere in the world.  She turns out to be
 right, but in a way she never expected.
-</p><p> 
+</p><p>
 The tribe members easily understood <i>Hamlet</i>, but their
 interpretation was very different from
 Bohannan's.  Almost from the beginning of her tale, they interrupted to
@@ -117,7 +117,7 @@ question and disagree with her about most of the key elements in the
 story.  They were not at all bothered, for example, by the event that
 sets the tragedy in motion­Claudius's marriage to Gertrude.  It is
 only right, they argued, that the younger brother should marry his older
-brother's widow and become the father of his children. 
+brother's widow and become the father of his children.
 This central event reinforced for them the universality of Shakespeare's
 art, and they tried to explain to Bohannan the mistakes in her flawed
 interpretation of the play.  They were quite happy to chide the
@@ -128,9 +128,9 @@ because they don't believe that any individual part of our personality
 survives after death.  They also explained Hamlet's madness as the result
 of being bewitched by Claudius, who wants to kill him.  And although no
 one may kill his father's brother, because Hamlet is mad, they found no
-fault in his murder of Claudius.  The story made perfect sense to them. 
+fault in his murder of Claudius.  The story made perfect sense to them.
 It  is understandable, they told Bohannan, because we all share a basic
-humanity.</p><p> 
+humanity.</p><p>
 As she reflected upon the experience, Bohannan learned that
 the one human heart by which we live is not the entire issue and that we
 run the risk of misinterpreting the universal by misunderstanding the
@@ -141,7 +141,7 @@ literature reveals that "we're really all alike."  Difference and division
 are not the final vision either.  They are, however, often the necessary
 point of departure that we must recognize if we are to see American life
 honestly and see it whole.
-</p><p> 
+</p><p>
 The University of Houston has hosted "The
 Common Ground" since 1989, and it has become one of the largest
 university-school collaboratives in the country.  The hope of the
@@ -152,15 +152,15 @@ the forums in which they work.  We realize, however, that the real common
 ground is the "community of books" that we study.  They constitute a
 community not in the sense of a monolithic or monovocal entity but in the
 sense of a dynamic process in which the texts constantly interact, allow
-for exchange of ideas, and exert a reciprocal influence on one another. 
-</p><p> 
+for exchange of ideas, and exert a reciprocal influence on one another.
+</p><p>
 The American literary tradition(s), we believe, is based upon the
 twin values of continuity and change.  It is a living tradition.  It
 includes long-venerated books that cast far shadows, but it also allows
 and encourages the inclusion of significant new works of art.  It is a
 vital process that must never eliminate the possibility of surprise.  It
 remains "one, and yet many," with all the tension, complexity, and
-richness such "doubleness" contains. 
+richness such "doubleness" contains.
 </p><h3>Notes</h3>
 1. Catherine R. Simpson, "President Address 1990.  On Difference,"
 <i>Publications of the Modern of the Modern Language Association</i> 106
@@ -172,7 +172,7 @@ Scholar 59</i> (1990): 339.
 3. Laura Bohannan, "Shakespeare in the Bush," <i> Natural History</i> 75
 (1966): 28-33.
 </p><hr/>
-<h4><a href=".\">Back to
+<h4><a href="/pubs/A20/">Back to
 Table of Contents of the Fall 1996 Issue of <i>On Common
 Ground</i></a>
 </h4>

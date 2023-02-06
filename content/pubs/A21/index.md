@@ -44,6 +44,6 @@ path: "/pubs/A21/"
 <p><a href="/pubs/A21/advisoryboard.html">Editorial Advisory Board</a></p>
 <p><a href="/pubs/A21/editorialboard.html">Editorial Board</a></p>
 <p><a href="/pubs/A21/contactinfo.html">Contact Information</a></p>
-<p align="CENTER"><small><a href="..\">Publications</a> | <a href="..\..\">Yale-New Haven Teachers Institute</a></small></p>
+<p align="CENTER"><small><a href="/pubs/">Publications</a> | <a href="/">Yale-New Haven Teachers Institute</a></small></p>
 <hr/>
 </main>

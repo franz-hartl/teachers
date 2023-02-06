@@ -33,7 +33,7 @@ of the teachers. It takes collaboration to have these things happen. The
 leader must be willing to collaborate to have collaboration happen. This
 requires a role redefinition for many principals. It will also require an
 understanding and commitment to collaboration beyond rhetoric. The bounty
-of collaborative efforts can truly be wonderful. 
+of collaborative efforts can truly be wonderful.
 </p><p>
 Clearly we are living in a world that demands mutual dependence.
 We see this in environmental issues, business affairs, politcal decisions
@@ -143,7 +143,7 @@ community of learners which, in turn, develops an even larger community of
 learners including students with their enhanced understanding of the
 world.
 <hr/>
-<h4><a href=".\">Back to
+<h4><a href="/pubs/A14/">Back to
 Table of Contents of the Fall 1993 Issue of <i>On Common
 Ground</i></a>
 </h4>

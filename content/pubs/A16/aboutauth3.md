@@ -24,7 +24,7 @@ in  Lansdale, Pennsylvania.
 <b>Timothy P. Ready</b> is a senior staff associate at the Association of
 American Medical Colleges and is Director of <i>Project 3000 by 2000</i>.
 </p><hr/>
-<h4><a href=".\">Back to
+<h4><a href="/pubs/A16/">Back to
 Table of Contents of the Fall 1994 Issue of <i>On Common
 Ground</i></a>
 </h4>

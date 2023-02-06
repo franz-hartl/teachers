@@ -5,11 +5,11 @@ path: "/pubs/A20/brodhead2.html"
 ---
 <main> <center><h2>On the Debate Over
 Multiculturalism</h2> <font size="+1">By Richard H. Brodhead</font>
-</center><hr/> 
+</center><hr/>
 [Editor's Note: We excerpt here from "An Anatomy of
 Multiculturalism," in the <i>Yale Alumni Magazine</i> (April 1994), a few
 paragraphs in which Dean Brodhead offers some nuanced and reconciling
-wisdom for the participants in the "culture wars."]<p> 
+wisdom for the participants in the "culture wars."]<p>
 There was a time when literate culture­the things educated people
 know and
 believe other people should know­possessed certain well-marked
@@ -65,7 +65,7 @@ of extraordinary power and interest.  (There would be no need to make this
 point for our own time, when the achievements of women and minorities are
 unmistakable; what contemporary literature course would leave out such
 great American writers as the Asian-American Maxine Hong Kingston, or the
-African-American Toni Morriso, or the Mexican-American Richard Rodriguez?) 
+African-American Toni Morriso, or the Mexican-American Richard Rodriguez?)
 My own career in the last 15 years has led me to be increasingly engaged
 with writers from outside the traditional canon.  In my courses I now
 frequently teach authors from hitherto ignored traditions together with
@@ -110,7 +110,7 @@ of modern multiculturalism lies in the tendency to confer a dubious
 absoluteness on group identities and group labels.  Some parts of American
 society are experiencing a kind of romance of gender and ethnicity at
 present, in which an alluring aura comes to surround an object to the
-extent that it can be found to derive from a formerly marginalized group. 
+extent that it can be found to derive from a formerly marginalized group.
 Through this familiar logic, a book like Forrest Carter's <i>The Education
 of Little Tree</i> won wide adoption as a high and junior high school text
 in part because its author was understood to be an Indian (it has since
@@ -141,7 +141,7 @@ proponents of multiculturalism will want to protect against another
 lurking danger:  the presumption that its contributions have a monopoly on
 everything important to know.  I confess that I have met products of
 recent education who knew the new pan-ethnic literary canon to perfection
-but who were ignorant of great traditional authors and content to be so; 
+but who were ignorant of great traditional authors and content to be so;
 people who had subtle thoughts about (for instance) Nella Larsen's
 recently rediscovered novel <i>Passing</i>, but who took no interest in
 Faulkner's nearly contemporary novel of racial passing, <i>Light in
@@ -151,7 +151,7 @@ presumption I mocked in multiculturalism's more traditionalist foes, the
 presumption that what I already know and like is worth knowing, and what I
 don't is fit to ignore.  But no educational program can contain the whole
 of wisdom.  Every educational model close-mindedly embraced can be made a
-home for prejudice and limitation, the new as much as the old. 
+home for prejudice and limitation, the new as much as the old.
 Multiculturalism's great achievement was to teach us that traditional
 literate culture did not include everything worth knowing, and that the
 right corrective for its limits was to reach outside its boundaries and
@@ -163,7 +163,7 @@ its ken­the works of traditional culture, and the numerous world
 cultures that are not registered
 with any detail or seriousness even in "reformed" American education.
 </p><hr/>
-<h4><a href=".\">Back to
+<h4><a href="/pubs/A20/">Back to
 Table of Contents of the Fall 1996 Issue of <i>On Common
 Ground</i></a>
 </h4>

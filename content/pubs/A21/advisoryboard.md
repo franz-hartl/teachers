@@ -58,5 +58,5 @@ Washington, D.C.</p>
 Education Policy Division<br/>
 Educational Testing Service</p>
 <hr/>
-<p><a href=".\">Back to Table of Contents</a></p>
+<p><a href="/pubs/A21/">Back to Table of Contents</a></p>
 </main>

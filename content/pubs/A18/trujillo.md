@@ -88,9 +88,9 @@ not what you did or do, you  feel very confident in what you do because no
 matter what, your  friends in the company are there for you."  The hours
 of preparation,  the desire to achieve, the willingness to
 participate­these all  conspire to assist children become more
-assured, more creative, more  human. 
+assured, more creative, more  human.
 </p><hr/>
-<h4><a href=".\">Back to
+<h4><a href="/pubs/A18/">Back to
 Table of Contents of the Fall 1995 Issue of <i>On Common
 Ground</i></a>
 </h4>

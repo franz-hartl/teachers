@@ -165,7 +165,7 @@ spoken­to mend the sometimes profound split  between learning and
 teaching, between poetry and pedagogy,  between our personal and
 professional lives.
 </p><hr/>
-<h4><a href=".\">Back to
+<h4><a href="/pubs/A18/">Back to
 Table of Contents of the Fall 1995 Issue of <i>On Common
 Ground</i></a>
 </h4>

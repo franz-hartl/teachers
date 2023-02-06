@@ -3,7 +3,7 @@ layout: "page"
 title: "Rural-Urban Teacher Education"
 path: "/pubs/A20/suina-smolkin.html"
 ---
-<main><center><h2>Rural-Urban Teacher Education</h2> <font size="+1">By Joseph H. Suina and Laura B. Smolkin</font> </center><hr/> 
+<main><center><h2>Rural-Urban Teacher Education</h2> <font size="+1">By Joseph H. Suina and Laura B. Smolkin</font> </center><hr/>
 The Rural-Urban Teacher Education Program was developed at the University
 of New Mexico in 1993 in response to the ever-growing need for more
 meaningful teacher training for diverse student populations.  Since the
@@ -23,7 +23,7 @@ one setting with student teaching in another, very distinct setting.  The
 long-standing program had established excellent links with the large urban
 school district, but had done little to address teaching outside of
 Albuquerque. Within the large rural areas of our state, impressive
-diversity can be found from one community to another. 
+diversity can be found from one community to another.
 </p><p>
 We decided to take advantage of the uniqueness of particular rural
 communities by working with the Bureau of Indian Affairs (BIA) Agency
@@ -59,7 +59,7 @@ Schooling in varied communities may also be impacted by local governing
 bodes. In the Indian community the traditional leadership has much more
 direct input on the care and welfare of children and their families.
 Therefore, proposed program changes in the
-school must be clearly understood and approved by the tribal government. 
+school must be clearly understood and approved by the tribal government.
 When schools decide to implement bilingual education in the urban school
 district, they only need approval from the school board. However, a
 bilingual program for reservation children needs approval from the school
@@ -79,7 +79,7 @@ figurines are important in Pueblo Indian lives. Their Indian partners
 guide them in understanding that making light of these religious figures
 is a taboo subject in the Eastern Rio Grande Pueblos and steer them away
 from such projects as making Kachina figurines from empty toilet paper
-rolls. 
+rolls.
 </p><p>
 At the heart of studying diversity and education are the children in the
 classroom. One of our non-Indian students made the comment that the
@@ -105,7 +105,7 @@ apparently resulting from his report of a possible child abuse situation
 some years back. Given the nature of the particular community, this single
 action, required by federal law, had rippling effect, leaving parents
 suspicious of his every action in the classroom. </p><p>
-Mentors in the cohort spoke from their own experiences on related matters. 
+Mentors in the cohort spoke from their own experiences on related matters.
 A non-Indian teacher currently working in a Bureau school spoke of her use
 of school personnel from the community to defuse similar situations. An
 Indian teacher shared insights that lessened the intensity of the problem,
@@ -150,7 +150,7 @@ authentic situations has been far more rewarding than presenting the
 notions of culture found within the confines of
 the pages of a book.
 </p><hr/>
-<h4><a href=".\">Back to
+<h4><a href="/pubs/A20/">Back to
 Table of Contents of the Fall 1996 Issue of <i>On Common
 Ground</i></a>
 </h4>

@@ -37,5 +37,5 @@ path: "/pubs/A21/whitaker.html"
 <p>Because the ground would be carefully prepared for a self-sustaining organization at each of the demonstration sites, the expectation would be that they would sustain the program activities after the grant period is completed.  Such a national demonstration project would not only benefit the teachers and students in those communities; it would also establish a potentially expandable network of teachers institutes that share a common purpose, a network that should have a significant impact upon education reform throughout this nation.</p>
 <p>The entire process would be documented by persons working closely with the Institute, by persons at the demonstration sites, and by one or more independent writers.  If in fact these three demonstration sites are established, <i>On Common Ground</i> itself will have great potential as a means of disseminating their experience and their results to a wider readership of those interested in university-school partnership.</p>
 <hr/>
-<p><a href=".\">Back to Table of Contents</a></p>
+<p><a href="/pubs/A21/">Back to Table of Contents</a></p>
 </main>

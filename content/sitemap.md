@@ -6,7 +6,7 @@ path: /map.x.html
 
 <h1 class="page-title">Site Map</h1>
 
-<ul> 
+<ul>
     <li class="sitemap_list"><a class="sitemap_link" href="/">Home Page</a></li>
     <li class="sitemap_list"><a class="sitemap_link" href="/curriculum">Curricular Resources</a></li>
         <ul>
@@ -66,7 +66,7 @@ path: /map.x.html
                     <li class="sitemap_list"><a class="sitemap_link" href="/ndp/ndp1999.html">A National Demonstration Project, 1999</a></li>
                 </ul>
         </ul>
-    <li class="sitemap_list"><a class="sitemap_link" href="pubs">Publications</a></li>
+    <li class="sitemap_list"><a class="sitemap_link" href="/pubs">Publications</a></li>
         <ul>
             <li class="sitemap_list"><a class="sitemap_link" href="/pubs/periodical">Periodical </a></li>
                 <ul>
@@ -98,13 +98,13 @@ path: /map.x.html
         <ul>
             <li class="sitemap_list"><a class="sitemap_link" href="/event-proceedings/conferences">Conferences</a></li>
                 <ul>
-                    <li class="sitemap_list"><a class="sitemap_link" href="transcripts/C16.html">Exploring Art and Culture in the Yale-New Haven Teachers Institute, 1992</a></li>
-                    <li class="sitemap_list"><a class="sitemap_link" href="transcripts/F14a.html">School­ College Collaboration: Preparing Teachers and Curricula for Public Schools, 1991 </a></li>
-                    <li class="sitemap_list"><a class="sitemap_link" href="transcripts/F14d.html">Address by Fred M. Hechinger "The University's Neglected Task," 1991</a></li>
-                    <li class="sitemap_list"><a class="sitemap_link" href="transcripts/F13.html">Yale Graduate School Education Department/ M.A.T. Program Reunion, 1991</a></li>
-                    <li class="sitemap_list"><a class="sitemap_link" href="transcripts/F11.html">Reaching Each Student: College Faculty An “X” Factor in Educational Reform? 1990</a></li>
-                    <li class="sitemap_list"><a class="sitemap_link" href="transcripts/C2.html">Building Integrated Teacher Education Systems Statewide, 1985 </a></li>
-                    <li class="sitemap_list"><a class="sitemap_link" href="transcripts/F4.html">Excellence in Teaching: A Common Goal, February 16-18, 1983 </a></li>
+                    <li class="sitemap_list"><a class="sitemap_link" href="/transcripts/C16.html">Exploring Art and Culture in the Yale-New Haven Teachers Institute, 1992</a></li>
+                    <li class="sitemap_list"><a class="sitemap_link" href="/transcripts/F14a.html">School­ College Collaboration: Preparing Teachers and Curricula for Public Schools, 1991 </a></li>
+                    <li class="sitemap_list"><a class="sitemap_link" href="/transcripts/F14d.html">Address by Fred M. Hechinger "The University's Neglected Task," 1991</a></li>
+                    <li class="sitemap_list"><a class="sitemap_link" href="/transcripts/F13.html">Yale Graduate School Education Department/ M.A.T. Program Reunion, 1991</a></li>
+                    <li class="sitemap_list"><a class="sitemap_link" href="/transcripts/F11.html">Reaching Each Student: College Faculty An “X” Factor in Educational Reform? 1990</a></li>
+                    <li class="sitemap_list"><a class="sitemap_link" href="/transcripts/C2.html">Building Integrated Teacher Education Systems Statewide, 1985 </a></li>
+                    <li class="sitemap_list"><a class="sitemap_link" href="/transcripts/F4.html">Excellence in Teaching: A Common Goal, February 16-18, 1983 </a></li>
                 </ul>
             <li class="sitemap_list"><a class="sitemap_link" href="/event-proceedings/endowment">Endowment Celebrations</a></li>
                 <ul>
@@ -151,4 +151,3 @@ path: /map.x.html
             <li class="sitemap_list"><a class="sitemap_link" href="/comments.html">Contact Us</a></li>
         </ul>
 </ul>
-

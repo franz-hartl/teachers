@@ -155,7 +155,7 @@ of distributed leadership.
 </p><p>
 In these days when any initiative seems too expensive to a government
 agency, a university, or a school, let Portugal stand as a symbol of  what
-our poor country might yet accomplish. 
+our poor country might yet accomplish.
 </p><h3>Notes</h3>
 1. This and several other sections of this article are adapted from our
 report, Report of the Minerva Project Evaluation, 1994, (JSBN
@@ -163,7 +163,7 @@ report, Report of the Minerva Project Evaluation, 1994, (JSBN
 and Development, rue Andre Pascal, 75775 PARIS CEDEX 16, France.  The
 authors are Monique Grandbastien, Stephen C. Ehrmann, Bridget Somekh, and
 Rick Withers.
-<hr/> <h4><a href=".\">Back to
+<hr/> <h4><a href="/pubs/A17/">Back to
 Table of Contents of the Spring  1995 Issue of <i>On Common
 Ground</i></a>
 </h4>

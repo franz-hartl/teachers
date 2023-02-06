@@ -115,7 +115,7 @@ multicultural  theater, which required us all to risk ourselves in
 creating a  community of role-players, brought to those answers a new
 clarity  and a palpable force.
 </p><hr/>
-<h4><a href=".\">Back to
+<h4><a href="/pubs/A18/">Back to
 Table of Contents of the Fall 1995 Issue of <i>On Common
 Ground</i></a>
 </h4>

@@ -120,7 +120,7 @@ that, as a result of the forum, many more states and local communities
 will begin to realize the enormous potential of teacher participation in
 comprehensive education reform. .
 </p><hr/>
-<h4><a href=".\">Back to
+<h4><a href="/pubs/A14/">Back to
 Table of Contents of the Fall 1993 Issue of <i>On Common
 Ground</i></a>
 </h4>

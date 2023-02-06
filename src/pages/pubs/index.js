@@ -11,7 +11,7 @@ const pubsPage = () => (
           <div className="col-sm-6 left-panel">
             <div className="br-cell py-2">
               <h2 className="br-title">
-                <Link to="pubs/periodical">
+                <Link to="/pubs/periodical">
                   Periodical <i className="fas fa fa-arrow-circle-right" />
                 </Link>
               </h2>
@@ -30,7 +30,7 @@ const pubsPage = () => (
             </div>
             <div className="br-cell py-2">
               <h2 className="br-title">
-                <Link to="brochures/CenterManual">
+                <Link to="/brochures/CenterManual">
                   Manual for Teachers Institute Centers for Curriculum and Professional Development, 2004{' '}
                   <i className="fas fa fa-arrow-circle-right" />
                 </Link>
@@ -54,12 +54,12 @@ const pubsPage = () => (
           <div className="col-sm-6 right-panel">
             <div className="br-cell py-2">
               <h2 className="br-title">
-                <Link to="pubs/books">
+                <Link to="/pubs/books">
                   Books <i className="fas fa fa-arrow-circle-right" />
                 </Link>
               </h2>
               <p>
-                A first book on the Institute was published in 1984 by the College Board. A second book, published in 1991, contained a 
+                A first book on the Institute was published in 1984 by the College Board. A second book, published in 1991, contained a
                 collection of exemplary curriculum units produced in the Institute.
               </p>
             </div>

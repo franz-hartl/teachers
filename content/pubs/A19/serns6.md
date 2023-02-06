@@ -78,7 +78,7 @@ for increased learning for the partners and for  best practice for
 students. It is a process that is renewing and  invigorating and opens
 doors to possibilities far more profound than  simply managing a school.
 </p><hr/>
-<h4><a href=".\">Back to
+<h4><a href="/pubs/A19/">Back to
 Table of Contents of the Spring  1996 Issue of <i>On Common
 Ground</i></a>
 </h4>

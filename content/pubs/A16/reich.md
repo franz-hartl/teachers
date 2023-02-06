@@ -20,7 +20,7 @@ the same­middle­class.  By 1979, the average male  college
 graduate earned 49 percent more than his counterpart with a  high school
 diploma alone.  By 1992, this divergence had widened to  83 percent.
 Employment benefits such as health insurance and  pension coverage have
-followed the same pattern. 
+followed the same pattern.
 <p>
 The evidence suggests that the forces contributing to this divergence
 will intensify as our workforce faces an increasingly competitive,
@@ -183,9 +183,9 @@ Americans will feel­and be­secure only if the  education and
 skills that the new jobs require come into their reach.  It has never been
 more critical that we stake out and cultivate the  common ground between
 school and college, education and work, the  college­bound and those
-for whom "higher" education has up until  now loomed far out of reach. 
+for whom "higher" education has up until  now loomed far out of reach.
 </p><hr/>
-<h4><a href=".\">Back to
+<h4><a href="/pubs/A16/">Back to
 Table of Contents of the Fall 1994 Issue of <i>On Common
 Ground</i></a>
 </h4>

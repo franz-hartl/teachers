@@ -40,7 +40,7 @@ const HomePage = () => (
             </p>
             <p>
               You can view the curriculum units by searching the{' '}
-              <Link to="curriculum/indexes/">topical index</Link> or the <Link to="curriculum/units/">volumes of units</Link> published each year.
+              <Link to="/curriculum/indexes/">topical index</Link> or the <Link to="/curriculum/units/">volumes of units</Link> published each year.
             </p>
           </div>
           <div className="col-sm-4">

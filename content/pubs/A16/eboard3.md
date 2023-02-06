@@ -50,7 +50,7 @@ Frederick W. Hilles, Professor of English
 Professor of Theater Studies
 <br/> Yale University
 </p><hr/>
-<h4><a href=".\">Back to
+<h4><a href="/pubs/A16/">Back to
 Table of Contents of the Fall 1994 Issue of <i>On Common
 Ground</i></a>
 </h4>

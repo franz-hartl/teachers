@@ -17,8 +17,8 @@ Institute, 1978-1991</a>
 <a href="#e"></a></li><li><a href="#e">The Authors</a>
 </li></ul>
 <h4>
-<a href=".\">Teaching in New Haven: Table of Contents</a> |
-<a href="..\..\">Yale-New Haven Teachers Institute</a>
+<a href="/pubs/A5/">Teaching in New Haven: Table of Contents</a> |
+<a href="/">Yale-New Haven Teachers Institute</a>
 </h4>
 <hr/>
 <a name="a">
@@ -112,7 +112,7 @@ Fiction, Biography, and Autobiography</a><br/>
 South America</a><br/>
 <a href="/curriculum/units/1985/5/">Odysseys: Nineteenth- and
 Twentieth-Century African-American History
-Through 
+Through
 Personal Narrative</a><br/>
 <a href="/curriculum/units/1985/6/">Time Machines: Artifacts and
 Culture</a><br/>

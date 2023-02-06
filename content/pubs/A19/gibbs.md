@@ -230,7 +230,7 @@ lives and empowers teachers and students. Schools can't  accomplish this
 reform alone. Through multi­level partnerships we  can have a
 positive impact on the lives of inner city youth.
 <hr/>
-<h4><a href=".\">Back to
+<h4><a href="/pubs/A19/">Back to
 Table of Contents of the Spring  1996 Issue of <i>On Common
 Ground</i></a>
 </h4>

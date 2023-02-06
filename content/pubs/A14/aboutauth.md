@@ -87,7 +87,7 @@ second publication, <i>Teaching in New Haven: The Common Challenge;</i>and
 wrote the report on its 1991 national conference, <i>School-College
 Collaboration: Preparing Teachers and Curricula for Public Schools.</i>
 </p><hr/>
-<h4><a href=".\">Back to                      
+<h4><a href="/pubs/A14/">Back to                      
 Table of Contents of the Fall 1993 Issue of <i>On Common
 Ground</i></a>
 </h4>

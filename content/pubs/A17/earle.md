@@ -180,9 +180,9 @@ own teaching practices and are using new pedagogy with their students;
 4. The synergy of the partnerships has accelerated each state's progress
 toward reform, through providing a common vision and agenda for
 improvement and developing strategies that will make the reform
-sustainable. 
+sustainable.
 </p><hr/>
-<h4><a href=".\">Back to
+<h4><a href="/pubs/A17/">Back to
 Table of Contents of the Spring 1995 Issue of <i>On Common
 Ground</i></a>
 </h4>

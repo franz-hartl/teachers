@@ -21,7 +21,7 @@ knowledge offers urban and reservation communities the best chance for
 both physical and cultural survival in the 21st century. This twofold
 educational movement among Indian people­pursuing a college education
 while at the same time relearning viable principles behind the Old
-Ways­promises mainstream educational reform a potential new ally. 
+Ways­promises mainstream educational reform a potential new ally.
 But where must it look for this collaboration and what questions
 should be asked?  And what has happened in Indian communities allowing
 traditional wisdom to be heard once again?</p><p>
@@ -65,7 +65,7 @@ these, and many more:</p><p>
 1.
 Comprehensive thinking and awareness of diverse areas of knowledge
 must be active in all aspects of education. Indigenous education is
-interdisciplinary education.</p><p> 
+interdisciplinary education.</p><p>
 2.
 Nature is the first teacher and model of process. Connection to
 nature is not romantic or sentimental, but essential for survival. Whether
@@ -132,7 +132,7 @@ Indian culture support students in an educational system with values very
 different from their own.</p><p>
 Cornell University has an Indian student population of approximately 70
 graduate and undergraduate students plus an excellent Indian support
-program. Cornell also offers a modest academic Indian studies curriculum. 
+program. Cornell also offers a modest academic Indian studies curriculum.
 At Cornell, Indian Studies is a course concentration that benefits both
 Indian and nonIndian students. Colleges nationwide usually administer
 Indian support programs and Indian studies programs as two distinct
@@ -187,7 +187,7 @@ opportunity to reexperience in partnership with native people a face that
 it once knew. Partnering in this way we can_t fail to realize that we are
 all indigenous to the earth.
 </p><hr/>
-<h4><a href=".\">Back to
+<h4><a href="/pubs/A20/">Back to
 Table of Contents of the Fall 1996 Issue of <i>On Common
 Ground</i></a>
 </h4>

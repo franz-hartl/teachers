@@ -30,8 +30,8 @@ Understanding</h2><p>
 <a href="#q"></a></li><li><a href="#q">Teachers' and Students' Bibliography</a>
 </li></ul>
 <h4>
-<a href=".\">Teaching in New Haven: Table of Contents</a> |
-<a href="..\..\">Yale-New Haven Teachers Institute</a>
+<a href="/pubs/A5/">Teaching in New Haven: Table of Contents</a> |
+<a href="/">Yale-New Haven Teachers Institute</a>
 </h4>
 <hr/>
 <a name="a">
@@ -137,7 +137,7 @@ direct a great deal. The person in charge must select classroom teachers
 based solely on their desire and commitment to be in the project. The
 Project Leader or Producer will try to get the teachers to have as much
 input as possible, but must be prepared to provide ideas, resources and
-support. 
+support.
 </a><center><a name="b"></a><div align="right"><a name="b"></a><p><a name="b">
 </a><a href="#top">to the top of this chapter</a></p></div></center>
 <hr/>
@@ -162,29 +162,29 @@ culture of a region of the world (Southeast Asian Culture), or the culture
 of a racial group (black culture). A culture that is especially large and
 complex is called a civilization."5
 </dt><dt>	2. Identify at least three cultures which have helped to make up
-the U.S.A. 
-</dt><dt>	3. Count from one to ten in each of the following languages: 
+the U.S.A.
+</dt><dt>	3. Count from one to ten in each of the following languages:
 Spanish, the language of Puerto Rico (U-no, DOS, TRES, CUAT-tro, CINC-o,
 SEIS, si-ET-e, O-cho, nu-EV-e, di-EZ); Twi, a language of one group of
 people in Ghana (o-HUN, BAA-ko, MI-enu, Mi-EN-sa, E-NAN, E-num, N-sia,
 N-son, nMOU-cha, Nk-RON, E-du); Russian, the official language of the
 U.S.S.R. (ah-DEEN, dvah, tree, chih-TEE-reh, pyaht, shayst, seeaym,
-VOH-seeaym, DYEH-veht, DYEH-seht). 
+VOH-seeaym, DYEH-veht, DYEH-seht).
 </dt><dt> 4. Locate on a map the continents of North America, Europe, Asia,
-Africa, and South America. 
+Africa, and South America.
 </dt><dt> 5. Locate on a map the U.S.A., Puerto Rico, the U.S.S.R. and the
-republic of Russia, and Ghana in West Africa. 
-</dt><dt> 6. Tell at least two folk tales, each from a different culture. 
-</dt><dt> 7. Sing at least two songs from two different cultures. 
-</dt><dt> 8. Name at least 2 natural resources from each culture studied. 
+republic of Russia, and Ghana in West Africa.
+</dt><dt> 6. Tell at least two folk tales, each from a different culture.
+</dt><dt> 7. Sing at least two songs from two different cultures.
+</dt><dt> 8. Name at least 2 natural resources from each culture studied.
 </dt><dt>	9. 	Identify traditional folk music of Puerto Rico, Russia,
 and Ghana.
 </dt><dt>	10. Draw three different scenes which could each be identified as
-being one of the cultures studied. 
+being one of the cultures studied.
 </dt><dt> 11. Take part in a performance which will focus on some aspects of
-life in Russia, Puerto Rico, and Ghana. 
+life in Russia, Puerto Rico, and Ghana.
 </dt><dt> 12. Demonstrate pride in their performance, and their classmates’
-performance. 
+performance.
 </dt></dl>
 </a><center><a name="c"></a><div align="right"><a name="c"></a><p><a name="c">
 </a><a href="#top">to the top of this chapter</a></p></div></center>
@@ -198,7 +198,7 @@ this case, played by myself—as Itinerant Arts teacher in Drama), the Music
 teacher, the Physical Education teacher, seven classroom teachers and
 their students. The idea should be presented at a staff meeting to consult
 with every teacher and the principal. Each player should make a verbal and
-written commitment to the project. 
+written commitment to the project.
 Second, <i>define the roles of each player</i>. Some of the definitions
 will be based upon individual teachers’ strengths and weaknesses. In my
 model I am assuming, for example, that the Physical Education teacher has
@@ -245,7 +245,7 @@ Public Schools. (See Bibliography) The project participants will
 determine to which of three instructional categories
 these resources best lend themselves. When group decisions become
 difficult, the coordinator should come to a decision and consult the
-entire group for feedback, changes or agreement. 
+entire group for feedback, changes or agreement.
 </p><p>
 Whole group instruction will be used for background information on each
 culture—teaching the students to count from 1-10 in the language of the
@@ -304,7 +304,7 @@ the former,
 the latter may also be achieved; by pursuing the latter, the former can be
 totally neglected, if not nullified.9</blockquote>
 Games provide one of the easiest entry points into the world of Drama in
-Education. Drama games come with rules and boundaries built into them. 
+Education. Drama games come with rules and boundaries built into them.
 Viola Spolin, Nellie McCaslin, Geraldine Siks, and Brian Way offer many
 games which can be used to promote concentration, involve creative
 movement of the body, improve language skills, and promote groups working
@@ -321,7 +321,7 @@ a curriculum area it is often referred to as Integrated Drama. (See Sample
 Lesson 2)</p><p>
 Dance focuses on the movement education of the body. Often a teacher need
 only be shown dance steps by an "expert" to teach the dance to his or her
-students. Pantomime would be included as a component of dance. 
+students. Pantomime would be included as a component of dance.
 Understanding non-verbal signals or body language is particularly
 important when verbal communication is not possible, as is true with
 people who do not understand each other’s language. Dances from other
@@ -356,7 +356,7 @@ towards creating student actors.</p>
 <a name="f">
 <h3>The Idea of Drama as Context</h3>
 I have already stated the fact that Drama in this unit will be used as
-context. It needs further explaining, if this unit is to be implemented. 
+context. It needs further explaining, if this unit is to be implemented.
 Although I am suggesting some of the content to be taught, I am not
 concerned about the many facts which could be taught. I trust that the
 books and resources listed in the bibliographies and the abilities of the
@@ -364,7 +364,7 @@ teachers involved in this project will provide more than enough content.
 The following quote is from the "Bible" of the Foreign Language
 Department:
 <blockquote> Many teachers are afraid to teach culture
-because they fear that they don’t know enough about it. Seelye (1984) 
+because they fear that they don’t know enough about it. Seelye (1984)
 maintains that even if teachers' own knowledge is quite limited, their
 proper role is not to impart facts, but to help students attain the skills
 that are necessary to make sense out of the facts they themselves discover
@@ -382,7 +382,7 @@ of the Masks, an annual island festival, then they, with the help of their
 teacher, could create a short scene where a family is preparing for the
 event.<p>
 In order to provide a concrete example of what I mean I have created a
-"Sample Script" which has spaces that must be filled by specific classes. 
+"Sample Script" which has spaces that must be filled by specific classes.
 The script could be used as a starting point for the project or thrown out
 entirely in favor of a different set of characters and situations. This
 script is not complete! The tension in the script will be created from the
@@ -398,7 +398,7 @@ Lesson Plans.")</p><p>
 <a name="g">
 <h3>Sample Script: "When Cultures Collide"</h3>
 <h4><i>Time:</i> The Present</h4>
-<b><i>Plot Synopsis</i> </b>Action begins on an Alien Space/Time Ship. 
+<b><i>Plot Synopsis</i> </b>Action begins on an Alien Space/Time Ship.
 The ship runs out of fuel. Three groups of aliens head off to Earth in
 three small exploratory vessels in search of fuel. Each group is lead by a
 high-ranking alien official. One group goes to Puerto
@@ -517,7 +517,7 @@ information as you can while you are there. </p><p>
 covered with water-and you know how dangerous that is for us!</p><p>
 <i>Food Grower</i>: My great grandmother said her sister fell into a pond
 on a
-purple planet! She just disappeared! I would never touch water. 
+purple planet! She just disappeared! I would never touch water.
 <i>Aztecala</i>: Of course no one would be stupid enough to touch water!
 Let's
 go! <i>(The issue of not touching water is filled with tension and could
@@ -525,12 +525,12 @@ be
 developed to heighten dramatic tension.) </i>
 <i>Pozxter</i>: Everyone! Pick up a fuel collector on your way onto the
 ship.  Keep your fuel collector on at all times! When they are full return
-to the ship! 
+to the ship!
 <i>Narrator</i>: <i>(Can be one person at a microphone, a small group, or
 entire class doing choral speaking.)</i> The three groups of aliens
 traveled in their small ships to three different places on the planet
 Earth. One group landed in a small town on the island of Puerto Rico in
-the Caribbean.  Another group landed in the outskirts of Moscow in Russia. 
+the Caribbean.  Another group landed in the outskirts of Moscow in Russia.
 The third group landed in Ghana in a small village near the city of
 Tamale. Let us go to Africa and find out how this group is doing.
 <i>(During this talk, slides of maps are projected on the screen so the
@@ -593,15 +593,15 @@ the unit can be used at the time of year best suited to the participants,
 although it is planned that this unit will be implemented between
 September 1, 1990 and June 10, 1991. In a situation where the coordinator
 does not feel able to do the drama, it is hoped that the teachers will be
-prepared to do as much of it as possible, and if necessary, an "expert" 
-can be brought in as a consultant. <p> 
+prepared to do as much of it as possible, and if necessary, an "expert"
+can be brought in as a consultant. <p>
 <i>September</i>: The Coordinator presents the project to the entire staff
 at a staff meeting. Special effort must be made to involve ancillary staff
 (Art, Music, Physical Education), as they may not come to staff meetings.
 This meeting is held to identify teachers, begin the process of collecting
 resources and to gain early commitment. If the entire staff is involved,
 meetings should always be held at a regular staff meeting to involve the
-Principal or school facilitator. The "tentative" unit dates are given: 
+Principal or school facilitator. The "tentative" unit dates are given:
 April 1-May 31. The "tentative" performance dates are given: June 3-whole
 group rehearsal, June 4-Dress Rehearsal, June 5-1:00 p.m. afternoon
 performance and a 6:30 p.m. evening performance. Effort should be made for
@@ -646,7 +646,7 @@ workshops for teachers and/or students, assist with prop and scenery
 ideas, lead groups of students and/or teachers in the creation of props
 and scenery. (The idea of a teacher workshop would be for teachers to
 learn how to lead the activity with their students.) Mask making, interior
-of space ship, three environmental murals: Puerto Rico, Russia, Ghana. 
+of space ship, three environmental murals: Puerto Rico, Russia, Ghana.
 Create Adinkra cloth, common in Ghana. Make stamps of common symbols found
 in Ghana. (Chart available at Yale’s Department of African Studies.)
 Possibly lead students who are playing the aliens in the creation of "new"
@@ -664,14 +664,14 @@ project should not be a "pull out" project, i.e. individual students will
 not be taken from classrooms for rehearsal. It is designed as a puzzle,
 all the students in each classroom being a self-contained puzzle piece
 which fits neatly into the whole picture.)</p><p>
-<i>Drama Teacher</i>: Do at least eight Drama sessions with each class: 
+<i>Drama Teacher</i>: Do at least eight Drama sessions with each class:
 Lead Games to assist students with basic drama skills (See Sample Lesson
 1);  two sessions each to tell stories to students from each culture using
 Creative Drama to lead them towards the creation of a play (See Sample
 Lesson 2); one or two sessions on leading dance/movement instruction with
 each class (See Sample Lesson 3); lead fourth grade towards the creation
 of an alien culture (See Sample Lesson 5); one Drama session for each 1st,
-2nd and 3rd grade on the creation of a new culture (See Sample Lesson 5); 
+2nd and 3rd grade on the creation of a new culture (See Sample Lesson 5);
 two sessions to develop a family scene and a market scene from each
 culture (See Sample Lesson 5); one session to go over the scene which will
 be presented in the final production. Extra sessions at discretion of
@@ -724,7 +724,7 @@ is over. Video tape.</p>
 This project was written with the idea that it would be implemented at a
 newly opened magnet school in New Haven called the Clinton Avenue Language
 Academy. The school focuses on multicultural activities and teaches
-Spanish to all students in the program. 
+Spanish to all students in the program.
 Implementation at that school was not possible, however.<p>
 This unit was proposed to the 17 teachers at Davis Elementary School in
 February, 1991. Teachers liked the idea, and are presently reviewing the
@@ -732,7 +732,7 @@ unit for use between April and June. Teachers have the option of adding a
 culture that they are presently studying. Mexico and Israel have already
 been added to the unit. The Physical Education teacher, Art Teacher and
 Music Teacher will be involved. Since the project started much later than
-anticipated, each classroom teacher will determine the "depth of study" 
+anticipated, each classroom teacher will determine the "depth of study"
 based on his or her resources and time. Two important goals will still be
 achieved: to expose students to different cultures and to promote positive
 school-community relations.</p><p>
@@ -771,7 +771,7 @@ if" it is real.<p>
 Have students hold their hands down on their desks. It is important that
 feelings be isolated on the face for the first part of this activity. It
 is difficult not to let feelings into all of our body.</p><p>
-With no talking put on a <i>happy, sad, angry</i>, and <i>frightened</i> 
+With no talking put on a <i>happy, sad, angry</i>, and <i>frightened</i>
 mask. After
 these four masks, ask students for feelings that have not been done. Help
 them if they do not respond. Other feelings might be: greed, surprise,
@@ -848,7 +848,7 @@ Family mimes preparing feast. Ananse is asked to join. He leaps in the air
 and runs to the table. The children and Mrs. Spider all go to sleep before
 he finishes. He thinks to himself, “Oh, if only I could eat and sleep
 forever. I would be the happiest spider alive.” Ananse gets the idea to go
-to the magicians, and the magicians tell him what to do when he gets home. 
+to the magicians, and the magicians tell him what to do when he gets home.
 They give him a magic root which when eaten makes one appear dead. Ananse
 is to tell his family he is so sick he is going to die. The family should
 dig a hole for him in the middle of the garden and put his fork, knife,
@@ -856,7 +856,7 @@ spoon, plate, cooking pot and bed in it. Ananse should take a bite from
 the root and “die.” After the funeral, dirt should not be placed in the
 hole, but banana leaves should
 be placed on top so Ananse will have a little house in his afterlife!</p><p>
-Children and Mrs. Spider cry when they hear Ananse is going to die. (This can get too silly. Stop it before it goes too far. Ask students to make it as real as possible.) Make a circle and pretend to dig a hole. Mother asks children to bring in the fork, 
+Children and Mrs. Spider cry when they hear Ananse is going to die. (This can get too silly. Stop it before it goes too far. Ask students to make it as real as possible.) Make a circle and pretend to dig a hole. Mother asks children to bring in the fork,
 knife, plate, spoon, cooking pot and bed. (Teacher guides Ananse to lie down after eating the magic root.) Teacher, as the oldest spider child, chooses four or five students to help carry Ananse into the hole. (Good trust activity which can be done seriou
 sly by First Graders!) Teacher leads students in reminiscing about father: i.e., “He was lazy but he told us great stories,” “He could play the drums better than anyone else in the village,” “I remember when he took us all to the capital of Accra and we h
 ad a great time,” etc. (The first playing should not focus on factual information—go for feeling, facts can be added later.)</p><p>
@@ -905,12 +905,12 @@ Role Playing
 To experience some of the problems resulting from changes which take place in a culture.
 <h4><i>Activities</i></h4>
 The students have studied Ghana for at least six weeks before this activity takes place. They have heard one Ananse story, learned one dance and can count from 1-10 in the Twi language. They are aware of the great culture of the Ashanti people and the ext
-ent of their influence in Africa at one time. They are aware of the fact that there are tribal chiefs presently in Ghana who have lost much of their power to the new form of government. The students have created some drawings and crafts typical of Ghana. 
+ent of their influence in Africa at one time. They are aware of the fact that there are tribal chiefs presently in Ghana who have lost much of their power to the new form of government. The students have created some drawings and crafts typical of Ghana.
 They are told that the person visiting the class is playing the role of a chief, but they are asked to believe it for the sake of exploring some new ideas. (Students will accept this not only because it is fun, but because they do it all the time with tel
 evision.)<p>
 A visiting artist from Ghana is hired to dress as and play the part of a modern chief from a village in Ghana. The chief is visiting the class to plead for help. “My culture is fading. There are too many changes. What can I do?” (This could be video taped
 .)</p><p>
-The students and teacher(s) will become engaged in a conversation. The teacher can best serve the situation by helping to direct questions or making statements which cause students to think in a new direction. For example the classroom teacher might play 
+The students and teacher(s) will become engaged in a conversation. The teacher can best serve the situation by helping to direct questions or making statements which cause students to think in a new direction. For example the classroom teacher might play
 devil’s advocate and say, “You should accept facts. Times have changed. You no longer can make the laws.” The teacher could also say, “Is there not a place where you can go with your people and not be bothered by the new ways?”</p><p>
 After approximately thirty minutes the person in role should leave, change into “western” clothes and come back in as himself to discuss what happened. It is this period of reflection which will be most important. (If the situation was video taped, the vi
 deo tape can be used to review what happened, and will increase the impact of the event.)</p><p>
@@ -927,7 +927,7 @@ Improvisation (Dorothy Heathcote’s “Mantle of the Expert”)
 To experience the relationships between geographical location, natural resources and the development of a culture.
 <h4><i>Activities</i></h4>
 The teacher talks to students about the word culture. A discussion follows.<p>
-The teacher asks students if they would be willing to create a new culture of their own. (The teacher needs to get their commitment, so if they should say no, present it in a new way, or present it to a different group.) Using markers and large pieces of 
+The teacher asks students if they would be willing to create a new culture of their own. (The teacher needs to get their commitment, so if they should say no, present it in a new way, or present it to a different group.) Using markers and large pieces of
 paper, the teacher writes down important responses from students. (Where is the culture? Describe climate and terrain; list available natural resources.) It is important that their input is used if they are to feel any real ownership of the work.</p><p>
 The teacher asks what must be done first to establish the culture. (Using the categories of culture provided in the previous chart, teachers can lead students from their comments to the particular area of culture. For example, if a student says we need ra
 p music, the teacher can direct the student’s attention towards the arts of the culture. Another method of classifying culture, which I think could work well with students in grades 5 and up: 1) symbolism, 2) value, 3) authority, 4) order, 5) ceremony, 6)
@@ -967,10 +967,10 @@ e, disease, the celebration of the first holiday, a group of people within the c
 <h3>Teachers’ and Students’ Bibliography</h3>
 Resources marked by an asterisk (*) may be used by students.
 <i>Education/Culture/Multicultural Education</i><p>
-Adler, Mortimer J. <i>The Paideia Proposal—An Educational Manifesto</i>. 
+Adler, Mortimer J. <i>The Paideia Proposal—An Educational Manifesto</i>.
 New York: Macmillan Publishing Co., Inc., 1982. A short, intriguing book
 devoted to a proposal for reforming America’s educational system. </p><p>
-Cottrol, Robert J. “America the Multicultural” in <i>American Educator</i> 
+Cottrol, Robert J. “America the Multicultural” in <i>American Educator</i>
 14,
 No. 4 (Winter, 1990): 18-21, 38. Focuses on why multicultural education is
 so important in America. </p><p>
@@ -984,10 +984,10 @@ end of the book. </p><p> Hancock, LynNell. “Whose America Is This, Anyway?,”
 in <i>The Village Voice</i> 33, No. 17 (April, 1990): 37-39. Interesting
 article on the issue of integrating multicultural education into the
 curriculum. Centers on New York City debate. </p><p>
-Hirsch, E.D. <i>A First Dictionary of Cultural Literacy</i>. Boston, MA: 
+Hirsch, E.D. <i>A First Dictionary of Cultural Literacy</i>. Boston, MA:
 Houghton Mifflin Co., 1989. Dr. Hirsch defines the “core knowledge” needed
-by all children to understand our culture. </p><p> 
-Newhill, Esko E. and Paglia, Umberto La. <i>Exploring World Cultures</i>. 
+by all children to understand our culture. </p><p>
+Newhill, Esko E. and Paglia, Umberto La. <i>Exploring World Cultures</i>.
 Lexington, MA: Ginn and Company, 1986. This gem comes with an incredibly
 useful, readable teacher’s edition. It is available at the Center for
 International and Asian Studies listed under “Community Resources” in this
@@ -1007,11 +1007,11 @@ Rist, Marilee C. “Ethnocentric Education,” in <i>The American School
 Board</i>
 178, No. 1 (January, 1991): 26-29. Discusses the pros and cons of
 multicultural education and details pitfalls and advantages of a
-curriculum designed around a single ethnic group. 
+curriculum designed around a single ethnic group.
 </p><p>
 <i>Drama/Theater Books</i>
 </p><p>
-Kase-Polisini, editor. <i>Drama as a Meaning Maker</i>. Lanham, MD: 
+Kase-Polisini, editor. <i>Drama as a Meaning Maker</i>. Lanham, MD:
 University Press of America, 1989. 43 distinguished Drama educators
 respond to one of three professionals outside the field of Drama: a
 neuropsychologist, novelist and professor of psychology. Explores Drama as
@@ -1043,19 +1043,19 @@ Siks, Geraldine Brain.<i> Drama with Children</i>. New York: Harper &amp; Row,
 Publishers, 1983. A Drama text which provides lesson plans designed to
 meet specific educational objectives. Siks uses Piaget’s theories of
 personality development in children to provide a rationale for using
-various Drama techniques with children of different ages. 
+various Drama techniques with children of different ages.
 </p><p>
-Wagner, Betty Jane. <i>Dorothy Heathcote: Drama As a Learning Medium.</i> 
+Wagner, Betty Jane. <i>Dorothy Heathcote: Drama As a Learning Medium.</i>
 Washington D.C.: National Education Association, 1976. Wagner describes
 Heathcote’s techniques of distilling theater elements for the purpose of
 creating dynamic, dramatic situations in which learning, through
-experience, can take place. 
+experience, can take place.
 </p><p>
 Way, Brian. <i>Development Through Drama</i>. New York: Humanities Press,
 1963. A useful text providing rationales and specific activities for using
 Drama to assist in the creation of a “whole human being.” </p><p> <i>Ghana,
-Africa</i> </p><p> 
-*Arkhurst, Joyce Cooper. <i>The Adventures of Spider</i>. 
+Africa</i> </p><p>
+*Arkhurst, Joyce Cooper. <i>The Adventures of Spider</i>.
 New York:  Scholastic Magazine, Inc., 1964. Contains several Ananse
 stories, including the story used in Lesson Plan #1 in this unit. </p><p>
 Asihene, E.V. <i>Apoo Festival</i>. Tema, Ghana: Ghana Publishing
@@ -1064,12 +1064,12 @@ Corporation,
 particular. It represents the nuisances the community has had to put up
 with during the preceding year. Every person is given the right to
 criticize anybody they want. Details on the celebration of this festival
-are provided. Words and translations to songs are also provided. 
+are provided. Words and translations to songs are also provided.
 </p><p>
 * DeLuca, Angelina. <i>African Arts Curriculum Guide</i>. West Hartford
 Public Schools, 1984. Many Visual Art activities with good instructions.
 Available at the Council on African Studies listed under “Community
-Resources” in this bibliography. 
+Resources” in this bibliography.
 </p><p>
 * Mensah, Isaac Dankyi. <i>Kano Had His Lesson</i>. Accra-North, Ghana:
 Quick
@@ -1084,10 +1084,10 @@ Service Books &amp; Stationery Supply, 1986. A story of two hunters with their
 two dogs on a hunting expedition. One hunter has a brush with death. The
 story ends on a humorous note. Names several indigenous animals and
 provides insight into some customs. Available at the Yale Council on
-African Studies. 
+African Studies.
 </p><p>
 * Okai, Atukwei. <i>The Anthill in the Sea (Verses and Chants for
-Children)</i>. 
+Children)</i>.
 Accra, Ghana: Ghana Publishing Corporation, 1988. Collection of 27 verses
 and chants written by a Ghanaian with an M.A. from the Gorky Literary
 Institute in Moscow. (Two cultures being studied are represented here!)
@@ -1095,9 +1095,9 @@ Beautiful illustrations. </p><p>
 Sale, Kirk J. <i>The Land and People of Ghana</i>. New York: J.B.
 Lippincott
 Company, 1972. Good book for the classroom teacher to use for basic
-information on Ghana. 
+information on Ghana.
 </p><p>
-Sarpong, Rt. Rev. Dr. Peter. <i>Ghana in Retrospect</i>. Accra, Ghana: 
+Sarpong, Rt. Rev. Dr. Peter. <i>Ghana in Retrospect</i>. Accra, Ghana:
 Ghana Publishing Corporation, 1974. Gives considerable information on
 customs and rites of passage which can be adapted for the lower
 elementary. Covers religion, values, art and crafts, music, myths,
@@ -1121,7 +1121,7 @@ and complex. </p><p>
 McKown, Robin. <i>The Image of Puerto Rico</i>. New York: McGraw-Hill Book
 Co.,
 1973. Traces the history of Puerto Rico from the landing of Columbus to
-its future as a possible fifty-first state or independent nation. 
+its future as a possible fifty-first state or independent nation.
 </p><p>
 Tovar, Federico Ribes. <i>100 Outstanding Puerto Ricans</i>. New York:
 Educational Publishers, Inc., 1976. Provides a brief synopsis of the lives
@@ -1140,10 +1140,10 @@ political world. Text for teachers; pictures for students.
 * Cohen, David and Smolan, Rick. <i>A Day In the Life Of the Soviet
 Union</i>.
 New York: Collins Publishers, Inc., 1987. Incredible photographs of people
-and places throughout the U.S.S.R. 
+and places throughout the U.S.S.R.
 * Haskins, Jim. <i>Count Your Way through Russia</i>. Minneapolis, Minn.:
 Carolrhoda Books, Inc., 1987. Great book with Russian customs and facts
-appropriate for each number 1-10. 
+appropriate for each number 1-10.
 <p>
 * Jackson, W.A. Douglas. <i>Soviet Union</i>. Grand Rapids, Michigan: The
 Gideler
@@ -1152,7 +1152,7 @@ photographs and illustrations. </p><p>
 * Masey, Mary Lou. <i>The Picture Story of the Soviet Union</i>. New York:
 David
 McKay Company, Inc., 1971. A good book for teachers to use with children.
-Looks at life throughout the USSR with plenty of maps and illustrations. 
+Looks at life throughout the USSR with plenty of maps and illustrations.
 </p><p>
 * Morton, Miriam, ed. <i>A Harvest of Russian Children’s Literature</i>.
 Berkeley: University of California Press, 1968. Older students can read
@@ -1162,14 +1162,14 @@ fables and works by famous Russian authors. A Baba-Yaga story is on page
 </p><p>
 Parker, W.H. <i>The Russians</i>. How They Live and Work. New York: Holt,
 Rinehart and Winston, 1973. A good description of Russian life. Easy to
-read. 16 black and white photographs. 
+read. 16 black and white photographs.
 </p><p>
 * Vandivert, Rita and William. <i>Young Russia, Children of the USSR at
 Work
 and at Play</i>. New York: Dodd, Mead &amp; Co., 1960. Although relatively
 old,
 the pictures do not look very different from many scenes I saw when in
-Russia in 1989. 
+Russia in 1989.
 </p><p>
 <i>Community Resources/Audiovisual Aids</i></p><p>
 The resources listed are specific for New Haven, CT. Hopefully similar
@@ -1211,7 +1211,7 @@ local resources are available in your community.</p>
 </dt><dt>432-5963
 </dt><dt>Brian Carter, Director of Russian Studies
 </dt><dt>A veritable treasure trove of materials, including books, filmstrips with cassettes and people contacts.
-</dt></dl> 
+</dt></dl>
 </a><center><a name="q"></a><div align="right"><a name="q"></a><p><a name="q">
 </a><a href="#top">to the top of this chapter</a></p></div></center>
 </dt></main>

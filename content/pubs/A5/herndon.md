@@ -25,8 +25,8 @@ John Thomas Scopes</i></h2><p>
 <a href="#m"></a></li><li><a href="#m">Articles</a>
 </li></ul>
 <h4>
-<a href=".\">Teaching in New Haven: Table of Contents</a> |
-<a href="..\..\">Yale-New Haven Teachers Institute</a>
+<a href="/pubs/A5/">Teaching in New Haven: Table of Contents</a> |
+<a href="/">Yale-New Haven Teachers Institute</a>
 </h4>
 <hr/>
 <a name="b">
@@ -36,7 +36,7 @@ which wins its way by degrees, which the many hate and would rejoice to crush.
 <p align="right">—William Ellery Channing, 1849</p>
 When we consider what religion is for mankind, and what science is, it is
 no exaggeration to say that the future course of history depends upon the
-decision of this generation as to the relations between them. 
+decision of this generation as to the relations between them.
 <p align="right">—Alfred North Whitehead, 1930</p>
 </blockquote>
 <h3>Introduction</h3>
@@ -117,7 +117,7 @@ This unit of study contains certain basic concepts associated with the
 topic which students will be expected to understand and use:
 <h4>Student Vocabulary List</h4>
 The following is a list of concepts and ideas students should be familiar
-with after having completed this unit of study: 
+with after having completed this unit of study:
 <p>
 <table>
 <tbody><tr>
@@ -159,13 +159,13 @@ state
 </td></tr><tr><td>motions (by counsel)	</td><td>trial by jury
 </td></tr><tr><td>motions: overruled	</td><td>violation (of law)
 </td></tr><tr><td>motions: sustained	</td><td>warrant
-</td></tr><tr><td>offense	</td><td>witness 
+</td></tr><tr><td>offense	</td><td>witness
 </td></tr></tbody></table>
 During this prepared unit of study, students will be assigned to carefully
 examine court records, testimonies of witnesses and court opinions in an
 effort to involve them in the legal process and how it operates. They will
 follow a bill from its inception
-to its challenge in court, right through to the appeals stage. 
+to its challenge in court, right through to the appeals stage.
 </p><p>
 This unit has challenged students to develop and use certain critical
 thinking skills. Students can, if the teacher so desires, become involved
@@ -179,7 +179,7 @@ intended to improve their abilities to decipher, interpret, organize and
 communicate information more effectively. </p><p>
 In addition to skill-building, students will become familiar with
 terminology relating to law and the courtroom. Students will be expected
-to keep lists of vocabulary words and concepts within their groups. 
+to keep lists of vocabulary words and concepts within their groups.
 Glossaries are available for them to consult. Independent research is
 encouraged. The teacher hands out specific questions to answer based on
 group readings to help students accurately summarize facts.</p>
@@ -312,9 +312,9 @@ Neal, who was placed in charge of the case. </p>
 <a name="g">
 <h3>The Trial Itself</h3>
 <h4>I. Day One: July 10 (Friday)</h4>
-Court was called to order promptly at 9:00 A.M. by Judge John T. Raulston. 
+Court was called to order promptly at 9:00 A.M. by Judge John T. Raulston.
 The defendant, John T. Scopes was there with his six attorneys, including
-Darrow and two other lawyers, Malone and Hays, from outside of Tennessee. 
+Darrow and two other lawyers, Malone and Hays, from outside of Tennessee.
 They were introduced to the court by the chief counsel, Mr. John Neal. The
 prosecution was represented by A.T. Stewart, the attorney-general, Ben
 McKenzie, McKenzie’s son Gordon, and five other lawyers, including William
@@ -381,7 +381,7 @@ DARROW: Well, you are fortunate. (Laughter)
 <p align-right="">(Quoted in Ginger, 98)</p>
 </blockquote>
 Riley was accepted, along with eight other farmers; two were landowners,
-and one a shipping clerk. 
+and one a shipping clerk.
 <p>
 During the questioning, Darrow revealed that his strategy was to contend
 that evolution did not necessarily contradict Genesis, and therefore under
@@ -399,7 +399,7 @@ Court was delayed for a few minutes so that the radio microphones could be
 adjusted. Judge Raulston commented proudly, “My gavel will be heard ’round
 the world.” After prayer, attorney-general Stewart read the indictment
 against Scopes, followed by defense attorney Neal’s motion to quash the
-indictment. 
+indictment.
 The prosecution argued 1) that freedom of religion applied only to worship
 in churches, and 2) that it had been established by the U.S. Supreme Court
 (Meyer v. Nebraska) recently that a legislature had power to control
@@ -425,7 +425,7 @@ sarcasm was evident:</p>
 <blockquote>As hard as it is for me to bring my mind to conceive it,
 almost impossible as it is to put my mind back into the sixteenth century,
 I am going to argue it as if it was serious, and as if it was a death
-struggle between two civilizations. (Grebstein, 60) 
+struggle between two civilizations. (Grebstein, 60)
 </blockquote>
 He was finished, and court adjourned for the day.
 <h4>III. Day Three: July 14 (Tuesday)</h4>
@@ -433,7 +433,7 @@ After a third straight day of opening court with prayer, Darrow opened
 another assault on the court, demanding that prayer be removed from the
 courtroom, since the case pitted science against religion and this might
 prove an undue influence on the jury. Judge Raulston ruled that prayers
-would not unduly influence him or the jury, so the prayers would continue. 
+would not unduly influence him or the jury, so the prayers would continue.
 <p>
 Was it science versus religion? Academic freedom versus the right of the
 state to standardize the curriculum? A simple matter of a state law being
@@ -474,11 +474,11 @@ Q: He didn’t say a cat was the same as a man?
 <br/>
 A: No sir; he said man had a reasoning power; that these animals did not.
 <br/>
-Q: There is some doubt about that, but that is what he said, is it? . . . 
+Q: There is some doubt about that, but that is what he said, is it? . . .
 <br/>
 Q: Well, did he tell you anything else that was ‘wicked’?
 <br/>
-A:  No, not that I remember of. 
+A:  No, not that I remember of.
 </blockquote>
 This exchange caused even members of the prosecution to grin.
 <blockquote>
@@ -514,7 +514,7 @@ After prayer, the question before the court was this: whether to uphold
 the state’s motion to exclude all scientific experts testimony on the
 truth or the falsity of evolution. W. J. Bryan, Jr., made the point that
 expert testimony would be only opinion,
-not fact. 
+not fact.
 <p>
 According to the state, since Scopes had taught that man had descended
 from a lower order of animals, he had denied the Bible’s account of
@@ -525,7 +525,7 @@ and the truth of the Bible. And what of the children? </p>
 scoff at the religion of their parents: And the parents have a right to
 say that no teacher paid by their money shall rob their children of faith
 in God and send them back to their homes, skeptical, infidels, agnostics
-or atheists. (Grebstein, 127) 
+or atheists. (Grebstein, 127)
 </blockquote>
 After a short recess, Malone made a long emotional speech to the court, in
 which he made an impassioned appeal (1) to recognize the Bible as a book
@@ -545,7 +545,7 @@ experts were needed to comprehend the simple language of the law; no
 scientific testimony would be heard. The result: pandemonium in the
 courtroom. When order had been restored, the two sides bristled at each
 other. A sample follows: <blockquote> HAYS: We say that it is a denial of
-justice not to permit the Defense to make its case on its own theory. 
+justice not to permit the Defense to make its case on its own theory.
 <br/> COURT: Let the exception be entered of record.  <br/> STEWART: I
 desire to except to exceptions made in that manner . . . I think it is a
 (poor) reflection on the Court . . . <br/> COURT: Always expect this Court
@@ -556,7 +556,7 @@ protect our rights in some other Court. Now that is plain enough, isn’t
 it? . . . I do not understand why every request of the State and every
 suggestion of the Prosecution should meet with an endless amount of time,
 and a bare suggestion of anything that is perfectly competent on our part
-should be immediately over-ruled. 
+should be immediately over-ruled.
 <br/>
 COURT: I hope you do not mean to reflect upon the Court?
 <br/>
@@ -677,7 +677,7 @@ statute. I will continue in the future, as I have in the past, to oppose
 this law in any way I can. Any other action would be in violation of my
 ideal of academic freedom — that is, to teach the truth as guaranteed in
 our constitution, of personal and religious freedom. I think the fine is
-unjust. (Grebstein, 176) 
+unjust. (Grebstein, 176)
 The judge then allowed some closing remarks from the various participants.
 The attorneys remarked on the hospitality of the judge, and the people of
 Tennessee; everyone seemed gracious and in good spirits. Even Darrow,
@@ -696,18 +696,18 @@ that that which is right will prevail, whether it be our way or somebody
 else’s. . .
 </blockquote>
 The judge put it this way:
-<blockquote> Now my friends, the man . . . 
+<blockquote> Now my friends, the man . . .
 who is big enough to search for the truth and find it, and declares it in
 the face of all opposition is a big man . . . Now, my friends, the people
 in America are a great people. We are great because we are willing to lay
 down our differences when we fight the battle out and be friends.
-(Grebstein, 178, 180) 
+(Grebstein, 178, 180)
 </blockquote>
 Following the benediction, the court was adjourned. <p>
 Finally, there was an appeal to the Tennessee Supreme Court, heard six
 months later, and argued by the same A.C.L.U.-sponsored lawyers for
 Scopes. Obviously, Bryan could not participate, since he had died on July
-26, 1925, five days after the trial ended. 
+26, 1925, five days after the trial ended.
 </p><p>
 In his ruling, seven months later, on January 14, 1926, Chief Justice
 Green claimed that the Butler Act was clear in its meaning and intent and
@@ -769,10 +769,10 @@ Arkansas “Balanced Treatment Act” (Act 590) enacted by the General
 Assembly in March, 1981. The Act stated:
 <blockquote>Balanced treatment shall be given in the public schools within
 this State . . . to the extent that (teaching methods) deal in any way
-with the subject of the origin of man, life, the earth, or the universe. 
+with the subject of the origin of man, life, the earth, or the universe.
 Treatment of either evolution-science or creation-science shall be limited
 to scientific evidence for each model . . . and must not include any
-religious instruction or references to religious writings . . . 
+religious instruction or references to religious writings . . .
 </blockquote>
 Further the act required “instruction in both scientific models if public
 schools choose to teach either.” (italics added) <p>
@@ -798,7 +798,7 @@ creation-science from the classroom, exercising a form of censorship which
 denies students and teachers “academic freedom?” </p><p>
 These issues surfaced again, this time in Louisiana, with a court
 challenge to its 1981 “Balanced Treatment Instruction Act.” This time, the
-appeal went all the way to the top of the judicial ladder. The U.S. 
+appeal went all the way to the top of the judicial ladder. The U.S.
 Supreme Court decided, in June, 1987, by a vote of 7 to 2, to strike down
 the Louisiana statute. Edwards v. Aguillard featured a high school science
 teacher, who, along with parents and other colleagues, won victories in
@@ -812,7 +812,7 @@ this way:</p>
 <blockquote>Neither the right kind of mind (scientific) nor the right kind
 of heart
 (religious) will suffice without the other. Both are needed if
-civilization is to be saved. (Quoted in Tompkins, ed., 167) 
+civilization is to be saved. (Quoted in Tompkins, ed., 167)
 </blockquote>
 </a><center><a name="i"></a><div align="right"><a name="i"></a><p><a name="i">
 </a><a href="#top">to the top of this chapter</a></p></div></center>
@@ -823,7 +823,7 @@ civilization is to be saved. (Quoted in Tompkins, ed., 167)
 <b><i>Objectives:</i></b>
 <dl><dt>1. To involve students in the contemporary debate over academic freedom v. censorship in public schools;
 </dt><dt>2. To acquaint students with the concept of “balanced treatment;”
-</dt><dt>3. To allow students to explore possible solutions to conflicting ideas and beliefs; particularly those that affect students in schools. 
+</dt><dt>3. To allow students to explore possible solutions to conflicting ideas and beliefs; particularly those that affect students in schools.
 </dt></dl>
 <b><i>Procedures:</i></b>
 <dl><dt>1. The classroom teacher introduces a dilemma (Day One) to the
@@ -835,17 +835,17 @@ principal tells him to “teach what’s in the book—period.” He is troubled
 by this and believes he has a good case, since many of his students and
 their parents are persuaded that “Creation-Science” should also be taught,
 alongside of “Evolution-Science”. He decides to take it to the Board of
-Education meeting for them to decide. 
+Education meeting for them to decide.
 </dt><dt>2. Students are divided into three groups. Each is given a “fact
 sheet” (below). The three groups discuss among themselves what they will
 present to the Board members tomorrow. The alternatives are: (1) teach
 evolution only (the textbook); (2) teach creation-science only (ignore the
-textbook); (3) teach both evolution and creation-science. 
+textbook); (3) teach both evolution and creation-science.
 </dt><dt>3. The teacher should answer questions about various terms, but
 remember that this exercise is one in problem-solving; the technical
-difficulties of this issue as a legal problem will be discussed later. 
+difficulties of this issue as a legal problem will be discussed later.
 </dt><dt>4. If there is time, tentative conclusions may be shared among the
-entire class. 
+entire class.
 </dt><dt>5. Assignment: Poll at least five adults on this issue and be prepared
 to report findings tomorrow.
 </dt></dl>
@@ -854,44 +854,44 @@ to report findings tomorrow.
 your group your recommendations to the Board of Education. What should
 students study in science class? <p>
 <b><i>Evolution-Science:</i></b> </p>
-<dl><dt>1. The earth is millions, perhaps billions of years old; it has to be that old in order for the slow evolutionary changes to take place; 
-</dt><dt>2. The universe at first was in a state of disorder and non-living material; it has evolved (changed) over millions of years into one of order and life has emerged from non-life; 
-</dt><dt>3. Life in early stages was simple; the present living kinds have developed from processes known as “mutation” and “natural selection;” 
-</dt><dt>4. Man has emerged from an ancestor common to apes; 
-</dt><dt>5. Reliance on rocks and the fossil record to show that later species are related to earlier species, now no longer living (extinct). 
+<dl><dt>1. The earth is millions, perhaps billions of years old; it has to be that old in order for the slow evolutionary changes to take place;
+</dt><dt>2. The universe at first was in a state of disorder and non-living material; it has evolved (changed) over millions of years into one of order and life has emerged from non-life;
+</dt><dt>3. Life in early stages was simple; the present living kinds have developed from processes known as “mutation” and “natural selection;”
+</dt><dt>4. Man has emerged from an ancestor common to apes;
+</dt><dt>5. Reliance on rocks and the fossil record to show that later species are related to earlier species, now no longer living (extinct).
 </dt></dl><b><i>Creation-Science: </i></b>
-<dl><dt>1. The earth is relatively recent; its age can be measured in thousands of years; 
-</dt><dt>2. The universe was created suddenly, energy and life came from nothing (there was no pre-existing matter prior to “creation”); 
-</dt><dt>3. Basic changes have not occurred in animal and plant kinds, only within certain limits; 
-</dt><dt>4. Separate ancestry of man and apes; 
-</dt><dt>5. Explanation of the earth’s rock and fossil record by catastrophic events, including worldwide flood; 
-</dt><dt>6. Denial that “mutation” and “natural selection” can explain the great variety in plant and animal kinds from a single organism. 
+<dl><dt>1. The earth is relatively recent; its age can be measured in thousands of years;
+</dt><dt>2. The universe was created suddenly, energy and life came from nothing (there was no pre-existing matter prior to “creation”);
+</dt><dt>3. Basic changes have not occurred in animal and plant kinds, only within certain limits;
+</dt><dt>4. Separate ancestry of man and apes;
+</dt><dt>5. Explanation of the earth’s rock and fossil record by catastrophic events, including worldwide flood;
+</dt><dt>6. Denial that “mutation” and “natural selection” can explain the great variety in plant and animal kinds from a single organism.
 </dt></dl><b><i>Arguments: Evolution v. Creation-Science </i></b>
 <dl><dt>1. Creation-Science is a religious belief and therefore cannot be introduced in public schools because the Constitution forbids the government to pass laws which promote particular religion.
 </dt><dt>2. Creation-Science advances beliefs from Genesis in the Bible.
-</dt><dt>3. Creation-Science is really religion and not science. 
-</dt><dt>4. Creation-Science would force students to make a false choice between “religion” and “science”, keep religion out of science classes. 
+</dt><dt>3. Creation-Science is really religion and not science.
+</dt><dt>4. Creation-Science would force students to make a false choice between “religion” and “science”, keep religion out of science classes.
 </dt></dl><b><i>Arguments: Creation-Science v. Evolution (for “balanced
 treatment”) </i></b>
-<dl><dt>1. Creation-Science’s purpose is to deal with the issues of origins of life on a scientific basis, with no references to the Bible or religious doctrine. 
-</dt><dt>2. The universe is very complex and orderly: could it all just have happened, without the outside power and plan of a Creator? 
-</dt><dt>3. Evolution is merely a theory; since there are only two possible explanations for the origins of the universe and life on earth, why not expose the students to both, rather than one explanation? 
+<dl><dt>1. Creation-Science’s purpose is to deal with the issues of origins of life on a scientific basis, with no references to the Bible or religious doctrine.
+</dt><dt>2. The universe is very complex and orderly: could it all just have happened, without the outside power and plan of a Creator?
+</dt><dt>3. Evolution is merely a theory; since there are only two possible explanations for the origins of the universe and life on earth, why not expose the students to both, rather than one explanation?
 </dt></dl>
 <i>Sources:</i> <p>
 Montagu, Ashley, <i>Science and Creationism</i><br/>LaFollette, Marcel,
 <i>Creationism, Science and the Law</i></p>
 <h4>Lesson Two: The Scopes Trial: Issues and Answers</h4>
 <b><i>Objectives:</i></b>
-<dl><dt>1. To familiarize students with issues of law, particularly the issue of First Amendment rights and how they may or may not pertain to the classroom situation; 
+<dl><dt>1. To familiarize students with issues of law, particularly the issue of First Amendment rights and how they may or may not pertain to the classroom situation;
 </dt><dt>2. To become more aware of actual courtroom procedures and terminology (e.g., cross-examination, grand jury, indictment, etc.);
-</dt><dt>3. To sift through the issues present in the Scopes case; 
+</dt><dt>3. To sift through the issues present in the Scopes case;
 </dt><dt>4. To try to understand why some court cases receive so much publicity and others do not;
-</dt><dt>5. To involve students in the processes of courts through role plays, mock interviews and film. 
+</dt><dt>5. To involve students in the processes of courts through role plays, mock interviews and film.
 </dt></dl>
 <b><i>Procedures:</i></b>
 <dl><dt>1. As students read the actual day-to-day happenings of the case (see above), certain “key questions” should be referred to (below) and have students prepare answers ahead of time for discussion in class.
 </dt><dt>2. Issues discussed: Examine the Documents (found in the Appendix) One and Two, to try to get students to understand what the Butler Act really said (is it clear?) and what the Governor said about it. What is the students’ opinion of the law? (This la
-w is actually still on the books in Tennessee; an attempt to repeal it in 1951 was defeated.) Who in 1925 would be happy about such a law? Who would be unhappy? What could a science teacher do about such a law? What if he or she broke the law? 
+w is actually still on the books in Tennessee; an attempt to repeal it in 1951 was defeated.) Who in 1925 would be happy about such a law? Who would be unhappy? What could a science teacher do about such a law? What if he or she broke the law?
 </dt></dl>
 <b><i>Assignment</i>: </b>Examine Documents 3 and 4 (see Appendix). What
 conflicts, if
@@ -899,10 +899,10 @@ any, do you see in these two pieces of historical evidence? Why would people cri
 <b><i>Procedures: (Day Two)</i>
 </b>
 <dl><dt>1. After discussing issues raised by last night’s assignment, focus on the person John Scopes (Read selection in class provided in unit above). Have students discuss who he was, what he believed in, how it all happened that he became the defendant
-in a famous trial. How do the students react? Would they want to be Scopes? Why or why not? 
-</dt><dt>2. Next hand out Documents 5 and 6 (see Appendix), edited documents from the First Day of the trial. Notice all the names of attorneys. How does court open? What does this tell you? Read carefully what the judge says to the grand jury members. If you 
-were a member of the grand jury, how would you decide? Why? 
-</dt></dl> 
+in a famous trial. How do the students react? Would they want to be Scopes? Why or why not?
+</dt><dt>2. Next hand out Documents 5 and 6 (see Appendix), edited documents from the First Day of the trial. Notice all the names of attorneys. How does court open? What does this tell you? Read carefully what the judge says to the grand jury members. If you
+were a member of the grand jury, how would you decide? Why?
+</dt></dl>
 <b><i>Assignment</i> : </b> Examine Document 7 to prepare for tomorrow’s
 class, a
 Role-Play (optional) in selecting a jury for the Scopes trial:
@@ -921,13 +921,13 @@ written? </p>
 <dl><dt>1. To observe, in dramatized form, the issues brought out by the
 Scopes case;
 </dt><dt>2. To encourage students (as a test of their knowledge of facts about
-Scopes) to differentiate between historical fact and dramatic fiction; 
+Scopes) to differentiate between historical fact and dramatic fiction;
 </dt><dt>3. To look for bias on the part of those writing or producing the movie.
 </dt></dl><b><i>Procedures:</i></b>
-<dl><dt>1. Before viewing the film, explain that names have been changed to fictitious ones: 
+<dl><dt>1. Before viewing the film, explain that names have been changed to fictitious ones:
 </dt><dt>-William J.Bryan (Matthew Harrison Brady)
 </dt><dt>-Clarence Darrow (Henry Drummond)
-</dt><dt>-John Scopes (Bert Cates) 
+</dt><dt>-John Scopes (Bert Cates)
 </dt><dt>2. Hand out “Student Worksheet” (included in unit) for students to use as they watch the film.
 </dt><dt>3. Note: If time allows you to show part of the film only, then start with the beginning of the Seventh Day of the trial, which features the interrogation of Brady (Bryan) by Drummond (Darrow).
 </dt></dl><b><i>Student Worksheet:</i></b><i> Inherit the Wind</i>
@@ -939,7 +939,7 @@ the defendant (Bert Cates) is arrested for violating the state law that
 made it a crime to teach any theory that contradicts the Bible. The
 defendant is represented by a famous trial lawyer (Henry Drummond) from
 Chicago, a religious agnostic. Another of the defense supporters is a
-journalist (E.V. Hornbeck), who does not take the trial seriously at all. 
+journalist (E.V. Hornbeck), who does not take the trial seriously at all.
 The minister’s daughter (Rachel Brown), who is the defendant’s fiancee, is
 called as a prosecution witness in the trial by the prosecution attorney
 (Matthew Harrison Brady). Brady is a former candidate for President, a
@@ -949,7 +949,7 @@ Bible expert and a supporter of conservative views and the “common man.” </p
 As we view the film, be prepared to discuss the following: </p>
 <dl><dt>1. The journalist Hornbeck describes the trial as the “Persecution
 of the educated.” What do you think he meant by this statement? Do you
-agree or disagree with his opinion? 
+agree or disagree with his opinion?
 </dt><dt>2. What role did the media play in the trial (both newspapers and
 radio)? Compare this to the role of the media (tv included) in recent
 trials or Congressional hearings. Why was this trial a “media event”?
@@ -960,8 +960,8 @@ What does he mean by this difference?
 film’s title, found in Proverbs 11:29? “He that troubleth his own house
 shall inherit the wind; and the fool shall be servant to the wise of
 heart.” How can it be applied to the dramatic
-events? 
-</dt><dt>5. How is the word “evolution” used in explaining change? 
+events?
+</dt><dt>5. How is the word “evolution” used in explaining change?
 </dt></dl> <i>Observation Questions</i> <p> The authors of the play, Jerome
 Lawrence and Robert E. Lee, insist their play “is not history.” Try to
 correct the fictious parts of the play as you remember them from your
@@ -970,13 +970,13 @@ study of the Scopes trial. Complete the chart below (add others): </p><p>
 </p>
 <dl><dt>1. Bert Cates is arrested and dragged from his classroom, led by
 the minister and the mayor.
-</dt><dt>2. Henry Drummond stands alone in his defense of Bert Cates. 
+</dt><dt>2. Henry Drummond stands alone in his defense of Bert Cates.
 </dt><dt>3. E.V. Hornbeck’s newspaper, the Baltimore Herald, arranges for Henry
 Drummond to defend Cates and pay all legal fees.
 </dt><dt>4. Testimony by all scientific  experts is completely ignored by the judge.
-</dt></dl>5. Other observations you may have noticed: 
+</dt></dl>5. Other observations you may have noticed:
 <i>Thought Question: </i> Why change the facts at all? What purposes might
-the authors have in mind in altering the historical facts of the case? 
+the authors have in mind in altering the historical facts of the case?
 </a><center><a name="j"></a><div align="right"><a name="j"></a><p><a name="j">
 </a><a href="#top">to the top of this chapter</a></p></div></center>
 <hr/>
@@ -1003,7 +1003,7 @@ interfere in the slightest manner. Therefore, it will not put our teachers
 in any jeopardy (legal danger). Probably the law
 will never be applied. It may not be sufficiently definite to permit of
 any specific application or enforcement. Nobody believes that it is going
-to be an active statute . . .  (quoted in Ginger, 7) 
+to be an active statute . . .  (quoted in Ginger, 7)
 </blockquote>
 <h4>Document 3: Excerpts from Genesis, chapter one</h4>
 <blockquote>In the beginning God created the heaven and the earth . . .
@@ -1013,14 +1013,14 @@ have dominion over the fish of the sea, and over the fowl of the air, and
 over the cattle, and over all the earth, and over every creeping thing
 that creepeth upon the earth. (v. 26)
 <br/>
-So God created man in his own image, in the image of God created he him; 
+So God created man in his own image, in the image of God created he him;
 male and female created he them. (v. 27)  <br/> And God saw every thing
 that he had made, and, behold, it was very good. And the evening and the
 morning were the sixth day. (v. 31)
 <br/>
 And on the seventh day God ended his work which he had made; and he rested
 on the seventh day from all his work which he had made. (Chapter 2, verse
-2) 
+2)
 </blockquote>
 <h4>Document 4: Excerpts from George W. Hunter, A Civic Biology </h4>
 <blockquote>
@@ -1036,7 +1036,7 @@ forms of animal life. The great English scientist Charles Darwin, from
 this and other evidence, explained the theory of evolution. This is the
 belief that simple forms of life on the earth slowly and gradually gave
 rise to those more complex and that thus ultimately the most complex forms
-came into existence. (page 194 of text) 
+came into existence. (page 194 of text)
 </blockquote>
 <i>Man’s Place in Nature:</i>
 <blockquote>If we attempt to classify man, we see at once he must be
@@ -1048,7 +1048,7 @@ mammals, because of these numerous points of structural likeness. The
 groups of mammals which includes the monkeys, apes and man we call the
 “primates.” Monkeys certainlyseem to have many of the mental attributes of
 man . . . (and therefore) the monkey justifies his inclusion with man in a
-separate mental genus.” (page 195 of text) (Grebstein, 28) 
+separate mental genus.” (page 195 of text) (Grebstein, 28)
 </blockquote>
 <h4>Document 5: Dayton, Tennessee, Friday, July 10, 1925</h4>
 State of Tennessee v. John Thomas Scopes<br/>
@@ -1057,7 +1057,7 @@ In the Circuit Court of Rhea County, Tennessee<br/>
 Hon. J. T. Raulston, Judge
 <td.a.t. <td="" attorney="" general="" stewart,="">John R. Neal
 </td.a.t.><td.william <td="" bryan="" j.="">	Clarence Darrow
-</td.william><table> 
+</td.william><table>
 <tbody><tr>
 <td><i>Counsel for the State</i> 	</td><td>	<i>Counsel for the
 Defendant</i>
@@ -1069,7 +1069,7 @@ Defendant</i>
 </td></tr></tbody></table>
 <i>First Day</i><p>
 THE COURT: The court will come to order. The Reverend Cartwright will
-please open court with prayer. 
+please open court with prayer.
 </p><p>
 THE REV. CARTWRIGHT: We beseech Thee, our Heavenly Father, that Thou will
 grant unto every individual that share of wisdom that will enable them to
@@ -1090,17 +1090,17 @@ of the State v. John Thomas Scopes . . .
 THE ATTORNEY GENERAL: If the Court please, in this case we think that it
 is proper that a new indictment be returned.
 </p><p>
-THE COURT: Do you want a jury empaneled? 
+THE COURT: Do you want a jury empaneled?
 </p><p>
-THE ATTORNEY GENERAL: Yes, sir, and a new indictment. 
+THE ATTORNEY GENERAL: Yes, sir, and a new indictment.
 </p><p>
-THE COURT: Yes, sir. 
+THE COURT: Yes, sir.
 </p><p>
-THE ATTORNEY GENERAL: This indictment has been returned by agreement on both sides, but both sides are anxious that the record be kept straight and regular, and that no technical objection may be made in the appellate courts. 
+THE ATTORNEY GENERAL: This indictment has been returned by agreement on both sides, but both sides are anxious that the record be kept straight and regular, and that no technical objection may be made in the appellate courts.
 </p><p>
-THE COURT: Very well . . . 
+THE COURT: Very well . . .
 </p><p>
-THE COURT: Now let’s proceed to draw the jury, gentlemen . . . 
+THE COURT: Now let’s proceed to draw the jury, gentlemen . . .
 </p><p align="right">
 (Grebstein, 32, 33)
 </p>
@@ -1112,14 +1112,14 @@ divine creation of man as taught in the Bible and instead thereof that man
 descended from a lower order of animals. (the judge reads Section 1 of the
 Act) <br/> (the judge reads first chapter of Genesis)  <br/> Therefore, the
 vital question now involved for your consideration is, has the statute
-been violated by the said John T. Scopes? . . . 
+been violated by the said John T. Scopes? . . .
 <br/>
 If you find the statute has been thus violated, you should indict the
-guilty person . . . 
+guilty person . . .
 <br/>
 You will bear in mind that in this investigation you are not interested to inquire into the policy or wisdom of this legislation . . .  
 <br/>
-The policy and wisdom of any particular legislation addresses itself to the legislative branch of government, provided the proposed legislation is within constitutional limits. 
+The policy and wisdom of any particular legislation addresses itself to the legislative branch of government, provided the proposed legislation is within constitutional limits.
 <br/>
 Our constitution imposes upon the judicial branch the interpretation of statutes and upon the executive branch the enforcement of the law . . .  
 <br/>
@@ -1128,31 +1128,31 @@ You may proceed with your investigation. (Grebstein, 34)
 <h4>Document 7: Darrow Challenges a Jury Member</h4>
 After the prospective jury member is questioned by the judge and the
 Attorney General for approval, the Defense is allowed determine whether or
-not the person is suitable. 
+not the person is suitable.
 <p>
 Questions by Mr. Darrow: </p>
 <blockquote>
-Q: What is your business? 
+Q: What is your business?
 <p>
-A: I am a minister. 
+A: I am a minister.
 </p><p>
-Q: Where abouts? 
+Q: Where abouts?
 </p><p>
-A: I live in the second district of Rhea County, twenty miles north. 
+A: I live in the second district of Rhea County, twenty miles north.
 </p><p>
-Q: Ever preach on evolution? 
+Q: Ever preach on evolution?
 </p><p>
-A: I don’t think so, definitely; that is, on evolution alone. 
+A: I don’t think so, definitely; that is, on evolution alone.
 </p><p>
-Q: Did you ever preach on evolution? 
+Q: Did you ever preach on evolution?
 </p><p>
-A: Yes. I haven’t as a subject; just taken that up; in connection with other subjects. I have referred to it in discussing it. 
+A: Yes. I haven’t as a subject; just taken that up; in connection with other subjects. I have referred to it in discussing it.
 </p><p>
-Q: Against it or for it? 
+Q: Against it or for it?
 </p><p>
-A: I am strictly for the Bible. 
+A: I am strictly for the Bible.
 </p><p>
-Q: I am talking about evolution, I am not talking about the Bible. Did you preach for or against evolution? 
+Q: I am talking about evolution, I am not talking about the Bible. Did you preach for or against evolution?
 </p><p>
 A: Is that a fair question, judge?
 </p><p>
@@ -1172,7 +1172,7 @@ A: Well, I have.
 </p><p>
 Q: You think you would be a fair juror in this case?
 </p><p>
-A: Well, I can take the law and the evidence in the case, I think, and try a man right . . . 
+A: Well, I can take the law and the evidence in the case, I think, and try a man right . . .
 </p><p>
 Q: Have you heard of Mr. Scopes?
 </p><p>
@@ -1180,7 +1180,7 @@ A: Yes, Sir; yes.
 </p><p>
 Q: You have heard that he is an evolutionist, haven’t you?
 </p><p>
-A: Yes, sir, I have heard that . . . 
+A: Yes, sir, I have heard that . . .
 </p><p>
 Q: You now have the opinion that evolution is contrary to the Bible and that my client has been teaching evolution; as you stand there now, that is your opinion?
 </p><p>
@@ -1205,13 +1205,13 @@ believe that the Bible is the revealed will of God, inspired and
 trustworthy?  <p> D: I think there is much of value in the Bible, but I do
 not believe it is written or inspired by God. I believe it should be taken
 as every other book, and that the portions in it that are sublime, like
-such portions of every other great book, might be called inspired . . . 
+such portions of every other great book, might be called inspired . . .
 </p><p>
-B: Do you believe in the miracles recorded in the Old and New Testaments? 
+B: Do you believe in the miracles recorded in the Old and New Testaments?
 </p><p>
-D: I do not believe in miracles. I believe the universe acts and always has acted according to immutable law, and that whatever may be back of the universe, it has never violated these laws. 
+D: I do not believe in miracles. I believe the universe acts and always has acted according to immutable law, and that whatever may be back of the universe, it has never violated these laws.
 </p><p>
-B: Do you believe in the immortality of the soul? 
+B: Do you believe in the immortality of the soul?
 </p><p>
 D: I have been searching for proof of this all my life with the same desire to find it that is incident to every living thing, and I have never found any evidence on the subject. (Grebstein, 132-133)
 </p></blockquote>
@@ -1220,16 +1220,16 @@ As you read the following statements, ask yourself which of the following
 might agree with each one: John Scopes, William J. Bryan, Clarence Darrow,
 Judge Raulston.
 <blockquote>
-<dl><dt>1. “Evolution has no purpose; man must supply this for himself.” 
-</dt><dt>2. “The Butler Act rested on the belief that truth can be determined by taking a vote.” 
-</dt><dt>3. “Parents should not be deprived by Government of the right to direct the lives and education of their own children.” 
-</dt><dt>4. “If I lose faith in Genesis, I’m afraid I’ll lose faith in the rest of the Bible, and if I want to commit larceny I’ll say I don’t believe in the part of the Bible that says ‘thou shalt not steal.’ The same thing applies to murder.” 
-</dt><dt>5. “In a democracy issues of policy must be resolved by the elective process, not by appointive judges.” 
-</dt><dt>6. “In the history of the world there has been nobody who has dealt scientifically with all questions.” 
-</dt><dt>7. “Morality depends on religion. Government cannot be indifferent to religion.” 
-</dt><dt>8. “Apart from human purposes, no purpose exists.” 
-</dt><dt>9. “Human life is nothing without purpose. Read the Bible to determine God’s purpose for you.” 
-</dt><dt>10. “Man has no real freedom of will; he is a machine; a product of heredity and environment.” 
+<dl><dt>1. “Evolution has no purpose; man must supply this for himself.”
+</dt><dt>2. “The Butler Act rested on the belief that truth can be determined by taking a vote.”
+</dt><dt>3. “Parents should not be deprived by Government of the right to direct the lives and education of their own children.”
+</dt><dt>4. “If I lose faith in Genesis, I’m afraid I’ll lose faith in the rest of the Bible, and if I want to commit larceny I’ll say I don’t believe in the part of the Bible that says ‘thou shalt not steal.’ The same thing applies to murder.”
+</dt><dt>5. “In a democracy issues of policy must be resolved by the elective process, not by appointive judges.”
+</dt><dt>6. “In the history of the world there has been nobody who has dealt scientifically with all questions.”
+</dt><dt>7. “Morality depends on religion. Government cannot be indifferent to religion.”
+</dt><dt>8. “Apart from human purposes, no purpose exists.”
+</dt><dt>9. “Human life is nothing without purpose. Read the Bible to determine God’s purpose for you.”
+</dt><dt>10. “Man has no real freedom of will; he is a machine; a product of heredity and environment.”
 </dt></dl></blockquote>
 </a><center><a name="k"></a><div align="right"><a name="k"></a><p><a name="k">
 </a><a href="#top">to the top of this chapter</a></p></div></center>
@@ -1247,14 +1247,14 @@ Doubleday and Company, Inc., 1968. Well-documented, with a helpful
 discussion of Darwinian discoveries and experiments; brings out the
 humorous as well as the serious.
 </p><p>
-Ginger, Ray. <i>Six Days or Forever? Tennessee v. John Thomas Scopes.</i> 
+Ginger, Ray. <i>Six Days or Forever? Tennessee v. John Thomas Scopes.</i>
 New
 York: Oxford University Press, 1958. Full of useful quotations; incisive
 and personal. Two especially good chapters, “Law as Symbolic Action” and
 “Some Perspectives” offer excellent isights into the trial as it fit into
 the 1920’s and as its legacy lives on today.
 </p><p>
-Grebstein, Sheldon Norman, ed. <i>Monkey Trial: The State of Tennessee v. 
+Grebstein, Sheldon Norman, ed. <i>Monkey Trial: The State of Tennessee v.
 John Thomas Scopes.</i> Boston: Houghton Mifflin Company, 1960. Selected
 documents from the Scopes trial; an excellent teaching aid. Includes a
 section called “The Editorial Reaction” which students should find
@@ -1265,18 +1265,18 @@ Arkansas
 Case.</i> Cambridge, Massachusetts: The MIT Press, 1983. Documents from
 the
 case over “Balanced Treatment” of Creation-Science and Evolution-Science,
-with articles by historians, journalists, scientists and legal experts. 
+with articles by historians, journalists, scientists and legal experts.
 </p><p>
 Montagu, Ashley, ed. <i>Science and Creationism.</i> New York: Oxford
 University
 Press, 1984. Fairly technical, philosophical articles; one excellent
 contribution is “Creation, Evolution and High School Texts” which gives
 actual samples of what Creation- Science
-texts contain. Some contributors were witnesses at the Arkansas trial. 
+texts contain. Some contributors were witnesses at the Arkansas trial.
 </p><p>
-National Academy of Sciences, Committee on Science and Creationism. 
+National Academy of Sciences, Committee on Science and Creationism.
 <i>Science and Creationism: A View from the National Academy of
-Sciences.</i> 
+Sciences.</i>
 Washington, D.C.; National Academy Press. 1984. A nicely illustrated,
 attractively prepared book particularly created for classroom use;
 sensitively written. Only 26 pages.
@@ -1284,7 +1284,7 @@ sensitively written. Only 26 pages.
 Shapley, Harlow, ed. <i>Science Ponders Religion.</i> New York:
 Appleton-Century-Crofts, 1960. Scientists write about religion; several
 selections on evolution and religion and the impact of one on the other; a
-philosophical work. 
+philosophical work.
 </p><p>
 Tompkins, Jerry R., ed. <i>D-Days at Dayton. Reflections on the Scopes
 Trial. </i>
@@ -1309,37 +1309,37 @@ Education,</i> 70
 <p>
 Betts, John Rickards. “Darwinism, Evolution, and American Catholic
 Thought, 1860-1900.” <i>Catholic Historical Review,</i> 45 (July 1959):
-161-185. 
+161-185.
 </p><p>
 “Californians Will Monitor Evolution Teaching in Schools.”<i> Christianity
-Today,</i> 26 (5 February 1982): 69-70. 
+Today,</i> 26 (5 February 1982): 69-70.
 </p><p>
-“The Creationists.” Special section in<i> Science</i>, 81 (December 1981). 
+“The Creationists.” Special section in<i> Science</i>, 81 (December 1981).
 </p><p>
 “Creationists Lose in Arkansas.” Christianity Today, 26 (22 January 1982):
 28-29.
 </p><p>
 Donohue, John W. “Creation and Evolutions ‘A Balanced Treatment.’”
-<i>America,</i> 146 (6 February 1982): 90-92. 
+<i>America,</i> 146 (6 February 1982): 90-92.
 </p><p>
 Gish, Duane T. “Creation, Evolution, and the Historical Evidence.”
 <i>American Biology Teacher,</i> 35 (March 1973): 132-140.
 </p><p>
 Gish, Duane T. “The Scopes Trial in Reverse.” <i>The Humanist,</i> 37
-(November/December 1977): 50-51. 
+(November/December 1977): 50-51.
 </p><p>
 Grabiner, J.V., and P.D. Miller. “Effects of the Scopes Trial: Was it a
 Victory for Evolutionists?” <i>Science,</i> 185 (6 September 1974):
-832-837. 
+832-837.
 </p><p>
 Saladin, Kenneth S. “Opposing Creationism: Scientists Organize.” <i>The
 Humanist,</i> 42 (March/April 1982): 59, 61.
 Sky, Theodore. “The Establishment Clause, Congress, and the Schools: An
 Historical Perspective.” <i>Virginia Law Review,</i> 52 (December 1966):
-1395-1466. 
+1395-1466.
 </p><p>
 Zuidema, Henry P. “Genetics and Genesis: The New Biology Textbooks that
-Include Creationism.” <i>Creation/Evolution,</i> (Summer 1981): 18-22. 
+Include Creationism.” <i>Creation/Evolution,</i> (Summer 1981): 18-22.
 </p></a><center><a name="m"></a><div align="right"><a name="m"></a><p><a name="m">
 </a><a href="#top">to the top of this unit</a></p></div></center>
 </main>

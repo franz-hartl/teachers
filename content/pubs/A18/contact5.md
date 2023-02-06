@@ -15,7 +15,7 @@ Yale-New Haven Teachers Institute
 Phone (203) 432-1080
 <br/>Fax (203) 432-1084
 <br/>E-mail: <a href="mailto:Common_Ground@yale.edu">Common_Ground@yale.edu</a>
-<br/>World Wide Web: <a href="./../../">http://www.cis.yale.edu/ynhti</a>
+<br/>World Wide Web: <a href="/">http://www.cis.yale.edu/ynht</a>
 </p><p>
 Executive Editor, James R. Vivian
 <br/>Production Associate, Margaret M. Davey
@@ -29,7 +29,7 @@ University and the Schools work together in a collegial relationship.
 Founded in 1978, the Institute is the first program of its type to be
 established permanently as a unit of a university.
 </p><hr/>
-<h4><a href=".\">Back to
+<h4><a href="/pubs/A18/">Back to
 Table of Contents of the Fall 1995 Issue of <i>On Common
 Ground</i></a>
 </h4>

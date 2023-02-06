@@ -9,15 +9,18 @@ path: "/pubs/A14/herbert.html"
 <font size="+1">By James Herbert</font>
 </center>
 <hr/>
-Because collaboration is a way of doing things, talk about it is
+
+<p>Because collaboration is a way of doing things, talk about it is
 vulnerable to the vacuities and inanities that often characterize
 discussion of educational process. Because collaboration has been a theme
 in efforts to improve U.S. education for more than a decade, talk about it
 has accumulated a certain load of assumptions and routine declarations.
 For the opening of this new forum I thought it might be helpful­at
 the risk of earning my own characterizations­to recall just what
-teachers in schools and colleges can share.
+teachers in schools and colleges can share.</p>
+
 <h3>Fields of Knowledge</h3>
+<p>
 Collaborating teachers can share knowledge. That all teachers teach
 something, and that for certain subsets of school and college teachers
 these things sometimes coincide, is the essential basis of collaboration,
@@ -42,8 +45,10 @@ intensively as possible, this very intensity of use diminishes the value
 of the commons to all. Knowledge is not the same kind of good; it
 flourishes when it is used. I think this is why collaboration among school
 and college faculty members goes so well when content is the primary focus
-of their concern and procedure receives at most incidental attention.
+of their concern and procedure receives at most incidental attention.</p>
+
 <h3>Students</h3>
+<p>
 Teachers in schools and colleges very often have students in common. This
 is true in a broad national sense: the successes and failures of the
 schools become the next generation of possibilities and problems for
@@ -61,8 +66,10 @@ years of high school study to one year of college study. Collaboration
 that has a particular group of students in common can mean that their
 effort and learning at the secondary level is not wasted or repeated at
 the college level. This possibility underlies much of the appeal of
-school-college collaboration in local settings.
+school-college collaboration in local settings.</p>
+
 <h3>New Teachers</h3>
+<p>
 The image of students moving from school to college suggests more a
 commercial metaphor than an agricultural one, and indeed the transition of
 students from high school to college is reciprocated by the passage of
@@ -77,8 +84,10 @@ the local colleges,which in turn may be able to send better prepared
 teachersback to the schools. The reciprocal, long-term benefits possible
 in this connection between student articulation and teacher placement
 offer a balanced, stable structure for collaboration, though one in which
-the common ground looks more like an agora than an agricultural field.
+the common ground looks more like an agora than an agricultural field.</p>
+
 <h3>Teaching</h3>
+<p>
 One might expect a great deal of school-college collaboration around
 issues of how to teach. After all, teaching is something that, by
 definition, teachers at all levels do. But such an expectation would be
@@ -98,8 +107,10 @@ clear information about what is expected, opportunities for thoughtful
 practice, informative feedback, and strong intrinsic or extrinsic
 motivation. David Perkins has summarized these principles under the
 general pedagogical starting point he calls Theory One: "People learn much
-of what they have a reasonable opportunity and motivation to learn."
+of what they have a reasonable opportunity and motivation to learn."</p>
+
 <h3>Self-Governance</h3>
+<p>
 If one can hope that ease and assurance in considering how to teach would
 spread from school teachers to college and university teachers, it can
 also be hoped that the latter's traditions of self-governance would be
@@ -120,8 +131,10 @@ and more like playing in a jazz ensemble. This felt imperative for faculty
 self governance in the school sometimes lies beneath a not-unusual
 sensitivity about the structure of school-college collaboration itself.
 One group ofteachers needs very much to exercise something like what the
-other group routinely carries out as "committee work."
+other group routinely carries out as "committee work."</p>
+
 <h3>A Certain Kind of Moral Relationship</h3>
+<p>
 Finally it seems to me that teachers have something in common that is
 seldom talked about but perhaps deserves more attention: a certain kind of
 relationship, not with each other, but with their students. It is, among
@@ -132,7 +145,7 @@ strategies and observations that are not shared with the students. Unlike
 parents' relationship with their children, a teacher does not really have
 to face the consequences of his actions: children are around for twenty
 years, or even a lifetime; students generally disappear with the semester
-or at least graduation.
+or at least graduation.</p>
 <p>
 Teachers' relationship with students may be important to understand
 because it typically crosses a generational boundary, perhaps the next
@@ -160,7 +173,7 @@ interlocking organizations and structures that shape U. S. education.
 These are good reasons that it is also time for teachers at all levels to
 stand and cultivate their common ground.
 </p><hr/>
-<h4><a href=".\">Back to
+<h4><a href="/pubs/A14/">Back to
 Table of Contents of the Fall 1993 Issue of <i>On Common
 Ground</i></a>
 </h4>

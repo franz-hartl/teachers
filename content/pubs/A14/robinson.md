@@ -57,8 +57,8 @@ that the college is an integral part of the educational system and not a
 precious ornament decorously poised on its head. And by papers and
 discussions, the Club gave direction and momentum to the idea that the
 problems of college edcation and secondary education cannot be solved
-independently of each other but must be solved together."<font size="1"><b>1</b><font>
-</font></font></p><p><font size="1"><font>
+independently of each other but must be solved together."<font size="1"><b>1</b>
+</p><p>
 In 1993, many more "clubs" than Dewey's exist: many that join university
 and secondary school teachers together, many that invite elementary school
 teachers as well into collaborative work. And many new collaborations
@@ -73,7 +73,7 @@ we now announce the publication we will ask you to read and write for is
 intended to provide a forum in which a common language may be found, in
 which important questions can be raised, in which meaningful answers, no
 matter how tentative, be proposed.
-</font></font></p><p><font size="1"><font>
+</p><p>
 <i>On Common Ground</i> will be a periodical publication of the Yale-New
 Haven Teachers Institute and will focus upon the development of teachers
 and their curricula through university-school collaboration. But the
@@ -93,7 +93,7 @@ for they seem, now, to be the most urgent ones. As an Editorial Board, we
 struggle with these questions, even as we struggle to find a language that
 will unite us, yet allow us to speak of our diverse interests and
 obligations.
-</font></font></p><p><font size="1"><font>
+</p><p>
 As an Editorial Board, we see issues of substance, content, language, as
 the important ones. But we consider the mechanisms of collaboration
 important as well. How do we find means to encourage and support new
@@ -109,7 +109,7 @@ cannot be solved independently of each other but must be solved together."
 The ideal of cooperation is hard won, no matter how earnestly people mean
 to collaborate. We mean this publication to be practical, even as it aims
 at the ideal.
-</font></font></p><p><font size="1"><font>
+</p><p>
 So many problems are out there and other kinds of partnerships than those
 among teachers must be considered. Partnerships with students, for
 example, speaking to and with others both inside and outside the
@@ -120,20 +120,22 @@ deeply concern them. The poem, read in a certain way, invites others into
 the conversation­new partners who might have means teachers lack to
 act as participants in helping this student and others understand problems
 of the kind she writes about, and then do something about them.
-</font></font></p><p><font size="1"><font>
-The student's topic is unemployment; she titles her poem: 
-</font></font></p><h3><font size="1"><font>MISFORTUNE</font></font></h3><font size="1"><font>
+</p><p>
+The student's topic is unemployment; she titles her poem:
+</p><h3>MISFORTUNE</h3>
+<p>
 In his abandoned room,
 <br/>a man lies shivering,
 <br/>forgotten in the silence,
 <br/>of a nation otherwise preoccupied.
+</p>
 <p>
 After two decades
 <br/>at Dawson Tool and Die.
-<br/>he reads his name 
+<br/>he reads his name
 <br/>on the layoff list.
 </p><p>
-Canvassing the one-industry 
+Canvassing the one-industry
 <br/>town, he finds only empty words.
 <br/>"Sorry pal, I'd like to help,
 <br/>but you know how the
@@ -327,7 +329,7 @@ College Press, 1978), pp. 18-19.
 5. Robert C. Westbrook, <i>John Dewey and American Democracy</i>(Ithaca
 and London: Cornell University Press, 1991), p. 64.
 </p><hr/>
-<h4><a href=".\">Back to
+<h4><a href="/pubs/A14/">Back to
 Table of Contents of the Fall 1993 Issue of <i>On Common
 Ground</i></a>
 </h4>

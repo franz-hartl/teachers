@@ -95,7 +95,7 @@ assume that the teacher has neither knowledge of the content nor desire to
 become more informed. It leads me to wonder: if the responsibility for
 replenishing kits were returned to teachers, would their use serve as a
 model for expanding science and making it an integral part of the
-curriculum, or would science instruction again receive less emphasis? 
+curriculum, or would science instruction again receive less emphasis?
 </p><hr/>
 <h3> A Central Role for Science Education Partnerships<br/>
 By Eloy Rodriguez</h3>
@@ -206,9 +206,9 @@ I urge colleagues at other colleges and universities to collaborate with
 school districts in creating similar programs enabling children to
 participate in the campus scientific life. In these partnerships, the
 campus becomes a truly common ground for fostering the love and learning
-of science. 
+of science.
 </p><hr/>
-<h4><a href=".\">Back to
+<h4><a href="/pubs/A17/">Back to
 Table of Contents of the Spring 1995 Issue of <i>On Common
 Ground</i></a>
 </h4>

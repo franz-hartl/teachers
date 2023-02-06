@@ -4,14 +4,14 @@ title: "Teaching in America: Acknowledgements"
 path: "/pubs/A4/acknowledgement.html"
 ---
 <main>
-<p><small><a href="..\..\">Main Page</a> : <a href="..\">Periodical Publications and Books</a> : Teaching in America: The Common Ground</small></p>
-<p><small>[ <a href=".\">Back to the Table of Contents</a> ]</small></p>
+<p><small><a href="/">Main Page</a> : <a href="/pubs/">Periodical Publications and Books</a> : Teaching in America: The Common Ground</small></p>
+<p><small>[ <a href="/pubs/A4/">Back to the Table of Contents</a> ]</small></p>
 <hr/>
 <h2 align="CENTER">Acknowledgment</h2>
-<p>We gratefully acknowledge the following foundations and agencies 
-that, together with more than fifty local corporations, have supported the 
-Yale-New Haven Teachers Institute during the first seven years. The 
-materials presented in this volume do not necessarily reflect their 
+<p>We gratefully acknowledge the following foundations and agencies
+that, together with more than fifty local corporations, have supported the
+Yale-New Haven Teachers Institute during the first seven years. The
+materials presented in this volume do not necessarily reflect their
 views.</p>
 <ul>
 <li> Aetna Life and Casualty Foundation</li>
@@ -32,6 +32,6 @@ views.</p>
 <li> Xerox Foundation</li>
 </ul>
 <hr/>
-<p><small>[ <a href=".\">Back to the Table of Contents</a> ]</small></p>
-<p><small><a href="..\..\">Main Page</a> : <a href="..\">Periodical Publications and Books</a> : Teaching in America: The Common Ground</small></p>
+<p><small>[ <a href="/pubs/A4/">Back to the Table of Contents</a> ]</small></p>
+<p><small><a href="/">Main Page</a> : <a href="/pubs/">Periodical Publications and Books</a> : Teaching in America: The Common Ground</small></p>
 </main>

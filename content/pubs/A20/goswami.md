@@ -95,9 +95,9 @@ Fred Hechinger, writing in the first issue of <i>On Common Ground</i>
 about university-school partnerships, noted that reports rarely affect
 policy; powerful stories often do.  What follows is one of the stories and
 essays written by members of the Rural Teacher Network.  It appeared in
-somewhat different form in <i>Bread Loaf Rural Teacher Network</i>. 
+somewhat different form in <i>Bread Loaf Rural Teacher Network</i>.
 </p><hr/>
-<h4><a href=".\">Back to
+<h4><a href="/pubs/A20/">Back to
 Table of Contents of the Fall 1996 Issue of <i>On Common
 Ground</i></a>
 </h4>

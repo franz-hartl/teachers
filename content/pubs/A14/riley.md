@@ -208,9 +208,9 @@ Jossey-Bass Publishers, 1993).
 </p><p>
 6. M. Knapp, A. Zucker, N. Adelman, M. St. John, <i>The Eisenhower
 Mathematics and Science Education Program: An Enabling Resource for
-Reform,</i> (Washington, D.C.: U.S. Department of Education, 1991). 
+Reform,</i> (Washington, D.C.: U.S. Department of Education, 1991).
 </p><hr/>
-<h4><a href=".\">Back to
+<h4><a href="/pubs/A14/">Back to
 Table of Contents of the Fall 1993 Issue of <i>On Common
 Ground</i></a>
 </h4>

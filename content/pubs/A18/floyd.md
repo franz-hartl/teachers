@@ -120,7 +120,7 @@ experiences that I have been a part of, I  am proud to be a teacher who
 tries to make a difference in the lives  of my students; because of that
 experience, I know I am not alone.
 </p><hr/>
-<h4><a href=".\">Back to
+<h4><a href="/pubs/A18/">Back to
 Table of Contents of the Fall 1995 Issue of <i>On Common
 Ground</i></a>
 </h4>

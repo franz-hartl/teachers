@@ -1,5 +1,9 @@
 // const queries = require('./src/utils/algolia')
 // require('dotenv').config()
+const fs = require('fs');
+const gracefulFS = require('graceful-fs');
+const path = require('path');
+gracefulFS.gracefulify(fs);
 module.exports = {
   siteMetadata: {
     title: "Yale-New Haven Teachers Institute",
@@ -29,7 +33,16 @@ module.exports = {
     //     queries,
     //     chunkSize: 10000, // default: 1000
     //   },
-    // },  
+    // },
+    {
+      resolve: 'gatsby-plugin-alias-imports',
+      options: {
+        alias: {
+          components: path.resolve(__dirname, 'src/components'),
+        },
+        extensions: [],
+      }
+    },
     {
       resolve: 'gatsby-source-filesystem',
       options: {
@@ -79,7 +92,7 @@ module.exports = {
           },
         ],
       },
-      
+
     },
     'gatsby-plugin-catch-links',
     'gatsby-plugin-react-helmet',

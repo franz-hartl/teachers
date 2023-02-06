@@ -9,7 +9,7 @@ path: "/pubs/A22/"
 <p align="CENTER"><b><i>Table of Contents</i></b></p>
 <p><big>Feature</big></p>
 <p><a href="/pubs/A22/Paige.html">Does America Know How to Teach?</a><br/>
-<font color="#FFFFFF" style="visibility:hidden;">______</font>By Rod Paige the United States Secretary of 
+<font color="#FFFFFF" style="visibility:hidden;">______</font>By Rod Paige the United States Secretary of
 Education</p>
 <p><big>Editorial</big></p>
 <p><a href="/pubs/A22/Whitaker.html">On Common Ground: Taking Stock and Looking Ahead</a><br/>
@@ -49,6 +49,6 @@ Seminars</a><br/>
 <font color="#FFFFFF" style="visibility:hidden;">______</font>By Jean Sutherland</p>
 <p><a href="/pubs/A22/Authors.html">About the Authors</a></p>
 <p><a href="/pubs/A22/contactinfo.html">Contact Information</a></p>
-<p align="CENTER"><small><a href="..\">Publications</a> | <a href="..\..\">Yale-New Haven Teachers Institute</a></small></p>
+<p align="CENTER"><small><a href="/pubs/">Publications</a> | <a href="/">Yale-New Haven Teachers Institute</a></small></p>
 <hr/>
 </main>

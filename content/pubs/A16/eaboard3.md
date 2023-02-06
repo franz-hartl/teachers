@@ -34,7 +34,7 @@ Director<br/>
 Education Trust<br/>
 American Association for Higher Education
 </p><p>
-Fred M. Hechinger<br/> 
+Fred M. Hechinger<br/>
 Senior Advisor<br/>
 Carnegie Corporation of New York
 </p><p>
@@ -68,7 +68,7 @@ Gita Z. Wilder<br/>
 Education Policy Division<br/>
 Educational Testing Service
 </p><hr/>
-<h4><a href=".\">Back to
+<h4><a href="/pubs/A16/">Back to
 Table of Contents of the Fall  1994 Issue of <i>On Common
 Ground</i></a>
 </h4>

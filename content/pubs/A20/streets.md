@@ -14,12 +14,12 @@ were formed to explore the issue from various perspectives.  A
 sub-committee on Community Building held focus-group discussions with high
 and middle school students, who were encouraged to share their
 perspectives on the relationship among diverse ethnic and racial groups in
-their schools. 
+their schools.
 <p> African-American students from a predominantly Black high school
 student body shared with me, as their group facilitator, their views about
 student diversity and community.</p><p>
 Diversity meant more to these young people than being part of a student
-body composed of students from a variety of ethnic or racial backgrounds. 
+body composed of students from a variety of ethnic or racial backgrounds.
 They made it clear that although their school was majority
 African-American, there was a great deal of difference among them.  These
 distinctions included the students' class year, the neighborhood and
@@ -31,7 +31,7 @@ group.</p><p>
 They emphasized the importance of being seen by others as they saw
 themselves, rather than as exclusively a member of a homogeneous group.
 This was a preference of students who had come to the high school from an
-all-Black as well as a racially and ethnically diverse middle school. 
+all-Black as well as a racially and ethnically diverse middle school.
 This preference underscores Gómez's point, in "A Leap of Faith,"
 that diversity is an "internal phenomenon" as well as an external one.</p><p>
 Identities are not fully formed by the time the students enter high
@@ -82,7 +82,7 @@ among themselves and improve their chances to learn about themselves and
 others.</p><p>
 Our ability to capture the imagination of students and to stimulate in
 them a hopeful vision of the future begins with our taking them and their
-need for affirmation seriously.</p><p> 
+need for affirmation seriously.</p><p>
 Helping them to learn the meaning of values, how we form them and behave
 accordingly are central tasks in helping them to celebrate diversity and
 create a sense of community among themselves.  Included in this purpose of
@@ -92,9 +92,9 @@ educational experience is to translate into one that helps them to become
 good citizens.  Individuality and group membership are not mutually
 exclusive.  Nor are they antithetical to the aims and meaning of a
 democratic society.  Their relationship is a necessary dynamic in the
-experience of democracy and that experience is democracy's best teacher. 
+experience of democracy and that experience is democracy's best teacher.
 </p><hr/>
-<h4><a href=".\">Back to
+<h4><a href="/pubs/A20/">Back to
 Table of Contents of the Fall 1996 Issue of <i>On Common
 Ground</i></a>
 </h4>

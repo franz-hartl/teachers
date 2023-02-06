@@ -222,7 +222,7 @@ many  States and communities have made substantial steps at reform:
 Goals 2000 makes the Federal government a partner in this effort.   We ask
 everyone to join in.
 </p><hr/>
-<h4><a href=".\">Back to
+<h4><a href="/pubs/A16/">Back to
 Table of Contents of the Fall 1994 Issue of <i>On Common
 Ground</i></a>
 </h4>

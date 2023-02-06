@@ -16,7 +16,7 @@ Medical Colleges (AAMC) to increase the number of students in the
 nation's 126 medical schools who are from racial and ethnic minority
 groups under­represented in the medical profession.  Although the
 Project officially began in 1991, it is best understood as a  continuation
-and extension of work that has been going on for more  than 25 years. 
+and extension of work that has been going on for more  than 25 years.
 <p>
 The initial push to make medical education accessible to students  from
 all segments of our society was widely known as Project 75.  Until the
@@ -33,7 +33,7 @@ medical schools to create  minority affairs offices, hire personnel to
 recruit minority students,  develop educational enrichment programs for
 minority college  students, implement affirmative action policies and
 provide academic  support services for minority students once they were
-enrolled. 
+enrolled.
 </p><p>
 Although Project 75 did not reach its goal of enrolling minority  students
 in numbers proportional to their representation in the  population at
@@ -43,7 +43,7 @@ though  most of the programs established in the early 1970s remained in
 place, minority enrollment would not advance beyond this level for  more
 than fifteen years. During that period, the country's minority  population
 continued to grow, resulting in more severe under­ representation in
-1990 than in 1975. 
+1990 than in 1975.
 </p><p>
 By 1978, it already had become clear that medical schools' continuing
 efforts to increase minority enrollment were no longer working, so a
@@ -81,7 +81,7 @@ be much larger; and (2) the number of minority students earning
 bachelor's degrees from the primary feeder disciplines is insufficient  to
 meet the needs of medical schools, let alone the many other  science and
 health related fields in which minorities are equally
-under­represented and needed. 
+under­represented and needed.
 </p><p>
 Moving further back in the educational continuum, we examined  data on the
 science skills of white, black, and Hispanic 17­year­old  high
@@ -100,7 +100,7 @@ needed to study science  in college, compared to fewer than 9,000 blacks
 and about 7,000  Hispanics. In fact, the numbers may actually be lower
 than this, since  these estimates do not take into account the fact that
 many 17­year­ olds (especially Hispanic and black) drop out of
-school. 
+school.
 </p><p>
 Admittedly, these are rough estimates. But these data convinced us  that
 any credible effort to significantly increase the number of  minority
@@ -113,7 +113,7 @@ well prepared students by  providing them with experiential learning
 opportunities in medical  settings.  Although they make an important
 contribution, no short­ term enrichment program can take the place of
 a strong academic  high school curriculum and access to a good college.
-Far too few  minority students have access to either. 
+Far too few  minority students have access to either.
 </p><p>
 While the primary goal of <i>Project 3000 by 2000</i> is to increase
 minority enrollment in medical schools, the means to achieving that
@@ -130,7 +130,7 @@ human and material­in their communities. As such, they have both  the
 means and the responsibility to enhance the quality of education
 available to the young people of surrounding communities. Nowhere  is the
 need greater than in predominantly minority school districts in  the
-vicinity of many of the nation's major medical centers. 
+vicinity of many of the nation's major medical centers.
 </p><p>Since <i><i>Project 3000 by 2000</i> </i> officially began three years
 ago, many  more medical schools are involved in a variety of educational
 partnerships that include local school systems, predominantly  minority
@@ -148,7 +148,7 @@ with a sufficient number of well prepared applicants. An  increasing
 number of medical schools are proving through their  actions that they are
 willing to collaborate to increase the number of  minority students who
 will be prepared not only for medical school,  but for many other
-science­intensive fields, as well. 
+science­intensive fields, as well.
 </p><p>
 While the name, <i>Project 3000 by 2000</i>, reflects a goal primarily of
 interest to medical schools, other participants in these community
@@ -182,7 +182,7 @@ well­being of the community, itself. No single partner­not the
 medical school, college, or school system­should be in a position to
 dictate the goals or structure of a health science partnership. All  need
 to hear each other's concerns and interests, and then agree to  work
-together to achieve a series of related student achievement  goals. 
+together to achieve a series of related student achievement  goals.
 </p><p>
 For example, a public college in a partnership may wish to set a goal  of
 doubling the number of minority students that it graduates with  degrees
@@ -246,7 +246,7 @@ science education programs  like the Alliances for Minority Participation
 are probably helping, as  are programs from the National Institutes of
 Health (e.g., the Science  Education Partnership Awards), ongoing programs
 of the Bureau of  Health Professions of the Public Health Service, and the
-Eisenhower  grants of the Department of Education. 
+Eisenhower  grants of the Department of Education.
 </p><p>
 For a variety of reasons, the number of bachelor's degrees awarded  to
 minorities in the sciences has risen sharply in the past few years.
@@ -272,7 +272,7 @@ the extensive science content in the medical school curriculum and many
 medical schools' prerequisite course requirements, most medical school
 applicants and matriculants have earned bachelors degrees in the sciences.
 </p><hr/>
-<h4><a href=".\">Back to
+<h4><a href="/pubs/A16/">Back to
 Table of Contents of the Fall 1994 Issue of <i>On Common
 Ground</i></a>
 </h4>

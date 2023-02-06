@@ -102,7 +102,7 @@ support that encourages the learner to risk, to try new  ideas, to move
 out on a limb. Growth cannot occur without some risk,  and a collaborative
 community provides the environment in which it  can occur.
 </p><hr/>
-<h4><a href=".\">Back to
+<h4><a href="/pubs/A19/">Back to
 Table of Contents of the Spring  1996 Issue of <i>On Common
 Ground</i></a>
 </h4>

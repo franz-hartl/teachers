@@ -11,7 +11,7 @@ const ChildProcess = require('child_process');
 //   see: https://github.com/gatsbyjs/gatsby/issues/9465
 
 exports.onPostBuild = () => {
-   ChildProcess.execSync("ps aux | grep jest | grep -v grep | awk '{print $2}' | xargs kill");
+   //ChildProcess.execSync("ps aux | grep jest | grep -v grep | awk '{print $2}' | xargs kill");
  };
 
 exports.createPages = ({ graphql, actions }) => {
@@ -199,7 +199,7 @@ exports.createPages = ({ graphql, actions }) => {
 
             pageHtml = getPageHtml(i, pagePath, pageHtml)
 
-            // check to see if the page contains math 
+            // check to see if the page contains math
             // check to see if unit is 2019 or newer and page contains math eg: \(\hat{p}\)
             var isMathPage = false;
             year = parseInt(pagePath.split('/')[3])
@@ -209,7 +209,7 @@ exports.createPages = ({ graphql, actions }) => {
                 console.log('Found MathJax page: ' + node.frontmatter.path + '/' + i);
               }
             }
-            
+
             unitVolume = volumePage.node.frontmatter.unitVolume
 
             createPage({
@@ -252,7 +252,7 @@ exports.createPages = ({ graphql, actions }) => {
             },
           })
 
-          // Redirect preface page: 
+          // Redirect preface page:
           // if it is a preface page (not intro page) create a redirect from preface.x.html page to volume root (preface) page
           // if (!isIntro) {
           //   p = pagePath.split('/')
@@ -335,8 +335,13 @@ exports.createPages = ({ graphql, actions }) => {
 
 exports.onCreateWebpackConfig = ({ actions }) => {
   actions.setWebpackConfig({
-    node: {
-      fs: "empty"
+    // node: {
+    //   fs: "empty"
+    // },
+    resolve: {
+      fallback: {
+        fs: false
+      }
     },
     resolve: {
       alias: {
@@ -344,6 +349,11 @@ exports.onCreateWebpackConfig = ({ actions }) => {
         templates: path.resolve(__dirname, 'src/templates'),
         scss: path.resolve(__dirname, 'src/scss'),
       },
+    },
+    resolve: {
+      fallback: {
+        path: require.resolve("path-browserify"),
+      }
     },
   })
 }
@@ -443,7 +453,7 @@ const getUnitNavItems = (path, html) => {
     title = title.replace(/\s*<[/]?strong>\s*/gi, ' ')
     title = title.replace(/\s*<[/]?span>\s*/gi, ' ')
     title = title.replace(/\s*<sup>\s*.*\s*<\/sup>\s*/gi, ' ')
-    
+
     unitNavItems.push({
       path: unitPath.split('.x.html')[0] + '/' + i,
       title: title,
@@ -470,12 +480,12 @@ const getPageHtml = (pageIndex, pagePath, html) => {
       let p = pages[pageIndex + 1]
       try {
         i = p.indexOf('<h2>')
-      }  
+      }
       catch(err) {
         console.log(pagePath + ' --- ' + err)
         return { title: '--- ERROR ---', html: '' }
       }
-      
+
       // 4-25-2019 AS: find all relative images paths and change to full path
       p = p.replace(/[.]{2}[/][.]{2}[/][.]{2}[/]images[/]/gi, "/curriculum/images/")
 
@@ -483,7 +493,7 @@ const getPageHtml = (pageIndex, pagePath, html) => {
         j = p.indexOf('</h2>')
         title = p.substring(i + 4, j).trim()
         p = p.substring(j + 5).trim()
-        page = { title: title, html: p }       
+        page = { title: title, html: p }
       } else {
         // don't show <h2> header if the page did not have one
         // let title = pages[1]

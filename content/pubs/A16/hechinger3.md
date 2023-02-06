@@ -37,7 +37,7 @@ while the Institute is on the way, it must still struggle to build  an
 adequate endowment to insure both continuity and independence.   As Jim
 Vivian put it, to be a persuasive model, it cannot afford to  have other
 universities shrug:  "If Yale can't do it, how could we  possibly do it
-elsewhere?" 
+elsewhere?"
 </p.></p><p>
 Important, too, is the critical mass.  A partnership between school  and
 campus can be considered successful only if it does more than  serve a few
@@ -64,7 +64,7 @@ understanding that, from the beginning, the relationship between the
 university and the schools was regarded as a true partnership among
 equals.  Public school teachers, who regularly get orders from above,
 are understandably suspicious that the university professors may  come to
-them as another superior force. 
+them as another superior force.
 </p><p>
 The Yale­New Haven project works precisely because both
 sides­the  teachers and the university faculty­know that they
@@ -117,7 +117,7 @@ place, the Yale­New Haven Teachers  Institute is ready to serve as a
 model for other universities and other  cities, and the many teachers
 waiting to be admitted to a truly  professional partnership.
 </p><hr/>
-<h4><a href=".\">Back to
+<h4><a href="/pubs/A16/">Back to
 Table of Contents of the Fall 1994 Issue of <i>On Common
 Ground</i></a>
 </h4>

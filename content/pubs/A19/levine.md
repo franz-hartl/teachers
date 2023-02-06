@@ -117,7 +117,7 @@ out that agenda, even after the enthusiasm of the moment has  passed; and
 agenda and give those revenues leverage and longevity.  
 </li></ul>
 <hr/>
-<h4><a href=".\">Back to
+<h4><a href="/pubs/A19/">Back to
 Table of Contents of the Spring  1996 Issue of <i>On Common
 Ground</i></a>
 </h4>

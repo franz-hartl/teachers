@@ -24,13 +24,13 @@ path: "/pubs/A5/vanwagner.html"
 <a href="#l"></a></li><li><a href="#l">Annotated Teacher Bibliography</a>
 </li></ul>
 <h4>
-<a href=".\">Teaching in New Haven: Table of Contents</a> |
-<a href="..\..\">Yale-New Haven Teachers Institute</a>
+<a href="/pubs/A5/">Teaching in New Haven: Table of Contents</a> |
+<a href="/">Yale-New Haven Teachers Institute</a>
 </h4>
 <hr/>
 <a name="a">
 It is the purpose of this unit to acquaint the student with the intriguing
-world of crystals, their structure, formation, and uses. 
+world of crystals, their structure, formation, and uses.
 <p>
 Most students when confronted with a well-formed quartz crystal, or a
 purple fluorite, or a polished geode, literally jump about demanding to
@@ -88,11 +88,11 @@ O’Neil,
 <i>Gemstones. </i>
 </dt><dt>On the topic of liquid crystals: Frederick Kahn in <i>Physics
 Today;</i> and
-Glenn Brown and Peter Crocker in C&amp;EN. 
+Glenn Brown and Peter Crocker in C&amp;EN.
 </dt></a><dt><a name="a">On the topic of solar cells and semi-conductors: Bruce Chalmers in
 <i>Scientific American;</i> and Christopher Swan, <i>Suncell; Energy,
 Economy, and
-Photovoltaics.</i> 
+Photovoltaics.</i>
 </a><center><a name="a"></a><div align="right"><a name="a"></a><p><a name="a">
 </a><a href="#top">to the top of this chapter</a></p></div></center>
 <hr/>
@@ -110,7 +110,7 @@ the ato mic mass unit, or amu. A single proton or a single neutron has a
 mass of about one amu. The electron has a much smaller mass, only 1/1836
 amu. There are always the same number of protons as electrons, and
 therefore the same number of positive charges as n egative charges are
-found in the neutral atom. 
+found in the neutral atom.
 <h4>A. The Bohr Model</h4>
 Although our best understanding of the atom tells us that the electrons
 are in constant and rapid motion around the nucleus and the exact location
@@ -126,7 +126,7 @@ the K, L, M, N, O shells or alter natively, the first, second, third,
 fourth, fifth, energy levels. Each of these levels has a specific number
 of electrons it can maximally hold. The degree to which these shells are
 filled determines how readily it will combine with other elements and in
-what proportion. 
+what proportion.
 Figure 1 illustrates a specific labelling technique that is quite easy to
 use with children and facilitates accuracy. Since the shells fill using
 definite laws and patterns involving energy, they are predictable. Beyond
@@ -158,7 +158,7 @@ filled and the one remaining electron is by itself in the outer M shell.
 It will take very little energy to coax that electron away from its atom,
 leaving only ten electrons with ten
 negative charges to balance with the eleven protons with their eleven
-positive charges. When this happens we will have an ion with a +1 charge. 
+positive charges. When this happens we will have an ion with a +1 charge.
 In the same way if we draw a shell that has seven electrons, one short of
 that “magic number” eight. In this c ase the chlorine atom would be very
 happy (anthropomorphically speaking) to grab another electron and fill
@@ -166,7 +166,7 @@ that shell. In doing so the chlorine atom now would have seventeen protons
 and eighteen electrons, resulting in a net charge on the atom of -1. This
 would be a negative ion. When two elements come together in this way we
 refer to it as an ionic bond. The opposing charges on the two ions cause
-them to be attracted together. 
+them to be attracted together.
 <p>
 <i>(figure available in print form)</i>
 </p>
@@ -179,7 +179,7 @@ this we could deduce that by bringing in another hydrogen atom we can
 combine the three atoms into H2O, and each atom’s outermost shell would be
 filled. This is the basis for an understanding of covalent bonds, in which
 a toms come together and share electrons in their outer shells. The
-electron clouds overlap and the electrons circle both atoms. 
+electron clouds overlap and the electrons circle both atoms.
 <p>
 <i>(figure available in print form)</i>
 </p><p>
@@ -290,7 +290,7 @@ atom with approximately the same size and shape as the host crystal, and
 the pattern is not disrupted. This is called a mixed crystal. The class ic
 example of this is alum which is composed of potassium sulfate and
 aluminum sulfate in a one to one proportion. A similar compound is chrome
-alum, in which you find potassium sulfate combined with chromium sulfate. 
+alum, in which you find potassium sulfate combined with chromium sulfate.
 <p>
 Many crystals in nature demonstrate this mixed crystal condition in the
 replacement of aluminum by chromium or sometimes iron. Rubies are a good
@@ -329,7 +329,7 @@ used to open up the subject to the student. They will often confuse the
 term with “rock” or think only of the more valuable forms such as rubies
 or diamonds. They may also want to in clude coal because they have heard
 it called a mineral resource, or pearls since they seem to fit in with the
-other gems. So a discussion of just what a mineral is would be in order. 
+other gems. So a discussion of just what a mineral is would be in order.
 <p>
 Minerals are natural substances that are inorganic and not the result of
 any living process, therefore ruling out coal, oil, or pearls. It must
@@ -406,7 +406,7 @@ his body, and he could use the same
 technique to determine the volume of the crown. Since it was known that
 gold and silver have different densities, the only thing that would remain
 would be to take an accurate measure of the weight of the crown and divide
-this by the volume of the crown. 
+this by the volume of the crown.
 The resulting density figure could be compared with the density of gold,
 and the truth would be known. It is said that with this revelation,
 Archimedes leaped from his bath and ran, forgetting the state of his
@@ -438,7 +438,7 @@ the ocean floor at only a few degrees above zero. It forms very beautiful
 crystals that can be used as gem stones and is the source of crystals used
 for technical purposes. It is also the major ingredient in sand. Flint is
 a historically important form of quartz du e to its use in the early
-weapons used by man to hunt wild game. 
+weapons used by man to hunt wild game.
 <p>
 In 1880 the Curies discovered another peculiar property of quartz while
 studying the electrical conductivity of crystalline bodies. They
@@ -457,7 +457,7 @@ known as <i>rock crystal.</i> These crystals can range in size from the
 most
 minute to the gigantic; one from Brazil weighed in at 5.5 tons! This clear
 material has been used far back into hi story for carved goblets, bowls,
-and other objects. 
+and other objects.
 <p>
 Another form of quartz known and valued for its beauty is amethyst. This
 mineral is almost pure SiO2 with only a trace of iron. As the amount of
@@ -500,7 +500,7 @@ children and adults. Perhaps this is due to all the adventuresome stories
 seen in movies and on television or perhaps it stems from a vague
 understanding of the tremendous forces that cr eate diamonds and the
 vexing inability of man with his modern technology to duplicate this feat
-completely. 
+completely.
 <p>
 Man is not at a total loss in this field. Currently we are producing some
 44,000 pounds for industrial use annually by a process developed by H.
@@ -611,7 +611,7 @@ dissolved gases, and rare elements combine and crystals begin to grow as
 the molten mass slowly cools. The rock it forms is a mixture of minerals
 called pegmatite characterized by its large chunks or crystals. With just
 the right chemicals present and just the right ambient conditions this
-pegmatite will hold precious gems. 
+pegmatite will hold precious gems.
 <i>Sedimentary</i> formations may contain gems with two separate
 histories. Some of the sedimentary rocks hold crystals that were formed
 elsewhere and then were moved by erosional forces to sediment basins where
@@ -623,7 +623,7 @@ When tectonic processes, volcanic activity, or deep burial subject rock to
 great heat and pressure, <i>metamorphic</i> forms may result. The partial
 melting
 of the parent rock allows specific minerals to escape and move to areas
-where they concentrate into gems. 
+where they concentrate into gems.
 Examples are garnets, which can be found here in Connecticut, and the
 famous Burmese rubies and sapphires.</p>
 <h4>E. Geodes</h4>
@@ -746,7 +746,7 @@ mechanical means. Wrist watches and clocks whose numbers melt from one
 display into another are liquid crystals. Window glas s can be made dim or
 clear depending on the intensity of the sunlight passing through. An
 exciting futuristic application of the liquid crystal would be flat plates
-or screens hung on walls which display television images. 
+or screens hung on walls which display television images.
 The simplest or first generation display capability with a single
 electrical lead connected to a single picture element forms the
 seven-segment number displays as seen on clocks and watches. Second
@@ -858,10 +858,10 @@ three dimensional forms.<p>
 </dt><dt>drawing paper
 </dt></dl><b><i>Procedure</i></b>
 <dl><dt>1.Look at drawings of the six basic crystal shapes. Draw and label
-each one on drawing paper. 
+each one on drawing paper.
 </dt><dt>2.Using the outline sheet cut out each crystal pattern. Fold along the
 dotted lines and tape the edges. Identify each shape using your drawings
-done in part 1. 
+done in part 1.
 </dt></dl>
 Crystal model outline sheet #1
 <br/>
@@ -885,7 +885,7 @@ atomic arrangement and crystal shape.<p>
 <b><i>Procedure</i></b>
 <dl><dt>1. Color the large Styrofoam balls green to represent chlorine atoms. The smaller size balls will represent sodium atoms.
 </dt><dt>2. Break a toothpick in half, push one end into the chlorine and the other end into the sodium. Do this to all the “atoms” you have. Now you have sodium chloride molecules.
-</dt><dt>3. Using the toothpick halves join one NaCl (sodium chloride) molecule to another, matching up sodium to chlorine each time, and at right angles to one another. They should be placed as tightly together as possible. Look at the diagram to get an idea 
+</dt><dt>3. Using the toothpick halves join one NaCl (sodium chloride) molecule to another, matching up sodium to chlorine each time, and at right angles to one another. They should be placed as tightly together as possible. Look at the diagram to get an idea
 of how it should look.
 </dt><dt>4. Sprinkle some of the salt grains on a dark surface and inspect them with the magnifying glass. What shape are they? What is the chemical name for this compound?
 </dt></dl>
@@ -932,7 +932,7 @@ displaced by the mineral
 </dt><dt>3. Use the <i>Handbook of Physics and Chemistry</i> to find the
 material
 with
-the highest and lowest specific gravity. 
+the highest and lowest specific gravity.
 </dt></dl>
 <h4>Activity 5</h4>
 <b><i>Objective </i> </b> to determine density of solids using the direct
@@ -1013,7 +1013,7 @@ using some characteristics of minerals.<p>
 </td></tr><tr><td>steel nail	</td><td>		lemon juice or dilute
 </td></tr><tr><td>hardened file	</td><td>	hydrochloric acid (Use acid only on
 samples kept at demonstration table—do not contaminate your samples at
-your desk.) 
+your desk.)
 </td></tr><tr><td>streak plate		
 </td></tr></tbody></table>
 <b><i>Procedure</i></b>
@@ -1046,10 +1046,10 @@ the crystal shape of your sample.
 </dt><dt><i>Acid test:</i> Put one or two drops of a weak acid on your sample
 (be sure
 to use the samples on the demonstration table). If the mineral bubbles and
-fizzes it contains carbonate. The gas being released is carbon dioxide. 
+fizzes it contains carbonate. The gas being released is carbon dioxide.
 </dt><dt><i>Heft:</i> refers to the weight per volume or size. Terms that could
 be used would be “heavy,” “medium,” or “light.” These are only relative
-and imprecise terms but useful for comparing with specific gravity. 
+and imprecise terms but useful for comparing with specific gravity.
 </dt></dl>
 <i>(figure available in print form)</i>
 </a><center><a name="h"></a><div align="right"><a name="h"></a><p><a name="h">
@@ -1076,14 +1076,14 @@ d the solubility curve for each substance.
 In this section you will find condensed directions for making crystals
 from a solution, from a melt, and from a vapor. You will find it very
 helpful to obtain Elizabeth Wood’s book, <i>Crystals—A Handbook for School
-Teachers,</i> or the Alan Holden book, <i>Crystals and Crystal Growing</i> 
+Teachers,</i> or the Alan Holden book, <i>Crystals and Crystal Growing</i>
 for trouble shooting or for more extensive examples and explanations.
 These
 books can be borrowed from the New Haven Teachers Institute office. <p> To
 grow crystals from an <i>alum solution</i> dissolve 4 teaspoons of alum
 powder in
 a half cup of hot water. Stir until all of the powder dissolves. Cover the
-beaker with paper or cloth to keep the dust out and slow evaporation. 
+beaker with paper or cloth to keep the dust out and slow evaporation.
 Crystals will begin to form on the bottom of the container. It is
 important to keep your solution free from drafts or temperature changes.
 If your room has a widely varying temperature range, set the beaker in a
@@ -1167,55 +1167,55 @@ lC. Hurlbut, <i>Minerals and Man,</i> 15.
 <h3>Annotated Teacher Bibliography</h3>
 Arem, J. <i>Man-made Crystals.</i> Washington, D.C.: Smithsonian Press,
 1973. A very readable account of crystal synthesis and the use of man-made
-crystals for semi-conductors, transistors, and integrated circuits. 
+crystals for semi-conductors, transistors, and integrated circuits.
 <p>
 ———. <i>Rocks and Minerals.</i> New York: Bantam Books, 1973. A
 well-illustrated paperback handbook with descriptions of atoms, bonds, and
 crystal structures. The minerals are grouped by chemical composition and
-are beautifully illustrated. 
+are beautifully illustrated.
 </p><p>
-Brown, G. and Crooker, P. “Liquid Crystals.” C&amp;EN (January 31, 1983): 
+Brown, G. and Crooker, P. “Liquid Crystals.” C&amp;EN (January 31, 1983):
 24-38. Hard to read, but complete discussion of liquid crystals. </p><p> Cady,
 W. “Crystals and Electricity.” <i>Scientific American</i> (December,
 1949): 46-51. An understandable, concise discussion of piezoelectricity,
-its uses, and how it works. Highly recommended. 
+its uses, and how it works. Highly recommended.
 </p><p>
 Dana, E. <i>Minerals and How to Study Them.</i> Revised by C. Hurlbut. New
 York:
 John Wiley and Sons, 1949. Old but very complete guide to minerals.
 Crystallography discussed in detail and it has a convenient compact size
-and is easy to understand. 
+and is easy to understand.
 </p><p>
 Desautels, P. <i>Rocks and Minerals.</i> New York: Grosset and Dunlap,
 1974.
 Outstanding demonstration photos—double page size, 16” x 12,” with a brief
-description of photo subjects and related varieties. 
+description of photo subjects and related varieties.
 </p><p>
 English, G. <i>Getting Acquainted with Minerals.</i> New York: McGraw Hill
 Book
 Company, 1958. Textbook of mineralogy with an identification key based on
-hardness and luster. 
+hardness and luster.
 </p><p>
 Hewitt, P. <i>Conceptual Physics.</i> Boston: Little, Brown and Company,
 1985.
-General college-level physics text. 
+General college-level physics text.
 </p><p>
 Hittinger, W. “Metal Oxide Semi-Conductor Technology.” <i>Scientific
 American</i>
 (August 1973). Advanced level discussion of semi-conductors (bipolar and
-unipolar) and integrated circuits. 
+unipolar) and integrated circuits.
 </p><p>
 Holden, A. <i>The Nature of Solids.</i> New York: Columbia University
 Press,
 1965. A basic, comprehensive guide to the physics and chemistry of
-crystals. It is a good introductory book for a study of crystallography. 
+crystals. It is a good introductory book for a study of crystallography.
 </p><p>
-Holden, A., and Morrison, P. <i>Crystals and Crystal Growing.</i> 
+Holden, A., and Morrison, P. <i>Crystals and Crystal Growing.</i>
 Cambridge,
 Mass.: The MIT Press, 1982. A well-written guide to crystals, covering
 everything from the physics and chemistry of crystals, structures, and
 uses to the actual growing techniques. Enjoyable reading and my first
-choice recommendation. 
+choice recommendation.
 </p><p>
 Hurlbut, C. Dana’s <i>Manual of Mineralogy.</i> New York: John Wiley and
 Sons, 1959. A detailed text book, but has an excellent key to identify
@@ -1232,7 +1232,7 @@ helpful diagrams. </p><p>
 Kirkaldy, J.F. <i>Minerals and Rocks.</i> Poole, England: Blandford Press,
 1963.
 Handbook format with many color photos and some descriptive geology. An
-important feature is the extensive glossary of terms. 
+important feature is the extensive glossary of terms.
 </p><p>
 McGavack, J. and LaSalle, D. <i>Crystals, Insects, and Unknown
 Objects.</i>
@@ -1240,7 +1240,7 @@ New
 York: The John Day Company, 1971. A book written by a former Science
 Supervisor and Assistant Superintendent of Schools in New Haven, focuses
 on hands-on learning techniques and incorporates a unit on crystal growing
-and its creative approach to learning. 
+and its creative approach to learning.
 </p><p>
 O’Neil, P. <i>Gemstones.</i> Alexandria, VA.: Time-Life Books, 1983. A
 richly illustrated, well written book that covers the formation, the
@@ -1253,15 +1253,15 @@ terms, as well as multitudes of listed minerals and ores.
 Ransom, J.<i> The Rock Hunter’s Range Guide.</i> New York: Harper and Row,
 1964.  Good for beginning rock collectors. Explains the use of geologic
 maps and where to get them, how to prospect new locations, and listings of
-mineral sites for each state. 
+mineral sites for each state.
 </p><p>
 ———. <i>A Range Guide to Mines and
 Minerals.</i> New York: Harper and Row, 1964.  A more comprehensive guide
-to mineral collecting with lists of abandoned mines in the United States. 
+to mineral collecting with lists of abandoned mines in the United States.
 </p><p>
 Read, P.G. <i>Dictionary of Gemmology.</i> London: Butterworth
 Scientific, 1982.
-Comprehensive dictionary whose recent publication date makes it useful. 
+Comprehensive dictionary whose recent publication date makes it useful.
 </p><p>
 Swan, C. <i>SunCell: Energy, Economy, Photovoltaics.</i> San Francisco:
 Sierra
@@ -1272,7 +1272,7 @@ uses, to the politics and economics of solar energy.
 White, J. <i>Color Underground.</i> New York: Charles Scribner Sons, 1971.
 Beautifully illustrated picturebook of crystals. Large pictures good for
 displaying with each crystal described and explained. Good for student or
-teacher use. 
+teacher use.
 </p><p>
 Woods, E. <i>Crystals—A Handbook for School Teachers.</i> The
 International

@@ -235,7 +235,7 @@ are Marginalized in Our Schools," James Gray and Richard Sterling on "The
 National Writing Project," and Marty Trujillo on "Saint Joseph Ballet's
 Program for Inner-City Children."
 </p><hr/>
-<h4><a href=".\">Back to
+<h4><a href="/pubs/A17/">Back to
 Table of Contents of the Spring 1995 Issue of <i>On Common
 Ground</i></a>
 </h4>

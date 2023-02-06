@@ -104,7 +104,7 @@ do not have the capacity to improve. It is time for us,  providers and
 funders of staff development alike, to ask whether it  isn't our programs
 that need improvement.
 </p><hr/>
-<h4><a href=".\">Back to
+<h4><a href="/pubs/A19/">Back to
 Table of Contents of the Spring  1996 Issue of <i>On Common
 Ground</i></a>
 </h4>

@@ -16,7 +16,7 @@ description might continue, all of the participants of the Institute are
 members of one profession; and whether they teach at the most advanced or
 the most elementary levels, they all work in the same disciplines, and so
 inevitably share assumptions and commitments.  What could be more natural
-than for them to pool their thinking?<p> 
+than for them to pool their thinking?<p>
 Alternatively, the New Haven Teachers Institute might be described as a
 program in which two groups having next to nothing in common conspire to
 invent interests that they might be said to share.  The work these groups
@@ -49,7 +49,7 @@ photos of his sixth graders reminded me that his audience was immature in
 a much more fundamental sense.  I am sure I am not the only Institute
 instructor who found that the more I learned about who and what and where
 and how my teachers taught, the more out of place I felt. What did I, of
-all people, know about the situations these teachers faced day after day? 
+all people, know about the situations these teachers faced day after day?
 And what possible application could what I did with my students have in
 scenes so utterly remote?</p><p>
 Anxieties of this sort are built into the role of an instructor in the
@@ -85,7 +85,7 @@ of co-collaborator, working, with his high- and middle-school
 counterparts, to reinvent the terms on which their shared field can be
 communicated to others.  
 </p><hr/>
-<h4><a href=".\">Back to
+<h4><a href="/pubs/A20/">Back to
 Table of Contents of the Fall 1996 Issue of <i>On Common
 Ground</i></a>
 </h4>

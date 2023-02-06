@@ -86,7 +86,7 @@ As Harvard took the lead in the two previous school reform efforts, Yale
 now could have the opportunity to pioneer in reforms for the next
 century's schools.
 </p><hr/>
-<h4><a href=".\">Back to
+<h4><a href="/pubs/A17/">Back to
 Table of Contents of the Spring 1995 Issue of <i>On Common
 Ground</i></a>
 </h4>

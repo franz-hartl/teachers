@@ -5,26 +5,26 @@ path: "/curriculum/referencelists/diversity/Introduction.html"
 ---
 <main>
 <center><h3><b>Introduction</b></h3></center>
-<hr/> <b><a href="index.html">Teaching about Diversity Contents</a> | <a href="..\">Reference Lists</a></b> <br/>
+<hr/> <b><a href="/curriculum/referencelists/diversity/">Teaching about Diversity Contents</a> | <a href="/curriculum/referencelists/">Reference Lists</a></b> <br/>
 <hr width="100%"/>
 <p>
 <b>2004</b>
 </p><p>
-In July of 2004, three New Haven public school teachers, representing high, middle, and elementary schools, began an update of 
+In July of 2004, three New Haven public school teachers, representing high, middle, and elementary schools, began an update of
 the Yale-New Haven Teachers Institute's 1996 reference document, <i>Teaching about Diversity and Community</i>.
 </p><p>
-In the original document, a committee of teachers surveyed all Institute teaching units related to diversity, aligned them with the 
-school system's then current standards relating to diversity and wrote brief annotations, summarizing each unit, highlighting any 
+In the original document, a committee of teachers surveyed all Institute teaching units related to diversity, aligned them with the
+school system's then current standards relating to diversity and wrote brief annotations, summarizing each unit, highlighting any
 content or lessons that might be particularly helpful to teachers.
 </p><p>
-Through the existing list proved itself to be a valuable Reference List for teachers, the time came to update its content.  Since New 
-Haven's educational standards had been expanded and refined, it became necessary to align the diversity related standards of 1996 with 
-those of 2004.  Once this was achieved, the committee followed the same general steps as their 1996 counterparts followed as they 
-selected appropriate units, matched them with standards, wrote related annotations, and, this time, included general grade level and 
+Through the existing list proved itself to be a valuable Reference List for teachers, the time came to update its content.  Since New
+Haven's educational standards had been expanded and refined, it became necessary to align the diversity related standards of 1996 with
+those of 2004.  Once this was achieved, the committee followed the same general steps as their 1996 counterparts followed as they
+selected appropriate units, matched them with standards, wrote related annotations, and, this time, included general grade level and
 subject matter recommendations.
 </p><p>
-By using a combination of the updated list of New Haven's current educational standards related to diversity and the checklist matching 
-each Institute diversity units to these standards, a teacher should be able to select and investigate Institute units that aim to meet 
+By using a combination of the updated list of New Haven's current educational standards related to diversity and the checklist matching
+each Institute diversity units to these standards, a teacher should be able to select and investigate Institute units that aim to meet
 individual, school, and system-wide goals.
 </p><p>
 More specific information on New Haven's current standards may be found online at: nhps.net/curriculum/documents.asp.

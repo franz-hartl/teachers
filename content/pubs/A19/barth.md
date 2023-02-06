@@ -244,7 +244,7 @@ school culture with the best of the research university, while  purging
 the current pathologies of each. There is much common  ground­and
 much high ground­here. What if?
 </p><hr/>
-<h4><a href=".\">Back to
+<h4><a href="/pubs/A19/">Back to
 Table of Contents of the Spring  1996 Issue of <i>On Common
 Ground</i></a>
 </h4>

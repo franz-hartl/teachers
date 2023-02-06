@@ -88,9 +88,9 @@ feelings they cannot help but pass on to their students. A community of
 learners, inspired, inspiring­this is collaboration.
 </p><h3> Notes</h3>
 1. Fellows: Linn Bayne, Bill Derry, Silvia Ducach, Mary Alice Howley,
-Sheila Martin-Corbin, Maggie Roberts, Eva Scopino. 
+Sheila Martin-Corbin, Maggie Roberts, Eva Scopino.
 <hr/>
-<h4><a href=".\">Back to
+<h4><a href="/pubs/A14/">Back to
 Table of Contents of the Fall 1993 Issue of <i>On Common
 Ground</i></a>
 </h4>

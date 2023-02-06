@@ -40,9 +40,9 @@ network with a newly found national group of other professionals  who will
 present to you many new opportunities for personal and  professional
 growth.
 </p><p>
-Here are some of the ways to get started: 
+Here are some of the ways to get started:
 </p><ul><li>Investigate how the Yale University­New Haven Teachers
-Institute  was founded and continues to be successful. 
+Institute  was founded and continues to be successful.
 </li><li>Visit with a local university or college president and discuss the
 importance of a partnership and need for collaboration. Formulate a  plan
 in cooperation with the board president. Have the  college/university
@@ -50,11 +50,11 @@ president present the proposal for a partnership  to the board at a public
 meeting or at least send a formal letter of  invitation to create a
 partnership.
 </li></ul>
-Partnerships can take many forms: 
+Partnerships can take many forms:
 <ul>
 <li>A professor with 8­12 teachers constructing new curriculum or
-improving the old curriculum in math, science, history, humanities,  etc. 
-</li><li>The superintendent or others teaching at the university. 
+improving the old curriculum in math, science, history, humanities,  etc.
+</li><li>The superintendent or others teaching at the university.
 </li><li>Inviting a professor to teach at one of the district schools.
 </li></ul>
 Having had the experience of starting a school partnership with the
@@ -69,7 +69,7 @@ endeavors, if superintendents are to be the recognized educational  leader
 and truly a Chief Executive Officer of a learning organization.  Stop
 thinking and <b>Just do it!</b>
 </p><hr/>
-<h4><a href=".\">Back to
+<h4><a href="/pubs/A19/">Back to
 Table of Contents of the Spring  1996 Issue of <i>On Common
 Ground</i></a>
 </h4>

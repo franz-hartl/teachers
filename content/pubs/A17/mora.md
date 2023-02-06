@@ -220,7 +220,7 @@ the Improvement of Practice.
 Weisskopf, V. (1977). "The Frontiers and Limits of Science.S  <i>American
 Scientist</i>, Volume 65, Number 4, pp. 405-411.
 </p><hr/>
-<h4><a href=".\">Back to
+<h4><a href="/pubs/A17/">Back to
 Table of Contents of the Spring 1995 Issue of <i>On Common
 Ground</i></a>
 </h4>

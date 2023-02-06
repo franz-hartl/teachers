@@ -194,9 +194,9 @@ Local efforts will not succeed without support from a community that
 values science education. Scientists can provide this kind of supportive
 voice. United in our conviction that children need quality science
 education to lead productive and satisfying lives, we must do our best to
-give them the chance to succeed. 
+give them the chance to succeed.
 </p><hr/>
-<h4><a href=".\">Back to
+<h4><a href="/pubs/A17/">Back to
 Table of Contents of the Spring 1995 Issue of <i>On Common
 Ground</i></a>
 </h4>

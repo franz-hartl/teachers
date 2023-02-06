@@ -89,9 +89,9 @@ students.
 The realization of the virtues of partnership­not a top-down
 relationship­has set a new pattern in educational reform. The promise
 and the problems of this pattern at Yale and anywhere, will be the theme
-of this column in the future. 
+of this column in the future.
 </p><hr/>
-<h4><a href=".\">Back to
+<h4><a href="/pubs/A14/">Back to
 Table of Contents of the Fall 1993 Issue of <i>On Common
 Ground</i></a>
 </h4>

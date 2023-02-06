@@ -19,13 +19,13 @@ left me suspicious of such ventures.  School-college collaboration
 frequently is either ceremonial with "showcase" luncheons or bureaucratic
 with endless planning sessions.  Rarely does the program get to the heart
 of the matter helping teachers and advancing the quality of education. The
-Yale-New Haven teacher project is a dramatic exception to this rule. 
-</blockquote> 
+Yale-New Haven teacher project is a dramatic exception to this rule.
+</blockquote>
 The next year President Giamatti invited him to deliver the first
 President's Lecture at Yale, in which he spoke of the study of the
 American high school that he was to release a year later.  In an interview
 in <i>Change</i>  magazine, he responded to a question about why
-partnerships between high schools and colleges were not more widespread: 
+partnerships between high schools and colleges were not more widespread:
 <blockquote>
 Part of the barrier, part of the lag, may mean that colleges still haven't
 confronted the priorities.  I think there are two other problems, however.
@@ -99,7 +99,7 @@ that we are all in this together...
 </blockquote>
 <p align="right"> ­ J.R.V.</p>
 <hr/>
-<h4><a href=".\">Back to
+<h4><a href="/pubs/A19/">Back to
 Table of Contents of the Spring  1996 Issue of <i>On Common
 Ground</i></a>
 </h4>

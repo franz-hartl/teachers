@@ -11,7 +11,7 @@ render() {
       <main>
       <div className="main_content m-4">
         <h1 className="page-not-found">Page not found</h1>
-        <p>The requested page could not be found</p>    
+        <p>The requested page could not be found</p>
       </div>
       </main>
       </Layout>

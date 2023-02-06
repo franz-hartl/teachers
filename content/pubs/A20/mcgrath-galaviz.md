@@ -31,7 +31,7 @@ counselors from the Latino community who have first-hand knowledge of the
 challenges they face.  The program mission is to help students stay in
 school, enroll in college, earn bachelors' and advanced degrees, and
 return to their communities as leaders and mentors.</p><p>
-The educational landscape from which Puente emerged was extremely bleak. 
+The educational landscape from which Puente emerged was extremely bleak.
 Mexican-American and Latino students are the most educationally
 underserved ethnic group in America.  Just over half of all Latino
 students graduate from high school, as compared with 77 percent of
@@ -49,7 +49,7 @@ The Puente program is implemented and conducted on campuses by a
 teacher/counselor team, full time employees of the college who are trained
 in an initial residential Puente Training Institute held at the University
 of California, Berkeley.  Here teams are
-introduced to a) specific teaching and counseling methodologies; b) 
+introduced to a) specific teaching and counseling methodologies; b)
 strategies for working successfully in the community; and c) collaborative
 ways of working as effective teams in order to integrate the program
 components.  The training is on-going and extensive.  Throughout the
@@ -75,7 +75,7 @@ without the program.  The task force went on to recommend that the
 University "expand strategically targeted outreach services in the
 community colleges, modeled after the Puente Project, even at the cost of
 limiting other, less effective K-12 outreach activities."</p><p>
-Community input has been woven into the Puente Project at several levels. 
+Community input has been woven into the Puente Project at several levels.
 First, mentors are recruited from the Mexican-American/Latino community by
 other members of the community, as well as by Puente staff.  Matching
 students with professionals in the community serves many purposes:  it
@@ -83,8 +83,8 @@ provides the students, many of whom are the first in their family to
 pursue post-secondary education, with successful academic and career role
 models; it offers the students first-hand exposure to various professional
 settings and responsibilities, thus helping them to make informed career
-decisions (well beyond what a college career counselor is able to provide) 
-and to draw inspiration from seeing their mentors at work in a "real-life" 
+decisions (well beyond what a college career counselor is able to provide)
+and to draw inspiration from seeing their mentors at work in a "real-life"
 professional context.  Also, community-based writing and research
 assignments have proven to be a very popular and engaging writing
 assignment for the Puente students, many of whom come to the project with
@@ -117,7 +117,7 @@ writers and artists forum called "Día de la Cultura."  The event
 was attended
 by 350 people, including eight nationally known Chicano artists.  So
 successful was this forum that it has become an annual event.</p><p>
-For years the community has requested that Puente move into high schools. 
+For years the community has requested that Puente move into high schools.
 In 1993 we began a four-year replication project using resources already
 developed in local communities.  In recognition of the fact that secondary
 schools generally have even fewer resources for funneling community
@@ -142,7 +142,7 @@ necessary to fully integrate a greater societal force, a powerful and
 lasting source of on-going structural support.  That force has been the
 Mexican-American/Latino community.
 </p><hr/>
-<h4><a href=".\">Back to
+<h4><a href="/pubs/A20/">Back to
 Table of Contents of the Fall 1996 Issue of <i>On Common
 Ground</i></a>
 </h4>

@@ -104,7 +104,7 @@ about learning and a pride in education as a  vehicle for social progress.
 The SMU/Dallas/Fort Worth arts  partnership is an important step in
 envisioning and implementing  the vertical integration of education.
 </p><hr/>
-<h4><a href=".\">Back to
+<h4><a href="/pubs/A18/">Back to
 Table of Contents of the Fall 1995 Issue of <i>On Common
 Ground</i></a>
 </h4>

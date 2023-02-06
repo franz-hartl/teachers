@@ -20,8 +20,8 @@ path: "/pubs/A5/marshall.html"
 <a href="#h"></a></li><li><a href="#h">Film</a>
 </li></ul>
 <h4>
-<a href=".\">Teaching in New Haven: Table of Contents</a> |
-<a href="..\..\">Yale-New Haven Teachers Institute</a>
+<a href="/pubs/A5/">Teaching in New Haven: Table of Contents</a> |
+<a href="/">Yale-New Haven Teachers Institute</a>
 </h4>
 <hr/> <a name="a"> This unit was written as a final chapter for a book I
 have prepared based on units written during my eleven-year affiliation
@@ -34,7 +34,7 @@ contexts; and/or to realize the notion of individual and cultural
 discovery. I teach the course currently to a mixed class of college-bound
 and work-bound seniors, although I have used various parts of the program
 with younger high school students, and I have also taught the entire
-course to college-bound juniors. 
+course to college-bound juniors.
 <p>
 “Visual Art and Literature” comprises a two-period-a-day semester-long
 program. Students consider the visual media of painting, photography,
@@ -283,7 +283,7 @@ caricatures of various types of women in the world of work.</p><p>
 He offers, for example, Miss Corning, who, as head of a corporation, falls
 victim to embezzlement and attempted murder. She is tyrannical, arrogant,
 rude, and often described as “mannish.” She does not see things too
-clearly. Lest we miss that point, Gardner makes her literally near-blind. 
+clearly. Lest we miss that point, Gardner makes her literally near-blind.
 In one sense she is the “spurious spinster” of the title, for we learn
 that, strident voice notwithstanding, she is not in control of her company
 or herself; far from being the imposing force she wishes to project, she
@@ -360,7 +360,7 @@ so, to what purpose?
 </dt><dt>6. Why does the author create types rather than full-blown characters
 in <i>The Case of the Spurious Spinster?</i> Describe the types portrayed
 by Miss
-Corning, Susan Fisher, Elizabeth Dow, Cindy Hastings. 
+Corning, Susan Fisher, Elizabeth Dow, Cindy Hastings.
 </dt><dt>7. Why is the focus on women in the business world? What point(s) does Gardner make about women’s roles in society? Might an ’80s author make the same point(s)? Explain.
 </dt><dt>8. How did the clothes worn by the characters in the television show reflect the time period in question? (Compare with clothes of today.)
 </dt><dt>9. Compare the plots of the television show and the novel. Which was more interesting? Why?
@@ -368,7 +368,7 @@ Corning, Susan Fisher, Elizabeth Dow, Cindy Hastings.
 </dt></a><dt><a name="b">11. What did you learn from <i>The Case of the Spurious Spinster?</i>
 Would
 you rate it as a “good” book or as educational? Explain. Was it
-entertaining? Explain. 
+entertaining? Explain.
 </a><center><a name="b"></a><div align="right"><a name="b"></a><p><a name="b">
 </a><a href="#top">to the top of this chapter</a></p></div></center>
 <hr/>
@@ -407,11 +407,11 @@ pitifully scramble for mere and illusionary vestiges of dignity and
 respect. Wells is also a hellishly claustrophobic place of meticulously
 labeled social strata and, paradoxically, no real power base. Off the main
 highway, both literally and figuratively, Wells is a place we would like
-to forget. 
+to forget.
 John Ball wisely forces us to take a long, hard look at that which we
 would rather by-pass. By forcing the reader to reside in Wells for a
 while, he is able to illustrate the horror and, equally important, the
-pity of ignorance and prejudice. 
+pity of ignorance and prejudice.
 <p>
 Though <i>In the Heat of the Night</i> is told from an omniscient point of
 view with the thoughts of many characters made available for the reader,
@@ -443,7 +443,7 @@ integrity. He is a seeker of truth—an intelligent man of self-respect who
 can afford to respect others. Easy
 answers of black and white or right and wrong are seen by Tibbs as just
 that—easy and superficial. According to Tibbs’ actions human behavior is
-complex and not easily relegated to merely the good and evil of things. 
+complex and not easily relegated to merely the good and evil of things.
 Thus while Tibbs recognizes the in-bred racist responses of Sam Woods, for
 example, he recognizes as well the essentially good man beneath the
 damaged veneer. Virgil Tibbs lives by a code of honor and dignity. Even
@@ -478,13 +478,13 @@ episode in question and the novel,<i> In the Heat of the Night,</i> the
 television show, unfortunately, presents an easy and superficial response
 to the problems of racism and violence. The plot is problematic and
 essentially weak, and, more important, the characters of Tibbs and
-Gillespie are virtually unrecognizable as John Ball’s original characters. 
+Gillespie are virtually unrecognizable as John Ball’s original characters.
 While the novel, <i>In the Heat of the Night,</i> is disturbing for the
 complex
 questions it raises, the television version is disturbing for its
 simplistic rendering of community and character. In a sense the television
 show trivializes Ball’s work with its attempt to portray an economically
-revitalized and (albeit uneasily) integrated South. 
+revitalized and (albeit uneasily) integrated South.
 <p>
 Like the novel, the television show focuses on a home-grown policeman who
 is unjustly accused of a crime. However, Bubba is a watered-down version
@@ -527,8 +527,8 @@ important, the stratified society as depicted in Ball’s book is obviously
 dead in Sparta. Yet, anyone who had recently read the novel would surely
 question the notion of the stellar economic revitalization of the South as
 depicted in the television show.</p><p>
-All of the neighborhoods shown in the show are well-cared for and pretty. 
-Virgil Tibbs, on a detective’s salary, lives in a large and imposing home. 
+All of the neighborhoods shown in the show are well-cared for and pretty.
+Virgil Tibbs, on a detective’s salary, lives in a large and imposing home.
 (The white woman who was raped appears to be an aberration in this ideal
 and homogenized town.) In short, one eventually comes to the conclusion
 that Sparta is not a reflection of an ’80s Southern town—or any town
@@ -544,14 +544,14 @@ as the worst kind of propaganda or as an Orwellian nightmare come true.</p>
 <h4><i>Some Questions for Students:</i></h4>
 </a><dl><a name="c"><dt>1. Why does John Ball choose an omniscient point of view to tell
 his story? Why is the focus on Sam Woods’ thoughts rather than those of
-Gillespie or Tibbs? 
+Gillespie or Tibbs?
 </dt><dt>2. What qualities enable Virgil Tibbs to solve the case? Is Tibbs
-heroic? Explain. In what ways is Gillespie deficient? 
+heroic? Explain. In what ways is Gillespie deficient?
 </dt><dt>3. Why do the town fathers want a quick closure to the murder case?
-</dt><dt>4. Describe racism as depicted in <i>In the Heat of the Night.</i> 
+</dt><dt>4. Describe racism as depicted in <i>In the Heat of the Night.</i>
 Does the author depict a variety of racist attitudes? Explain. Does the
 author
-suggest reasons for the existence of racism? 
+suggest reasons for the existence of racism?
 </dt><dt>5. Discuss the social structure and the economic conditions of Wells. How are these conditions related to racism?
 </dt><dt>6. Discuss the motive for murder. Who or what is to blame for the death of Mantoli?
 </dt><dt>7. Do any of the characters “grow” during the course of the novel?
@@ -560,13 +560,13 @@ suggest reasons for the existence of racism?
 </dt><dt>10. Did you learn anything from reading <i>In the Heat of the
 Night?</i> Was it educational and entertaining?
 </dt><dt>11. Compare/contrast the criminal motives depicted in the novel and
-the television show with regard to believability and/or realism. 
+the television show with regard to believability and/or realism.
 </dt><dt>12. Compare and contrast Bubba and Sam Woods. Is one better delineated
-than the other? Explain. 
+than the other? Explain.
 </dt><dt>13. Contrast Wells and Sparta. How do you account for the apparent
-differences? 
+differences?
 </dt><dt>14.Contrast the ways in which the varying characters of Virgil Tibbs
-(novel and television show) react to attitudes of racism. 
+(novel and television show) react to attitudes of racism.
 </dt><dt>15.Is the Howard Rollins’ characterization of Virgil Tibbs heroic? Explain.
 </dt><dt>16.Is the Gillespie character white-washed for the television show? (Why is he so different from the original?)
 </dt><dt>17.Compare/contrast the (intended and unintended) racist attitudes depicted in the television show and novel.
@@ -588,7 +588,7 @@ and his equally apparent self-destructive tendencies—remind one of the
 complex character of Sherlock Holmes
 and other detectives, for that matter, Spenser is essentially new. He is
 not the cold, scientific cynic portrayed by Holmes, nor is he the lone,
-reactive idealist portrayed by Travis McGee. 
+reactive idealist portrayed by Travis McGee.
 <p>
 Spenser is a philosopher who has found no answers for living life; rather,
 he is one who continually seeks new questions. He is at once a mundane man
@@ -596,11 +596,11 @@ and a super man—one is never sure which. Perhaps this, too, is the point.
 With the creation of Spenser and, equally important, with the inclusion of
 myriad illustrations of a society of shifting ethical stances, Parker
 reminds us that it is the questioning that is important—not the answering.
-(Put another way, it seems that there are no firm answers anymore; 
+(Put another way, it seems that there are no firm answers anymore;
 each will have to find his or her own way.)</p>
 <h4>“Spenser: for Hire” television show</h4>
 Though all of the nuances of character of Spenser as mentioned above
-cannot be articulated in a television show of an hour’s length, “Spenser: 
+cannot be articulated in a television show of an hour’s length, “Spenser:
 for Hire” does reflect Robert Parker’s questioning stance. To be sure,
 Robert Urich in the role of Spenser has little time to question his own
 motives in the episode, “My Brother’s Keeper.” Yet, questions about the
@@ -609,7 +609,7 @@ least posed. Though the television show presents a superficial rendering
 of character, it illustrates a society doing battle with ethical dilemmas.
 Unlike “In the Heat of the Night”—the television show—“Spenser: for Hire”
 has some integrity and/or presupposes that its audience might be
-interested in issues of truth. 
+interested in issues of truth.
 <p>
 We learn early on that Spenser (and Hawk) are veterans of the Vietnam War.
 Spenser initially gets involved with the case in question because of his
@@ -626,7 +626,7 @@ and in the United States.) Ultimately Spenser’s arranged meeting leads to
 the death of the Vietnam War author. Spenser arrives too late (on separate
 occasions) to prevent both the shooting of the author and the theft of the
 manuscript.</p><p>
-Two interesting sub-plots emerge during the course of the television show. 
+Two interesting sub-plots emerge during the course of the television show.
 First, it seems that the author in question killed one of his own men in
 combat as an act of mercy, and thus faces certain reprisals should either
 he or the Vietnamese eye-witness to the act reveal the truth. Second, we
@@ -708,7 +708,7 @@ Spenser was induced to commit these killings for self-preservation’s sake,
 he is clearly distressed by the acts—or by the necessary breaking of his
 code (never to kill people voluntarily).</p><p>
 <i>Mortal Stakes</i> illustrates the many dangers of “playing the game.”
-One may be contaminated by the very rule-breakers one seeks to dominate. 
+One may be contaminated by the very rule-breakers one seeks to dominate.
 One’s ethical stances continue to shift. Yet, not to play the game—not to
 question, not to seek balance—is to be already dead. The game is, after
 all, for mortal stakes.</p>
@@ -766,7 +766,7 @@ the novel which seem to reflect its particular setting. Possibilities:
 family issues, drugs/alcoholism, political/government issues, racism,
 women’s issues, environmental issues, issues of morality. How are these
 issues made clear? What is the author’s stance regarding these issues? Are
-the issues viable today? 
+the issues viable today?
 </dt></dl>
 </a><center><a name="e"></a><div align="right"><a name="e"></a><p><a name="e">
 </a><a href="#top">to the top of this chapter</a></p></div></center>
@@ -797,7 +797,7 @@ novels).  </p></a><center><a name="g"></a><div align="right"><a name="g"></a><p>
 chapter</a></p></div></center> <hr/> <a name="h"> <h3>Film</h3>
 Jewison, Norman, director. <i>In the Heat of the Night.</i> United
 Artists, 1967.
-(available on commercial videocassette) 
+(available on commercial videocassette)
 </a><center><a name="h"></a><div align="right"><a name="h"></a><p><a name="h">
 </a><a href="#top">to the top of this chapter</a></p></div></center>
 </main>

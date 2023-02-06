@@ -167,9 +167,9 @@ On Common Ground? The answer, we think, lies in your hands. Our three new
 board members thought it would be especially helpful to our readers   both
 to those who work in the classroom and to those who don't   if teachers
 could provide testimonials about the collaborative experiences that have
-powerfully influenced their own practice. Let us hear from you! 
+powerfully influenced their own practice. Let us hear from you!
 </p><hr/>
-<h4><a href=".\">Back to
+<h4><a href="/pubs/A17/">Back to
 Table of Contents of the Summer 1995 Issue of <i>On Common
 Ground</i></a>
 </h4>

@@ -35,7 +35,7 @@ elsewhere, and then points toward a considerable variety of present
 efforts on local, state, and national levels. It is a history from  which
 we can take heart, and one that ought to inspire us to find yet  more
 useful ways of sustaining what Perrone calls "a collaboration  over time
-that is empowering for teachers and students alike." 
+that is empowering for teachers and students alike."
 <p>
 We also print responses to Perrone's essay from two members of the
 Editorial Board:
@@ -63,14 +63,14 @@ overcome this problem. Beginning with a  focus on high schools, and soon
 incorporating middle schools, the  Institute has been regularly including
 elementary school teachers  since 1990.) Serns also notes that the best
 elementary school  classrooms offer an integrative model of collaboration
-that  deserves attention from all parts of the educational community. 
+that  deserves attention from all parts of the educational community.
 </p><p>
 Ernest L. Boyer's piece also looks to both past and present  collaborative
 efforts in order to find clues to the major tasks for  the decade ahead.
 Above all, he says, we must ensure on a national  level that "all children
 will be ready for formal schooling." He also  urges that school-college
 partnerships focus on primary education,  and that they return to the
-central issue of "what we teach." 
+central issue of "what we teach."
 </p><p>
 Lauro F. Cavazos, responding in part to the essay by Secretary of
 Education Richard W. Riley in our inaugural issue, urges that the  federal
@@ -78,7 +78,7 @@ government make it clear that teacher preparation is an  important
 priority. He is especially concerned about the small  number of minority
 teachers now in school systems, and he argues  that we must overcome the
 inadequacy of current training to prepare  young teachers to meet the
-linguistic and cultural needs of inner- city schools. 
+linguistic and cultural needs of inner- city schools.
 </p><p>
 On this occasion Fred M. Hechinger's regular column also stresses  teacher
 preparation. He urges an expansion of collaboratively- sponsored
@@ -115,7 +115,7 @@ enable more fruitful and long-term collaboration. Furtado  has been
 especially concerned with the difficulties encountered  when businesses
 and schools seek to go beyond an <i> ad hoc</i> gift of  computers and
 shop equipment. This is a subject about which we'd  like to hear more in
-the future. 
+the future.
 </p><p>
 And from the university, Antonio Lasaga comments on the  opportunities and
 challenges that are provided by the "information  superhighway" and
@@ -133,7 +133,7 @@ want them to express an array of vantage- points on our
 topics­historically and stylistically. We think they  should
 represent, over the longe run, the cultural diversity of our  nation and
 our world­and the possibility of building a community  from that
-diversity. 
+diversity.
 <p>
 And yet we do not ask of a given image that it conform entirely to  our
 editorial point of view. After all, among the virtues of works of  art is
@@ -141,7 +141,7 @@ their ability to provide vivid testimony to what an artist can  see, feel,
 and think from within a historical or cultural situation.  They invite our
 appreciation­and our interpretation, even criticism.  We incorporate
 them into our lives and our educational projects by  noting what they say,
-and what they don't say, and something of why  that should be the case. 
+and what they don't say, and something of why  that should be the case.
 </p><p>
 That should be evident from Winslow Homer's <i>Snap the Whip,</i> which
 accompanies Vito Perrone's essay. It provides an eloquent image  drawn
@@ -161,7 +161,7 @@ rural community in 1872. Only through that distorting lens does it  offer
 what Jules Prown calls Homer's vision of "the natural  condition of
 childhood." Here as everywhere, the "natural" is socially  conditioned,
 and we need to recognize that fact without depriving  ourselves of a rich
-heritage of resources. 
+heritage of resources.
 </p><p>
 For just that reason, we find it appropriate to complement Homer's  vision
 of 1872 with Jacob Lawrence's vision of 1978. Lawrence's <i> Library,</i>
@@ -222,7 +222,7 @@ possible.
 We should also note that, though the text of <i>On Common Ground </i> is
 not copyrighted, we cannot make that statement about the images in  each
 issue. The artwork may not be reproduced without permission  from the
-owners cited in "Credits" on page 3. 
+owners cited in "Credits" on page 3.
 </p><h3>Join the Conversation! </h3>
 If you have thoughts about the essays, the images, or the topics  more
 generally, we encourage your responses­either as letters to  the
@@ -246,7 +246,7 @@ preparation of  students for the world of work? And what contributions can
 they  make, perhaps with the help of business, in the areas of science and
 technology?
 <hr/>
-<h4><a href=".\">Back to
+<h4><a href="/pubs/A15/">Back to
 Table of Contents of the Summer 1994 Issue of <i>On Common
 Ground</i></a>
 </h4>

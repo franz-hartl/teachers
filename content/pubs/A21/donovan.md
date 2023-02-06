@@ -30,5 +30,5 @@ path: "/pubs/A21/donovan.html"
 <p>It seems to me that rich potential exists, whatever the form South Africans pursue partnerships.  The value of a partnership emerges from how a team sets goals, sustains membership, incorporates newcomers, and makes ongoing decisions in ways that respect an agreed-upon plan and tap into the energy and passion of team members simultaneously.</p>
 <p>South African and American leaders recognize that the educational, political and ethical challenges they confront are so formidable and interdependent that no one institution or sector of society can engage them alone.  Both countries recognize that alliances between groups and institutions historically at odds or distant from one another may represent the direction of the future.  No group can rebuild District Six by itself.</p>
 <hr/>
-<p><a href=".\">Back to Table of Contents</a></p>
+<p><a href="/pubs/A21/">Back to Table of Contents</a></p>
 </main>

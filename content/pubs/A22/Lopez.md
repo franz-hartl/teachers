@@ -23,10 +23,10 @@ xico. Its mission is to improve the spiritual and physical well-being of New Mex
 <p>2. There is virtually no possibility that more money can be allocated towards the state’s educational budget if we are to maintain other necessary under-funded government programs; and</p>
 <p>3. Low salary levels probably are not the greatest obstacles to attracting and retaining qualified teachers; bureaucratic red tape and lack of institutional support are the primary culprits.</p>
 <p>We at McCune have concluded that if we hope to be effective, we must find ways to be supportive of teachers in ways other than financial. We have reached this conclusion by combining anecdotal truths such as “any student is fortunate to have experience
-d more than one or two truly gifted teachers in a lifetime,” with what we 
+d more than one or two truly gifted teachers in a lifetime,” with what we
 have learned from observation over the last several years.
 </p>
-<p>As would be expected, since the edu-cation system in New Mexico is so 
+<p>As would be expected, since the edu-cation system in New Mexico is so
 financially strapped, opportunities for professional development are extremely limited, and those few that do exist are amateurish at best. Therefore, when Jim Vivian, Director of the Yale-New Haven Teachers Institute, approached the Foundation in 1998 wi
 th the possibility of introducing the National Demonstration Project model in New Mexico, our interest was sparked. The Institute felt strongly that a coast-to-coast scope of sites would prove advantageous by bringing diversity to the Project; however, th
 e DeWitt-Wallace Reader’s Digest proposed funding for the Project to replicate nationally the Yale-New Haven model would only fully cover three sites. The Institute wanted to be able to incorporate all of the four applicant sites: Pittsburgh, Houston, Alb
@@ -34,11 +34,11 @@ uquerque, and Santa Ana into the Project. With the understanding that the progra
 hers who volunteered for the program, the Foundation agreed to support the effort.
 </p>
 <p>The main benefits of the program are twofold: first, the inspiration that public school teachers receive while engaging in interdisciplinary seminar discussions with fellow teachers and like minded university faculty. The seminar’s purpose is to explor
-e and develop their knowledge and understanding of their disciplines and to create curricula that can be taken to the classroom to revitalize student learning. However, the value of having an annual workshop in New Haven each summer 
-for both the university and public 
+e and develop their knowledge and understanding of their disciplines and to create curricula that can be taken to the classroom to revitalize student learning. However, the value of having an annual workshop in New Haven each summer
+for both the university and public
 school teachers to interact with the Yale faculty and colleagues from other sites is inestimable.
 It is our belief that exposure of the APS teachers to advanced state-of-the art concepts in each of their curriculum areas will provide the kind of nurturing support that we have been so often told is lacking. It is also our hope that renewed, energized t
-eachers will reenter the classrooms to provide those rare opportunities where students can experience truly inspirational teachers. This APS-UNM Institute appears to be a valuable, meaningful approach to 
+eachers will reenter the classrooms to provide those rare opportunities where students can experience truly inspirational teachers. This APS-UNM Institute appears to be a valuable, meaningful approach to
 the cause of education in New Mexico when other necessary fundamental reforms appear so far out of reach.
 </p>
 <p>Finally, I should mention that I had occasion in the fall of 2001 to attend the Institute’s National Advisory Committee meeting with President Levin and the administrative officers from the partnerships. The meeting was to allow university administrato
@@ -47,5 +47,5 @@ eight years as Executive Director of the Foundation, I have come to realize more
 the bottom up. But it must be given a chance to happen.
 </p>
 <hr/>
-<p><a href=".\">Back to Table of Contents</a></p>
+<p><a href="/pubs/A22/">Back to Table of Contents</a></p>
 </main>

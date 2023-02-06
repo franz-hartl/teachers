@@ -183,7 +183,7 @@ underway.  Or check back with us down the line as we test ourselves
 against our goal of generating significant, sustained increases in student
 learning.
 </p><hr/>
-<h4><a href=".\">Back to
+<h4><a href="/pubs/A19/">Back to
 Table of Contents of the Spring  1996 Issue of <i>On Common
 Ground</i></a>
 </h4>

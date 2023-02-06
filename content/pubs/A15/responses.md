@@ -12,7 +12,7 @@ Responses to Vito Perrone</h2>
 <hr/>
 <h3>by Manuel N. Gómez</h3>
 <p><i>The world seems mad in preoccupation with what is specific,
-particular, disconnected." 
+particular, disconnected."
 <br/> (John Dewey, </i>Democracy and Education, <i>
 1916)</i>
 </p><p>
@@ -219,7 +219,7 @@ empower one another and we fail to celebrate  the strength of our
 diversity.
 </p>
 <hr/>
-<h4><a href=".\">Back to
+<h4><a href="/pubs/A15/">Back to
 Table of Contents of the Summer 1994 Issue of <i>On Common
 Ground</i></a>
 </h4>

@@ -132,7 +132,7 @@ change in their own learning destinies?" If we could control the  volume
 of partnerships, I would ask that we turn down the silence  and turn up
 the student voices.
 </p><hr/>
-<h4><a href=".\">Back to
+<h4><a href="/pubs/A19/">Back to
 Table of Contents of the Spring  1996 Issue of <i>On Common
 Ground</i></a>
 </h4>

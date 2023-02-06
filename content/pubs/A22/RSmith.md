@@ -12,7 +12,7 @@ path: "/pubs/A22/RSmith.html"
 e could help improve teaching in the public schools.
 It sounded like bunk to me. Not that I was indifferent to public schools: my elementary, secondary, and undergraduate education had all come in mid-western public institutions to which I was deeply attached. But having recently completed five years of gra
 duate school at Harvard, I knew that virtually all Ph.D.s, including me, had begun college-level teaching with no explicit preparation for it whatsoever; so we didn’t know much about teaching. I also knew that whether or not we learned anything about teac
-hing was entirely up to us. The reward systems at research universities paid little attention to that. And I knew that many of my Yale colleagues had far less knowledge about any public schools than I did — much less public schools like New Haven’s, with 
+hing was entirely up to us. The reward systems at research universities paid little attention to that. And I knew that many of my Yale colleagues had far less knowledge about any public schools than I did — much less public schools like New Haven’s, with
 substantial numbers of students from economically disadvantaged, racial minority backgrounds. Those schools were terra incognito to me as well.
 </p>
 <p>Over time, however, I learned that the Teachers Institute approach was not to have Yale professors tell New Haven teachers how to teach. It was to ask teachers what substantive topics they wanted to learn about; find professors willing and able to offe
@@ -37,8 +37,8 @@ topics to discuss in the unit’s initial narrative section. For teachers who in
 he seminar leader must discourage teachers from pursuing their specific unit ideas; but in so doing, the task must always be to identify what the teacher really wants achieve, and ways of doing so that are more appropriate to the seminar’s theme. The mess
 age that the seminar leader takes the teacher’s viewpoint seriously must remain clear. Many of the teachers had professors in their undergraduate days whose conduct could credibly be interpreted quite cynically. They want to believe that doing well at the
 ir Institute work really matters, and that their best efforts will merit respect; but they also want to know that the seminar leader believes that the work matters and believes that the teachers’ efforts deserve respect.
-The final challenge, after changing the things that you can change, is to accept the things that you cannot. Some discussions will be intensely engaged and inspiring; some units will be amazingly creative and exciting; but some sessions and units will be 
-rather grim. It is hard for any teacher in the New Haven schools not to feel overburdened and dispirited at times, and unfortunately some teachers are struggling to get by with limited preparation and skills. They will not all perform wonderfully all the 
+The final challenge, after changing the things that you can change, is to accept the things that you cannot. Some discussions will be intensely engaged and inspiring; some units will be amazingly creative and exciting; but some sessions and units will be
+rather grim. It is hard for any teacher in the New Haven schools not to feel overburdened and dispirited at times, and unfortunately some teachers are struggling to get by with limited preparation and skills. They will not all perform wonderfully all the
 time. We cannot expect for each and every teacher to finish the seminar with a curriculum unit that, if taught by that teacher, is sure to be terrific for any and all students. We can hope for each and every teacher to be more knowledgeable, more prepared
 , and more motivated than that teacher would have been without the seminar experience.
 </p>
@@ -46,7 +46,7 @@ time. We cannot expect for each and every teacher to finish the seminar with a c
 eachers will eventually present quite sophisticated views on complex issues. Although expressed in different (more accessible!) terms, their views often map the spectrum of the best academic discourse on those topics. And learning how to help the teachers
 get to that point helps me to work better with my undergraduates and graduate students. I have also found that, structured and led properly, discussions can bring out the great range of conflicting views that can be found in any collection of teachers, w
 hether they are all black, all white, or very diverse. But if the seminar leader presents issues crudely or artificially or moderates discussion in a one-sided way, open, honest, thoughtful communication across such lines can be very hard to achieve. Thes
-e are lessons of value to me as a teacher, as a scholar, and perhaps most of all as a human being. Finally, I have learned much about the challenges public school teachers face today; the many outstanding things they accomplish despite all obstacles; and 
+e are lessons of value to me as a teacher, as a scholar, and perhaps most of all as a human being. Finally, I have learned much about the challenges public school teachers face today; the many outstanding things they accomplish despite all obstacles; and
 the many things they should be able to accomplish that remain remote, for reasons teachers alone cannot change. Those are lessons that have deeply shaped my sense of both my professional and my civic responsibilities.</p>
 <p>Admittedly, because I teach and write about issues of race, immigration, civil rights, and civic education in America, I have had benefits many professors cannot expect. The knowledge I gain through discussions with New Haven teachers provides direct i
 nsights into subjects that I explore in my other work. But the most important benefit I have gained from offering seminars is one that every faculty member can have. Instead of regarding myself as someone who is, whether I like it or not, essentially a re
@@ -57,5 +57,5 @@ ould be like to have what this nation should have and must have. </p>
 tter in both regards. Because I offer Institute seminars, I can now see myself as someone actively engaged in the vital task of trying to bring that system into existence. And as such, I now see my profession as something that includes being a political s
 cientist, but that is also larger and ultimately more important. Like the conscientious teachers with whom I am fortunate enough to work, I now at least strive to be a professional educator.</p>
 <hr/>
-<p><a href=".\">Back to Table of Contents</a></p>
+<p><a href="/pubs/A22/">Back to Table of Contents</a></p>
 </main>

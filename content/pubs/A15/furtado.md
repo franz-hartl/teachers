@@ -106,10 +106,10 @@ place.  I  hope that this article continues the dialogue and action needed
 to  move this issue into a more public forum.  The more educators and
 businessmen talk, the more we will see that we have something very
 important in common­we both want young people to learn and to
-succeed in life. 
+succeed in life.
 </p>
 <hr/>
-<h4><a href=".\">Back to
+<h4><a href="/pubs/A15/">Back to
 Table of Contents of the Summer 1994 Issue of <i>On Common
 Ground</i></a>
 </h4>

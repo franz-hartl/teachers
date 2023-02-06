@@ -107,7 +107,7 @@ natureUs mirrors with active reflectors or re-broadcasting stations placed
 upon satellites, which are much above the ionosphere. Through all these
 technological changes, however, the physics remains the same.
 </p><hr/>
-<h4><a href=".\">Back to
+<h4><a href="/pubs/A17/">Back to
 Table of Contents of the Spring 1995 Issue of <i>On Common
 Ground</i></a>
 </h4>

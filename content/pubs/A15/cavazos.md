@@ -152,7 +152,7 @@ students who have an interest in a teaching career.  Faculty members
 should counsel them about a teaching career, and  guide them in their
 choice of academic courses. The students should  be advised of the costs
 of a university education, and be made aware  of financial aid
-opportunities. 
+opportunities.
 </p><p>
 Student visits to the College of Education should be encouraged in  order
 that they observe teaching activities and talk to enrolled  students and
@@ -204,7 +204,7 @@ art to be as important as that of the other  areas of learning, all of
 which grew out of the creative process. That  art is about the skill of
 thinking and a respect for feeling. ­ Celia  Alvarez Munoz .</i>
 </p><hr/>
-<h4><a href=".\">Back to
+<h4><a href="/pubs/A15/">Back to
 Table of Contents of the Summer 1994 Issue of <i>On Common
 Ground</i></a>
 </h4>

@@ -21,7 +21,7 @@ and the essay you made us­no, helped us­write, made me think of
 you.  How are you?' We talked for a while and then Minh said, 'you know,
 Mrs. Severy, I've had some good teachers since the 7th grade, but none of
 them helped me....taught me how to look at literature, how to bring my own
-thoughts into what I wanted to say about that literature as much as you. 
+thoughts into what I wanted to say about that literature as much as you.
 And, none of my other teachers ever made me agonize as much about an
 assignment as you did either!  Thank you!'"</p><p>
 So writes Esther Severy, now Assistant Principal of McFadden Intermediate
@@ -39,10 +39,10 @@ California, Irvine site of the National Writing Project to explore this
 common question:  Given the dramatic changes in the demographics of our
 service area, how can we, as teachers, be responsive to and responsible
 about finding ways to recognize, validate and motivate all of the children
-in our classrooms?</p><p> 
+in our classrooms?</p><p>
 Because literature is the stock in trade of
 English/Language Arts teachers, it seemed like one of the most natural
-vehicles to honor the cultural diversity of students in the classroom. 
+vehicles to honor the cultural diversity of students in the classroom.
 Our hope was that by infusing high-interest multicultural literature
 into the core curriculum­not just as a nod to Martin Luther King Day
 or Asian Studies Week­students who have normally felt disenfranchised
@@ -76,13 +76,13 @@ learned so much this past year­respect for my fellow classmates, and
 their cultures, but most of all I sense their respect for my culture,"
 wrote Talline Kojian.  "I have found that my race is as valuable as
 the next," wrote Gabriel Caringal.  "I see that my differences are what
-make me special." </p><p> 
+make me special." </p><p>
 Our experience in the Reading, Thinking and Writing About Culturally
 Diverse Literature Project not only convinced us of the effectiveness of
 designing and implementing multicultural literature-based curricula in
 classrooms with diverse populations, but of the teacher empowerment that
 can be achieved through collaboration.  Perhaps Pat Clark, an English
-teacher from Century High in Santa Ana, says it best: 
+teacher from Century High in Santa Ana, says it best:
 "Participating as a Writing Project consultant is the best thing I ever
 did for both myself and my students....We, as a professional learning
 community, immersed ourselves in multicultural literature, and through
@@ -96,7 +96,7 @@ higher level of understanding; students have developed pride, self-esteem,
 tolerance for others, and a renewed inspiration for reading, writing and
 thinking."  
 </p><hr/>
-<h4><a href=".\">Back to
+<h4><a href="/pubs/A20/">Back to
 Table of Contents of the Fall 1996 Issue of <i>On Common
 Ground</i></a>
 </h4>

@@ -46,7 +46,7 @@ Theatre and Education.
 Yale University
 </p><p>
 <b>Laura J. Roop</b> is dissemination coordinator for the Michigan English
-Language Arts Framework (MELAF) Project. 
+Language Arts Framework (MELAF) Project.
 </p><p>
 <b> Laura Schiller</b>, co-director of
 the Oakland (MI) Writing Project, teaches sixth grade at Birney Middle
@@ -63,15 +63,15 @@ school in New Haven, Connecticut.
 </p><p>
 <b>Marty Trujillo</b> is a volunteer with the Saint Joseph Ballet in Santa
 Ana, California.
-</p><p> 
+</p><p>
 <b>Thomas R. Whitaker</b> is Frederick W. Hilles Professor Emeritus of
 English at Yale University
 </p><p>
 <b>Rosa Citali Zamora</b>, eleven years old, lives in Albuquerque, New
 Mexico. A voracious reader, she began pursuing writing seriously when she
-was mine. 
+was mine.
 </p><hr/>
-<h4><a href=".\">Back to
+<h4><a href="/pubs/A18/">Back to
 Table of Contents of the Fall 1995 Issue of <i>On Common
 Ground</i></a>
 </h4>

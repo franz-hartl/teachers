@@ -49,5 +49,5 @@ New Haven, Connecticut</p>
 Frederick W. Hilles Professor Emeritus of English<br/>
 Yale University</p>
 <hr/>
-<p><a href=".\">Back to Table of Contents</a></p>
+<p><a href="/pubs/A21/">Back to Table of Contents</a></p>
 </main>

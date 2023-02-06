@@ -18,7 +18,7 @@ const conPage = () => (
             <ul>
               <li>
                 <strong>
-                  <Link to="transcripts/F16.html">
+                  <Link to="/transcripts/F16.html">
                     A Celebration of the Teachers Institute: Completing the
                     Challenges, 1995{' '}
                   </Link>
@@ -28,7 +28,7 @@ const conPage = () => (
                   completion of endowment challenge grants awarded in 1990 by
                   the DeWitt Wallace-Reader’s Digest Fund and in 1991 by the
                   National Endowment for the Humanities. A{' '}
-                  <Link to="transcripts/F16.html">transcript</Link> and{' '}
+                  <Link to="/transcripts/F16.html">transcript</Link> and{' '}
                   <a href="https://www.youtube.com/watch?v=Bjvu_HAW1HY">
                     video
                   </a>{' '}
@@ -44,7 +44,7 @@ const conPage = () => (
               </li>
               <li>
                 <strong>
-                  <Link to="transcripts/F12.html">
+                  <Link to="/transcripts/F12.html">
                     Celebration of the Permanence and Promise of the Teachers
                     Institute, 1991{' '}
                   </Link>
@@ -64,7 +64,7 @@ const conPage = () => (
               </li>
               <li>
                 <strong>
-                  <Link to="brochures/A2.html">...and for New Haven</Link>
+                  <Link to="/brochures/A2.html">...and for New Haven</Link>
                 </strong>
                 <p>
                   A brochure describes the initiative to meet the endowment

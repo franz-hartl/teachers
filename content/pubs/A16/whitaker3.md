@@ -68,7 +68,7 @@ an effort we can learn a great deal from the system of apprenticeship  in
 Germany. If a comparable (though not identical) system were  established
 in this country, it could involve universities in various  ways, and it
 might lead to significant changes in the schools'  approaches to many
-academic subjects. 
+academic subjects.
 </li><li>And Thomas Furtado speaks from his personal experience at United
 Technologies with opportunities and difficulties in this area. Concerns
 shared by business and the schools run a gamut from basic reading  skills
@@ -84,7 +84,7 @@ basis for attempts to replicate the Yale experience in other  cities. The
 Institute has long worked with groups elsewhere; and it  hopes to do so
 more systematically in future years. The opportunities  that follow from
 the Goals 2000 Act, as described by Thomas  Payzant, make such
-nation­wide efforts all the more urgent. 
+nation­wide efforts all the more urgent.
 </li></ul>
 <h3>The Images:  Some Perspectives</h3>
 Our cover illustration, which relates most closely to Secretary Reich's
@@ -155,7 +155,7 @@ basis for all our optimism about the world of work not in  the explicit
 "subject" of the painting but in the artist's subtle  rendering of its
 motifs.
 </p><hr/>
-<h4><a href=".\">Back to
+<h4><a href="/pubs/A16/">Back to
 Table of Contents of the Fall 1994 Issue of <i>On Common
 Ground</i></a>
 </h4>

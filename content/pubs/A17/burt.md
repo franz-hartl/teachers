@@ -118,7 +118,7 @@ persuaded of the virtue of Massaro's proposed curriculum. But it does not
 strengthen her case to deny that, in our current mood of "culture clash,"
 many triumphalist advocates will disagree.
 </p><hr/>
-<h4><a href=".\">Back to
+<h4><a href="/pubs/A17/">Back to
 Table of Contents of the Spring 1995 Issue of <i>On Common
 Ground</i></a>
 </h4>

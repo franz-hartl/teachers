@@ -20,7 +20,7 @@ Michigan.
 Association for Higher Education.
 </p><p>
 <b>Carol Keck</b> is a fifth­grade teacher and Mentor in the Career
-Development Program at Albuquerque Public Schools. 
+Development Program at Albuquerque Public Schools.
 </p><p>
 <b>Arthur Levine</b> is the President of Teachers College, Columbia
 University.
@@ -32,14 +32,14 @@ the  Advancement of reaching.
 New York.
 </p><p>
 <b>Sherry H. Penney </b>is the Chancellor of the University of
-Massachusetts, Boston. 
+Massachusetts, Boston.
 </p><p>
 <b>Thomas E. Persing </b>is the Executive Director of the Suburban School
 Study Council in Pennsylvania.
 </p><p>
 <b>Jay L. Robinson</b> is Professor of English Language and Literature and
 Director of the Center for Educational Improvement through  Collaboration
-at the University of Michigan. 
+at the University of Michigan.
 </p><p>
 <b>Edmund G. Ryan </b>is Special Assistant to the President at Le Moyne
 College in Syracuse, New York.
@@ -57,7 +57,7 @@ California.
 Albuquerque Public  Schools/University of New Mexico Career Development
 Program.
 </p><hr/>
-<h4><a href=".\">Back to
+<h4><a href="/pubs/A19/">Back to
 Table of Contents of the Spring 1996 Issue of <i>On Common
 Ground</i></a>
 </h4>

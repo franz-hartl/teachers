@@ -37,7 +37,7 @@ const HomePage = () => (
               </p>
             </div>
             <div className="br-cell py-2">
-              <Link to="brochures/D6/">
+              <Link to="/brochures/D6/">
                 <h2 className="br-title">
                   A Progress Report on Surveys Administered to New Haven
                   Teachers, 1982-1990{' '}

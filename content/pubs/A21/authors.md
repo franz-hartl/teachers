@@ -24,5 +24,5 @@ path: "/pubs/A21/authors.html"
 <p><b>David L. Warren</b> is President of the National Association of Independent Colleges and Universities.</p>
 <p><b>Arnold Weinstein</b> is Edna and Richard Salomon Distinguished Professor and Professor of Comparative Literature at Brown University.</p>
 <hr/>
-<p><a href=".\">Back to Table of Contents</a></p>
+<p><a href="/pubs/A21/">Back to Table of Contents</a></p>
 </main>

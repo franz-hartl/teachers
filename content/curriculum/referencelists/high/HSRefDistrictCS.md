@@ -7,8 +7,8 @@ path: "/curriculum/referencelists/high/HSRefDistrictCS.html"
 <title>District Content Standards</title>
 <center><b></b><h3><b><a name="top">District Content Standards  –  Grades 9-12</a></b></h3></center>
 <hr/>
-<b><font size="+0"><a href="index.html">Teaching Connecticut Academic Performance Test Skills in High School Classrooms Contents</a>
-| <a href="..\">Reference Lists</a></font></b>
+<b><font size="+0"><a href="/curriculum/referencelists/high/">Teaching Connecticut Academic Performance Test Skills in High School Classrooms Contents</a>
+| <a href="/curriculum/">Reference Lists</a></font></b>
 <hr width="100%"/>
 <p><b>Contents of section:</b>
 </p><ul>

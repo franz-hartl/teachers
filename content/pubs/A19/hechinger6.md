@@ -25,7 +25,7 @@ the nation's schools and to continue the struggle to achieve excellence
 for all children, not just the most advantaged.
 </blockquote>
 As early as 1981, Fred Hechinger wrote about the Yale-New Haven Teachers
-Institute in his <i>New York Times</i>  column, "About Education": 
+Institute in his <i>New York Times</i>  column, "About Education":
 <blockquote>
 To critics who charge that higher education neglects the elementary and
 high schools, Mr. Giamatti replies by pointing to the Yale-New Haven
@@ -33,7 +33,7 @@ Teachers Institute, expanded at his urging in 1978.  It brings together
 university professors and local teachers as colleagues to study and
 improve the schools.  While not on a level with the late Mr. Conant's
 nationwide school reform efforts, Mr. Giamatti feels that universities
-today can make their most useful contribution "to where we live." 
+today can make their most useful contribution "to where we live."
 </blockquote>
 Giamatti had, Hechinger wrote, "urged Education Secretary T. H. Bell to
 use those severely limited Federal funds to encourage local cooperation
@@ -80,7 +80,7 @@ schools entered a new era.  This major underwriting of one of the earliest
 university-school compacts is expected to have a great impact in
 furthering such cooperation."  During his illness late last year, it was
 gratifying to be able to tell him that the University had successfully
-completed that challenge. 
+completed that challenge.
 <p>
 It was our great good fortune that, on retiring from <i>The Times</i>  and
 becoming Senior Advisor to the Carnegie Corporation of New York,  Fred
@@ -99,7 +99,7 @@ many teachers waiting to be admitted to a truly professional partnership.
 </blockquote>
 <p align="right">­ J. R. V.</p>
 <hr/>
-<h4><a href=".\">Back to
+<h4><a href="/pubs/A19/">Back to
 Table of Contents of the Spring  1996 Issue of <i>On Common
 Ground</i></a>
 </h4>

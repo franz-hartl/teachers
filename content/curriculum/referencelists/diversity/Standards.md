@@ -5,8 +5,8 @@ path: "/curriculum/referencelists/diversity/Standards.html"
 ---
 <main>
 <center><h3><b>New</b> <b>Haven</b> <b>Public</b> <b>Schools</b> <b>Curriculum</b> <b>Standards</b> <b>Relating</b> <b>Specifically</b> <b>to</b> <b>Teaching</b> <b>about</b> <b>Diversity</b></h3></center>
-<hr/> <b><a href="index.html">Teaching about Diversity Contents</a> | <a href="..\">Reference Lists</a></b> <br/>
-<hr width="100%"/> 
+<hr/> <b><a href="/curriculum/referencelists/diversity/">Teaching about Diversity Contents</a> | <a href="/curriculum/referencelists/">Reference Lists</a></b> <br/>
+<hr width="100%"/>
 <p>
 <br/>
 <b>English</b>/<b>Language</b> <b>Arts</b> <b>Standards</b>

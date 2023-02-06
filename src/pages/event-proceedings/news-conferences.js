@@ -17,7 +17,7 @@ const conPage = () => (
             <ul>
               <li>
                 <strong>
-                  <Link to="transcripts/F7.html">
+                  <Link to="/transcripts/F7.html">
                     News Conferences on September 23, 1986
                   </Link>
                 </strong>
@@ -33,7 +33,7 @@ const conPage = () => (
               </li>
               <li>
                 <strong>
-                  <Link to="transcripts/F3.html">
+                  <Link to="/transcripts/F3.html">
                     News Conference on November 8, 1982{' '}
                   </Link>
                 </strong>
@@ -45,7 +45,7 @@ const conPage = () => (
                   developing model of school-university cooperation into
                   something with a bright future, something that we at the
                   Endowment very much hope will become permanent.” A{' '}
-                  <Link to="transcripts/F3.html">transcript</Link> and{' '}
+                  <Link to="/transcripts/F3.html">transcript</Link> and{' '}
                   <a href="https://www.youtube.com/watch?v=91r2zBfXY9M">
                     video
                   </a>{' '}
@@ -55,7 +55,7 @@ const conPage = () => (
               </li>
               <li>
                 <strong>
-                  <Link to="transcripts/F1.html">
+                  <Link to="/transcripts/F1.html">
                     Press Conference on National Endowment for the Humanities
                     Award, October 18, 1978{' '}
                   </Link>

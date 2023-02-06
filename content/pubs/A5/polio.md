@@ -27,8 +27,8 @@ and ESOL Instruction</h1><p>
 <a href="#n"></a></li><li><a href="#n">Annotated Student Bibliography</a>
 </li></ul>
 <h4>
-<a href=".\">Teaching in New Haven: Table of Contents</a> |
-<a href="..\..\">Yale-New Haven Teachers Institute</a>
+<a href="/pubs/A5/">Teaching in New Haven: Table of Contents</a> |
+<a href="/">Yale-New Haven Teachers Institute</a>
 </h4>
 <hr/>
 <a name="a">
@@ -63,7 +63,7 @@ Know thine own meaning, but wouldst gabble like
 <br/>
 A thing most brutish, I endowed thy purposes
 <br/>
-With words that made them known . . . 
+With words that made them known . . .
 <br/>
 <i>The Tempest, Act I, Scene ii</i> (ll. 332-341; 355-359)1
 </p></blockquote>
@@ -113,7 +113,7 @@ analysis.</p><p>
 In the transitional Bilingual classroom there is a delicate balance, when
 teaching English, between imparting communication skills in the new
 language and encouraging students to express pride in their native tongue
-through speaking, reading, and writing. 
+through speaking, reading, and writing.
 This curriculum unit has been designed to promote critical thinking by
 posing the following questions related to the point-of-contact between
 cultures. Students and teachers alike may analyze the similarities and
@@ -237,7 +237,7 @@ essays was published in 1603. Not only was Floro a personal friend of
 Shakespeare, but the copy of the translation that Shakespeare owned and
 annotated is still preserved and is considered one of the inspirations
 behind <i>The Tempest.</i> Montaigne states:
-<blockquote>. . . there is nothing barbaric or savage in these nations . . 
+<blockquote>. . . there is nothing barbaric or savage in these nations . .
 . what happens is that everyone calls what is foreign to his own customs
 ‘barbarian’.5</blockquote>
 Students can respond to the above quotes by supplying their own
@@ -263,7 +263,7 @@ the rain and the tempest had stepped up until there was as much agitation
 in the town as at sea. All the houses and churches came down. We had to
 walk seven or eight together, locking arms, to keep from being blown
 away.6</blockquote>
-The second is considered to be an exaggeration of the truth and is known as the “Myth of the Lost Pilot”. It was used to disclaim Columbus’ contention of having been the first European to set foot in the New World since the power and financial rewards he 
+The second is considered to be an exaggeration of the truth and is known as the “Myth of the Lost Pilot”. It was used to disclaim Columbus’ contention of having been the first European to set foot in the New World since the power and financial rewards he
 would personally reap would minimize the control of the Spanish crown:
 <blockquote>. . . a pilot . . . called Alonso Sánchez de Huelva . . . had
 a small
@@ -313,7 +313,7 @@ Out of his charity, who being then appointed
 <br/>
 Master of this design, did give us, with
 <br/>
-Rich garments, linens, stuffs and necessaries . . . 
+Rich garments, linens, stuffs and necessaries . . .
 <br/><br/>
 (ll. 160-167)
 </blockquote>
@@ -334,7 +334,7 @@ from Italy in The Tempest, students should consider that this might be a
 permanent situation and that Prospero does not use his magical powers
 until they reach the island. This should inspire students to select items
 carefully and to anticipate the problems the characters might encounter on
-their journey. 
+their journey.
 <p>
 When Prospero reaches the island he is “rapt in secret studies” (ll.
 75-76) with the books Gonzalo has supplied:</p>
@@ -361,7 +361,7 @@ a rotten carcass of a butt not rigg’d
 <br/>
 Nor tackle, sail, nor mast; the very rats
 <br/>
-Instinctively have quit it . . . 
+Instinctively have quit it . . .
 <br/>
 (ll. 145-150)
 </blockquote>
@@ -389,7 +389,7 @@ two cultures, and for this reason I feel it warrants a detailed analysis.
 The first image we have of Caliban is Prospero’s description:</p>
 <blockquote>. . . A freckled whelp hag born—not honour’d
 <br/>
-with a human shape . . .  Dull thing, I say so . . . 
+with a human shape . . .  Dull thing, I say so . . .
 <br/>
 (ll. 282-284)
 </blockquote>
@@ -405,7 +405,7 @@ livelihood, yet subjugate and ensl ave him:
 <br/>
 Fetch in our wood, and serves in offices
 <br/>
-That profit us . . . 
+That profit us . . .
 <br/>
 (ll.311-315)
 </blockquote>
@@ -443,7 +443,7 @@ Drawing by Gabriel Arvelo11</p><p>
 An emissary had been sent by Montezuma to validate reports that natives
 had seen “two towers or small mountains floating on the waves of the
 sea’’12 and the following is their eyewitness account:</p>
-<blockquote> 
+<blockquote>
 ‘Our lord and king, it is true that strange people have come
 to the shores of the great sea . . . There were about fifteen of these
 people, some with blue jackets, others with black or green, and still
@@ -542,7 +542,7 @@ noble.
 <br/>
 . . . At the first sight
 <br/>
-They have chang’d eyes . . . 
+They have chang’d eyes . . .
 <br/>
 (ll. 443-444)
 </p><p>
@@ -550,7 +550,7 @@ They have chang’d eyes . . .
 <br/>
 . . . This
 <br/>
-Is the third man that e’er I saw . . . 
+Is the third man that e’er I saw . . .
 <br/>
 (ll. 447-448)
 </p><p>
@@ -570,7 +570,7 @@ I’ll make you The Queen of Naples.
 <br/>
 I’ll manacle thy neck and feet together,
 <br/>
-Sea-water shalt thou drink . . . 
+Sea-water shalt thou drink . . .
 <br/>
 (ll. 463-464)
 </p><p>
@@ -600,7 +600,7 @@ Columbus’ journal might be discussed here:
 <blockquote>This said island of Juana is exceedingly fertile . . . it is
 surrounded
 by many bays . . . surpassing any that I have ever seen; numerous large and healthful rivers intersect it, and it also contains many very lofty mountains . . . all these islands are v
-ery beautiful . . . they are filled with a great variety of trees of immense height . . . some of them were blossoming, some bearing fruit . . . The nightingale and various birds were singing in countless numbers, and that in November, the month in which 
+ery beautiful . . . they are filled with a great variety of trees of immense height . . . some of them were blossoming, some bearing fruit . . . The nightingale and various birds were singing in countless numbers, and that in November, the month in which
 I arrived there. There are . . . seven or eight kinds of palm trees . . . 19
 </blockquote>
 Students could be asked to draw these different varieties of palm trees
@@ -682,7 +682,7 @@ silver; there would this monster make a man:
 <br/>
 when they will not give a doit to relieve a lame
 <br/>
-beggar, they will lay out ten to see a dead Indian . . . 
+beggar, they will lay out ten to see a dead Indian . . .
 <br/>
 (ll. 25-34)
 <p>
@@ -778,7 +778,7 @@ The love between Fernando and Miranda is expressed verbally in this short
 scene. Since most of the language is very sophisticated, these relatively
 simple lines (ll. 6-9, 20-21, 31-36, 45-51, 58-60, 63-65, 67-68, 72-74,
 83, 86-92), can be excerpted in ord er to provide the framework for the
-following comprehension questions: 
+following comprehension questions:
 </a><dl><a name="f"><dt>-How does Fernando describe Prospero?
 </dt><dt>-Why is Prospero acting like this?
 </dt><dt>-Where is Prospero during this scene? How long will he be away?
@@ -819,12 +819,12 @@ Ariel’s magic. Students could divide the following stage directions into
 their corresponding components and decide as technicians in their
 particular fields what the best solutions would be. They might also
 consider the di fferences between a staged and a film version in order to
-compare the possibilities and limitations of both media: 
+compare the possibilities and limitations of both media:
 <blockquote>Solemn and strange music, and Prospero on the top (invisible).
 Enter
 several strange Shapes, bringing in a banquet; and dance about it with
 gentle actions of salutations; and inviting the king and company to eat,
-they depart. 
+they depart.
 <br/>
 (ll. 16-21)
 <p>
@@ -859,7 +859,7 @@ meaning and content of each poe m. A memorization homework assignment
 might follow. These verses include Ariel’s poem (ll. 42-47), Juno’s song
 describing her marriage blessing (ll. 105-110), Ceres’ hopes for the
 bestowal of rich harvests (ll. 111-116), and Iris’ call to the nymphs (ll.
-127-138). 
+127-138).
 <p>
 There are several references to clothing here, presenting yet another
 chance for students to analyze the play from the costumer’s perspective
@@ -975,7 +975,7 @@ comprehension of the play. For example:
 <blockquote>
 Now my charms are all o’erthrown
 <br/>
-And what strength I have’s mine_____ . . . 
+And what strength I have’s mine_____ . . .
 <p>
 As you from crimes would pardon’d be,
 <br/>
@@ -985,7 +985,7 @@ Epilogue (ll. l-2, 19-20)
 </p></blockquote>
 After the Epilogue has been read, teachers and students can review the major objectives of this curriculum unit to see if they have been met. Do students have an understanding of colonization as portrayed in The Tempest? Can they relate the issues associa
 ted with one culture being dominated by another to other historical periods? To the present? Can they begin to question history if only one, and not multiple, perspectives are given?<p>
-Students will hopefully have seen the parallels between The Tempest and the chronicles throughout the reading of the play. Are any of the references to these primary sources vivid enough for students to recount from memory? They have also been trained to 
+Students will hopefully have seen the parallels between The Tempest and the chronicles throughout the reading of the play. Are any of the references to these primary sources vivid enough for students to recount from memory? They have also been trained to
 look at a play from the point of view of the stage technician—is it easier now to spot costume, lighting, scenery, properties, and sound references?</p><p>
 Lastly, the issue which I find most central, that of language and communication, can best be evaluated by returning to the questions posed at the beginning of the unit related to the point-of-contact between cultures. Hopefully students have become sensit
 ized to Caliban’s plight by the end of the play. Students can discuss their initial reactions and any changes they may have felt as the play developed.</p><p>
@@ -1130,7 +1130,7 @@ p. 158.</p>
 Montaigne, Michel de. <i>Selected Essays,</i> edited by Blanchard Bates.
 New
 York: The Modern Library, 1953. Questions the basis of European cultures
-and supports the natives’ right to self-determination. 
+and supports the natives’ right to self-determination.
 <p>
 Retamar, Roberto Fernández. “Caliban: Notes Towards a Discussion of
 Culture in Our America”. In <i>The Massachusetts Review,</i> Volume III
@@ -1141,7 +1141,7 @@ symbolism of Caliban.
 Ricard, Robert.<i> The Spiritual Conquest of Mexico,</i> translated by
 Lesley
 Byrd Simpson. Berkeley, University of California Press, 1966. Religious
-history of Mexico from 1523-1572. 
+history of Mexico from 1523-1572.
 </p></a><center><a name="m"></a><div align="right"><a name="m"></a><p><a name="m">
 </a><a href="#top">to the top of this chapter</a></p></div></center>
 <hr/>
@@ -1151,54 +1151,54 @@ Casas, Bartolomé de las. <i>The Devastation of the Indies: A Brief
 Account,</i>
 translated by Herma Briffault. New York: Seabury Press, 1974. Eyewitness
 account of the cruelty of the Spaniards towards the natives by a
-contemporary of Columbus. 
+contemporary of Columbus.
 <p>
-Césaire, Aimé.<i> A Tempest,</i> translated by Richard Miller. New York: 
+Césaire, Aimé.<i> A Tempest,</i> translated by Richard Miller. New York:
 Georges Borchardt, Inc., 1985. Shakespeare’s work set in an African
 colony. With expletives deleted, provides thought-provoking material for
-students. 
+students.
 </p><p>
 Columbus, Christopher. <i>Four Voyages to the New World,</i> edited by
 R.H.  Major. Gloucester, Massachusetts: Corinth Books, 1978. Account of
-travels to the Caribbean by the Admiral himself. 
+travels to the Caribbean by the Admiral himself.
 </p><p>
 Cortés, Hernán. <i>Letters from Mexico,</i> edited by A.R. Pagden. New
 York:
-Orion Press, 1971. Account by Cortes of destruction of the Aztec capital. 
+Orion Press, 1971. Account by Cortes of destruction of the Aztec capital.
 </p><p>
 Díaz de Castillo, Bernal. First hand account of the conquest of the Aztecs
-in Mexico by one of the last Spanish survivors (1492-1580). 
+in Mexico by one of the last Spanish survivors (1492-1580).
 </p><p>
-Garcilaso de la Vega el Inca. <i>Royal Commentaries of the Incas.</i> 
+Garcilaso de la Vega el Inca. <i>Royal Commentaries of the Incas.</i>
 Austin:
 University of Texas Press, 1967. Sixteenth century account by a
 well-educated mestizo, whose father was a Spanish nobleman and whose
-mother was related to the ruling family of the Inca s in Peru. 
+mother was related to the ruling family of the Inca s in Peru.
 </p><p>
 Lamb, Charles and Mary. <i>Tales from Shakespeare.</i> Great Britain:
 Chancer
-Press, 1983. Contains a narrative version of The Tempest. 
+Press, 1983. Contains a narrative version of The Tempest.
 </p><p>
 León-Portilla, Miguel, editor. <i>The Broken Spears.</i> Boston: Beacon
 Press,
 1966. Eyewitness accounts, originally written in Nahuatl, by anonymous
-Aztec witnesses of the fall of their empire by Cortes and his warriors. 
+Aztec witnesses of the fall of their empire by Cortes and his warriors.
 </p><p>
 Nu–ez Cabeza de Vaca, Alvar. <i>Adventures in the Unknown Interior of
 America,</i> edited by Cyclone Covey. Albuquerque: University of New
 Mexico
 Press, 1961. First hand account, written in 1542, by the first European to
-cross the North American continent. 
+cross the North American continent.
 </p><p>
 Peterson, Mendel “Reach for the New World.” In <i>National Geographic,</i>
 Volume
 152, Number 6 (December). Washington: National Geographic Society, 1977.
-Pull out map. 
+Pull out map.
 </p><p>
 Shakespeare, William. <i>The Tempest,</i> edited by Frank Kermode. London
 and New
 York: Methuen and Company, 1980. Contains good introduction, critical
-notes and appendices. 
+notes and appendices.
 </p><p>
 Shakespeare, William. <i>The Tempest,</i> adapted by Rich Margopoulos.
 West
@@ -1210,7 +1210,7 @@ Shakespeare, William. <i>The Tempest,</i> adapted by Forrest Stone. New
 York:
 Classic Theatre for Children, 1987. A simplified version of Shakespeare’s
 work with stage directions. Suitable for intermediate/advanced E.S.O.L.
-students. 
+students.
 </p><p>
 <i>(figure available in print form)</i>
 </p></a><center><a name="n"></a><div align="right"><a name="n"></a><p><a name="n">

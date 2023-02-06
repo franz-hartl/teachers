@@ -102,7 +102,7 @@ policy in colleges and universities, more faculty would be glad to  join
 in collaborating in partnerships to better the content and process  of
 schooling.
 </p><hr/>
-<h4><a href=".\">Back to
+<h4><a href="/pubs/A19/">Back to
 Table of Contents of the Spring  1996 Issue of <i>On Common
 Ground</i></a>
 </h4>

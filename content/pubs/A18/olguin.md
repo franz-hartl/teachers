@@ -70,7 +70,7 @@ instruction and personal growth. It also offers a  rationale for increased
 funding to the arts withn our schools. No  longer should the arts be
 marginalized.  The arts are a powerful  approach for learning and knowing.
 </p><hr/>
-<h4><a href=".\">Back to
+<h4><a href="/pubs/A18/">Back to
 Table of Contents of the Fall 1995 Issue of <i>On Common
 Ground</i></a>
 </h4>

@@ -20,18 +20,18 @@ My father was very light-skinned,
 <br/>Not too fat, not too thin, just right.
 <br/>I think he never liked to see me fight.
 </p><p>
-My father had nice curly hair. 
+My father had nice curly hair.
 <br/>When I needed him, he was always there.
 </p><p>
-My father tried to teach me lots of    <br/> stuff back then. 
+My father tried to teach me lots of    <br/> stuff back then.
 <br/>One thing was to swim.
 </p><p>
 When anybody messed with me,
 <br/>it didn't bother me because,
 <br/>back then I knew I had my father.
 </p><p>
-By now I think you know, 
-<br/>he's gone. 
+By now I think you know,
+<br/>he's gone.
 <br/>His memory will stay with me very long.
 </p><p>
 My father, Nathan Spearman,
@@ -40,7 +40,7 @@ My father, Nathan Spearman,
 </p></center>
 <p align="right">Narkita Spearman</p>
 <hr/>
-<h4><a href=".\">Back to
+<h4><a href="/pubs/A18/">Back to
 Table of Contents of the Fall 1995 Issue of <i>On Common
 Ground</i></a>
 </h4>

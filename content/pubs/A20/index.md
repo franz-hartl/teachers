@@ -4,7 +4,7 @@ title: "On Common Ground"
 path: "/pubs/A20/"
 ---
 <main>
-<center><font size="+2">On Common Ground : 
+<center><font size="+2">On Common Ground :
 Number 7, Fall 1996</font><p>
 <i>Table of Contents</i></p></center><p>
 <table>
@@ -87,7 +87,7 @@ World</a><br/>
 </td><td>Book Reviews
 <br/>
 <font color="white" style="visibility:hidden;">______</font><a href="/pubs/A20/bookreviews.html">bell hooks'
-<i>Teaching to Transgress</i>   and Ronald Takaki's 
+<i>Teaching to Transgress</i>   and Ronald Takaki's
 <br/><font color="white" style="visibility:hidden;">______</font><i>A Different Mirror: A History of
 Multicultural America </i>
 </a><br/>
@@ -108,7 +108,7 @@ Editorial Board</a>
 Contact Information</a>
 </td></tr></tbody></table>
 </p>
-<center><font size="-1"><a href="..\">Publications</a> | 
+<center><font size="-1"><a href="/pubs/">Publications</a> |
 <a href="/">Yale-New Haven Teachers
 Institute</a></font></center>
 </main>

@@ -15,5 +15,5 @@ path: "/pubs/A21/atkinson.html"
 <p>A second principle of the school partnerships is a recognition of the role played by all members of a community in school achievement, not only within the boundaries of the school, but in the surrounding community.  The partnerships will seek to involve parents, local businesses and industry, and community organizations in support for the school and for the learning process of students enrolled.</p>
 <p>Lastly, the partnerships will be formed around a set of high academic standards and careful monitoring of the process of achieving those standards.  The partnerships  will recognize the potential that all children have for achievement and seek to provide new tools and an environment in which that potential can become a reality.</p>
 <hr/>
-<p><a href=".\">Back to Table of Contents</a></p>
+<p><a href="/pubs/A21/">Back to Table of Contents</a></p>
 </main>

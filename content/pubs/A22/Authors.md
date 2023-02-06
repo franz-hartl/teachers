@@ -24,5 +24,5 @@ path: "/pubs/A22/Authors.html"
 <p><b>Jean Sutherland  </b> Teaches third grade at L. w. Beecher Elementary School in New Haven.</p>
 <p><b>Thomas R. Whitaker  </b>  is Chairman of Editorial Board.</p>
 <hr/>
-<p><a href=".\">Back to Table of Contents</a></p>
+<p><a href="/pubs/A22/">Back to Table of Contents</a></p>
 </main>

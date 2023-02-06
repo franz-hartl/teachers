@@ -139,9 +139,9 @@ brown or white . . . only how competent that individual is. If your
 schools don't give all young people a fair chance to become competent,
 then the gulf between the "haves" and the "have nots" will grow wider.
 That prospect should frighten us all. . . and persuade us to help teachers
-and schools transform themselves. 
+and schools transform themselves.
 </p><hr/>
-<h4><a href=".\">Back to
+<h4><a href="/pubs/A17/">Back to
 Table of Contents of the Spring 1995 Issue of <i>On Common
 Ground</i></a>
 </h4>

@@ -55,7 +55,7 @@ Editorial Board</a>
 Contact Information</a>
 </td></tr></tbody></table>
 </p>
-<center><font size="-1"><a href="..\">Publications</a> | 
-<a href="..\..\">Yale-New Haven Teachers
+<center><font size="-1"><a href="/pubs/">Publications</a> |
+<a href="/">Yale-New Haven Teachers
 Institute</a></font></center>
 </main>

@@ -91,7 +91,7 @@ continue to fiddle with the  chrome of education while employing a motor
 that does not have the  capacity to get us where we want to go.  The time
 has come to look  under the hood.
 </p><hr/>
-<h4><a href=".\">Back to
+<h4><a href="/pubs/A18/">Back to
 Table of Contents of the Fall 1995 Issue of <i>On Common
 Ground</i></a>
 </h4>

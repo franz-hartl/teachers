@@ -108,7 +108,7 @@ called the Yale-New Haven Teachers Institute and its significance as a
 model for a national effort to relate town and gown, and the secondary
 school to institutions of higher learning in a mutually advantageous
 way.</p><p>
-In 1991 I was again invited to teach a seminar for the Teachers Institute. 
+In 1991 I was again invited to teach a seminar for the Teachers Institute.
 This time I pursued the older theme­how is local history shaped by
 larger social and political national events­from a very different
 angle.  The seminar, "Studies in American Regions and Regionalism" focused
@@ -126,7 +126,7 @@ their Southern origins.  There was and is a pride of place about their
 former communities in North and South Carolina and Virginia.  In short,
 much of New Haven's recent history could best be understood as an
 encounter between urban New England and the rural South that was far more
-complex and mutually rewarding than any of us in the seminar had expected. 
+complex and mutually rewarding than any of us in the seminar had expected.
 The members of the class also traced similar migrations from Mississippi
 to Chicago and that of Black Americans migrating to California in this
 century.</p><p>
@@ -149,7 +149,7 @@ about more effective ways of teaching and learning.  One splendid result
 has been that all involved have helped articulate what it means to be a
 true  urban community.  <br/>
 </p><hr/>
-<h4><a href=".\">Back to
+<h4><a href="/pubs/A20/">Back to
 Table of Contents of the Fall 1996 Issue of <i>On Common
 Ground</i></a>
 </h4>

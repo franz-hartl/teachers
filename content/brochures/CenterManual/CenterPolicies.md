@@ -7,7 +7,7 @@ path: "/brochures/CenterManual/CenterPolicies.html"
 <title>Center Policies and Procedures</title>
 <center><b><h3><a name="top">Center Policies and Procedures</a></h3></b></center>
 <hr/>
-<b><font size="+0"><a href="index.html">Centers for Curriculum and Professional Development Contents</a>
+<b><font size="+0"><a href="/brochures/CenterManual/">Centers for Curriculum and Professional Development Contents</a>
 </font></b>
 <hr width="100%"/>
 <p><b>Contents of section:</b>
@@ -47,11 +47,11 @@ path: "/brochures/CenterManual/CenterPolicies.html"
 </p>
 <p>6. To <i>monitor the progress</i> of the Center through observation and conversation with participants, and to arrange or make presentations at semi-annual Center Forums.  
 </p>
-<p>7. To <i>collaborate</i> with other Center Coordinators and the Steering Committee on the development of Centers, the fulfillment of the Center Academic Plans, and, as may be necessary, the revision of the Center Policies and Procedures. 
+<p>7. To <i>collaborate</i> with other Center Coordinators and the Steering Committee on the development of Centers, the fulfillment of the Center Academic Plans, and, as may be necessary, the revision of the Center Policies and Procedures.
 </p>
 <p>8. To <i>meet and communicate with the Institute Center Steering Committee liaison</i> on a frequent basis to discuss the status of the Center and plan Center activities.  (The meetings will typically take place in the Center itself.)
 </p>
-<p>9. To establish a <i>good working relationship with building-level administrators</i> to keep them up-to-date on Institute participants, activities, materials, and services—and to solicit their advice and assistance. 
+<p>9. To establish a <i>good working relationship with building-level administrators</i> to keep them up-to-date on Institute participants, activities, materials, and services—and to solicit their advice and assistance.
 </p>
 <p>10. To <i>maintain</i> an accurate and <i>complete Center Log and records; to prepare a semi-annual progress report</i> of all Center activities, detailing how these activities have advanced the Center Academic Plan; and to prepare an annual application for Center renewal.  
 </p>
@@ -70,13 +70,13 @@ path: "/brochures/CenterManual/CenterPolicies.html"
 </p>
 <p>2. <i>Student Use</i>:  Although Centers are intended primarily for use by teachers, students may use the Center when two conditions are met:  (a)  the students are under the close and constant supervision of a teacher; and (b) student time in the Center has been scheduled in advance and does not displace or interfere with teachers’ use.  In all cases, teachers have priority over students using Center resources.  
 </p>
-<p>3. <i>Center Hours</i>:  To be determined by the school’s Center Coordinating Team. 
+<p>3. <i>Center Hours</i>:  To be determined by the school’s Center Coordinating Team.
 </p>
 <p>4. <i>Center Access</i>:  To be determined by the school’s Center Coordinating Team.
 </p>
 <p>5. <i>Documenting Center Use</i>:  For reports to funders and other purposes, the Center is required to maintain accurate records of the Center’s use.  Each person who utilizes the Center must document his or her activities by completing a simple entry in the Center Log.
 </p>
-<p>6. <i>Scheduling Center Use</i>:  To be determined by the school’s Center Coordinating Team. 
+<p>6. <i>Scheduling Center Use</i>:  To be determined by the school’s Center Coordinating Team.
 </p>
 <div align="right"><a href="#top">to the top of Center Policies and Procedures</a></div>
 <hr/>
@@ -92,7 +92,7 @@ path: "/brochures/CenterManual/CenterPolicies.html"
 </p>
 <p>5. <i>No Personal Use of the Center Computer</i>:  The Center is intended as a place where teachers can research and develop new classroom curricula.  The Center computer is not to be used for purposes outside this domain.  Personal use of the Center computer is prohibited.
 </p>
-<p>6. <i>Time Limits</i>:  Even though there is no rate-charge for using the Internet account on the Center computer, please limit your time on the Center computer if demand to use it is high. 
+<p>6. <i>Time Limits</i>:  Even though there is no rate-charge for using the Internet account on the Center computer, please limit your time on the Center computer if demand to use it is high.
 </p>
 <p>7. <i>Computer Maintenance</i>:  If a problem arises with the Center computer, a teacher should first contact the teachers in charge of overseeing Center activities.  If these teachers are not available, he or she should contact the Institute Computer Assistant.  
 </p>
@@ -115,7 +115,7 @@ path: "/brochures/CenterManual/CenterPolicies.html"
 <p>Where will Institute Center property be securely stored during the summer recess?
 <br/>______________________________________________________________________________
 </p>
-<p>What is the name and phone number of an individual who can provide the Institute access to this 
+<p>What is the name and phone number of an individual who can provide the Institute access to this
 <br/>location, if necessary, during the summer?  ___________________________________________
 </p>
 <p><i>(Please check each item currently located in your Center.)</i>
@@ -162,8 +162,8 @@ path: "/brochures/CenterManual/CenterPolicies.html"
 <center><b>Request for Authorization to Use the Center Computer in</b>
 <p>_________________________________________________
 <br/>(school name)</p></center>
-<p>I apply to be given a login name and password to use the Institute Center computer in my school for the 
-<br/>purpose described below.  I have read and agree to abide by the Policies and Procedures governing the 
+<p>I apply to be given a login name and password to use the Institute Center computer in my school for the
+<br/>purpose described below.  I have read and agree to abide by the Policies and Procedures governing the
 <br/>computer’s use.  
 </p>
 <p>Name:_____________________________________________________________________

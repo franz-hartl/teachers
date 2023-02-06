@@ -102,12 +102,12 @@ topics for special emphasis over the next few years:
 </p><p>
 <b>1) National, state, and local policies that affect collaboration;
 <br/>
-2) University-school collaboration in historical context; 
+2) University-school collaboration in historical context;
 <br/>
-3) Collaboration and community in a multicultural nation; 
+3) Collaboration and community in a multicultural nation;
 <br/>
 4) Educational change and organizational structure, including relations to
-schools and departments of education; 
+schools and departments of education;
 <br/>
 5) Collaborative programs to prepare students for the world of work;
 <br/> 6) The rhetoric of educational reform; <br/>
@@ -160,7 +160,7 @@ mailing list, please write us a note to that effect.
 <br/> <i>Chairman, Editorial Board </i>
 </p>
 <hr/>
-<h4><a href=".\">Back to
+<h4><a href="/pubs/A14/">Back to
 Table of Contents of the Fall 1993 Issue of <i>On Common
 Ground</i></a>
 </h4>
