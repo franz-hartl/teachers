@@ -24,6 +24,17 @@ module.exports = {
         // other options
       },
     },
+    {
+      resolve: 'gatsby-plugin-google-gtag',
+      options: {
+        trackingIds: [
+          "GA-G-3WM0LS39GW"
+        ],
+      },
+      pluginConfig: {
+        head: true,
+      },
+    },
     'gatsby-plugin-zopfli',
     // {
     //   resolve: 'gatsby-plugin-algolia',
@@ -68,11 +79,11 @@ module.exports = {
       resolve: 'gatsby-transformer-remark',
       options: {
           // CommonMark mode (default: true)
-          commonmark: false,
+          //commonmark: false,
           // Footnotes mode (default: true)
           footnotes: false,
           // Pedantic mode (default: true)
-          pedantic: false,
+          //pedantic: false,
           // GitHub Flavored Markdown mode (default: true)
           gfm: false,
         plugins: [
