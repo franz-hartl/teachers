@@ -1581,7 +1581,11 @@ const VolumeIndexPage = () => (
 
                 <td />
               </tr>
-
+              <tr>
+                <td colSpan="3" style={{padding: "0 20px"}}>
+                  <Link to="/curriculum/guides/2001/">Guide to Curriculum Units</Link>
+                </td>
+              </tr>
               <tr valign="top">
                 <td nowrap="nowrap">Volume I</td>
 
@@ -1675,7 +1679,11 @@ const VolumeIndexPage = () => (
 
                 <td />
               </tr>
-
+              <tr>
+                <td colSpan="3" style={{padding: "0 20px"}}>
+                  <Link to="/curriculum/guides/2000/">Guide to Curriculum Units</Link>
+                </td>
+              </tr>
               <tr valign="top">
                 <td nowrap="nowrap">Volume I</td>
 
@@ -1781,7 +1789,11 @@ const VolumeIndexPage = () => (
 
                 <td />
               </tr>
-
+              <tr>
+                <td colSpan="3" style={{padding: "0 20px"}}>
+                  <Link to="/curriculum/guides/1999/">Guide to Curriculum Units</Link>
+                </td>
+              </tr>
               <tr valign="top">
                 <td nowrap="nowrap">Volume I</td>
 
@@ -1890,7 +1902,11 @@ const VolumeIndexPage = () => (
 
                 <td />
               </tr>
-
+              <tr>
+                <td colSpan="3" style={{padding: "0 20px"}}>
+                  <Link to="/curriculum/guides/1998/">Guide to Curriculum Units</Link>
+                </td>
+              </tr>
               <tr valign="top">
                 <td nowrap="nowrap">Volume I</td>
 
