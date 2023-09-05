@@ -20,6 +20,63 @@ const VolumeIndexPage = () => (
               <td>
                 <font size="+1">
                   <b>
+                    <i>2023</i>
+                  </b>
+                </font>
+              </td>
+            </tr>
+            <tr>
+              <td colSpan="3" style={{padding: "0 20px"}}>
+                <Link to="/curriculum/guides/2023/">Guide to Curriculum Units</Link>
+              </td>
+            </tr>
+            <tr valign="top">
+              <td nowrap="nowrap">Volume I</td>
+              <td />
+              <td>
+                <Link to="/curriculum/units/2023/1/">
+                  Poetry as Sound and Object
+                </Link>
+              </td>
+            </tr>
+            <tr valign="top">
+              <td nowrap="nowrap">Volume II</td>
+              <td />
+              <td>
+                <Link to="/curriculum/units/2023/2/">
+                  Latinx Histories, Cultures, and Communities
+                </Link>
+              </td>
+            </tr>
+            <tr valign="top">
+              <td nowrap="nowrap">Volume III</td>
+              <td />
+              <td>
+                <Link to="/curriculum/units/2023/3/">
+                  Writing Queer and Trans Lives
+                </Link>
+              </td>
+            </tr>
+            <tr valign="top">
+              <td nowrap="nowrap">Volume IV</td>
+              <td />
+              <td>
+                <Link to="/curriculum/units/2023/4/">
+                  Energy and Environmental History of New Haven and the American City
+                </Link>
+              </td>
+            </tr>
+            <tr>
+              <td>&nbsp;</td>
+              <td width="75" />
+              <td />
+            </tr>
+
+            <tr>
+              <td />
+              <td>
+                <font size="+1">
+                  <b>
                     <i>2022</i>
                   </b>
                 </font>
