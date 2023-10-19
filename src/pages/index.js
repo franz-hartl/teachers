@@ -1,6 +1,6 @@
 import React from 'react'
 import { Link } from 'gatsby'
-import banner from 'components/images/nh_green.jpg'
+import banner from 'components/images/new_haven_green_banner.jpg'
 import Layout from 'components/layout'
 
 const HomePage = () => (
