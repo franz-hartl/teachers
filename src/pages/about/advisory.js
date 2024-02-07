@@ -26,6 +26,7 @@ const Advisory = () => (
                 Council, also appointed by the President.
               </p>
               <h3>Co-Chairs</h3>
+              <p>Timothy Barringer</p>
               <p>Jessica C. Brantley</p>
               <p>Paul E. Turner</p>
               <h3>Executive Committee</h3>
@@ -33,7 +34,6 @@ const Advisory = () => (
               <p>W. Mark Saltzman</p>
               <h3>Members</h3>
               <ul className="member_names">
-              <li>Timothy Barringer</li>
               <li>Sarbani Basu</li>
               <li>David Bercovici</li>
               <li>Ned Blackhawk</li>
@@ -53,7 +53,7 @@ const Advisory = () => (
               <li>Feisal G. Mohammed</li>
               <li>Jordan Peccia</li>
               <li>Ayesha Ramachandran</li>
-              <li>Peter Raymond</li>
+              <li>Peter A. Raymond</li>
               <li>Peter Salovey*</li>
               <li>Ian Shapiro</li>
               <li>C. Megan Urry</li>
