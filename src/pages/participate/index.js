@@ -6,7 +6,9 @@ const part = () => (
     <main>
       <div className="container px-5 region-content">
         <h1 className="page-title">Participate</h1>
-            <p>The Institute accepts as Fellows teachers of English, history, languages, arts, science, and mathematics from New Haven's public elementary and secondary schools. Interested teachers discuss their potential eligibility with a School Representative or a Steering Committee member who works closely with those teachers who then submit an online application. To learn more about participating in the Institute, see our <a href="/brochures/A1/Brochure-2024.pdf">2024 Annual Brochure</a> with seminar descriptions.</p>
+            <p style={{marginBottom: '2rem'}}>The Institute accepts as Fellows teachers of English, history, languages, arts, science, and mathematics from New Haven's public elementary and secondary schools. Interested teachers discuss their potential eligibility with a School Representative or a Steering Committee member who works closely with those teachers who then submit an online application. To learn more about participating in the Institute, see our <a href="/brochures/A1/Brochure-2024.pdf">2024 Annual Brochure</a> with seminar descriptions.</p>
+
+            <iframe width="560" height="500" src="https://www.youtube.com/embed/3Db85TQQyak?si=PfNeyQPIttewxu84" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
             {/*<p>New Haven Public Schools teachers and administrators were invited to register to attend our Virtual Open House at 4:15 p.m. on Tuesday, January 5, 2021, when seminar leaders described and answered questions about the seminars they will lead in 2021:<br/>*/}
             {/*<ul>
                 <li>
