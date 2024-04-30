@@ -1,10 +1,16 @@
 import React from 'react'
 import Layout from 'components/layout'
+import fellowBanner from 'components/images/2024_ynhti_fellows_banner.jpg'
 
 const part = () => (
   <Layout title="Participate">
     <main>
       <div className="container px-5 region-content">
+        <figure style={{ marginBottom: '3rem' }}>
+          <img src={fellowBanner} alt="ynhti fellows 2024"/>
+          <figCaption><small>Yale-New Haven Teachers Institute Fellows on campus, April 2024</small></figCaption>
+        </figure>
+
         <h1 className="page-title">Participate</h1>
             <p style={{marginBottom: '2rem'}}>The Institute accepts as Fellows teachers of English, history, languages, arts, science, and mathematics from New Haven's public elementary and secondary schools. Interested teachers discuss their potential eligibility with a School Representative or a Steering Committee member who works closely with those teachers who then submit an online application. To learn more about participating in the Institute, see our <a href="/brochures/A1/Brochure-2024.pdf">2024 Annual Brochure</a> with seminar descriptions.</p>
 
