@@ -72,20 +72,6 @@ const aboutPage = () => (
             </div>
             <div className="br-cell py-2">
               <h2 className="br-title">
-                <Link to="/articles/index.html">
-                  Published Essays{' '}
-                  <i className="fas fa fa-arrow-circle-right" />
-                </Link>
-              </h2>
-              <p>
-                Articles written by Founding Director James R. Vivian describe
-                the Teachers Institute approach to teacher professional
-                development, the history of the Institute’s program in New
-                Haven, and its significance to Yale University.
-              </p>
-            </div>
-            <div className="br-cell py-2">
-              <h2 className="br-title">
                 <Link to="/about/advisory">
                   University Advisory Council{' '}
                   <i className="fas fa fa-arrow-circle-right" />

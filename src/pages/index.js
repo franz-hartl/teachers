@@ -25,10 +25,9 @@ const HomePage = () => (
               collaborate on new curricula.
             </p>
             <p>
-              See our{' '}
-              <a href="/brochures/A1/Brochure-2024.pdf">2024 Annual Brochure</a> with seminar descriptions.
+              Visit our <a href="/participate">Participate page</a> to find out how NHPS teachers can apply.
             </p>
-            <h2>Curriculum Units by Teachers</h2>
+            <h2><Link to="/curriculum/units">Curriculum Units by Teachers</Link></h2>
             <p>
               Each teacher participating as a Fellow in an Institute seminar
               with a Yale faculty member studies the seminar subject and
@@ -37,40 +36,26 @@ const HomePage = () => (
               teach and develop new curricular material to engage and educate
               the students in their school courses.
             </p>
-            <p>
+            {/*<p>
               You can view the curriculum units by searching the{' '}
               <Link to="/curriculum/indexes/">topical index</Link> or the <Link to="/curriculum/units/">volumes of units</Link> published each year.
-            </p>
+            </p>*/}
           </div>
           <div className="col-sm-4">
             <aside className="mb-2">
               <div className="p-3 mt-4 block-block">
-                <h2 className="block-title">
-                  Topical Index of Curriculum Units
-                </h2>
+                <h2 className="block-title"><Link to="/participate">Participate</Link></h2>
                 <p>
-                  Since 1978 teachers have prepared thousands of units for
-                  teaching topics in English, history and social studies,
-                  languages, the arts, mathematics, and science in elementary
-                  and secondary schools.
+                  The Institute accepts as Fellows teachers of English, history, languages, arts, science, and mathematics from <br/>New Haven's public elementary and secondary schools.
                 </p>
-                <Link
-                  className="s-btn"
-                  to="/curriculum/indexes/"
-                >
-                  Browse by Topic
-                </Link>
+                <p className="participate_aside" style={{ color: '#00853e' }}>Fill out <a href="https://yalesurvey.ca1.qualtrics.com/jfe/form/SV_2gXW5Lz8Z5zG9nM" style={{ color: '#00853e' }}>this form</a> to receive infromation about applying.</p>
               </div>
               <div className="p-3 mt-4 block-block">
-                <h2 className="block-title">National Program</h2>
+                <h2 className="block-title"><Link to="https://www.teachers.yale.edu">National Program</Link></h2>
                 <p>
                   For more information about the Institute's work nationally,
-                  visit the website of the{' '}
-                  <a href="http://teachers.yale.edu/">
-                    Yale National Initiative to strengthen teaching in public
-                    schools&reg;
-                  </a>
-                  , a long-term effort to influence public policy on teacher
+                  visit the website of the Yale National Initiative to strengthen teaching in public
+                    schools&reg;, a long-term effort to influence public policy on teacher
                   professional development.
                 </p>
               </div>

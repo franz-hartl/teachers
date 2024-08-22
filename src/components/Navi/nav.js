@@ -29,7 +29,7 @@ import {
 
   const Navi = (props) => {
     const [collapsed, setCollapsed] = useState(true);
-  
+
     const toggleNavbar = () => setCollapsed(!collapsed);
     return (
       <div className="container main-menu">
@@ -50,6 +50,31 @@ import {
                   </DropdownItem>
                   <DropdownItem href="/curriculum/referencelists">
                     Reference Lists
+                  </DropdownItem>
+                </DropdownMenu>
+              </UncontrolledDropdown>
+              <UncontrolledDropdown nav inNavbar>
+                <DropdownToggle href="/participate" caret>
+                  Participate
+                </DropdownToggle>
+                <DropdownMenu>
+                  <DropdownItem href="/brochures/annual-brochure.html">
+                      Annual Brochure
+                  </DropdownItem>
+                  <DropdownItem href="/participate/seminars">
+                      Seminars
+                  </DropdownItem>
+                  <DropdownItem href="/participate/program-calendar">
+                      Program Calendar
+                  </DropdownItem>
+                  <DropdownItem href="/pdfs/2024-FAQ.pdf" target="_blank">
+                      FAQs
+                  </DropdownItem>
+                  <DropdownItem href="/pdfs/2024-Talk-Flyer.pdf" target="_blank">
+                      Lecture Series
+                  </DropdownItem>
+                  <DropdownItem href="/participate/teacher-leadership">
+                      Teacher Leadership
                   </DropdownItem>
                 </DropdownMenu>
               </UncontrolledDropdown>
@@ -83,9 +108,12 @@ import {
                   <DropdownItem href="/brochures/CenterManual/">
                     Institute Center Manual
                   </DropdownItem>
+                  <DropdownItem href="/articles/index.html">
+                    Published Essays
+                  </DropdownItem>
                 </DropdownMenu>
               </UncontrolledDropdown>
-              <UncontrolledDropdown nav inNavbar>
+              {/*<UncontrolledDropdown nav inNavbar>
                 <DropdownToggle href="/event-proceedings" caret>
                   Event Proceedings
                 </DropdownToggle>
@@ -106,7 +134,7 @@ import {
                     Congressional Hearings
                   </DropdownItem>
                 </DropdownMenu>
-              </UncontrolledDropdown>
+              </UncontrolledDropdown>*/}
               <NavItem>
                 <NavLink href="/timeline">
                   Timeline
@@ -117,12 +145,9 @@ import {
                   About the Institute
                 </DropdownToggle>
                 <DropdownMenu right>
-                  <DropdownItem href="/brochures/annual-brochure.html">
-                      Annual Brochure
-                  </DropdownItem>
-                  <DropdownItem href="/participate">
+                  {/*<DropdownItem href="/participate">
                     Participate
-                  </DropdownItem>
+                  </DropdownItem>*/}
                   <DropdownItem href="/about/policies-structure-procedures">
                     Policies, Structure, and Procedures
                   </DropdownItem>
@@ -132,11 +157,11 @@ import {
                   <DropdownItem href="/brochures/video-programs.html">
                     Video Programs
                   </DropdownItem>
-                  <DropdownItem href="/articles/index.html">
-                    Published Essays
-                  </DropdownItem>
                   <DropdownItem href="/about/advisory">
                     University Advisory Council
+                  </DropdownItem>
+                  <DropdownItem href="/event-proceedings">
+                    Event Proceedings
                   </DropdownItem>
                   <DropdownItem href="/comments.html">
                     Contact Us

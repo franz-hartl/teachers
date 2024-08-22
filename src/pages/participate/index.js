@@ -1,4 +1,5 @@
 import React from 'react'
+import { Link } from 'gatsby'
 import Layout from 'components/layout'
 import fellowBanner from 'components/images/2024_ynhti_fellows_banner.jpg'
 
@@ -12,9 +13,31 @@ const part = () => (
         </figure>
 
         <h1 className="page-title">Participate</h1>
-            <p style={{marginBottom: '2rem'}}>The Institute accepts as Fellows teachers of English, history, languages, arts, science, and mathematics from New Haven's public elementary and secondary schools. Interested teachers discuss their potential eligibility with a School Representative or a Steering Committee member who works closely with those teachers who then submit an online application. To learn more about participating in the Institute, see our <a href="/brochures/A1/Brochure-2024.pdf">2024 Annual Brochure</a> with seminar descriptions.</p>
+            <p style={{marginBottom: '2rem'}}>The Institute accepts as Fellows teachers of English, history, languages, arts, science, and mathematics from New Haven's public elementary and secondary schools. Interested teachers discuss their potential eligibility with a School Representative or a Steering Committee member who works closely with those teachers who then submit an online application.</p>
 
-            <iframe width="560" height="500" src="https://www.youtube.com/embed/QksaQbnqLUs?si=EIgnNqKlY0PghmIM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            <div style={{ display: 'flex', justifyContent: 'space-between', marginTop: '3rem' }}>
+              <div>
+                <ul style={{ marginBottom: '2rem' }}>
+                  <li><a href="/brochures/A1/Brochure-2024.pdf" target="_blank">Annual Brochure</a></li>
+                  <li><a href="/participate/seminars">Seminars</a></li>
+                  <li><a href="/participate/program-calendar">Program Calendar</a></li>
+                  <li><a href="/pdfs/2024-FAQ.pdf" target="_blank">Frequently Asked Questions</a></li>
+                  <li><a href="/pdfs/2024-Talk-Flyer.pdf" target="_blank">Lecture Series</a></li>
+                  <li><a href="/participate/teacher-leadership">Teacher Leadership</a></li>
+                </ul>
+
+                <div style={{ color: '#00853e', border: '1px solid black', padding: '.6rem' }}>
+                  <p style={{ marginBottom: '.2rem', fontWeight: '700' }}>Would you like to know more?</p>
+
+                  <p style={{ marginBottom: '.2rem' }}>Fill out <a href="https://yalesurvey.ca1.qualtrics.com/jfe/form/SV_2gXW5Lz8Z5zG9nM" style={{ color: '#00853e' }}>this form</a> to receive information about applying.</p>
+                </div>
+              </div>
+
+              <div style={{ width: 'calc(1/2 * 100%)' }}>
+                <iframe width="560" height="300" src="https://www.youtube.com/embed/QksaQbnqLUs?si=EIgnNqKlY0PghmIM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+              </div>
+            </div>
+
             {/*<p>New Haven Public Schools teachers and administrators were invited to register to attend our Virtual Open House at 4:15 p.m. on Tuesday, January 5, 2021, when seminar leaders described and answered questions about the seminars they will lead in 2021:<br/>*/}
             {/*<ul>
                 <li>
