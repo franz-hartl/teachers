@@ -146,7 +146,7 @@ const ProgramCalendar = () => (
           </tr>
 
           <tr>
-            <td>August12</td>
+            <td>August 12</td>
             <td>Fellows submit evaluations.</td>
           </tr>
         </table>

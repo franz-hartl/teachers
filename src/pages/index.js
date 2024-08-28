@@ -48,7 +48,7 @@ const HomePage = () => (
                 <p>
                   The Institute accepts as Fellows teachers of English, history, languages, arts, science, and mathematics from <br/>New Haven's public elementary and secondary schools.
                 </p>
-                <p className="participate_aside" style={{ color: '#00853e' }}>Fill out <a href="https://yalesurvey.ca1.qualtrics.com/jfe/form/SV_2gXW5Lz8Z5zG9nM" style={{ color: '#00853e' }}>this form</a> to receive infromation about applying.</p>
+                <p className="participate_aside" style={{ color: '#00853e' }}>Fill out <a href="https://yalesurvey.ca1.qualtrics.com/jfe/form/SV_2gXW5Lz8Z5zG9nM" style={{ color: '#00853e' }}>this form</a> to receive information about applying.</p>
               </div>
               <div className="p-3 mt-4 block-block">
                 <h2 className="block-title"><Link to="https://www.teachers.yale.edu">National Program</Link></h2>
