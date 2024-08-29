@@ -21,15 +21,16 @@ const TeacherLeadership = () => (
         <div style={{ display: 'flex', flexWrap: 'wrap', gap: '1rem', marginBottom: '2rem' }}>
           <div style={{ width: "clamp(15ch, calc(1/2 * 100% - 1rem), 100%)", flexGrow: 1 }}>
             <p><strong>Steering Committee</strong></p>
-            <p>Carol P. Boynton, Edgewood Creative Thinking through</p>
+            <p>Carol Boynton, Edgewood Creative Thinking through</p>
             <p>STEAM Magnet School</p>
 
             <p style={{ marginTop: '2rem' }}><strong>School Representatives</strong></p>
+            <p>Jaimee Mendillo, Nathan Hale School</p>
+            <p>Kasalina Nabakooza, Truman School</p>
+            <p>Matthew Schaffer, Engineering and Science School</p>
             <p>Nancy Bonilla, Roberto Clemente Leadership Academy</p>
-            <p>Felicia S. Fountain, Wexler-Grant School</p>
-            <p>Kasalina M. Nabakooza, Truman School</p>
-            <p>Matthew 0. Schaffer, Engineering and Science School</p>
-            <p>Stephanie A. Smelser, Nathan Hale School</p>
+            <p>Rita Begines-Cid, Hillhouse High School</p>
+            <p>Stephanie Smelser, Worthington Hooker School</p>
           </div>
 
           <img src={teacherRepImage} alt="Teacher Reps" style={{ width: "clamp(15ch, calc(1/2 * 100%), 100%)", flexGrow: 1, objectFit: 'cover' }} />
