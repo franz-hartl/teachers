@@ -33,7 +33,7 @@ const TeacherLeadership = () => (
             <p>Stephanie Smelser, Worthington Hooker School</p>
           </div>
 
-          <img src={teacherRepImage} alt="Teacher Reps" style={{ width: "clamp(15ch, calc(1/2 * 100%), 100%)", flexGrow: 1, objectFit: 'cover' }} />
+          {/*<img src={teacherRepImage} alt="Teacher Reps" style={{ width: "clamp(15ch, calc(1/2 * 100%), 100%)", flexGrow: 1, objectFit: 'cover' }} />*/}
         </div>
 
         <p><strong>Seminar Coordinators</strong></p>
