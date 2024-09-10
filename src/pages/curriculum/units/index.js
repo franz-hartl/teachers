@@ -20,6 +20,45 @@ const VolumeIndexPage = () => (
               <td>
                 <font size="+1">
                   <b>
+                    <i>2024</i>
+                  </b>
+                </font>
+              </td>
+            </tr>
+            <tr>
+              <td colSpan="3" style={{padding: "0 20px"}}>
+                <Link to="/curriculum/guides/2024/">Guide to Curriculum Units</Link>
+              </td>
+            </tr>
+            <tr valign="top">
+              <td nowrap="nowrap">Volume I</td>
+              <td />
+              <td>
+                <Link to="/curriculum/units/2024/1/">
+                  Myth, Legend, Fairy Tale
+                </Link>
+              </td>
+            </tr>
+            <tr valign="top">
+              <td nowrap="nowrap">Volume II</td>
+              <td />
+              <td>
+                <Link to="/curriculum/units/2024/2/">
+                  Dynamic Earth, Foundation and Fate of Inustrial Society
+                </Link>
+              </td>
+            </tr>
+            <tr>
+              <td>&nbsp;</td>
+              <td width="75" />
+              <td />
+            </tr>
+
+            <tr>
+              <td />
+              <td>
+                <font size="+1">
+                  <b>
                     <i>2023</i>
                   </b>
                 </font>

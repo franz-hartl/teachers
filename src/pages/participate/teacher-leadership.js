@@ -25,11 +25,12 @@ const TeacherLeadership = () => (
             <p>STEAM Magnet School</p>
 
             <p style={{ marginTop: '2rem' }}><strong>School Representatives</strong></p>
+            <p>Rita Begines-Cid, Hillhouse High School</p>
+            <p>Nancy Bonilla, Roberto Clemente Leadership Academy</p>
+            <p>Lisa Finch, Ross Woodward School</p>
             <p>Jaimee Mendillo, Nathan Hale School</p>
             <p>Kasalina Nabakooza, Truman School</p>
             <p>Matthew Schaffer, Engineering and Science School</p>
-            <p>Nancy Bonilla, Roberto Clemente Leadership Academy</p>
-            <p>Rita Begines-Cid, Hillhouse High School</p>
             <p>Stephanie Smelser, Worthington Hooker School</p>
           </div>
 
