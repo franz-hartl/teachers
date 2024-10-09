@@ -18,18 +18,18 @@ const part = () => (
             <div style={{ display: 'flex', justifyContent: 'space-between', marginTop: '3rem' }}>
               <div>
                 <ul style={{ marginBottom: '2rem' }}>
-                  <li><a href="/brochures/A1/Brochure-2024.pdf" target="_blank">Annual Brochure</a></li>
-                  <li><a href="/participate/seminars">Seminars</a></li>
-                  <li><a href="/participate/program-calendar">Program Calendar</a></li>
-                  <li><a href="/pdfs/2024-FAQ.pdf" target="_blank">Frequently Asked Questions</a></li>
-                  <li><a href="/pdfs/2024-Talk-Flyer.pdf" target="_blank">Lecture Series</a></li>
-                  <li><a href="/participate/teacher-leadership">Teacher Leadership</a></li>
+                  <li><Link to="/brochures/A1/Brochure-2024.pdf" target="_blank">Annual Brochure</Link></li>
+                  <li><Link to="/participate/seminars">Seminars</Link></li>
+                  <li><Link to="/participate/program-calendar">Program Calendar</Link></li>
+                  <li><Link to="/pdfs/2024-FAQ.pdf" target="_blank">Frequently Asked Questions</Link></li>
+                  <li><Link to="/pdfs/2024-Talk-Flyer.pdf" target="_blank">Lecture Series</Link></li>
+                  <li><Link to="/participate/teacher-leadership">Teacher Leadership</Link></li>
                 </ul>
 
                 <div style={{ color: '#00853e', border: '1px solid black', padding: '.6rem' }}>
                   <p style={{ marginBottom: '.2rem', fontWeight: '700' }}>Would you like to know more?</p>
 
-                  <p style={{ marginBottom: '.2rem' }}>Fill out <a href="https://yalesurvey.ca1.qualtrics.com/jfe/form/SV_2gXW5Lz8Z5zG9nM" style={{ color: '#00853e' }}>this form</a> to receive information about applying.</p>
+                  <p style={{ marginBottom: '.2rem' }}>Fill out <Link to="https://yalesurvey.ca1.qualtrics.com/jfe/form/SV_2gXW5Lz8Z5zG9nM" style={{ color: '#00853e' }}>this form</Link> to receive information about applying.</p>
                 </div>
               </div>
 

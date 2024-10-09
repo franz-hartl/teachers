@@ -1,55 +1,35 @@
 import React from 'react'
 import Layout from 'components/layout'
-import martaImage from 'components/images/Marta-Figlerowicz.jpg'
-import davidImage from 'components/images/David-Evans.png'
+import { Link } from 'gatsby'
+import mollyImage from 'components/images/seminars/2025/Molly-Brunson.png'
+import danielImage from 'components/images/seminars/2025/Daniel-HoSang.png'
 
 const Seminar = () => (
   <Layout title="Seminars">
     <main>
       <div className="container px-5 region-content">
-        <h1>2024 Seminars</h1>
+        <h1>2025 Seminars</h1>
 
-        <p>2025 seminar descriptions coming soon.</p>
+        <p>(Additional description coming soon)</p>
 
-        <p><strong>"Myth, Legend, Fairy Tale," led by Marta Figlerowicz, Associate Professor of Comparative Literature</strong></p>
+        <p><strong>"Making Russia: Objects and Empire," led by Molly Brunson, Associate Professor of Slavic Languages and Literatures, History of Art</strong></p>
 
-        <p>Myths, legends, and fairy tales are often the first stories we read to children. They have also inspired many writers of
-        popular young adult novels - from the adventures of Percy Jackson to The Lord of the Rings . In this seminar, Fellows will read a
-        wide range of myths, legends, and fairy tales from around the world, discovering new texts they could bring into K-12 classrooms.
-        We will also become better interpreters of fairy tales, myths, and legends as cultural objects by working through a range of
-        scholarly but accessible essays written by historians, anthropologists, and literary critics. Primary readings will include
-        Ovid's Metamorphoses, Jain myths, Siberian, Japanese, and Yoruba folktales, the unexpurgated Grimms' fairy tales, and the
-        Mesoamerican creation myth, the Popol Vuh. Secondary readings will include essays by Claude LeviStrauss, Andre Jolles, Edgar Garcia,
-        Maria Tatar, Vladimir Propp, and Eduardo Viveiros de Castro.</p>
+        <p>SUMMARY: This seminar explores how narratives and messages are embedded in everyday objects and how they can reveal the lives and stories of ordinary people through the study of the rise of the Russian empire. Fellows will learn how to examine and analyze objects and material culture. When possible, we will supplement in-person discussion with the study of objects from varied Yale collections. Though the content will focus on Russia, this seminar is appropriate for all K-12 teachers of history, arts, English, and languages, who will be able to create curriculum units that teach their students to analyze objects related to their own subjects. Read the full <Link to="/participate/seminar-descriptions/2025/Molly-Brunson">seminar description</Link>.</p>
 
         <div style={{ display: 'flex', alignItems: 'center', flexWrap: 'wrap', gap: '1rem', marginTop: '2rem', marginBottom: '2rem' }}>
-          <img src={martaImage} alt="Marta-Figlerowicz" style={{ width: "clamp(15ch, calc(1/6 * 100%), 100%)" }} />
+          <img src={mollyImage} alt="Marta-Figlerowicz" style={{ width: "clamp(15ch, calc(1/6 * 100%), 100%)" }} />
 
-          <p style={{ width: "clamp(20ch, calc(5/6 * 100% - 2rem), 100%)", flexGrow: 1 }}>Marta Figlerowicz is a theorist of literature from the eighteenth century to the present and of contemporary visual media.
-          Working in over seven languages, she studies how aesthetic objects depict and mediate interpersonal and transcultural
-          communication. She is the author of Flat Protagonists (2016) and Spaces of Feeling (2017) and is currently finishing a third
-          book, It Must Be Possible: Modernity and Transcultural Knowledge, She is a member of the Harvard Society of Fellows and a 2024
-          Guggenheim Fellow.</p>
+          <p style={{ width: "clamp(20ch, calc(5/6 * 100% - 2rem), 100%)", flexGrow: 1 }}><strong>Molly Brunson</strong> is a scholar of modern Russian Culture.  She specializes in the literature and visual art of the nineteenth and twentieth centuries.  Her book, <em>Russian Realisms: Literature and Painting, 1840-1890</em>, was awarded the Best Book in Cultural Studies by the American Association of Teachers of Slavic and East European Languages in 2017 and the College Art Association's Meiss/Mellon Author's Book Award.</p>
         </div>
 
-        <p><strong>"Dynamic Earth, Foundation and Fate of Industrial Society," led by David Evans, Professor of Earth and Planetary Sciences</strong></p>
+        <p><strong>"The Long Shadow of Eugenics," led by Daniel HoSang, Professor of American Studies</strong></p>
 
-        <p>The main goal of this seminar is to provide an overview of how the Earth "works," and how modern human society is both constrained by planetary
-        processes and how humanity itself is increasingly becoming a significant agent of geological change . Each Fellow will create a geological portfolio of
-        their hometown or another place of interest to them. The portfolio project utilizes Google Earth extensively for visualizing multiple layers of
-        geospatial data. Training in the intermediate-level functions of Google Earth is an essential component of the seminar, so that - through this
-        experience - teachers will be able to employ similar functions in their own teaching. By the end of the seminar, Fellows will have learned to see the
-        world - and our place within it - as a geologist does: time-traveling across a mosaic of ancient, modern, and future landscapes; zooming way out to
-        view the world from a stratospheric perspective on the tiny human race scuttling about its business like ants over a mountainside; or zooming way in
-        to understand Earth materials and processes at microscopic scale.</p>
+        <p>SUMMARY: What do Corn Flakes, the SAT, birth control, and Yale University have in common? They all have stories tied directly to the history of the American eugenics movement. This seminar explores histories of Eugenics and scientific racism, and how those histories continue to shape many facets of modern life. This interdisciplinary seminar is appropriate for Fellows from all grade levels and subject areas, including the life sciences, social sciences, law, and the humanities. Read the full <Link to="/participate/seminar-descriptions/2025/Daniel-HoSang">seminar description</Link>.</p>
 
         <div style={{ display: 'flex', alignItems: 'center', flexWrap: 'wrap', gap: '1rem', marginTop: '2rem', marginBottom: '2rem' }}>
-          <img src={davidImage} alt="David-Evans"  style={{ width: "clamp(15ch, calc(1/6 * 100%), 100%)"}} />
+          <img src={danielImage} alt="David-Evans"  style={{ width: "clamp(15ch, calc(1/6 * 100%), 100%)"}} />
 
-          <p style={{ width: "clamp(20ch, calc(5/6 * 100% - 2rem), 100%)", flexGrow: 1 }}>David Evans studies earth and planetary sciences, particularly geology and geophysics from the eighteenth century to the present
-          His work has examined the formation of supercontinents and the evolution of geodynamics, tectonics, climate change, and life. His
-          has consisted of research done in Angola, Australia, Botswana, Brazil, Canada, China, Finland, Mexico, Mongolia, Morocco,
-          Namibia, Russia, South Africa, and the United States.</p>
+          <p style={{ width: "clamp(20ch, calc(5/6 * 100% - 2rem), 100%)", flexGrow: 1 }}><strong>Daniel HoSang</strong> is an interdisciplinary scholar of racial formation and racism in politics, culture, and the law.  His most recent book is <em>A Wider Type of Freedom: How Struggles for Racial Justice Liberate Everyone</em> (University of California Press, 2021).  He has taught Institute seminars for K-12 public school teachers on Anti-racist Curriculum and Pedagogy, and works with teachers and youth organizaing groups in Connecticut on teaching about racism and racial justice in the K-12 curriculum through the Anti-Racist Teaching & Learning Collective.</p>
         </div>
       </div>
     </main>
