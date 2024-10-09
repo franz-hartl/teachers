@@ -15,7 +15,7 @@ const part = () => (
         <h1 className="page-title">Participate</h1>
             <p style={{marginBottom: '2rem'}}>The Institute accepts as Fellows teachers of English, history, languages, arts, science, and mathematics from New Haven's public elementary and secondary schools. Interested teachers discuss their potential eligibility with a School Representative or a Steering Committee member who works closely with those teachers who then submit an online application.</p>
 
-            <div style={{ display: 'flex', justifyContent: 'space-between', marginTop: '3rem' }}>
+            <div style={{ display: 'flex', justifyContent: 'space-between', marginTop: '3rem', flexWrap: 'wrap', gap: '2rem'}}>
               <div>
                 <ul style={{ marginBottom: '2rem' }}>
                   <li><Link to="/brochures/A1/Brochure-2024.pdf" target="_blank">Annual Brochure</Link></li>
@@ -33,7 +33,7 @@ const part = () => (
                 </div>
               </div>
 
-              <div style={{ width: 'calc(1/2 * 100%)' }}>
+              <div style={{ flex: '1 1 clamp(20ch, calc(1/2 * 100%), 100%)' }}>
                 <iframe width="560" height="300" src="https://www.youtube.com/embed/Yd6g-I2Vgvo?si=zMJbnYumPfJdUMHl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
               </div>
             </div>
