@@ -30,7 +30,7 @@ const Footer = () => (
                 <Link to="/map.x.html">Site Map</Link>
               </div>
               <div className="ft-menu-list">
-                <Link to="/event-proceedings">Event Proceedings</Link>
+                <Link to="/participate">Participate</Link>
               </div>
             </div>
           </div>
