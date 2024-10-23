@@ -6,7 +6,7 @@ const SeminarDescription = () => (
   <Layout title="Seminars">
     <main>
       <div className="container px-5 region-content">
-        <h1>Making Russia: Objects and Empire</h1>
+        <h1>Objects, Material Culture, and Empire: Making Russia</h1>
 
         <p><strong>Molly Brunson, Associate Professor of Slavic Languages and Literatures, History of Art</strong></p>
 

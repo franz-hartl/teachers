@@ -6,7 +6,7 @@ const SeminarDescription = () => (
   <Layout title="Seminars">
     <main>
       <div className="container px-5 region-content">
-        <h1>The Long Shadow of Eugenics</h1>
+        <h1>History, Science, and Racism: The Long Shadow of Eugenics</h1>
         <p><strong>Daniel HoSang, Professor of American Studies</strong></p>
 
         <div style={{ display: "flex", margin: "2.5rem 0 1rem", gap: "2rem", flexWrap: "wrap" }}>
