@@ -51,7 +51,7 @@ const HomePage = () => (
                 <p className="participate_aside" style={{ color: '#00853e' }}>Fill out <a href="https://yalesurvey.ca1.qualtrics.com/jfe/form/SV_2gXW5Lz8Z5zG9nM" style={{ color: '#00853e' }}>this form</a> to receive information about applying.</p>
               </div>
               <div className="p-3 mt-4 block-block">
-                <h2 className="block-title"><Link to="https://www.teachers.yale.edu">National Program</Link></h2>
+                <h2 className="block-title"><Link to="https://teachers.yale.edu">National Program</Link></h2>
                 <p>
                   For more information about the Institute's work nationally,
                   visit the website of the Yale National Initiative to strengthen teaching in public
