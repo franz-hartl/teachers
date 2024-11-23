@@ -18,7 +18,7 @@ const part = () => (
             <div style={{ display: 'flex', justifyContent: 'space-between', marginTop: '3rem', flexWrap: 'wrap', gap: '2rem'}}>
               <div>
                 <ul style={{ marginBottom: '2rem' }}>
-                  <li><Link to="/brochures/A1/Brochure-2024.pdf" target="_blank">Annual Brochure</Link></li>
+                  <li><a href="/brochures/A1/Brochure-2025.pdf" target="_blank">Annual Brochure</a></li>
                   <li><Link to="/participate/seminars">Seminars</Link></li>
                   <li><Link to="/participate/program-calendar">Program Calendar</Link></li>
                   <li><Link to="/pdfs/2024-FAQ.pdf" target="_blank">Frequently Asked Questions</Link></li>
