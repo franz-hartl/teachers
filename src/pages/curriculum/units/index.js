@@ -44,7 +44,7 @@ const VolumeIndexPage = () => (
               <td />
               <td>
                 <Link to="/curriculum/units/2024/2/">
-                  Dynamic Earth, Foundation and Fate of Inustrial Society
+                  Dynamic Earth, Foundation and Fate of Industrial Society
                 </Link>
               </td>
             </tr>

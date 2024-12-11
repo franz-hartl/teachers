@@ -58,7 +58,10 @@ import {
                   Participate
                 </DropdownToggle>
                 <DropdownMenu>
-                  <DropdownItem href="/brochures/annual-brochure.html">
+                  <DropdownItem href="/pdfs/teachers-institute-approach.pdf" target="_blank">
+                      Teachers Institute Approach
+                  </DropdownItem>
+                  <DropdownItem href="/brochures/A1/Brochure-2025.pdf" target="_blank">
                       Annual Brochure
                   </DropdownItem>
                   <DropdownItem href="/participate/seminars">
