@@ -18,6 +18,7 @@ const part = () => (
             <div style={{ display: 'flex', justifyContent: 'space-between', marginTop: '3rem', flexWrap: 'wrap', gap: '2rem'}}>
               <div>
                 <ul style={{ marginBottom: '2rem' }}>
+                  <li><a href="/pdfs/2025-open-house.pdf" target="_blank">Open House</a></li>
                   <li><a href="/pdfs/teachers-institute-approach.pdf" target="_blank">The Teachers Institute Approach</a></li>
                   <li><a href="/brochures/A1/Brochure-2025.pdf" target="_blank">Annual Brochure</a></li>
                   <li><Link to="/participate/seminars">Seminars</Link></li>
