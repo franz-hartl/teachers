@@ -7,6 +7,7 @@ const SeminarDescription = () => (
     <main>
       <div className="container px-5 region-content">
         <h1>History, Science, and Racism: The Long Shadow of Eugenics</h1>
+
         <p><strong>Daniel HoSang, Professor of American Studies</strong></p>
 
         <div style={{ display: "flex", margin: "2.5rem 0 1rem", gap: "2rem", flexWrap: "wrap" }}>
@@ -42,7 +43,9 @@ const SeminarDescription = () => (
 
         <p>While these archives pay particular attention to the role of Yale and other elite universities in promoting Eugenics to many audiences in the early 20th century, Eugenics itself was a national in its reach, and had particular impact on many states. For example, the state of California sterilized more than 20,000 people without their consent in the 20th century, and the state was home to several prominent Eugenic organizations. Tribal nations were another target of Eugenic sterilization, as the Bureau of Indian Affairs oversaw thousands of such procedures on Native women in the 1970s. Oklahoma was the site of landmark Supreme Court case related to Eugenics and criminal offenders. North Carolina, Delaware, Pennsylvania, and Virginia also had long and troubled histories of such work.</p>
 
-        <p>Fellows will have the opportunity to conduct original research in Yale University archives on a topic of their choice with support of the seminar leader and archivists with the Manuscripts & Archives division. There are also many archives of histories of Eugenics at other repositories that have been digitized and can be accessed remotely.</p>
+        <p style={{ marginBottom: "3rem"}}>Fellows will have the opportunity to conduct original research in Yale University archives on a topic of their choice with support of the seminar leader and archivists with the Manuscripts & Archives division. There are also many archives of histories of Eugenics at other repositories that have been digitized and can be accessed remotely.</p>
+
+        <iframe width="560" height="500" src="https://www.youtube.com/embed/2MegSsJBaLw?si=dSKT8ki6N5M0b4Zl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
       </div>
     </main>
   </Layout>

@@ -10,11 +10,11 @@ const Seminar = () => (
       <div className="container px-5 region-content">
         <h1>2025 Seminars</h1>
 
-        <p>(Additional description coming soon)</p>
-
         <h2 style={{ marginTop: "2rem" }}>Learn to find the meanings and stories behind material objects</h2>
 
         <p><strong>"Objects, Material Culture, and Empire: Making Russia," led by Molly Brunson, Associate Professor of Slavic Languages and Literatures, History of Art</strong></p>
+
+        <h3><a href="https://youtu.be/ddx0Yw_O6-0">Molly Brunson: Open House Video</a></h3>
 
         <p>SUMMARY: In this seminar, Fellows will practice looking at and analyzing objects. They will explore how narratives and messages are embedded in everyday objects. How do things, and the materials they are made from, contribute to the articulation of local, ethnic, and national identities? How might objects reveal the lives and stories of the people who made, purchased, and used them?</p>
 
@@ -42,6 +42,8 @@ const Seminar = () => (
         <h2>Learn how scientific ideas about race shape our modern world</h2>
 
         <p><strong>"History, Science, and Racism: The Long Shadow of Eugenics," led by Daniel HoSang, Professor of American Studies</strong></p>
+
+        <h3><a href="https://youtu.be/2MegSsJBaLw">Daniel HoSang: Open House Video</a></h3>
 
         <p>SUMMARY: This seminar explores histories of how science and racism have combined to shape the world we live in today in many surprising ways. For example, the history of Kellogg's Corn Flakes, the SAT, marriage counseling, Ellis Island, and Yale University are all intertwined with the American eugenics movement. With a focus on the history and science of the eugenics, Fellows from all grade levels and subject areas, including the humanities, life sciences, social sciences, and mathematics will be able to create a wide variety of curriculum units that introduce their students to the notion of scientific racism and show how eugenics specifically has been used and embedded throughout our society and culture. Read the full <Link to="/participate/seminar-descriptions/2025/Daniel-HoSang">seminar description</Link>.</p>
 
