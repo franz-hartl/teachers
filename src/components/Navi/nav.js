@@ -73,7 +73,7 @@ import {
                   <DropdownItem href="/pdfs/2024-FAQ.pdf" target="_blank">
                       FAQs
                   </DropdownItem>
-                  <DropdownItem href="/pdfs/2024-Talk-Flyer.pdf" target="_blank">
+                  <DropdownItem href="/pdfs/2025-Talk-Flyer.pdf" target="_blank">
                       Lecture Series
                   </DropdownItem>
                   <DropdownItem href="/participate/teacher-leadership">
