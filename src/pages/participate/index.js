@@ -23,8 +23,8 @@ const part = () => (
                   <li><a href="/brochures/A1/Brochure-2025.pdf" target="_blank">Annual Brochure</a></li>
                   <li><Link to="/participate/seminars">Seminars</Link></li>
                   <li><Link to="/participate/program-calendar">Program Calendar</Link></li>
-                  <li><Link to="/pdfs/2024-FAQ.pdf" target="_blank">Frequently Asked Questions</Link></li>
-                  <li><Link to="/pdfs/2024-Talk-Flyer.pdf" target="_blank">Lecture Series</Link></li>
+                  <li><a href="/pdfs/2024-FAQ.pdf" target="_blank">Frequently Asked Questions</a></li>
+                  <li><a href="/pdfs/2025-Talk-Flyer.pdf" target="_blank">Lecture Series</a></li>
                   <li><Link to="/participate/teacher-leadership">Teacher Leadership</Link></li>
                 </ul>
 
