@@ -13,19 +13,21 @@ const part = () => (
         </figure>
 
         <h1 className="page-title">Participate</h1>
-            <p style={{marginBottom: '2rem'}}>The Institute accepts as Fellows teachers of English, history, languages, arts, science, and mathematics from New Haven's public elementary and secondary schools. Interested teachers discuss their potential eligibility with a School Representative or a Steering Committee member who works closely with those teachers who then submit an online application.</p>
+            <p style={{marginBottom: '2rem'}}>K-12 teachers of English, history, languages, arts, science, and mathematics from <Link to="/participate/schools-we-serve">New Haven's public schools</Link> are encouraged to apply.  Interested teachers discuss their eligibility with one of our teacher leaders, who works closely with them on submitting an online application.</p>
 
             <div style={{ display: 'flex', justifyContent: 'space-between', marginTop: '3rem', flexWrap: 'wrap', gap: '2rem'}}>
               <div>
                 <ul style={{ marginBottom: '2rem' }}>
-                  <li><a href="/pdfs/2025-open-house.pdf" target="_blank">Open House</a></li>
-                  <li><a href="/pdfs/teachers-institute-approach.pdf" target="_blank">The Teachers Institute Approach</a></li>
-                  <li><a href="/brochures/A1/Brochure-2025.pdf" target="_blank">Annual Brochure</a></li>
+                  <li><a href="/pdfs/2025-Talk-Flyer.pdf" target="_blank">Lecture Series</a></li>
+                  <li><a href="/pdfs/2025-YNHTI-press-release-fellow-acceptance.pdf" target="_blank">Fellows</a></li>
                   <li><Link to="/participate/seminars">Seminars</Link></li>
                   <li><Link to="/participate/program-calendar">Program Calendar</Link></li>
-                  <li><a href="/pdfs/2024-FAQ.pdf" target="_blank">Frequently Asked Questions</a></li>
-                  <li><a href="/pdfs/2025-Talk-Flyer.pdf" target="_blank">Lecture Series</a></li>
+                  <li><a href="/brochures/A1/Brochure-2025.pdf" target="_blank">Annual Brochure</a></li>
                   <li><Link to="/participate/teacher-leadership">Teacher Leadership</Link></li>
+                  <li><Link to="/participate/schools-we-serve">Schools</Link></li>
+                  <li><a href="/pdfs/2025-open-house.pdf" target="_blank">Open House</a></li>
+                  <li><a href="/pdfs/teachers-institute-approach.pdf" target="_blank">The Teachers Institute Approach</a></li>
+                  <li><a href="/pdfs/2024-FAQ.pdf" target="_blank">Frequently Asked Questions</a></li>
                 </ul>
 
                 <div style={{ color: '#00853e', border: '1px solid black', padding: '.6rem' }}>

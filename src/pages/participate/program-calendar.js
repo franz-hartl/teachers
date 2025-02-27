@@ -47,12 +47,12 @@ const ProgramCalendar = () => (
 
           <tr>
             <td>March 4</td>
-            <td>First talk by a seminar leader; Revised unit topic and reading list due to the seminar leader</td>
+            <td>First Workshop for Fellows on beginning research and preparing the prospectus</td>
           </tr>
 
           <tr>
             <td>March 11</td>
-            <td>First Workshop for Fellows on beginning research and preparing the prospectus</td>
+            <td>First talk by a seminar leader; Revised unit topic and reading list due to the seminar leader</td>
           </tr>
 
           <tr>
