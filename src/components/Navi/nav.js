@@ -38,7 +38,7 @@ import {
           <Collapse isOpen={!collapsed} navbar>
             <Nav className="ml-auto ynhti-nav" navbar>
               <UncontrolledDropdown nav inNavbar>
-                <DropdownToggle href="/curriculum" caret>
+                <DropdownToggle href="/curriculum" caret style={{ textAlign: "center" }}>
                   Curricular Resources
                 </DropdownToggle>
                 <DropdownMenu>
@@ -54,7 +54,7 @@ import {
                 </DropdownMenu>
               </UncontrolledDropdown>
               <UncontrolledDropdown nav inNavbar>
-                <DropdownToggle href="/participate" caret>
+                <DropdownToggle href="/participate" caret style={{ textAlign: "center" }}>
                   Participate
                 </DropdownToggle>
                 <DropdownMenu>
@@ -82,10 +82,10 @@ import {
                 </DropdownMenu>
               </UncontrolledDropdown>
               <UncontrolledDropdown nav inNavbar>
-                <DropdownToggle href="/brochures" caret>
-                  Reports and Evaluation
+                <DropdownToggle href="/brochures/evaluation" caret style={{ textAlign: "center" }}>
+                  Evaluation
                 </DropdownToggle>
-                <DropdownMenu>
+                {/*}<DropdownMenu>
                   <DropdownItem href="/brochures/studies">
                     Studies
                   </DropdownItem>
@@ -95,9 +95,9 @@ import {
                   <DropdownItem href="/brochures/nationdemonstrationpj">
                     National Demonstration Project
                   </DropdownItem>
-                </DropdownMenu>
+                </DropdownMenu>*/}
               </UncontrolledDropdown>
-              <UncontrolledDropdown nav inNavbar>
+              {/*}<UncontrolledDropdown nav inNavbar>
                 <DropdownToggle href="/pubs" caret>
                   Publications
                 </DropdownToggle>
@@ -115,7 +115,7 @@ import {
                     Published Essays
                   </DropdownItem>
                 </DropdownMenu>
-              </UncontrolledDropdown>
+              </UncontrolledDropdown>*/}
               {/*<UncontrolledDropdown nav inNavbar>
                 <DropdownToggle href="/event-proceedings" caret>
                   Event Proceedings
@@ -139,12 +139,12 @@ import {
                 </DropdownMenu>
               </UncontrolledDropdown>*/}
               <NavItem>
-                <NavLink href="/timeline">
+                <NavLink href="/timeline" style={{ textAlign: "center" }}>
                   Timeline
                 </NavLink>
               </NavItem>
               <UncontrolledDropdown nav inNavbar>
-                <DropdownToggle href="/about" caret>
+                <DropdownToggle href="/about" caret style={{ textAlign: "center" }}>
                   About the Institute
                 </DropdownToggle>
                 <DropdownMenu right>
@@ -157,15 +157,18 @@ import {
                   <DropdownItem href="/brochures/A9.html">
                     Awards and Recognition
                   </DropdownItem>
-                  <DropdownItem href="/brochures/video-programs.html">
+                  {/*<DropdownItem href="/brochures/video-programs.html">
                     Video Programs
-                  </DropdownItem>
+                  </DropdownItem>*/}
                   <DropdownItem href="/about/advisory">
                     University Advisory Council
                   </DropdownItem>
-                  <DropdownItem href="/event-proceedings">
-                    Event Proceedings
+                  <DropdownItem href="/about/archives">
+                    Archives
                   </DropdownItem>
+                  {/*<DropdownItem href="/event-proceedings">
+                    Event Proceedings
+                  </DropdownItem>*/}
                   <DropdownItem href="/comments.html">
                     Contact Us
                   </DropdownItem>

@@ -61,7 +61,7 @@ const aboutPage = () => (
                 and organizations since 1978
               </p>{' '}
             </div>
-            <div className="br-cell py-2">
+            {/*<div className="br-cell py-2">
               <h2 className="br-title">
                 <Link to="/brochures/video-programs.html">
                   Video Programs <i className="fas fa fa-arrow-circle-right" />
@@ -69,7 +69,7 @@ const aboutPage = () => (
               </h2>
               <p>Video programs depict the annual seminar process and results of the Yale-New Haven Teachers Institute.</p>
               <p />
-            </div>
+            </div>*/}
             <div className="br-cell py-2">
               <h2 className="br-title">
                 <Link to="/about/advisory">

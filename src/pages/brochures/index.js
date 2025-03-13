@@ -6,7 +6,7 @@ const HomePage = () => (
   <Layout title="Reports and Evaluation">
     <main>
       <div className="container px-5 region-content">
-        <h1 className="page-title">Reports and Evaluation</h1>
+        <h1 className="page-title">Evaluation</h1>
         <div className="row mt-4">
           <div className="col-sm-6 left-panel">
             <div className="br-cell py-2">
