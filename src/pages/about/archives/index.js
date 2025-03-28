@@ -2,7 +2,7 @@ import React from 'react'
 import { Link } from 'gatsby'
 import Layout from 'components/layout'
 
-const archives = () => (
+const Archives = () => (
   <Layout title="Archives">
     <main>
       <div className="container px-5 region-content">
@@ -13,7 +13,7 @@ const archives = () => (
             <div className="br-cell py-2">
               <Link to="/pubs"><h2 className="br-title">Publications</h2></Link>
             </div>
-            
+
             <div className="br-cell py-2">
               <Link to="/brochures/video-programs.html"><h2 className="br-title">Video Programs</h2></Link>
               <p>Video programs depict the annual seminar process and results of the Yale-New Haven Teachers Institute.</p>
@@ -40,4 +40,4 @@ const archives = () => (
     </main>
   </Layout>
 )
-export default archives
+export default Archives

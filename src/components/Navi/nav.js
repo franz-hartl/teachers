@@ -163,6 +163,9 @@ import {
                   <DropdownItem href="/about/advisory">
                     University Advisory Council
                   </DropdownItem>
+                  <DropdownItem href="/about/staff">
+                    Staff
+                  </DropdownItem>
                   <DropdownItem href="/about/archives">
                     Archives
                   </DropdownItem>
