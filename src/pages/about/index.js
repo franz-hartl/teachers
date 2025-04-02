@@ -81,6 +81,22 @@ const aboutPage = () => (
                 The University Advisory Council is a presidentially-appointed body of Yale faculty members that guides the general direction of the program and acts as a course-of-study committee so that the Institute can certify Fellows' work to institutions where they may be pursuing advanced degrees.
               </p>
             </div>
+            <div className="br-cell py-2">
+              <h2 className="br-title">
+                <Link to="/about/staff">
+                  Institute Staff
+                  <i className="fas fa fa-arrow-circle-right" />
+                </Link>
+              </h2>
+            </div>
+            <div className="br-cell py-2">
+              <h2 className="br-title">
+                <Link to="/about/archives">
+                  Archives
+                  <i className="fas fa fa-arrow-circle-right" />
+                </Link>
+              </h2>
+            </div>
           </div>
           <div className="row" />
         </div>
