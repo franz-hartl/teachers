@@ -6,7 +6,7 @@ import michael from 'components/images/staff/Michael.png'
 import bethany from 'components/images/staff/Bethany.png'
 import nick from 'components/images/staff/Nick.png'
 import alexandra from 'components/images/staff/Alexandra.png'
-import dan from 'components/images/staff/Dan.jpg'
+import dan from 'components/images/staff/Dan.png'
 import jonathan from 'components/images/staff/Jonathan.png'
 
 const Staff = () => (
