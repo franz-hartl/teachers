@@ -1,15 +1,15 @@
 import React from 'react'
 import { Link } from 'gatsby'
 import Layout from 'components/layout'
-import fellowBanner from 'components/images/2024_ynhti_fellows_banner.jpg'
+import fellowBanner from 'components/images/participate/2025_ynhti_fellows_group_photo_20250501.jpg'
 
 const part = () => (
   <Layout title="Participate">
     <main>
       <div className="container px-5 region-content">
         <figure style={{ marginBottom: '3rem' }}>
-          <img src={fellowBanner} alt="ynhti fellows 2024"/>
-          <figCaption><small>Yale-New Haven Teachers Institute Fellows on campus, April 2024</small></figCaption>
+          <img src={fellowBanner} alt="ynhti fellows 2025"/>
+          <figCaption><small>Yale-New Haven Teachers Institute Fellows on campus, April 2025</small></figCaption>
         </figure>
 
         <h1 className="page-title">Participate</h1>
