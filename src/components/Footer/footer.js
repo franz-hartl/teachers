@@ -16,7 +16,7 @@ const Footer = () => (
                 <Link to="/timeline">Timeline</Link>
               </div>
               <div className="ft-menu-list">
-                <Link to="/brochures">Reports and Evaluation</Link>
+                <Link to="/participate">Participate</Link>
               </div>
               <div className="ft-menu-list">
                 <Link to="/about">
@@ -24,13 +24,10 @@ const Footer = () => (
                 </Link>
               </div>
               <div className="ft-menu-list">
-                <Link to="/pubs">Publications</Link>
+                <Link to="/brochures/evaluation">Evaluation</Link>
               </div>
               <div className="ft-menu-list">
                 <Link to="/map.x.html">Site Map</Link>
-              </div>
-              <div className="ft-menu-list">
-                <Link to="/participate">Participate</Link>
               </div>
             </div>
           </div>
